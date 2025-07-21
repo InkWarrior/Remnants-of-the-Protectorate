@@ -1,0 +1,19 @@
+{
+  "id" : "iwrmp_biospherelore5",
+  "title" : "Request - Security Patrolling",
+  "description" : "A request for more security over an Artificial Biosphere.",
+  "icon" : "requestform2.png",
+  "contentPages" : [ 
+  
+  "Request Form Type 27
+Application place: ^yellow;Artificial Biosphere B-23^reset;
+Request subject: ^yellow;Security patrolling over the habitat.^reset;
+Description: ^yellow;Since a couple of days, we had spotted unknown vessels approximately 8 kilometers from the habitat.^reset;
+^yellow;Our security guard took a hoverbike to check the location, but nothing was found. The sightings continue. We request so a vessel can make patrols over the habitat area, we don't want any bandits to give us problems.^reset;"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

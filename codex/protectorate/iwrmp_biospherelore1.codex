@@ -1,0 +1,28 @@
+{
+  "id" : "iwrmp_biospherelore1",
+  "title" : "Welcome to the Biosphere!",
+  "description" : "A welcoming message for those Protectors assigned to Artifical Biospheres.",
+  "icon" : "protectoratepad1.png",
+  "contentPages" : [ 
+  
+  "Welcome! You had been assigned to one of our Advanced Ecological Preservation Habitats, or simply called Artificial Biosphere. This habitat counts with state-of-the-art technology to help, shelter, and preserve small, endangered ecosystems; almost all of it is automated, so don't worry! You don't have to manage all things on your own beyond keeping the habitat on check.",
+
+"First and foremost, get comfy and get to know some of your partners, as they will be your only company for the next 2 years; there are areas designated for you and your partners to socialize and pass time; we got sure to supply you with a lot of entertainment in different forms, be it books, music, movies, games, etc. With exception to those times research teams will work on the habitat, there will be no more than 8 people at a time.",
+
+"So, what's your job here then? Unless you are a researcher, your only job is to maintain the integrity of the habitat. You may be:
+^cornflowerblue;-A designated engineer in case a system of the habitat malfunctions.^reset;
+
+^cornflowerblue;-A supervisor/counsellor, cook or medic for your crew.^reset;
+
+^cornflowerblue;-A veterinarian/botanist to keep the ecosystem in check.^reset;
+
+^cornflowerblue;-A security guard to maintain the habitat safe.^reset;",
+
+"Beyond your particular abilities, the Biosphere will take care of itself, at least for the most vital activities. Finally, remember to send your monthly reports to your assigned outpost, keep in check that your supplies are enough and try to keep the area clean for visits. Hope you do well Protector!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

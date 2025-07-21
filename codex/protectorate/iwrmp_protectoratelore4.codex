@@ -1,0 +1,19 @@
+{
+  "id" : "iwrmp_protectoratelore4",
+  "title" : "500 years of the Protectorate",
+  "description" : "An article on the 500th Anniversary, published by \"The Gilten Sunrise\".",
+  "icon" : "protectoratenews.png",
+  "contentPages" : [ 
+  
+  "There are many events for us this year: the 500th anniversary on the foundation of the Protectorate, the graduation of a new generation of Protectors and Envoys, and the Return of the 21st Astraeus Mission and the beginning of the 22nd Astraeus Mission. Let it be said this will not be like any other anniversary celebration.",
+
+"Our mandataries back on Earth are thinking of making a celebration of the three events in one single big event in the span of, at least, three weeks. It will begin with a parade of the 22nd Astraeus Fleet, then the Graduation Ceremony at the end of the first week, followed then by the return of the Astraeus 21st Mission at the end of the second one, and then concluding with the parting of the 22nd Astraeus Fleet at the end of the third week.",
+
+"That's quite a lot, isn't it? That's why the event has been announced with months of anticipation so everybody, including you! Can make proper preparations for the event. Do not miss what might me one of the most important events for the galaxy!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}
