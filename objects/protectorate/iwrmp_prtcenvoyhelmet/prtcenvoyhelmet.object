@@ -1,0 +1,47 @@
+{
+  "objectName" : "iwrmp_prtcenvoyhelmet1",
+  "colonyTags" : ["prtc_envoy","protectorate","pretty"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "description" : "A helmet somebody left here.",
+  "shortdescription" : "Envoy Space Helmet",
+  "printable" : false,
+
+  "apexDescription" : "Curious, somebody left this exploration helmet here.",
+  "avianDescription" : "I don't think I should take it.",
+  "floranDescription" : "Finderss Keepersss!",
+  "glitchDescription" : "Unsure. Who left their helmet here?",
+  "humanDescription" : "I'm not supposed to take it, right?",
+  "hylotlDescription" : "Hello? Did somebody lost their helmet?",
+  "novakidDescription" : "I'm just givin' it a quick look.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcenvoyhelmet.png:<color>" }, { "image" : "prtcenvoyhelmetlit.png:<color>", "fullbright" : true } ],
+      "imagePosition" : [0, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [1, 0], [0, 1], [1, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcenvoyhelmet.png:<color>" }, { "image" : "prtcenvoyhelmetlit.png:<color>", "fullbright" : true } ],
+      "imagePosition" : [0, 0],
+
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [1, 0], [0, 1], [1, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : ["/objects/scripts/breakoninteract.lua"],
+  "scriptDelta" : 0,
+
+  "breakDropOptions" : [
+    [ [ "iwrmp_envoyspacehead", 1, { } ] ]
+  ]
+}

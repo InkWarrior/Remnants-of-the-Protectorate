@@ -1,0 +1,62 @@
+{
+  "objectName" : "iwrmp_prtccratesmall",
+  "colonyTags" : ["protectorate","storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 100,
+  "description" : "A hefty Protectorate cargo crate, smaller yet reliable.",
+  "shortdescription" : "Short Protectorate Crate",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "lightColor" : [16, 23, 26],
+
+  "apexDescription" : "I had heard that Protectorate crates are some of the sturdiest in space.",
+  "avianDescription" : "I wonder what the Protectorate stores here.",
+  "floranDescription" : "Crate too sturdy for Floran to survive a crash?",
+  "glitchDescription" : "Intrigued. Protectorate crates are designed to store their things for decades.",
+  "humanDescription" : "A Protectorate crate, one of the strongest to exist.",
+  "hylotlDescription" : "I can proudly afirm that the Protectorate crate was designed by our genious inventors.",
+  "novakidDescription" : "A Protectorate crate... there coul be something valuable there.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtccratesmall.png:<color>" }, { "image" : "prtccratesmalllit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [-1, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "imageLayers" : [ { "image" : "prtccratesmall.png:<color>" }, { "image" : "prtccratesmalllit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/metalbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/metalbox_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

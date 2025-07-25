@@ -1,0 +1,56 @@
+{
+  "objectName" : "iwrmp_prtcmedicbed2",
+  "colonyTags" : ["prtc_medic","protectorate","medical"],
+  "rarity" : "Rare",
+  "objectType" : "loungeable",
+  "category" : "furniture",
+  "price" : 125,
+  "description" : "An adjustable medical bed, ideal to rest after a surgery.",
+  "shortdescription" : "Medical Bed",
+  "race" : "protectorate",
+
+  "apexDescription" : "Unlike some tables out there, this? this is comfortable.",
+  "avianDescription" : "Looks incredibly clean and... tasteless.",
+  "floranDescription" : "Floran wantss to sleep for hoursss!",
+  "glitchDescription" : "Cozy. I should try to rest sometime.",
+  "humanDescription" : "I guess these stop being comfortable after a couple days.",
+  "hylotlDescription" : "Looks comfortable enought to be used.",
+  "novakidDescription" : "Is it adjustable? Awesome!",
+
+  "sitFlipDirection" : true,
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/protectorate/iwrmp_prtcmedicbed2/prtcmedicbed2cover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcmedicbed2.png:<color>",
+      "imagePosition" : [-24, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPosition" : [3, 28],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcmedicbed2.png:<color>",
+      "imagePosition" : [-24, 0],
+      
+      "direction" : "right",
+
+      "sitPosition" : [-13, 28],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

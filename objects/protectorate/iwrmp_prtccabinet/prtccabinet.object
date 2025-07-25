@@ -1,0 +1,45 @@
+{
+  "objectName" : "iwrmp_prtccabinet",
+  "colonyTags" : ["protectorate","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 95,
+  "description" : "A solid modern cabinet.",
+  "shortdescription" : "Vanguard Cabinet",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "A quite sturdy cabinet.",
+  "avianDescription" : "A very square-shaped cabinet.",
+  "floranDescription" : "A white cabinet, to store your goodiesss.",
+  "glitchDescription" : "Intrigued. Can I stack cabinets on each other?",
+  "humanDescription" : "I'm thinking of doind cabinet jenga.",
+  "hylotlDescription" : "A simple yet modern cabinet.",
+  "novakidDescription" : "A very protectorate-like cabinet, what's inside?",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtccabinet.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

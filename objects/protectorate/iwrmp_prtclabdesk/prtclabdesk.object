@@ -1,0 +1,42 @@
+{
+  "objectName" : "iwrmp_prtclabdesk",
+  "colonyTags" : ["prtc_chemist","protectorate","science","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "furniture",
+  "price" : 120,
+  "description" : "A clean desk that despite looking flimsy is solidly built.",
+  "shortdescription" : "Laboratory Desk",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "An science desk for science stuff.",
+  "avianDescription" : "I like the clean look it has.",
+  "floranDescription" : "Dessk looks weak but it's strong, Floran respects the dessk.",
+  "glitchDescription" : "Indifferent. A simple desk, usually for science purposes.",
+  "humanDescription" : "The ideal desk to make all sort of experiments over it.",
+  "hylotlDescription" : "Despite its fragile look this desk shows to be highly resistant.",
+  "novakidDescription" : "I love to ride these desks over hallways!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtclabdesk.png:<color>",
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

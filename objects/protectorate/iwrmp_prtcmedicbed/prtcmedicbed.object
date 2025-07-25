@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtcmedicbed",
+  "colonyTags" : ["prtc_medic","protectorate","medical"],
+  "rarity" : "Rare",
+  "objectType" : "loungeable",
+  "category" : "furniture",
+  "price" : 125,
+  "description" : "Very comfortable, and also adjustable!",
+  "shortdescription" : "Surgical Table",
+  "race" : "protectorate",
+
+  "apexDescription" : "Don't believe their lies, this table is not comfortable!",
+  "avianDescription" : "Wait, can you adjust the height of this thing?",
+  "floranDescription" : "Table doesn't look comfy.",
+  "glitchDescription" : "Concerned. I don't know why people think this table looks comfy, it doesn't!",
+  "humanDescription" : "I prefer to not sleep on one of these under any circumstances!",
+  "hylotlDescription" : "The fact it's employed for medical operations should tell it's not really comfortable.",
+  "novakidDescription" : "It'll be a lot of fun if you can adjust it!",
+
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 27],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcmedicbed.png:<color>",
+      "imagePosition" : [-24, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

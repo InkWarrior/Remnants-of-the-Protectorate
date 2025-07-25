@@ -1,0 +1,59 @@
+{
+  "objectName" : "iwrmp_prtclabcupboard",
+  "colonyTags" : ["prtc_chemist","protectorate","science","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 160,
+  "description" : "This cupboard looks robust and reliable.",
+  "shortdescription" : "Laboratory Cupboard",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "Ah, What kind of sample collections are inside?",
+  "avianDescription" : "Can I use it to refrigerate my food?",
+  "floranDescription" : "Cuuupboardd.",
+  "glitchDescription" : "Curious. A valuable form of storage for any lab.",
+  "humanDescription" : "I bet there are some wild science experiments right inside.",
+  "hylotlDescription" : "I hope it is refrigerated, otherwise it would be very useless.",
+  "novakidDescription" : "What's in the inside?",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtclabcupboard.png:<color>" }, { "image" : "prtclabcupboardlit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtclabcupboard.png:<color>" }, { "image" : "prtclabcupboardlit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/locker_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/locker_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

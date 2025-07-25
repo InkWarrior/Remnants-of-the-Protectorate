@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtcenvoystuff1",
+  "colonyTags" : ["prtc_envoy","protectorate","pretty"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 2500,
+  "description" : "A bunch of personal belongings arranged together.",
+  "shortdescription" : "Bunch of Belongings",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Oh! Personal stuff! I shouldn't be looking here.",
+  "avianDescription" : "I have no right to look into people's stuff.",
+  "floranDescription" : "Weird stuff from weird meat, Floran can't understand.",
+  "glitchDescription" : "Happy. I'm glad people keep what they find valuable to them.",
+  "humanDescription" : "I would feel bad if a stranger suddenly started to search between my things.",
+  "hylotlDescription" : "It reminds me of my own bedroom and all of my action figures.",
+  "novakidDescription" : "Just some random stuff.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcenvoystuff1.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcenvoystuff1.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

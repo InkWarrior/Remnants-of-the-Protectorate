@@ -1,0 +1,60 @@
+{
+  "objectName" : "iwrmp_prtccaptainbed",
+  "colonyTags" : ["protectorate","misc"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 140,
+  "description" : "Here, take a good rest, you'll need it.",
+  "shortdescription" : "Vanguard Captain Bed",
+  "race" : "protectorate",
+
+  "apexDescription" : "Only for captains? that's a shame.",
+  "avianDescription" : "Surely I could get a bed like this one, right?",
+  "floranDescription" : "Floran will be a captain to sleep on thisss bed!",
+  "glitchDescription" : "Unpleased. what do you mean it's only for captains?",
+  "humanDescription" : "Ah, if only I could sleep on it.",
+  "hylotlDescription" : "One bed of its kind. Shame that it's not common for everyone.",
+  "novakidDescription" : "I will take a nap on it and nobody ain't stoppin' me.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/protectorate/iwrmp_prtccaptainbed/prtccaptainbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtccaptainbed.png:<color>"} ],
+      "flipImages" : true,
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      
+      "sitPosition" : [-4, 14.3],
+        
+      "spaces" : [ [-3, 0], [-3, 1], [-2, 0], [-2, 1], [-1, 0], [-1, 1], [0, 0], [0, 1], [1, 0], [1, 1], [2, 0], [2, 1], [3, 0], [3, 1] ],
+      "anchors" : [ "bottom" ],
+      "direction" : "left"
+    },
+    {
+      "imageLayers" : [ { "image" : "prtccaptainbed.png:<color>"} ],
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      
+      "sitPosition" : [-12, 14.3],
+
+      "spaces" : [ [-3, 0], [-3, 1], [-2, 0], [-2, 1], [-1, 0], [-1, 1], [0, 0], [0, 1], [1, 0], [1, 1], [2, 0], [2, 1], [3, 0], [3, 1] ],
+      "anchors" : [ "bottom" ],
+      "direction" : "right"
+    }
+    
+  ]
+}

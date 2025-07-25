@@ -1,0 +1,58 @@
+{
+  "objectName" : "iwrmp_prtccraftingtable",
+  "colonyTags" : ["protectorate","commerce", "crafting"],
+  "rarity" : "Legendary",
+  "category" : "crafting",
+  "price" : 5000,
+  "description" : "A trading terminal to buy and sell stuff from the Protectorate remotely.",
+  "shortdescription" : "Protectorate Remote Terminal",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/prtccraftingtable.config"
+  },
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [22, 31, 36],
+
+  "apexDescription" : "Seems these terminals were recently appropiated by the Protectorate.",
+  "avianDescription" : "I wish I could help the Protectorate with more than just pixels.",
+  "floranDescription" : "There'ss no food to sssell!",
+  "glitchDescription" : "Empathetic. Perhaps I still have spare pixels to give.",
+  "humanDescription" : "A shame the Protectorate has to sell its own stuff to survive.",
+  "hylotlDescription" : "The proof we live in very hard times.",
+  "novakidDescription" : "Yeah maybe I can spend some good pixels.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtccraftingtable.png:<color>.<frame>" }, { "image" : "prtccraftingtablelit.png:<color>.<frame>", "fullbright" : true } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.4,
+      
+      "lightPosition" : [0,1],
+      
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtccraftingtable.png:<color>.<frame>" }, { "image" : "prtccraftingtablelit.png:<color>.<frame>", "fullbright" : true } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.4,
+      
+      "lightPosition" : [0,1],
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

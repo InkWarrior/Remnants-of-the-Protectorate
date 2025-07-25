@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtclabdeskshelf",
+  "colonyTags" : ["prtc_chemist","protectorate","science"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 120,
+  "description" : "Better to stack them over a handy desk.",
+  "shortdescription" : "Laboratory Shelves",
+  "race" : "protectorate",
+  "health" : 1.5,
+  "printable" : false,
+
+  "apexDescription" : "I feel this might collapse one day.",
+  "avianDescription" : "I guess a desk itself can't be enought for space.",
+  "floranDescription" : "Floran can use sshelves to store their collection of bonesss.",
+  "glitchDescription" : "Indifferent. Just a couple of shelves.",
+  "humanDescription" : "A stack of shelves, better I put them over a desk.",
+  "hylotlDescription" : "The look is frail yet it's sturdy enought to work.",
+  "novakidDescription" : "I prefer to hang my shelves on the wall.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtclabdeskshelf.png:<color>" }, { "image" : "prtclabdeskshelflit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtclabdeskshelf.png:<color>" }, { "image" : "prtclabdeskshelflit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

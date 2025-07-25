@@ -1,0 +1,35 @@
+{
+  "objectName" : "iwrmp_prtcchair",
+  "colonyTags" : ["protectorate","misc"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 85,
+  "description" : "A unique futuristic chair for the Protectorate, it looks really comfy.",
+  "shortdescription" : "Vanguard Padded Chair",
+  "race" : "protectorate",
+
+  "apexDescription" : "It really looks comfortable.",
+  "avianDescription" : "I don't know which materials are these, but they make it look comfortable.",
+  "floranDescription" : "Floran thinkss this really lookss comfy.",
+  "glitchDescription" : "Cozy. What a confortable-looking chair to sit on.",
+  "humanDescription" : "A comfy, futuristic-styled chair? I need to sit on this!",
+  "hylotlDescription" : "I hope this chair is retractable.",
+  "novakidDescription" : "Why is the chair mounted to the floor?",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcchair.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 23]
+
+}

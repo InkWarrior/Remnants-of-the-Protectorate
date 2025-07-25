@@ -1,0 +1,33 @@
+{
+  "objectName" : "iwrmp_prtclabtable",
+  "colonyTags" : ["prtc_chemist","protectorate","science"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 105,
+  "description" : "An unusually large laboratory table.",
+  "shortdescription" : "Laboratory Table",
+  "race" : "protectorate",
+
+  "apexDescription" : "A large laboratory table.",
+  "avianDescription" : "A table to make experiments on it.",
+  "floranDescription" : "A table for ssscience stuff.",
+  "glitchDescription" : "Curious. Why is this table so long?",
+  "humanDescription" : "This lab table is quite long.",
+  "hylotlDescription" : "A large laboratory table.",
+  "novakidDescription" : "A metallic long table.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtclabtable.png:<color>",
+      "imagePosition" : [-23, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

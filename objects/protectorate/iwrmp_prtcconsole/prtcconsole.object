@@ -1,0 +1,81 @@
+{
+  "objectName" : "iwrmp_prtcconsole",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Rare",
+  "category" : "wire",
+  "price" : 70,
+  "description" : "A modernized security console, for any sort of activity besides securing things.",
+  "shortdescription" : "Remodeled Console",
+  "race" : "protectorate",
+
+  "lightColor" : [22, 31, 36],
+
+  "apexDescription" : "A security console that does other things? wow...",
+  "avianDescription" : "What else should I do besides security realted-stuff?",
+  "floranDescription" : "A ssecurity console... But how can a console make Floran sssecure?",
+  "glitchDescription" : "Uneasy. I'm afraid of what this console is capable.",
+  "humanDescription" : "A security console, but with the unique touch of the Protectorate.",
+  "hylotlDescription" : "A security console should just be for security, anything else is waste of space.",
+  "novakidDescription" : "If I press enough buttons it might do somethin' silly.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcconsole.png:<color>.on",
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcconsole.png:<color>.on",
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "prtcconsole.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_button.ogg" ],
+      "off" : [ "/sfx/objects/console_button.ogg" ]
+    }
+  },
+
+  "animationParts" : {
+    "bg" : "prtcconsole.png",
+    "fg" : "prtcconsolelit.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "outputNodes" : [ [0, 0] ],
+
+  "npcToy" : {
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-0.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

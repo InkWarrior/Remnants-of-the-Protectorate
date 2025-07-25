@@ -1,0 +1,43 @@
+{
+  "objectName" : "iwrmp_prtcmediccabinet",
+  "colonyTags" : ["prtc_medic","protectorate","medical","storage"],
+  "rarity" : "Rare",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 85,
+  "description" : "A metallic suspended cabinet.",
+  "shortdescription" : "Medic Wall Cabinet",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "A bit too far for me to reach.",
+  "avianDescription" : "A wall cabinet to store medical goods.",
+  "floranDescription" : "Very clever to use wall for sstorage!",
+  "glitchDescription" : "Annoyed. Those medical supplies are out of my reach.",
+  "humanDescription" : "A medical wall cabinet. What if I need a medicine and I can't reach it?",
+  "hylotlDescription" : "Hope it's not a problem to have medical goods way too high there.",
+  "novakidDescription" : "A medical cabinet suspended up on the wall.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcmediccabinet.png:<color>",
+      "imagePosition" : [-16, -8],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

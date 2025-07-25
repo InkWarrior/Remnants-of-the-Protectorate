@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtclabequipment",
+  "colonyTags" : ["prtc_chemist","protectorate","science"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 2500,
+  "description" : "All sort of science stuff you would see on a functional laboratory.",
+  "shortdescription" : "Laboratory Equipment",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Equipment usually reserved for science purposes.",
+  "avianDescription" : "Sanitized equipment used by lab people.",
+  "floranDescription" : "Lab ssstuff, nothing Floran could eat.",
+  "glitchDescription" : "Neutral. A collection of flasks and other tools.",
+  "humanDescription" : "Some laboratory equipment.",
+  "hylotlDescription" : "A collection of research tools.",
+  "novakidDescription" : "A bunch o' lab stuff",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtclabequipment.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtclabequipment.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}
