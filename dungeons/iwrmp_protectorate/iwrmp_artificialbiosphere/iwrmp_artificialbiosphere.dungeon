@@ -1,0 +1,163 @@
+{
+  "metadata" : {
+    "name" : "iwrmp_artificialbiosphere",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "artificialbiosphere_left1", "artificialbiosphere_right1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 10,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "artificialbiosphere_lab1",
+      "rules" : [
+        [ "maxSpawnCount", [2] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_lab1" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_lab1.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_habitat1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_habitat1" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_habitat2", "artificialbiosphere_habitat3" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_habitat1.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_habitat2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_habitat2" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_habitat1", "artificialbiosphere_habitat3" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_habitat2.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_habitat3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_habitat3" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_habitat1", "artificialbiosphere_habitat2" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_habitat2.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_medicbay1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_medicbay1", "artificialbiosphere_medicbay2" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_medicbay1.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_medicbay2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_medicbay1", "artificialbiosphere_medicbay2" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_medicbay2.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_platform1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_platform1" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_platform2", "artificialbiosphere_platform3" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_platform1.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_platform2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_platform2" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_platform1", "artificialbiosphere_platform3" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_platform2.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_platform3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_platform3" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_platform1", "artificialbiosphere_platform2" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_platform3.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_livingroom1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_livingroom1" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_livingroom2" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_livingroom1.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_livingroom2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_livingroom2" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_livingroom1" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_livingroom2.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_generator1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_generator1" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_generator2" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_generator1.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_generator2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_generator2" ] ],
+        [ "doNotCombineWith", [ "artificialbiosphere_generator1" ] ]
+
+      ],
+      "def" : [ "tmx", "artificialbiosphere_generator2.json" ]
+    },
+    {
+      "name" : "artificialbiosphere_left1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_left1", "artificialbiosphere_habitat1" ] ]
+      ],
+      "def" : [ "tmx", [ "artificialbiosphere_left1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "artificialbiosphere_right1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "artificialbiosphere_right1", "artificialbiosphere_habitat1" ] ]
+      ],
+      "def" : [ "tmx", [ "artificialbiosphere_right1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}

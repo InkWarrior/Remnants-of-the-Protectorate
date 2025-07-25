@@ -1,0 +1,179 @@
+{
+  "metadata" : {
+    "name" : "iwrmp_envoyencounterscold",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "iwrmp_envoycamp1", "iwrmp_envoycamp2", "iwrmp_envoycamp3", "iwrmp_prtchoverbike1", "iwrmp_prtchoverbike2", "iwrmp_prtchoverbike3", "iwrmp_researchground2", "iwrmp_researchground1", "iwrmp_statuspodfix1", "iwrmp_statuspodfix2", "iwrmp_statuspodfix3", "iwrmp_prtcpost1", "iwrmp_prtcpost2", "iwrmp_prtcpost3", "iwrmp_prtcpost4", "iwrmp_prtcpost7", "iwrmp_prtcpost8", "iwrmp_reforestation1", "iwrmp_reforestation2", "iwrmp_reforestation3", "iwrmp_reforestation4", "iwrmp_reforestation5", "iwrmp_reforestation6" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "iwrmp_envoycamp1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_envoycamp1.json" ]
+    },
+    {
+      "name" : "iwrmp_envoycamp2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_envoycamp2.json" ]
+    },
+    {
+      "name" : "iwrmp_envoycamp3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_envoycamp3.json" ]
+    },
+    {
+      "name" : "iwrmp_prtchoverbike1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtchoverbike1.json" ]
+    },
+    {
+      "name" : "iwrmp_prtchoverbike2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtchoverbike2.json" ]
+    },
+    {
+      "name" : "iwrmp_prtchoverbike3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtchoverbike3.json" ]
+    },
+    {
+      "name" : "iwrmp_researchground2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_researchground2.json" ]
+    },
+    {
+      "name" : "iwrmp_researchground1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_researchground1.json" ]
+    },
+    {
+      "name" : "iwrmp_statuspodfix1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_statuspodfix1.json" ]
+    },
+    {
+      "name" : "iwrmp_statuspodfix2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_statuspodfix2.json" ]
+    },
+    {
+      "name" : "iwrmp_statuspodfix3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_statuspodfix3.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost1.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost2.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost3.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost4.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost7.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost8.json" ]
+    },
+    {
+      "name" : "iwrmp_reforestation1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_reforestation1.json" ]
+    },
+    {
+      "name" : "iwrmp_reforestation2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_reforestation2.json" ]
+    },
+    {
+      "name" : "iwrmp_reforestation3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_reforestation3.json" ]
+    },
+    {
+      "name" : "iwrmp_reforestation4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_reforestation4.json" ]
+    },
+    {
+      "name" : "iwrmp_reforestation5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_reforestation5.json" ]
+    },
+    {
+      "name" : "iwrmp_reforestation6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_reforestation6.json" ]
+    }
+  ]
+}

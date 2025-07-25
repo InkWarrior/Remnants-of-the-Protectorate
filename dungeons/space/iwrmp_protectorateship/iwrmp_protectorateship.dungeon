@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "name" : "iwrmp_protectorateship",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "cockpit1", "cockpit1", "cockpit2" ],
+    "gravity" : 40,
+    "maxRadius" : 1000000,
+    "maxParts" : 3,
+    "protected" : true
+  },
+
+  "parts" : [
+
+    // SAFE ZONE
+    {
+      "name" : "safe-empty",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/hazards/safe-empty.json" ],
+      "chance" : 0,
+      "markDungeonId" : false
+    },
+
+    // COCKPIT
+    {
+      "name" : "cockpit1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "cockpit1", "cockpit2" ] ],
+        [ "doNotConnectToPart", [ "backend1", "backend2", "backend3" ] ]
+      ],
+      "def" : [ "tmx", "cockpit1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "cockpit2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "cockpit1", "cockpit2" ] ],
+        [ "doNotConnectToPart", [ "backend1", "backend2", "backend3" ] ]
+      ],
+      "def" : [ "tmx", "cockpit2.json" ],
+      "chance" : 0
+    },
+
+    // REAR / ENGINE / MECH ENTRY
+    {
+      "name" : "backend1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "backend1", "backend2", "backend3" ] ],
+        [ "doNotConnectToPart", [ "cockpit1", "cockpit1", "cockpit1" ] ]
+      ],
+      "def" : [ "tmx", "backend1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "backend2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "backend1", "backend2", "backend3" ] ],
+        [ "doNotConnectToPart", [ "cockpit1", "cockpit1", "cockpit1" ] ]
+      ],
+      "def" : [ "tmx", "backend2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "backend3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "backend1", "backend2", "backend3" ] ],
+        [ "doNotConnectToPart", [ "cockpit1", "cockpit1", "cockpit1" ] ]
+      ],
+      "def" : [ "tmx", "backend3.json" ],
+      "chance" : 0
+    },
+
+    // MIDDLE
+    {
+      "name" : "middle1a",
+      "rules" : [
+        [ "doNotCombineWith", [ "middle1a", "middle1b", "middle2a", "middle2b" ] ]
+      ],
+      "def" : [ "tmx", "middle1a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle1b",
+      "rules" : [
+        [ "doNotCombineWith", [ "middle1a", "middle1b", "middle2a", "middle2b" ] ]
+      ],
+      "def" : [ "tmx", "middle1b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle2a",
+      "rules" : [
+        [ "doNotCombineWith", [ "middle1a", "middle1b", "middle2a", "middle2b" ] ]
+      ],
+      "def" : [ "tmx", "middle2a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle2b",
+      "rules" : [
+        [ "doNotCombineWith", [ "middle1a", "middle1b", "middle2a", "middle2b" ] ]
+      ],
+      "def" : [ "tmx", "middle2b.json" ],
+      "chance" : 0.5
+    },
+
+
+    {
+      "name" : "middle3a",
+      "rules" : [
+        [ "doNotCombineWith", [ "middle3a", "middle3b", "middle4a", "middle4b" ] ]
+      ],
+      "def" : [ "tmx", "middle3a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle3b",
+      "rules" : [
+        [ "doNotCombineWith", [ "middle3a", "middle3b", "middle4a", "middle4b" ] ]
+      ],
+      "def" : [ "tmx", "middle3b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle4a",
+      "rules" : [
+        [ "doNotCombineWith", [ "middle3a", "middle3b", "middle4a", "middle4b" ] ]
+      ],
+      "def" : [ "tmx", "middle4a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle4b",
+      "rules" : [
+        [ "doNotCombineWith", [ "middle3a", "middle3b", "middle4a", "middle4b" ] ]
+      ],
+      "def" : [ "tmx", "middle4b.json" ],
+      "chance" : 0.5
+    }
+  ]
+}

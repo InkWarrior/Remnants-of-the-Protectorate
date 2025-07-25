@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "name" : "iwrmp_envoyship",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "iwrmp_envoyshipbase" ],
+    "gravity" : 40,
+    "maxRadius" : 1000000,
+    "maxParts" : 5,
+    "protected" : true
+  },
+
+  "parts" : [
+
+    // SAFE ZONE
+    {
+      "name" : "safe-empty",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/hazards/safe-empty.json" ],
+      "chance" : 0,
+      "markDungeonId" : false
+    },
+
+    // BASE SHIP
+    {
+      "name" : "iwrmp_envoyshipbase",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "iwrmp_envoyshipbase.json" ],
+      "chance" : 0
+    },
+
+    // ROOMS - UTILITY ROOMS
+    {
+      "name" : "iwrmp_utilityrooms1",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_utilityrooms1" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_utilityrooms1.json" ],
+      "chance" : 0.5
+    },
+
+    // ROOMS - CREW AREA
+    {
+      "name" : "iwrmp_crewarea1",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_crewarea1" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_crewarea1.json" ],
+      "chance" : 0.5
+    },
+
+    // ROOMS - LABORATORY / GREENHOUSE
+    {
+      "name" : "iwrmp_labgreenhouse1",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_labgreenhouse1" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_labgreenhouse1.json" ],
+      "chance" : 0.5
+    },
+
+    // ROOMS - STORAGE AREA
+    {
+      "name" : "iwrmp_storagearea1",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_storagearea1" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_storagearea1.json" ],
+      "chance" : 0.5
+    }
+  ]
+}

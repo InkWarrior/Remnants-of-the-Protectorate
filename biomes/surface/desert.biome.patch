@@ -1,0 +1,34 @@
+[
+  {
+    "op": "test",
+    "path": "/surfacePlaceables/items"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/-",
+    "value": {
+      "mode": "floor",
+      "priority": 0,
+      "variants": 1,
+      "distribution": "/biomes/distributions.config:overgroundChests",
+      "type": "treasureBox",
+      "treasureBoxSets": [
+        "iwrmp_protectoratepod_gentle"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/-",
+    "value": {
+      "mode": "floor",
+      "priority": 0,
+      "variants": 1,
+      "distribution": "/biomes/distributions.config:mainBiomeEncounterDungeon",
+      "type": "microdungeon",
+      "microdungeons": [
+        "iwrmp_envoyencounters"
+      ]
+    }
+  }
+]

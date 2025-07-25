@@ -1,0 +1,141 @@
+{
+  "metadata" : {
+    "name" : "iwrmp_envoyshipUNUSED",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "iwrmp_envoyshipbase" ],
+    "gravity" : 40,
+    "maxRadius" : 1000000,
+    "maxParts" : 5,
+    "protected" : true
+  },
+
+  "parts" : [
+
+    // SAFE ZONE
+    {
+      "name" : "safe-empty",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/hazards/safe-empty.json" ],
+      "chance" : 0,
+      "markDungeonId" : false
+    },
+
+    // BASE SHIP
+    {
+      "name" : "iwrmp_envoyshipbase",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "iwrmp_envoyshipbase.json" ],
+      "chance" : 0
+    },
+
+    // ROOMS - UTILITY ROOMS
+    {
+      "name" : "iwrmp_utilityrooms1",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_utilityrooms1", "iwrmp_utilityrooms2", "iwrmp_utilityrooms3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_utilityrooms1.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "iwrmp_utilityrooms2",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_utilityrooms1", "iwrmp_utilityrooms2", "iwrmp_utilityrooms3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_utilityrooms2.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "iwrmp_utilityrooms3",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_utilityrooms1", "iwrmp_utilityrooms2", "iwrmp_utilityrooms3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_utilityrooms3.json" ],
+      "chance" : 0.5
+    },
+
+    // ROOMS - CREW AREA
+    {
+      "name" : "iwrmp_crewarea1",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_crewarea1", "iwrmp_crewarea2", "iwrmp_crewarea3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_crewarea1.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "iwrmp_crewarea2",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_crewarea1", "iwrmp_crewarea2", "iwrmp_crewarea3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_crewarea2.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "iwrmp_crewarea3",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_crewarea1", "iwrmp_crewarea2", "iwrmp_crewarea3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_crewarea3.json" ],
+      "chance" : 0.5
+    },
+
+    // ROOMS - LABORATORY / GREENHOUSE
+    {
+      "name" : "iwrmp_labgreenhouse1",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_labgreenhouse1", "iwrmp_labgreenhouse2", "iwrmp_labgreenhouse3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_labgreenhouse1.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "iwrmp_labgreenhouse2",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_labgreenhouse1", "iwrmp_labgreenhouse2", "iwrmp_labgreenhouse3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_labgreenhouse2.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "iwrmp_labgreenhouse3",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_labgreenhouse1", "iwrmp_labgreenhouse2", "iwrmp_labgreenhouse3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_labgreenhouse3.json" ],
+      "chance" : 0.5
+    },
+
+    // ROOMS - STORAGE AREA
+    {
+      "name" : "iwrmp_storagearea1",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_storagearea1", "iwrmp_storagearea2", "iwrmp_storagearea3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_storagearea1.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "iwrmp_storagearea2",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_storagearea1", "iwrmp_storagearea2", "iwrmp_storagearea3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_storagearea2.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "iwrmp_storagearea3",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_storagearea1", "iwrmp_storagearea2", "iwrmp_storagearea3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_storagearea3.json" ],
+      "chance" : 0.5
+    }
+  ]
+}

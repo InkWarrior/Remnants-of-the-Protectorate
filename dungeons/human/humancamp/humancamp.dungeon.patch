@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": "iwrmp_protectoratecamp1",
+      "rules": [
+        [
+          "maxSpawnCount",
+          [
+            1
+          ]
+        ],
+        [
+          "doNotConnectToPart",
+          [
+            "iwrmp_protectoratecamp1"
+          ]
+        ]
+      ],
+      "def": [
+        "tmx",
+        "iwrmp_protectoratecamp1.json"
+      ],
+      "chance": 1
+    }
+  }
+]

@@ -1,0 +1,123 @@
+{
+  "metadata" : {
+    "name" : "iwrmp_envoyencountersfiery",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "iwrmp_envoycamp1", "iwrmp_envoycamp2", "iwrmp_envoycamp3", "iwrmp_prtchoverbike1", "iwrmp_prtchoverbike2", "iwrmp_prtchoverbike3", "iwrmp_researchground2", "iwrmp_researchground5", "iwrmp_statuspodfix1", "iwrmp_statuspodfix2", "iwrmp_statuspodfix3", "iwrmp_prtcpost3", "iwrmp_prtcpost4", "iwrmp_prtcpost5", "iwrmp_prtcpost6" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "iwrmp_envoycamp1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_envoycamp1.json" ]
+    },
+    {
+      "name" : "iwrmp_envoycamp2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_envoycamp2.json" ]
+    },
+    {
+      "name" : "iwrmp_envoycamp3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_envoycamp3.json" ]
+    },
+    {
+      "name" : "iwrmp_prtchoverbike1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtchoverbike1.json" ]
+    },
+    {
+      "name" : "iwrmp_prtchoverbike2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtchoverbike2.json" ]
+    },
+    {
+      "name" : "iwrmp_prtchoverbike3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtchoverbike3.json" ]
+    },
+    {
+      "name" : "iwrmp_researchground2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_researchground2.json" ]
+    },
+    {
+      "name" : "iwrmp_researchground5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_researchground5.json" ]
+    },
+    {
+      "name" : "iwrmp_statuspodfix1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_statuspodfix1.json" ]
+    },
+    {
+      "name" : "iwrmp_statuspodfix2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_statuspodfix2.json" ]
+    },
+    {
+      "name" : "iwrmp_statuspodfix3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_statuspodfix3.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost3.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost4.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost5.json" ]
+    },
+    {
+      "name" : "iwrmp_prtcpost6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_prtcpost6.json" ]
+    }
+  ]
+}
