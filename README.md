@@ -2,7 +2,7 @@
 This is a work-in-progress. The objective of the mod is to expand and add new lore regarding the Protectorate. New Furniture, new cosmetic sets, new codex and dungeons and all that stuff.
 
 # To do list
-GENERAL:
+_GENERAL:_
 - Find a way to make the Protectorate Overbike obtainable.
 - Find a way to make the Protectorate armors obtainable.
 - Fix the antennae of the second middle sections of the Protectorate Ship.
