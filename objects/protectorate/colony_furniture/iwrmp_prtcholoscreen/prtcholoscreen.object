@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcholoscreen",
+  "colonyTags" : ["prtc_tailor","protectorate","electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 135,
+  "description" : "A holographic screen displaying some clothe designs.",
+  "shortdescription" : "Designer Holo-Screen",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Holograms are always cool to see.",
+  "avianDescription" : "A monitor without a screen? Intriguing.",
+  "floranDescription" : "Floran can't touch the sscreen!",
+  "glitchDescription" : "Intrigued. Holograms are always such a wonder.",
+  "humanDescription" : "A shame I can't really interact with the hologram.",
+  "hylotlDescription" : "Holograms are pretty but not really useful.",
+  "novakidDescription" : "This galaxy needs more holograms.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcholoscreen.png:<color>", "fullbright" : true }, { "image" : "prtcholoscreenlit.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcholoscreen.png:<color>", "fullbright" : true }, { "image" : "prtcholoscreenlit.png:<color>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "objectName" : "iwrmp_prtcengiscreen",
+  "colonyTags" : ["prtc_engineer","protectorate","electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 120,
+  "description" : "This screen is currently showing a lot of technical data.",
+  "shortdescription" : "Engineering Screen",
+  "race" : "protectorate",
+
+  "apexDescription" : "The amount of technical terminology being displayed is hurting my brain.",
+  "avianDescription" : "Is that an image of a cirtuit?",
+  "floranDescription" : "Floran doesn't understand what the lights are saying.",
+  "glitchDescription" : "Dizzy. The information on this screen is overwhelming my memory cells.",
+  "humanDescription" : "I don't understand anything in here!",
+  "hylotlDescription" : "I'm afraid I don't know all the technical jargon being displayed.",
+  "novakidDescription" : "Nerd stuff! This ain't excitin'.",
+  
+  "lightColor" : [27, 50, 64],
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcengiscreen.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcengiscreen.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "prtcengiscreen.animation",
+  "animationParts" : {
+    "bg" : "prtcengiscreen.png",
+    "fg" : "prtcengiscreenlit.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/bunkerdisplay.ogg",
+  "soundEffectRangeMultiplier" : 0.25
+
+}

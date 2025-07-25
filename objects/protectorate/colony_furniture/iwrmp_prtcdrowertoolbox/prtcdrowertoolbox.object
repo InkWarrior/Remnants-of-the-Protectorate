@@ -1,0 +1,44 @@
+{
+  "objectName" : "iwrmp_prtcdrowertoolbox",
+  "colonyTags" : ["prtc_mechanic","protectorate","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 115,
+  "description" : "A red metallic toolbox.",
+  "shortdescription" : "Drower Toolbox",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "My tools won't get lost everywhere anymore.",
+  "avianDescription" : "A place where I can put my working tools.",
+  "floranDescription" : "Floran can store spearss and stickss!",
+  "glitchDescription" : "Curious. A dedicated drower for working tools.",
+  "humanDescription" : "A good reliable toolbox.",
+  "hylotlDescription" : "A toolbox is essential to keep a working place in order.",
+  "novakidDescription" : "A good ol' toolbox.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcdrowertoolbox.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcradiorepeater",
+  "colonyTags" : ["prtc_envoy","protectorate","electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 75,
+  "description" : "A radio repeater. It covers long distances.",
+  "shortdescription" : "Radio Repeater",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Hello? can somebody hear me?",
+  "avianDescription" : "I wonder if there's somebody on the other side right now.",
+  "floranDescription" : "Floran can't understand how I can talk with other Floran with box.",
+  "glitchDescription" : "Curious. Good evening. Can somebody hear me?",
+  "humanDescription" : "Hello? Hellooo? I don't there's anybody there.",
+  "hylotlDescription" : "I very useful communication device.",
+  "novakidDescription" : "Hi! Somebody there?",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcradiorepeater.png:<color>" }, { "image" : "prtcradiorepeaterlit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcradiorepeater.png:<color>" }, { "image" : "prtcradiorepeaterlit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "objectName" : "iwrmp_prtcengichest",
+  "colonyTags" : ["prtc_engineer","protectorate","electronic","mechanical"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 70,
+  "description" : "A security chest where you can store all of your electronic components.",
+  "shortdescription" : "Electronics Storage",
+  "race" : "generic",
+  "health" : 1.5,
+
+  "apexDescription" : "I can fit all of my electronic components here.",
+  "avianDescription" : "A mechanical chest, I can store advanced circuits here.",
+  "floranDescription" : "Floran wonderss if other stuff can be stored in here.",
+  "glitchDescription" : "Curious. Is this a medicine chest?",
+  "humanDescription" : "Ah, I wondered where I could save all of my circuits.",
+  "hylotlDescription" : "A good security measure, electronics are very delicate.",
+  "novakidDescription" : "I can fit my electronic stuff inside.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcengichest.png:<color>.<key>" }, { "image" : "prtcengichestlit.png:<color>.<key>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcengichest.png:<color>.<key>" }, { "image" : "prtcengichestlit.png:<color>.<key>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/miningchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/miningchest_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 32,
+  "autoCloseCooldown" : 3600
+}

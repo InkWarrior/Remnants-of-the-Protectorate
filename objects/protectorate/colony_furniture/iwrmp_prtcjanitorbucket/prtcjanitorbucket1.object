@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtcjanitorbucket1",
+  "colonyTags" : ["prtc_janitor","protectorate","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 25,
+  "description" : "A bucket to wring out mops easily",
+  "shortdescription" : "Mop Bucket",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "These are some of the best buckets to exist.",
+  "avianDescription" : "A bucket with a wringer, literal time-saver.",
+  "floranDescription" : "Floran feelss oddly happy about this bucket.",
+  "glitchDescription" : "Happy. What would we do without such an innovative bucket design?",
+  "humanDescription" : "These things make life easer.",
+  "hylotlDescription" : "In Hylotl villages there are no such buckets, we are not lazy.",
+  "novakidDescription" : "Peak bucket design.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcjanitorbucket1.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1], [1, 0], [1, 1] ],
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcjanitorbucket1.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1], [1, 0], [1, 1] ],
+      "anchors" : ["bottom"]
+    }
+  ]
+}

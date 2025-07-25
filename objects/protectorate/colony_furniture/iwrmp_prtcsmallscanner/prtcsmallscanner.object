@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcsmallscanner",
+  "colonyTags" : ["prtc_envoy","protectorate","electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 90,
+  "description" : "A mountable scanner used by Envoys on the field.",
+  "shortdescription" : "Unmounted Scanner",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "What does it scan? It could scan anything.",
+  "avianDescription" : "A device for analizing... something.",
+  "floranDescription" : "Floran is expecting. What doess a scanner do anyway?",
+  "glitchDescription" : "Confused. I can't tell what this scanner should be for.",
+  "humanDescription" : "A scanner for scanning stuff. Got it.",
+  "hylotlDescription" : "These things should have a label for what they scan, I really can't tell.",
+  "novakidDescription" : "I can scan stuff with it.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcsmallscanner.png:<color>" }, { "image" : "prtcsmallscannerlit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcsmallscanner.png:<color>" }, { "image" : "prtcsmallscannerlit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

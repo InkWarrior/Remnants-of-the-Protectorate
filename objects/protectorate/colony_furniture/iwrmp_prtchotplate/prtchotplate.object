@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtchotplate",
+  "colonyTags" : ["prtc_chemist","protectorate","electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 135,
+  "description" : "A small appliance used in laboratories to heat samples.",
+  "shortdescription" : "Laboratory Hotplate",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Huh, what are these needed for?",
+  "avianDescription" : "It seems to be heating the glass above.",
+  "floranDescription" : "Floran wonderss if there is a small fire inside.",
+  "glitchDescription" : "Amused. A good alternative to having a candle or a starter.",
+  "humanDescription" : "Technically, I can cook something with it.",
+  "hylotlDescription" : "A laboratory hotplate. I hope nobody thinks of cooking on it.",
+  "novakidDescription" : "Hey, I can cook with this thing!",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtchotplate.png:<color>" }, { "image" : "prtchotplatelit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtchotplate.png:<color>" }, { "image" : "prtchotplatelit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
