@@ -1,0 +1,33 @@
+[
+//More Planet Info/Planet Searcher Patch
+    {
+        "op": "test",
+        "path": "/displayDungeons"
+    },
+    {
+        "op": "add",
+        "path": "/displayDungeons/iwrmp_artificialbiosphere",
+        "value": {
+            "description": "Ship records indicates the presence of an Artificial Biosphere on the planet surface.",
+            "icon": "/interface/cockpit/dungeons/iwrmp_biosphere.png"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/displayDungeons/iwrmp_artificialbiosphere/ps_name",
+        "value": "Artificial Biosphere"
+    },
+    {
+        "op": "add",
+        "path": "/displayDungeons/iwrmp_ruinedbiosphere",
+        "value": {
+            "description": "Ship records indicates the presence of an Artificial Biosphere on the planet surface. No bio-signatures detected.",
+            "icon": "/interface/cockpit/dungeons/iwrmp_ruinedsphere.png"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/displayDungeons/iwrmp_ruinedbiosphere/ps_name",
+        "value": "Abandoned Biosphere"
+    }
+]
