@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestwear",
-  "description" : "Every tool you can imagine in this handy tool belt!.",
+  "description" : "Every tool you can imagine in this handy tool belt!",
   "shortdescription" : "^blue;Mechanic^reset; Safety Suit",
   "tooltipKind" : "armor",
 

@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "A combat training helmet; not the best but not the worst.",
+  "description" : "A combat training helmet; not the best but not the worst either.",
   "shortdescription" : "^red;Soldier Helmet^reset;",
   "tooltipKind" : "armor",
 

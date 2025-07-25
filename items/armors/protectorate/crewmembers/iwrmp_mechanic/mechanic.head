@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headwear",
-  "description" : "A helmet with a second visor to prevent you of being blind.",
+  "description" : "A helmet with a second visor to prevent you from going blind.",
   "shortdescription" : "^blue;Mechanic^reset; Welder Helm",
   "tooltipKind" : "armor",
 
