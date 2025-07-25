@@ -1,0 +1,30 @@
+{
+  "objectName" : "iwrmp_prtcwhiteboard",
+  "colonyTags" : ["protectorate","science","pretty"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 800,
+  "description" : "A shiny white board with some writings on it.",
+  "shortdescription" : "White Board",
+  "race" : "protectorate",
+
+  "apexDescription" : "What if I just erase everything on the board?",
+  "avianDescription" : "Oh, I can write over this board?",
+  "floranDescription" : "Floran makess doodles, very fun!!",
+  "glitchDescription" : "Amused. A white board can provide a lot of hours of entertainment.",
+  "humanDescription" : "I love when people make their silly doodles on the board.",
+  "hylotlDescription" : "Having some fun with a white board is inevitable.",
+  "novakidDescription" : "hoho! I'm gonna make a big drawing!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcwhiteboard.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

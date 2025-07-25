@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcunmountedpod",
+  "colonyTags" : ["protectorate","mechanical"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 1800,
+  "description" : "So... why there are bombs inside this status pod?",
+  "shortdescription" : "Unmounted Status Pod",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Thank god I won't have to deal with bombs.",
+  "avianDescription" : "Finally, no more bombs!",
+  "floranDescription" : "Floran relieved the pod does not have bombsss.",
+  "glitchDescription" : "Relieved. I will not have to deal with bombs.",
+  "humanDescription" : "My fear of bombs is no more!",
+  "hylotlDescription" : "Thankfully this status pod is being fixed.",
+  "novakidDescription" : "No bombs?",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcunmountedpod.png:<color>" }, { "image" : "prtcunmountedpodlit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcunmountedpod.png:<color>" }, { "image" : "prtcunmountedpodlit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
