@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtcportableantenna",
+  "colonyTags" : ["protectorate","explorer","pretty"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 2500,
+  "description" : "A deployable antenna, easy to carry around.",
+  "shortdescription" : "Portable Antenna",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "It's always useful to have a portable antenna with you!",
+  "avianDescription" : "The antenna seems to be lighter than it appears.",
+  "floranDescription" : "Floran likess the antenna.",
+  "glitchDescription" : "Calmed. This antenna is not temperering with my sensors.",
+  "humanDescription" : "For sure I can put it wherever I want, whenever I want.",
+  "hylotlDescription" : "Not as good as a stationay antenna, but it's better than nothing.",
+  "novakidDescription" : "A portable antenna, maybe I can hear the radio.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcportableantenna.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcportableantenna.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

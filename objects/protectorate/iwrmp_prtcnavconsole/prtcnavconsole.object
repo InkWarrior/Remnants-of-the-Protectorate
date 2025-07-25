@@ -1,0 +1,71 @@
+{
+  "objectName" : "iwrmp_prtcnavconsole",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Rare",
+  "category" : "wire",
+  "price" : 220,
+  "description" : "A navigation console, displaying data about this ship current course.",
+  "shortdescription" : "Remodeled Navigation Console",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [22, 31, 36],
+
+  "apexDescription" : "A navigation console, where are we going?",
+  "avianDescription" : "Is this the console that controles the whole ship?",
+  "floranDescription" : "Floran can fly ship with this console!",
+  "glitchDescription" : "Observant. This is a navigation console for the ship.",
+  "humanDescription" : "Would the captain let me fly the ship for a second?",
+  "hylotlDescription" : "A navigation console, manual flight is currently off.",
+  "novakidDescription" : "A navigation console. I need one of those.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcnavconsole.png:<color>.on",
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcnavconsole.png:<color>.on",
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switch.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "prtcnavconsole.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_button.ogg" ],
+      "off" : [ "/sfx/objects/console_button.ogg" ]
+    }
+  },
+
+  "animationParts" : {
+    "bg" : "prtcnavconsole.png",
+    "fg" : "prtcnavconsolelit.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "outputNodes" : [ [0, 0] ]
+}

@@ -1,0 +1,63 @@
+{
+  "objectName" : "iwrmp_prtcmedkitburstchest",
+  "colonyTags" : ["prtc_medic","protectorate","medical"],
+  "rarity" : "Legendary",
+  "tooltipKind" : "base",
+  "category" : "storage",
+  "price" : 70,
+  "description" : "A mechanical wall chest, used to store medkits and other emergency medical stuff.",
+  "shortdescription" : "Medkit Chest",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Is there a medkit inside this chest?",
+  "avianDescription" : "A mechanical chest for... medkits?",
+  "floranDescription" : "Floran really needs the medicine insside.",
+  "glitchDescription" : "Eager. It may have a medkit for me to use!",
+  "humanDescription" : "Medkits? No medkits? I hope there are medkits inside.",
+  "hylotlDescription" : "An interesting chest design for sure.",
+  "novakidDescription" : "A medkit chest? Wonder what's inside...",
+
+  "inventoryIcon" : "icon.png",
+
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcmedkitburstchest.png:<color>.<key>" }, { "image" : "prtcmedkitburstchestlit.png:<color>.<key>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcmedkitburstchest.png:<color>.<key>" }, { "image" : "prtcmedkitburstchestlit.png:<color>.<key>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "prtcmedkitburstchest.animation",
+  "animationPosition" : [-8, 0],
+
+  "scripts" : ["/objects/scripts/treasureburst.lua"],
+  "scriptDelta" : 0,
+
+  "burstTreasurePool" : "healingItem",
+  "burstItemVelocityRange" : [15, 30],
+  "burstAngleVariance" : 0.5,
+  "burstOffset" : [0.5, 0],
+  "burstIntangibleTimeRange" : [0.25, 0.5],
+
+  "health" : 1.5,
+  "breakDropPool" : "iwrmp_medkitchest"
+}

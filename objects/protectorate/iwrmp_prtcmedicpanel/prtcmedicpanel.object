@@ -1,0 +1,58 @@
+{
+  "objectName" : "iwrmp_prtcmedicpanel",
+  "colonyTags" : ["prtc_medic","protectorate","electronic"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 800,
+  "description" : "A bunch of screens displaying medical information.",
+  "shortdescription" : "Medical Panel Display",
+  "race" : "protectorate",
+
+  "lightColor" : [27, 50, 64],
+
+  "apexDescription" : "Hey, looks like I'm very healthy!",
+  "avianDescription" : "This is supposed to tell you how healthy you are?",
+  "floranDescription" : "Floran doesn't undersstands what the blue man meansss.",
+  "glitchDescription" : "Curious. Is it able to track my vital signs too?",
+  "humanDescription" : "I knew all that excersice would pay off!",
+  "hylotlDescription" : "While impressive, I don't fully trust a machine knows more from me than only me.",
+  "novakidDescription" : "Heh, this thing can't even read me!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcmedicpanel.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcmedicpanel.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "prtcmedicpanel.animation",
+  "animationParts" : {
+    "bg" : "prtcmedicpanel.png",
+    "fg" : "prtcmedicpanellit.png"
+  },
+  "animationPosition" : [-16, -8],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/bunkerdisplay.ogg",
+  "soundEffectRangeMultiplier" : 0.25
+}

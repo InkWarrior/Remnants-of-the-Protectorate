@@ -1,0 +1,59 @@
+{
+  "objectName" : "iwrmp_prtcmedicdisplay2",
+  "colonyTags" : ["prtc_medic","protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 120,
+  "description" : "A wall-mounted screen, it shows important medical data.",
+  "shortdescription" : "Medic Data Display",
+  "race" : "protectorate",
+
+  "lightColor" : [27, 50, 64],
+
+  "apexDescription" : "Looks like it's displaying data of an organ.",
+  "avianDescription" : "Is that a brain being displayed?",
+  "floranDescription" : "Floran iss curious about the organ in the display.",
+  "glitchDescription" : "Intrigued. Is it also possible to monitor the Glitch body?",
+  "humanDescription" : "A digital scan of a person's body. Cool! ",
+  "hylotlDescription" : "A very useful medical display.",
+  "novakidDescription" : "I'm sure novakids have brains.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcmedicdisplay2.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcmedicdisplay2.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "prtcmedicdisplay2.animation",
+  "animationParts" : {
+    "bg" : "prtcmedicdisplay2.png",
+    "fg" : "prtcmedicdisplay2lit.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/screen2.ogg",
+  "soundEffectRangeMultiplier" : 0.25
+
+}

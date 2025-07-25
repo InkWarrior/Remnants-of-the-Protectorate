@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtcpottedplant",
+  "colonyTags" : ["protectorate","nature","pretty"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "description" : "A healthy and pretty plant, definitely not fake.",
+  "shortdescription" : "Vanguard Potted Plant",
+  "race" : "protectorate",
+
+  "apexDescription" : "I suspect this plant is real",
+  "avianDescription" : "A fake plan- wait no, this one is real.",
+  "floranDescription" : "Floran knowss this isss a true plant!",
+  "glitchDescription" : "Unsure. I suspect this might be a plastic plant.",
+  "humanDescription" : "The Protectorate knows how to give style to plants.",
+  "hylotlDescription" : "I hope this plant has enought water.",
+  "novakidDescription" : "A not-fake plant, sounds like too much work.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcpottedplant.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

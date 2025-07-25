@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtcmedictrolley",
+  "colonyTags" : ["prtc_medic","protectorate","medical"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 2500,
+  "description" : "To move medical goods as swift as any situation requires it.",
+  "shortdescription" : "Medical Trolley",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "A medical trolley, seems to be very important.",
+  "avianDescription" : "It's really a good idea to move medicine and that stuff on a trolley.",
+  "floranDescription" : "Floran wantsss to ride trolley!",
+  "glitchDescription" : "Reflexive. A trolley can make all the difference in a life-death situation.",
+  "humanDescription" : "A trolley full of medical supplies.",
+  "hylotlDescription" : "A trolley is vital to save many lives.",
+  "novakidDescription" : "A medical car, how it would be to ride one?",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcmedictrolley.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcmedictrolley.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "objectName" : "iwrmp_prtcmedictrashbin",
+  "colonyTags" : ["prtc_medic","protectorate","medical","storage"],
+  "rarity" : "Rare",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 65,
+  "description" : "A pretty medical trash bin for one simple yet unpleasant thing: trash.",
+  "shortdescription" : "Medical Trash Bin",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "Garbage day!",
+  "avianDescription" : "Trash. Simple as that.",
+  "floranDescription" : "Just Rubbish.",
+  "glitchDescription" : "Unimpressed. It's garbage. Not the bin I mean.",
+  "humanDescription" : "Time to take out the trash!",
+  "hylotlDescription" : "Disgusting garbage. Not the bin.",
+  "novakidDescription" : "Ain't nothin' but trash.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcmedictrashbin.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+
+  "scripts" : [ "/scripts/npcToyObject.lua"],
+  "npcToy" : {
+    "influence" : [
+      "trashcan",
+      "trashcanComplete"
+    ],
+    "defaultReactions" : {
+      "trashcan" : [
+        [1.0, "droptrash"]
+      ],
+      "trashcanComplete" : [
+        [1.0, "smile"],
+        [1.0, "annoyed"],
+        [1.0, "punch"]
+      ]
+    },
+    "preciseStandPositionLeft" : [-1, 0.0],
+    "preciseStandPositionRight" : [1, 0.0],
+    "maxNpcs" : 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "objectName" : "iwrmp_prtcmediccupboard",
+  "colonyTags" : ["prtc_medic","protectorate","medical","storage"],
+  "rarity" : "Rare",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 160,
+  "description" : "A medic cupboard full of medical goodies.",
+  "shortdescription" : "Medic Cupboard",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "A tough cupboard for medical supplies.",
+  "avianDescription" : "This thing can refrigerate things?",
+  "floranDescription" : "Cuuupboardd. Lookss familiar.",
+  "glitchDescription" : "Relieved. I have easy access to medical stuff if I need it.",
+  "humanDescription" : "A handy medial cupboard.",
+  "hylotlDescription" : "A metallic cupboard full of medical goods.",
+  "novakidDescription" : "What's inside?",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcmediccupboard.png:<color>" }, { "image" : "prtcmediccupboardlit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcmediccupboard.png:<color>" }, { "image" : "prtcmediccupboardlit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/locker_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/locker_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcportablebattery",
+  "colonyTags" : ["protectorate","prtc_engineer"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 1200,
+  "description" : "Don't be fooled, this is anything but \"pocket\" size.",
+  "shortdescription" : "Pocket Battery",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "This doesn't fit on my pockets.",
+  "avianDescription" : "This is too big to carrry on my bag.",
+  "floranDescription" : "Floran wonderss what to do with thisss.",
+  "glitchDescription" : "Curious. Why call it a pocket battery if it doesn't fit in a pocket?",
+  "humanDescription" : "This is a scam, it doesn't fit in my pockets!",
+  "hylotlDescription" : "\"Pocket\" is the proper adjective despite not fitting inside a pocket.",
+  "novakidDescription" : "This ain't fittin' my pockets!",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcportablebattery.png:<color>" }, { "image" : "prtcportablebatterylit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcportablebattery.png:<color>" }, { "image" : "prtcportablebatterylit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

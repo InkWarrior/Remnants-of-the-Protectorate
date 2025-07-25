@@ -1,0 +1,35 @@
+{
+  "objectName" : "iwrmp_prtcpodstorage",
+  "colonyTags" : ["protectorate","storage","mechanical"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A storage unit which supports an individual supply pod.",
+  "shortdescription" : "Supply Pod Storage Unit",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "The protectorate launch these pods only in case of an emergency, which is quite rare.",
+  "avianDescription" : "I know the Protectorate uses them from time to time, usually means \"bad news\".",
+  "floranDescription" : "Why the pod is sstored? Floran wantss to know whats inside.",
+  "glitchDescription" : "Cautious. The fact I've seen them recently means bad news.",
+  "humanDescription" : "I wished for the day I never saw an emergency pod, until now.",
+  "hylotlDescription" : "Used to provide people with supplies on hard times, I guess those times had arrived.",
+  "novakidDescription" : "What if I get into one and get myself launched into space?",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcpodstorage.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [],
+      "collision" : "platform"
+
+    }
+  ]
+}

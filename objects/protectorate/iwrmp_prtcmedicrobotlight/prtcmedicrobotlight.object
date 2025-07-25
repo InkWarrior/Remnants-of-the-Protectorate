@@ -1,0 +1,73 @@
+{
+  "objectName" : "iwrmp_prtcmedicrobotlight",
+  "colonyTags" : ["prtc_medic","protectorate","light"],
+  "rarity" : "Rare",
+  "category" : "light",
+  "price" : 90,
+  "description" : "A light attached to a robotic arm, ideal when you need to reposition it during a surgery.",
+  "shortdescription" : "Medical Robotic Light",
+  "race" : "protectorate",
+
+  "lightColor" : [220, 220, 220],
+  "pointLight" : true,
+  "pointBeam" : 2,
+  "beamAmbience" : 0.3,
+
+  "apexDescription" : "A light attached to a robotic arm? quite genius.",
+  "avianDescription" : "A robotic arm with a light, who could have thought of it?",
+  "floranDescription" : "Is the arm alive?",
+  "glitchDescription" : "Curious. This arm for sure does not have any will of its own.",
+  "humanDescription" : "I think I want one of these for my room.",
+  "hylotlDescription" : "This have to be a useful thing for doctors!",
+  "novakidDescription" : "A cool looking robot arm.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcmedicrobotlight.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "animationParts" : {
+        "bg" : "prtcmedicrobotlight.png",
+        "fg" : "prtcmedicrobotlightlit.png"
+      },
+      "animationPosition" : [-8, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, 0],
+      "beamAngle" : 270
+    },
+    {
+      "image" : "prtcmedicrobotlight.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "animationParts" : {
+        "bg" : "prtcmedicrobotlight.png",
+        "fg" : "prtcmedicrobotlightlit.png"
+      },
+      "animationPosition" : [-8, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "lightPosition" : [0, 0],
+      "beamAngle" : 270
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglefgfullbright.animation",
+  "animationParts" : {
+    "bg" : "prtcmedicrobotlight.png",
+    "fg" : "prtcmedicrobotlightlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

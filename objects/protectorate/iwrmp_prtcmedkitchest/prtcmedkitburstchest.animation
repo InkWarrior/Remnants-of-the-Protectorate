@@ -1,0 +1,96 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "burstState" : {
+        "default" : "closed",
+        "states" : {
+          "closed" : {
+            "frames" : 1
+          },
+          "burst" : {
+            "frames" : 1,
+            "cycle" : 0.1,
+            "mode" : "transition",
+            "transition" : "open"
+          },
+          "open" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "chestFullbright" : {
+        "properties" : {
+          "zLevel" : 1,
+          "fullbright" : true,
+          "centered" : false
+        },
+
+        "partStates" : {
+          "burstState" : {
+            "closed" : {
+              "properties" : {
+                "image" : "prtcmedkitburstchestlit.png:closed"
+              }
+            },
+
+            "burst" : {
+              "properties" : {
+                "image" : "prtcmedkitburstchestlit.png:burst"
+              }
+            },
+
+            "open" : {
+              "properties" : {
+                "image" : "prtcmedkitburstchestlit.png:open"
+              }
+            }
+          }
+        }
+      },
+      "chest" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "burstState" : {
+            "closed" : {
+              "properties" : {
+                "image" : "prtcmedkitburstchest.png:closed"
+              }
+            },
+
+            "burst" : {
+              "properties" : {
+                "image" : "prtcmedkitburstchest.png:burst"
+              }
+            },
+
+            "open" : {
+              "properties" : {
+                "image" : "prtcmedkitburstchest.png:open"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  
+  "particleEmitters" : {
+    "burst" : {
+      "active" : false,
+      "offsetRegion" : [0.5, 1, 3.5, 1],
+      "particles" : [
+        {"particle" : "tinyrocketsmoke", "count" : 3}
+      ]
+    }
+  },
+
+  "sounds" : {
+    "burst" : ["/sfx/objects/miningchest_open.ogg"]
+  }
+}

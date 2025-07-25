@@ -1,0 +1,47 @@
+{
+  "objectName" : "iwrmp_prtcmediclight",
+  "colonyTags" : ["prtc_medic","protectorate","light"],
+  "rarity" : "Rare",
+  "category" : "light",
+  "price" : 60,
+  "description" : "A wall medic light.",
+  "shortdescription" : "Medic Light",
+  "race" : "protectorate",
+
+  "lightColor" : [0, 174, 255],
+
+  "apexDescription" : "A wall light commonly used to lit medical areas.",
+  "avianDescription" : "A blue vibrant light.",
+  "floranDescription" : "Floran likess the blue sshine of the light.",
+  "glitchDescription" : "Neutral. This blue light makes me feel oddly relaxed.",
+  "humanDescription" : "A simple medic blue light.",
+  "hylotlDescription" : "These blue lights creates that calming atmosphere medical areas have.",
+  "novakidDescription" : "That's one bright long light.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcmediclight.png:<color>.<frame>" }, { "image" : "prtcmediclightlit.png:<color>.<frame>", "fullbright" : true } ],
+      "imagePosition" : [-8, 0],
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "prtcmediclight.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+  
+}

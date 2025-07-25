@@ -1,0 +1,59 @@
+{
+  "objectName" : "iwrmp_prtcmedicdisplay1",
+  "colonyTags" : ["prtc_medic","protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 120,
+  "description" : "A wall-mounted screen, it shows the vital signs of a person.",
+  "shortdescription" : "Medic Vitals Display",
+  "race" : "protectorate",
+
+  "lightColor" : [27, 50, 64],
+
+  "apexDescription" : "A monitor displaying the heart rate of a person.",
+  "avianDescription" : "Somehow this is able to monitor your life?",
+  "floranDescription" : "Floran feels curiouss about how the display workss.",
+  "glitchDescription" : "Intrigued. Can something similar be made for the Glitch?",
+  "humanDescription" : "Oh, it's just like in the movies with the beep and all! ",
+  "hylotlDescription" : "A display that monitors the vitality of a person.",
+  "novakidDescription" : "This works with novakids?",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcmedicdisplay1.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcmedicdisplay1.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "prtcmedicdisplay1.animation",
+  "animationParts" : {
+    "bg" : "prtcmedicdisplay1.png",
+    "fg" : "prtcmedicdisplay1lit.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/screen1.ogg",
+  "soundEffectRangeMultiplier" : 0.25
+
+}
