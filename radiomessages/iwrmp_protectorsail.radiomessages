@@ -5,7 +5,7 @@
     "persistTime" : 5.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
     "textSpeed" : 70,
-    "text" : "^#00b0ff;FRIENDLY MECH ID DETECTED^reset;. Welcome. I'm the S.A.I.L. unit assigned to this ship. You are allowed to dock in our ship for the time being."
+    "text" : "^#00b0ff;FRIENDLY MECH ID DETECTED^reset;. Welcome. I am the S.A.I.L unit assigned to this ship. You have been granted permission to board."
   },
 
   "prtc_cargoship1" : {
@@ -13,7 +13,7 @@
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
     "textSpeed" : 70,
-    "text" : "This ship is currently transporting goods for some of our remaining Protectorate space stations. Are you in need of supplies?"
+    "text" : "This ship is currently transporting goods for some of our remaining Protectorate space stations. Perhaps you are in need of supplies?"
   },
 
   "prtc_cargoship2" : {
@@ -21,7 +21,7 @@
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
     "textSpeed" : 70,
-    "text" : "This ship is currently transferring refugees into an assigned Protectorate shelter. Do you require some form of assistance?"
+    "text" : "This ship is currently transferring refugees to an assigned Protectorate shelter. Do you require some form of assistance?"
   },
 
   "prtc_shiptrade1" : {
@@ -29,7 +29,7 @@
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
     "textSpeed" : 70,
-    "text" : "We are currently selling our supply of Protectorate furniture and equipment to acquire fonts. Please, take a look into our catalogue."
+    "text" : "We are currently selling our supply of Protectorate furniture and equipment to acquire funds. Please, take a look into our catalogue."
   },
 
   "prtc_remoteterminalbuy" : {
@@ -37,6 +37,6 @@
     "persistTime" : 10.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
     "textSpeed" : 70,
-    "text" : "Excelent choice. You can expand the catalogue of your terminal by using our selling data pads."
+    "text" : "Excellent choice. You may expand the catalogue of your terminal by using our data pads."
   }
 }
