@@ -24,11 +24,11 @@ FURNITURE
 
 DUNGEONS
 -Large Dungeons:
-   >Artificial Biosphere (needs revamp).
-   >Envoy Shelter.
+   -Artificial Biosphere (needs revamp).
+   -Envoy Shelter.
 -Space Dungeons:
-   >Envoy Ship (in-progress).
-   >Protectorate Space Station.
+   -Envoy Ship (in-progress).
+   -Protectorate Space Station.
 -Rework Emergency Drop-pods and make easprotectorate1 spawn on Pod Chests.
 
 CLOTHES
