@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headwear",
-  "description" : "It is capable of taking measures and other valuable info for a tailor.",
+  "description" : "It is capable of taking measurements and other valuable readings for a tailor's convenience.",
   "shortdescription" : "^#a451c4;Tailor^reset; Holo-Visor",
   "tooltipKind" : "armor",
 

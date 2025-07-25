@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headwear",
-  "description" : "A helmet in case a medic needs to enter into combat.",
+  "description" : "A helmet in case a medic needs to enter into a combat zone.",
   "shortdescription" : "^lightgray;Medic^reset; Helmet",
   "tooltipKind" : "armor",
 

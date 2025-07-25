@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestwear",
-  "description" : "In essence, it is a compact wearable supercomputer, with a generous processing capacity.",
+  "description" : "In essence, it is a compact wearable supercomputer, with generous processing capacity.",
   "shortdescription" : "^orange;Engineer^reset; Chestwear",
   "tooltipKind" : "armor",
 

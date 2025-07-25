@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestarmour",
-  "description" : "A simple vest used in combat training by the Protectorate.",
+  "description" : "A simple vest used for combat training by the Protectorate.",
   "shortdescription" : "^red;Soldier Vest^reset;",
   "tooltipKind" : "armor",
 
