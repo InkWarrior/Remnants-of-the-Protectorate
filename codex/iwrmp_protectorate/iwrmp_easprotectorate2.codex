@@ -1,0 +1,19 @@
+{
+  "id" : "iwrmp_easprotectorate2",
+  "title" : "500th Anniversary Announcement",
+  "description" : "An old announcement made months before Earth's destruction.",
+  "icon" : "protectoratefolder1.png",
+  "contentPages" : [ 
+  
+  "^yellow;THE 500th ANNIVERSARY IS CLOSE^reset;
+  
+As you may have heard, the 500th Anniversary of the Protectorate is getting closer in time, people around the galaxy had already prepared to move to Earth for the celebration and you should too! You may have heard rumors of not everybody being able to assist the whole celebration, sadly we confirm this; only a 80% of the total Network crew will assist.",
+
+"Likewise, we'll be only able to attend the first week of the celebration, we can simply stay away from our working stations for that long! Don't worry, the first week will cover the parade of the 22nd Astreus Fleet and the Graduation Ceremony at the Protectorate Academy, those will be as memorable as you can expect. Send your request forms to the officer in charge of your station and you may have a chance of assisting the Anniversary!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

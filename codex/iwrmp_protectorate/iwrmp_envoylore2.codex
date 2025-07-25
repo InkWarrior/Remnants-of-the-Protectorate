@@ -1,0 +1,21 @@
+{
+  "id" : "iwrmp_envoylore2",
+  "title" : "^#ff9432;The Astraeus Program^reset;",
+  "description" : "A history summary of what the Astraeus Program is and what it achieved.",
+  "icon" : "astraeusbook2.png",
+  "contentPages" : [ 
+  
+  "The zeitgeist of humanity back at the creation of the Protectorate also led to the creation of the Astraeus Program.
+This program accomplishes both the ideal that mankind's true call is to explore the stars, and the idea that the Protectorate, to succeed in their objectives, needs to go beyond the already known territories they help.
+It was both a promise of fulfillment for humanity and realization for the Protectorate.",
+
+"Some economic decisions taken by mankind at the time of creation of the Protectorate made possible the construction and organization of an exploratory fleet that would sail to the stars on what was the First Astraeus Mission. While expensive at the time, the results were favorable: new planets, settlements and else discovered around the galaxy, opening an array of new possibilities. Because of its success, the Astraeus Program was then incorporated into the Protectorate.",
+
+"All Astraeus Missions have the objective of mapping space to reveal new planets, settlements, hazards and zones of interest and give the way for the Protectorate and other Programs to accomplish their own objectives. New missions are launched each 20 years, each one of them lasting up to 10 years. This program eventually led into the creation of the Gaia and Hermes Programs, along with the rise of the Envoys as a unique group within the Protectorate."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "uncommon",
+    "price" : 25
+  }
+}

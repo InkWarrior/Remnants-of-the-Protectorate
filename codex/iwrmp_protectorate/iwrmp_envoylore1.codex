@@ -1,0 +1,21 @@
+{
+  "id" : "iwrmp_envoylore1",
+  "title" : "^cornflowerblue;'Til We See Each Other^reset;",
+  "description" : "A very old letter, made 20 years ago.",
+  "icon" : "envelope1.png",
+  "contentPages" : [ 
+  
+  "Hey! The celebrations this time were quite something, right? I don't think I ever saw an avian-hylotl play but it was a good time! Oh, and all of the food too, I know two weeks of celebrations weren't much for you given how busy you were, but I do hope you got to have a little of everything! Oh well, what else can I say to you? Did you already open your Departure gift? I suppose you did because you are reading this haha!",
+
+"Anyway, I hope you like all of what we left for you; your siblings and cousins insisted on giving you some of their weird animated series, you know their stick; I insisted on giving you some old family photos, and your dad insisted on putting some old newspapers and an old radio. Also, your aunt gave some of her science books, so you don't get bored while you're up there! I hope all of that lasts up to 20 years...",
+
+"Wow, 20 years, huh? That's... a lot of time, more than I would like, but I'm not going to protest, you had prepared for this, remember? You always wanted to be the best space explorer ever! And now look at you. I'm sure everything will be fine for you up there; I can help but think of how big you're going to be when we get to see each other again!",
+
+"Hey, I promise you that. No matter how much time passes, you know that your mother loves you more than anything, and I will be the first person waiting for you when your ship arrives back. Then, 'til we see each other! 20 years from now!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}
