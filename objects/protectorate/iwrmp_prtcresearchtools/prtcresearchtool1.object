@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtcresearchtool1",
+  "colonyTags" : ["protectorate","prtc_envoy","misc"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 1500,
+  "description" : "A Campbell-Stokes heliograph, useful to measure the sunshine density.",
+  "shortdescription" : "Sunshine Recorder",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "I can't think of good reasons to measure sunshine.",
+  "avianDescription" : "What's the purpose of the crystal sphere inside?",
+  "floranDescription" : "Floran iss intrigued about the glasss ball.",
+  "glitchDescription" : "Curious. I wonder which are the benefits of measuring sunshine.",
+  "humanDescription" : "Maybe I can use the sphere for magic stuff!",
+  "hylotlDescription" : "It's wonderful the kind of instruments we invent to measure everything.",
+  "novakidDescription" : "Hey that glass ball looks pretty cool!",
+
+
+  "inventoryIcon" : "prtcresearchtool1icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcresearchtool1.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcresearchtool1.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

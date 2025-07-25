@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtccharredpod",
+  "colonyTags" : ["protectorate","mechanical"],
+  "rarity" : "Rare",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 125,
+  "description" : "It definitely has seen better times.",
+  "shortdescription" : "Charred Supply Pod",
+  "race" : "generic",
+  "health" : 1.5,
+  "printable" : false,
+
+  "apexDescription" : "Would be a miracle to even find anything usable.",
+  "avianDescription" : "Dear Kluex, this is not the miracle I was asking for.",
+  "floranDescription" : "Ugly and charred, Floran can't see any usse.",
+  "glitchDescription" : "Impressed. It's still usable?",
+  "humanDescription" : "I hope there is still something inside.",
+  "hylotlDescription" : "I have no hopes of finding something usable at this point.",
+  "novakidDescription" : "I dunno what to expect.",
+
+  "inventoryIcon" : "prtccharredpodicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtccharredpod.png:<color>.<key>",
+      "imagePosition" : [-16, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/miningchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/miningchest_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 32,
+  "autoCloseCooldown" : 3600
+
+}

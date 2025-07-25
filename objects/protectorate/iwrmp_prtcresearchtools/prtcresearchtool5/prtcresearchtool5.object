@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcresearchtool5",
+  "colonyTags" : ["protectorate","prtc_envoy","misc"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 1500,
+  "description" : "A Geiger-Muller counter, perfect to measure ionizing radiation in hazardous places.",
+  "shortdescription" : "Geiger Counter",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "A highly useful tool, radiation is a horrible thing to find.",
+  "avianDescription" : "I wish I wouldn't know what radiation is.",
+  "floranDescription" : "Floran doessn't understand, iss radiation food?",
+  "glitchDescription" : "Intrigued. Radiation tends to be a nuissance even for the Glitch.",
+  "humanDescription" : "I'm thankful these tools exist, radiation is horrible!",
+  "hylotlDescription" : "The best way to deal with radiation is to avoid it.",
+  "novakidDescription" : "What is radiation?",
+
+ 
+  "inventoryIcon" : "prtcresearchtool5icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcresearchtool5.png:<color>" }, { "image" : "prtcresearchtool5lit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcresearchtool5.png:<color>" }, { "image" : "prtcresearchtool5lit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

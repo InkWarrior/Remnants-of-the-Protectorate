@@ -1,0 +1,46 @@
+{
+  "objectName" : "iwrmp_prtctent",
+  "colonyTags" : ["protectorate","explorer","prtc_envoy"],
+  "rarity" : "Rare",
+  "objectType" : "loungeable",
+  "category" : "furniture",
+  "price" : 65,
+  "description" : "For all those times you wanted to sleep under harsh conditions!",
+  "shortdescription" : "Vanguard Dome Tent",
+  "race" : "protectorate",
+
+  "apexDescription" : "A resistant tent. I should take a nap.",
+  "avianDescription" : "A temporary house.",
+  "floranDescription" : "Little colorful houssse.",
+  "glitchDescription" : "Irritated. There isn't much room.",
+  "humanDescription" : "I enjoyed camping when I was younger.",
+  "hylotlDescription" : "I am not too proud to sleep in a tent.",
+  "novakidDescription" : "It ain't too spacious, but it'll do.",
+
+  "sitFlipDirection" : true,
+  "sitPosition" : [-8, 7],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/protectorate/iwrmp_prtctent/prtctentlit.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration1",
+    "nude",
+    "intents"
+  ],
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtctent.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

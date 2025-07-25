@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtctinycrate1",
+  "colonyTags" : ["protectorate","science","pretty"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 500,
+  "description" : "A small refrigerated container, good for storing samples and sandwiches.",
+  "shortdescription" : "Refrigerated Container",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "A small container for samples.",
+  "avianDescription" : "A small crate, it's very cold inside.",
+  "floranDescription" : "Sssmall container",
+  "glitchDescription" : "Indifferent. A container used for samples.",
+  "humanDescription" : "A small crate for samples and stuff.",
+  "hylotlDescription" : "A tiny container used to store samples.",
+  "novakidDescription" : "Some small container.",
+
+
+  "inventoryIcon" : "prtctinycrate1icon.png",
+  "orientations" : [
+    {
+      "image" : "prtctinycrate1.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtctinycrate1.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "objectName" : "iwrmp_prtctable",
+  "colonyTags" : ["protectorate", "commerce"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 110,
+  "description" : "A pretty white table. Just remember to clean it every time.",
+  "shortdescription" : "Vanguard Table",
+  "race" : "protectorate",
+
+  "apexDescription" : "A decent white table.",
+  "avianDescription" : "A nice simple table.",
+  "floranDescription" : "Floran likess the table.",
+  "glitchDescription" : "Indifferent. Just a table.",
+  "humanDescription" : "A table. A Protectorate table.",
+  "hylotlDescription" : "A modern table used by the Protectorate.",
+  "novakidDescription" : "Just a modern-lookin' table.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    { 
+      "imageLayers" : [ { "image" : "prtctable.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    { 
+      "imageLayers" : [ { "image" : "prtctable.png:<color>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

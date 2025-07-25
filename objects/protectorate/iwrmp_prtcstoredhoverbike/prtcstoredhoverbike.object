@@ -1,0 +1,35 @@
+{
+  "objectName" : "iwrmp_prtcstoredhoverbike",
+  "colonyTags" : ["protectorate","prtc_envoy","mechanical"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 2000,
+  "description" : "A storage unit for a protectorate hoverbike.",
+  "shortdescription" : "Stored Hoverbike",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "These hoverbikes look very modern.",
+  "avianDescription" : "They look solid, sure they are highly durable.",
+  "floranDescription" : "Floran wantss to drive the bike!",
+  "glitchDescription" : "Neutral. It's good this hoverbike is safely stored.",
+  "humanDescription" : "Oh I really want one of these!!",
+  "hylotlDescription" : "The Protectorate choosed a very nice hoverbike model.",
+  "novakidDescription" : "I wanna ride this hoverbike!",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcstoredhoverbike.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [],
+      "collision" : "platform"
+
+    }
+  ]
+}

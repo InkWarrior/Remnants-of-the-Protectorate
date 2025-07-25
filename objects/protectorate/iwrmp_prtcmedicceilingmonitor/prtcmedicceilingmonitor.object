@@ -1,0 +1,75 @@
+{
+  "objectName" : "iwrmp_prtcmedicceilingmonitor",
+  "colonyTags" : ["prtc_medic","protectorate","medical","wired"],
+  "rarity" : "Rare",
+  "category" : "wire",
+  "price" : 125,
+  "description" : "A sleek monitor displaying medical data. A bit too high to reach.",
+  "shortdescription" : "Medic Ceiling Monitor",
+  "race" : "protectorate",
+
+  "lightColor" : [22, 31, 36],
+  "pointLight" : true,
+  "pointBeam" : 2.25,
+  "beamAmbience" : 0.7,
+  "flickerPeriod" : 0.4,
+  "flickerMinIntensity" : 0.975,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+
+  "apexDescription" : "There is medical data being displayed. If I could only look closer.",
+  "avianDescription" : "What if I want to change the channel?",
+  "floranDescription" : "It's far away!",
+  "glitchDescription" : "Annoyed. This medical monitor is way up there.",
+  "humanDescription" : "Thank god, my neck is having some rest.",
+  "hylotlDescription" : "Seems to be a medical monitor. A bit too far for my liking.",
+  "novakidDescription" : "This screen is just hangin' there.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcmedicceilingmonitor.png:<color>.<frame>",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, -16],
+      "animationPosition" : [-8, -16],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "direction" : "left",
+      "lightPosition" : [0, -1],
+      "beamAngle" : 225
+    },
+    {
+      "image" : "prtcmedicceilingmonitor.png:<color>.<frame>",
+
+      "imagePosition" : [-8, -16],
+      "animationPosition" : [-8, -16],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "direction" : "right",
+      "lightPosition" : [-1, -1],
+      "beamAngle" : 315
+    }
+  ],
+
+  "animation" : "prtcmedicceilingmonitor.animation",
+  "animationParts" : {
+    "bg" : "prtcmedicceilingmonitor.png",
+    "fg" : "prtcmedicceilingmonitorlit.png"
+  },
+
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+      "off" : [ "/sfx/objects/console_generic_switchoff.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, -2] ]
+}

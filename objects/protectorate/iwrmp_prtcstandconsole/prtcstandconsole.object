@@ -1,0 +1,88 @@
+{
+  "objectName" : "iwrmp_prtcstandconsole",
+  "colonyTags" : ["protectorate","wired"],
+  "rarity" : "Uncommon",
+  "category" : "wire",
+  "price" : 125,
+  "description" : "A small security console. There's no chair around to sit down.",
+  "shortdescription" : "Remodeled Standing Console",
+  "race" : "protectorate",
+
+  "lightColor" : [23, 33, 38],
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.1,
+  "flickerIntensityVariance" : 0.0,
+
+  "apexDescription" : "Hmm, it wouldn't be bad to sit while using it.",
+  "avianDescription" : "I had always wonder how things would be if other species got to use avolite for their tech.",
+  "floranDescription" : "Floran stands here. Floran wishess to sit.",
+  "glitchDescription" : "Tired. Standing for too long doesn't help the spine.",
+  "humanDescription" : "A small console. Hmm, where could I find a chair?",
+  "hylotlDescription" : "Who tought it would be better used by standing and not sitting?",
+  "novakidDescription" : "I don't mind standing or sittin'.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcstandconsole.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "image" : "prtcstandconsole.png:<color>.<frame>",
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "prtcstandconsole.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+      "off" : [ "/sfx/objects/console_generic_switchoff.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "bg" : "prtcstandconsole.png",
+    "fg" : "prtcstandconsolelit.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "outputNodes" : [ [0, 0] ],
+
+  "npcToy" : {
+    "ownerOnly" : true,
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-0.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

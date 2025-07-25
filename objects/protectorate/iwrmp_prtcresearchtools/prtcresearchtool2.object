@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtcresearchtool2",
+  "colonyTags" : ["protectorate","prtc_envoy","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 1500,
+  "description" : "A portable disdrometer, useful to measure the raindrop size distribution.",
+  "shortdescription" : "Portable Disdrometer",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "I can't think of good reasons to measure raindrops.",
+  "avianDescription" : "What's the purpose of this device?",
+  "floranDescription" : "Floran wonderss how small drops are.",
+  "glitchDescription" : "Curious. I wonder which are the benefits of measuring raindrops.",
+  "humanDescription" : "Why somebody would like to measure raindrops?",
+  "hylotlDescription" : "It's wonderful the kind of instruments we invent to measure everything.",
+  "novakidDescription" : "Heh, the two-facing cameras look kinda funny.",
+
+
+  "inventoryIcon" : "prtcresearchtool2icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcresearchtool2.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcresearchtool2.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

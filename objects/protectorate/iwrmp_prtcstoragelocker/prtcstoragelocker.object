@@ -1,0 +1,56 @@
+{
+  "objectName" : "iwrmp_prtcstoragelocker",
+  "colonyTags" : ["protectorate","storage"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 225,
+  "description" : "A storage panel locker with a big logo of the Protectorate.",
+  "shortdescription" : "Protectorate Storage Locker",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "I should be careful with my hands.",
+  "avianDescription" : "I'm not sure how reliable is for me to store my things on a literal wall.",
+  "floranDescription" : "How many thingsss Floran can hide?",
+  "glitchDescription" : "Curious. The capacity of this locker is not remarkable.",
+  "humanDescription" : "A wall mounted storage locker, very handy.",
+  "hylotlDescription" : "Hiding your stuff on the wall is a genius design choice.",
+  "novakidDescription" : "Y'could stash a whole lotta somethin' into a locker like this.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcstoragelocker.png:<color>.<key>" }, { "image" : "prtcstoragelockerlit.png:<color>.<key>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [-16, -8],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcstoragelocker.png:<color>.<key>" }, { "image" : "prtcstoragelockerlit.png:<color>.<key>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-16, -8],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/gunchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/gunchest_close.ogg" ],
+  "slotCount" : 48,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600
+}

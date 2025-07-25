@@ -1,0 +1,58 @@
+{
+  "objectName" : "iwrmp_prtcterminal",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 70,
+  "description" : "Very useful to consult a lot of stuff in the split of a moment.",
+  "shortdescription" : "Remodeled Terminal",
+  "race" : "protectorate",
+
+  "apexDescription" : "A terminal to consult stuff, very handy.",
+  "avianDescription" : "A Protectorate terminal.",
+  "floranDescription" : "Terminal is off.",
+  "glitchDescription" : "Disinterested. Just a terminal like any other.",
+  "humanDescription" : "Just a terminal and nothing else.",
+  "hylotlDescription" : "A terminal to consult anything.",
+  "novakidDescription" : "Just a terminal, prob'ly connects to somethin'.",
+
+  "inventoryIcon" : "prtcterminalicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcterminal.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcterminal.png:<color>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "scripts" : [ "/scripts/npcToyObject.lua" ],
+  "npcToy" : {
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-0.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

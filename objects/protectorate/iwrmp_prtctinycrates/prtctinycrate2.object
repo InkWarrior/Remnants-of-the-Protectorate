@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtctinycrate2",
+  "colonyTags" : ["protectorate","pretty"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 700,
+  "description" : "A small durable container, useful if you need to safely contain something.",
+  "shortdescription" : "Sturdy Container",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "A small container.",
+  "avianDescription" : "A small crate.",
+  "floranDescription" : "Sssmall container.",
+  "glitchDescription" : "Indifferent. A sturdy container.",
+  "humanDescription" : "A small crate for stuff.",
+  "hylotlDescription" : "A tiny container.",
+  "novakidDescription" : "Some small container.",
+
+
+  "inventoryIcon" : "prtctinycrate2icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtctinycrate2.png:<color>" }, { "image" : "prtctinycrate2lit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtctinycrate2.png:<color>" }, { "image" : "prtctinycrate2lit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

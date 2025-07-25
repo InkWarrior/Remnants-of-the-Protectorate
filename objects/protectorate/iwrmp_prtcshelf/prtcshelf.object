@@ -1,0 +1,34 @@
+{
+  "objectName" : "iwrmp_prtcshelf",
+  "colonyTags" : ["protectorate","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 15,
+  "description" : "To support things with style!",
+  "shortdescription" : "Vanguard Shelf",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Simple and efficient!",
+  "avianDescription" : "A white shelf and nothing else.",
+  "floranDescription" : "White metal shelf, I like it.",
+  "glitchDescription" : "Observant. This is in fact a shelf.",
+  "humanDescription" : "It's a wall shelf with a touch of Protectorate style.",
+  "hylotlDescription" : "Basic yet efficient in its design.",
+  "novakidDescription" : "Can it support me?",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcshelf.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "objectName" : "iwrmp_prtctopmonitor",
+  "colonyTags" : ["protectorate","electronic","wired"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 125,
+  "description" : "Depending where you're sitting it can be comfortable to look at.",
+  "shortdescription" : "Protectorate Ceiling Monitor",
+  "race" : "protectorate",
+
+  "lightColor" : [22, 31, 36],
+  "pointLight" : true,
+  "pointBeam" : 2.25,
+  "beamAmbience" : 0.7,
+  "flickerPeriod" : 0.4,
+  "flickerMinIntensity" : 0.975,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+
+  "apexDescription" : "I wish I could just simply move the monitor as I want.",
+  "avianDescription" : "Sometimes I imagine the monitor will fall over me.",
+  "floranDescription" : "Floran findss this box uncomfortable to watch!",
+  "glitchDescription" : "Unpleased. This monitor design is not really good for the neck.",
+  "humanDescription" : "I don't see the distaste with it, just lean back a bit and that's it!",
+  "hylotlDescription" : "I really find it comfortable to watch when I'm taking a nap.",
+  "novakidDescription" : "It's just hangin' there, menacingly...",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtctopmonitor.png:<color>.<frame>",
+      "flipImages" : true,
+
+      "imagePosition" : [-14, -20],
+      "animationPosition" : [-14, -20],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "direction" : "left",
+      "lightPosition" : [0, -1],
+      "beamAngle" : 225
+    },
+    {
+      "image" : "prtctopmonitor.png:<color>.<frame>",
+
+      "imagePosition" : [-18, -20],
+      "animationPosition" : [-18, -20],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "direction" : "right",
+      "lightPosition" : [-1, -1],
+      "beamAngle" : 315
+    }
+  ],
+
+  "animation" : "prtctopmonitor.animation",
+  "animationParts" : {
+    "bg" : "prtctopmonitor.png",
+    "fg" : "prtctopmonitorlit.png"
+  },
+
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+      "off" : [ "/sfx/objects/console_generic_switchoff.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, -2] ]
+}

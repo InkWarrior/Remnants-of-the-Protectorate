@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcresearchtool3",
+  "colonyTags" : ["protectorate","prtc_envoy","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 1500,
+  "description" : "A tool to measure angles, often used for construction.",
+  "shortdescription" : "Theodolite",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "A very useful tool, if I knew how to actually use it.",
+  "avianDescription" : "This is a very curious spyglass.",
+  "floranDescription" : "Floran can look far away!",
+  "glitchDescription" : "Conflicted. I'm sure this tool isn't necessary to build a house.",
+  "humanDescription" : "Hot take: this is just a stylish telescope.",
+  "hylotlDescription" : "The invention of the theodolite is a blessing for any civilization.",
+  "novakidDescription" : "Who's a theodolite!",
+
+ 
+  "inventoryIcon" : "prtcresearchtool3icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcresearchtool3.png:<color>" }, { "image" : "prtcresearchtool3lit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcresearchtool3.png:<color>" }, { "image" : "prtcresearchtool3lit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
