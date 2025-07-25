@@ -1,0 +1,56 @@
+{
+  "type" : "iwrmp_tailorprotector",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I was assigned to give some style to this location.",
+            "I have many hobbies. Most of them related to clothes of course.",
+            "Believe me, good clothing is vital to survive in this galaxy!",
+			"You may think that my job is not that important, but I know how valuable I am.",
+			"I like your outfit! I'm going to take some notes.",
+			"Listen, I'm not rude, I'm just passionate about my own opinions on others clothing choices."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "<selfname> was assigned to give some style to this location.",
+            "<selfname> has many hobbies. Most of them related to clothes of course.",
+            "Believe me, good clothing is vital to ssurvive in this galaxy!",
+			"You may think that <selfname>'s job is not that important, but I know how valuable I am.",
+			"<selfname> likes your outfit! I'm going to take some notess.",
+			"Listen, <selfname> is not rude, just passionate about my own opinions on others clothing choices."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Explicative. I was assigned to give some style to this location.",
+            "Boastful. I have many hobbies. Most of them related to clothes of course.",
+            "Serious. Believe me, good clothing is vital to survive in this galaxy!",
+			"Passionate. You may think that my job is not that important, but I know how valuable I am.",
+			"Sincere. I like your outfit! I'm going to take some notes.",
+			"Descriptive. Listen, I'm not rude, I'm just passionate about my own opinions on others clothing choices."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+		    "head" : [ { "name" : "iwrmp_tailorhead" } ],
+            "chest" : [ { "name" : "iwrmp_tailorchest" } ],
+            "legs" : [ { "name" : "iwrmp_tailorlegs" } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type" : "iwrmp_spaceenvoy",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0.0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/iwrmp_protectorateconverse.config:converse"
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "iwrmp_envoyuniformchest" } ],
+            "legs" : [ { "name" : "iwrmp_envoyuniformpants" } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

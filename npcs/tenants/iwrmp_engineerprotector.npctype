@@ -1,0 +1,65 @@
+{
+  "type" : "iwrmp_engineerprotector",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I was assigned to help mantain this location.",
+            "No, I'm not a mechanic, but I get the confusion.",
+            "I'm good at dealing with electronics and everything that doesn't involves a mechanism.",
+			"Does your place have a communication system? I can manage that for you.",
+			"I don't like to deal with people, they are complicated, even if I'm good to mediate their problems.",
+			"The TV wasn't working last time, maybe it's time to get a new one.",
+			"If you want to know about computer models I'm the indicated.",
+			"Does my place have an electric system? I kinda need it.",
+			"A mechanic? No, I'm not one of those."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "<selfname> was asssigned to help mantain this location.",
+            "No, <selfname> is not a mechanic, but I get the confusion.",
+            "<selfname> is good at dealing with electronics and everything that doesn't involves mechanismss.",
+			"Does your place have a communication system? <selfname> can manage that for you.",
+			"<selfname> doesn't like people, they are complicated, even if <selfname> is good to solve their problems.",
+			"The TV wasn't working last time, maybe it's time to get a new one.",
+			"If you want to know about computer models <selfname> is the indicated.",
+			"Does <selfname>'s place has an electric system? It would be helpful.",
+			"A mechanic? No, <selfname> doesn't belong to them."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Explicative. I was assigned to help mantain this location.",
+            "Annoyed. No, I'm not a mechanic, but I get the confusion.",
+            "Descriptive. No, I'm not a \"machine physician\", my thing is electronics, not mechanisms.",
+			"Curious. Does your place have a communication system? I can manage that for you.",
+			"Explicative. Despite being good at solving people's problems, I don't like people, they're complicated.",
+			"Annoyed. The TV wasn't working last time, maybe it's time to get a new one.",
+			"Confident. If you want to know about computer models I'm the indicated.",
+			"Curious. Does my place have an electric system? I kinda need it.",
+			"Confused. A mechanic? No, I'm not one of those."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+		    "head" : [ { "name" : "iwrmp_engineerhead" } ],
+            "chest" : [ { "name" : "iwrmp_engineerchest" } ],
+            "legs" : [ { "name" : "iwrmp_engineerlegs" } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

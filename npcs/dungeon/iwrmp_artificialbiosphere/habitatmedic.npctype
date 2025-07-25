@@ -1,0 +1,39 @@
+{
+  "type" : "iwrmp_habitatmedic",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0.5
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "flee" : {
+        "helpme" : "/dialog/flee.config:helpme",
+        "safe" : "/dialog/flee.config:safe"
+      },
+      "greeting" : "/dialog/iwrmp_protectorateconverse.config:greeting",
+      "converse" : "/dialog/iwrmp_protectorateconverse.config:converse",
+      "accuse" : "/dialog/iwrmp_protectoratethief.config:accuse",
+      "alert" : "/dialog/iwrmp_protectoratethief.config:alert"
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+		    "head" : [ { "name" : "iwrmp_shipmedichead" }, { "name" : "iwrmp_shipmedichead" }, "" ],
+            "chest" : [ { "name" : "iwrmp_shipmedicchest" } ],
+            "legs" : [ { "name" : "iwrmp_shipmediclegs" } ],
+            "primary" : [ "medkit" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

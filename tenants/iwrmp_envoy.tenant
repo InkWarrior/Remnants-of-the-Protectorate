@@ -1,0 +1,26 @@
+{
+  "name": "iwrmp_envoy",
+  "priority": 4,
+
+  "colonyTagCriteria": {
+    "light": 1,
+    "door": 1,
+    "protectorate": 14,
+	"prtc_envoy": 14
+  },
+
+  "tenants": [
+    {
+      "spawn": "npc",
+      "species": ["human", "apex", "avian", "floran", "glitch", "hylotl", "novakid"],
+      "type": "iwrmp_envoy",
+      "overrides": {
+       }
+     }
+   ],
+
+  "rent": {
+    "periodRange": [900.0, 1800.0],
+    "pool": "villagerGift"
+  }
+}

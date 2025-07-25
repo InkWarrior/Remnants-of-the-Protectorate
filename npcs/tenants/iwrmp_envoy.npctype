@@ -1,0 +1,61 @@
+{
+  "type" : "iwrmp_envoy",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I'm not a protector but I will do my best.",
+            "I have many stories to tell you about space.",
+            "Space is beautiful and cool to explore, but it's time for me to retire.",
+			"I've been an explorer for more than 20 years. It's time to take a good rest.",
+			"I have some abilities as a mediator, but a Protector would be more helpful in my place.",
+			"Thanks for giving me this place to stay, so far it's good!",
+			"I needed a good place to stay. Thanks for allowing me to stay.",
+			"I hope the neighbourhood is calm and reasonable."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "<selfname> is not a protector but I will do my best.",
+            "<selfname> has many stories to tell you about space.",
+            "Space is beautiful and cool to explore, but it's time for <selfname> to retire.",
+			"<selfname> was an explorer for more than 20 years. It'ss time to take a good rest.",
+			"<selfname> is skilled as a mediator, but a Protector is more helpful in my place.",
+			"Thanks for giving <selfname> a place to stay, looks warm!",
+			"<selfname> needed a good place to stay. Thanks for allowing <selfname> to stay.",
+			"<selfname> hopes the neighbourhood is calm and reasonable."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Cooperative. I'm not a protector but I will do my best.",
+            "Wise. I have many stories to tell you about space.",
+            "Relieved. Space is beautiful and cool to explore, but it's time for me to retire.",
+			"Nostalgic. I've been an explorer for more than 20 years. It's time to take a good rest.",
+			"Thoughtful. I have some abilities as a mediator, but a Protector would be more helpful in my place.",
+			"Thankful. Thanks for giving me this place to stay, so far it's good!",
+			"Grateful. I needed a good place to stay. Thanks for allowing me to stay.",
+			"Optimistic. I hope the neighbourhood is calm and reasonable."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "iwrmp_envoyuniformchest" } ],
+            "legs" : [ { "name" : "iwrmp_envoyuniformpants" } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

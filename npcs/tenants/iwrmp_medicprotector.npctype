@@ -1,0 +1,59 @@
+{
+  "type" : "iwrmp_medicprotector",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I was assigned as a medic at this location.",
+            "I'm here to assist your settlement. This should work as my consultory.",
+            "You acomodated the place very well! But I think it's a bit dirty.",
+			"It's everything in the room sanitized? It's a requirement for me to work.",
+			"Would you like a lollypop?",
+			"I'm here to end with everybody's health problems!",
+			"Send your most ill neighbours, I will help them."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "<selfname> was assigned as a medic at this location.",
+            "<selfname> is here to assist your settlement. This will be my consultory.",
+            "<selfname> thinks you acomodated the place well! It's just a bit dirty.",
+			"It's everything in the room clean? It's necessary for <selfname> to work.",
+			"Would you like a lollypop?",
+			"<selfname> is here to end with everybody's health problems!",
+			"Send your most ill neighbours, <selfname> will help them."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Explicative. I was assigned as a medic at this location.",
+            "Spirited. I'm here to assist your settlement. This should work as my consultory.",
+            "Observant. You acomodated the place very well! But I think it's a bit dirty.",
+			"Worried. It's everything in the room sanitized? It's a requirement for me to work.",
+			"Charitable. Would you like a lollypop?",
+			"Hearty. I'm here to end with everybody's health problems!",
+			"Spirited. Send your most ill neighbours, I will help them."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+		    "head" : [ { "name" : "iwrmp_shipmedichead" } ],
+            "chest" : [ { "name" : "iwrmp_shipmedicchest" } ],
+            "legs" : [ { "name" : "iwrmp_shipmediclegs" } ],
+            "primary" : [ "medkit" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "op": "add",
+    "path": "/iwrmp_protectoratepod_gentle",
+    "value": [
+      {
+        "containers": [
+          "iwrmp_prtcsupplypod"
+        ],
+        "treasurePool": "iwrmp_supplypodTreasure",
+        "minimumLevel": 0
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwrmp_protectoratepod_temperate",
+    "value": [
+      {
+        "containers": [
+          "iwrmp_prtcsupplypod"
+        ],
+        "treasurePool": "iwrmp_supplypodTreasure",
+        "minimumLevel": 0
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwrmp_protectoratepod_radioactive",
+    "value": [
+      {
+        "containers": [
+          "iwrmp_prtcsupplypod"
+        ],
+        "treasurePool": "iwrmp_supplypodTreasure",
+        "minimumLevel": 0
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwrmp_protectoratepod_frozen",
+    "value": [
+      {
+        "containers": [
+          "iwrmp_prtcsupplypod"
+        ],
+        "treasurePool": "iwrmp_supplypodTreasure",
+        "minimumLevel": 0
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwrmp_protectoratepod_fiery",
+    "value": [
+      {
+        "containers": [
+          "iwrmp_prtcsupplypod"
+        ],
+        "treasurePool": "iwrmp_supplypodTreasure",
+        "minimumLevel": 0
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/iwrmp_protectoratepod_scorched",
+    "value": [
+      {
+        "containers": [
+          "iwrmp_prtccharredpod"
+        ],
+        "treasurePool": "iwrmp_scorchedPodTreasure",
+        "minimumLevel": 0
+      }
+    ]
+  }
+]

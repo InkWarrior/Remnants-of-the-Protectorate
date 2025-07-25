@@ -1,0 +1,70 @@
+{
+  "type": "iwrmp_envoyguard",
+  "baseType": "villageguard",
+
+  "scriptConfig" : {
+	"dialog": {
+		"greeting": "/dialog/iwrmp_protectorateconverse.config:greeting",
+		"converse": "/dialog/iwrmp_protectorateconverse.config:converse",
+
+		"attack": "/dialog/iwrmp_protectoratecombat.config:attack",
+		"reattack": "/dialog/iwrmp_protectoratecombat.config:reattack",
+		"killedTarget": "/dialog/iwrmp_protectoratecombat.config:killedTarget",
+		"lostTarget": "/dialog/iwrmp_protectoratecombat.config:lostTarget",
+		"outOfSight": "/dialog/iwrmp_protectoratecombat.config:outOfSight",
+		"cheerOn": "/dialog/iwrmp_protectoratecombat.config:cheerOn",
+		"cantReach": "/dialog/iwrmp_protectoratecombat.config:cantReach",
+
+		"hail": "/dialog/iwrmp_protectorateguard.config:hail",
+
+		"accuse": "/dialog/iwrmp_protectoratethief.config:accuse"
+	 }
+	},
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+		    "head" : [ { "name" : "iwrmp_frontiersmanhead" } ],
+            "chest" : [ { "name" : "iwrmp_frontiersmanchest" } ],
+            "legs" : [ { "name" : "iwrmp_frontiersmanpants" } ],
+			"primary": [
+			  "titaniumspear",
+			  "tungstenaxe",
+			  "tungstenhammer",
+			  "durasteelbroadsword",
+			  "durasteelshortsword"
+				],
+			"sheathedprimary": [
+			  "durasteelrevolver",
+			  "titaniummachinepistol"
+				],
+			"alt": [{ "name": "commonsmallshield" }, { "name": "commonlargeshield" }]
+          },
+          {
+		    "head" : [ { "name" : "iwrmp_frontiersmanhead" } ],
+            "chest" : [ { "name" : "iwrmp_frontiersmanchest" } ],
+            "legs" : [ { "name" : "iwrmp_frontiersmanpants" } ],
+            "primary" : [
+              "durasteelassaultrifle",
+              "tungstenshotgun",
+              "titaniumsniperrifle"
+            ],
+            "sheathedprimary" : [
+              "durasteelshortsword"
+            ],
+            "alt" : [{ "name" : "commonsmallshield" }, { "name" : "commonlargeshield" }]
+          }
+        ] ]
+    ]
+  },
+
+  "statusControllerSettings" : {
+    "stats" : {
+      "maxEnergy" : {
+        "baseValue" : 150
+      }
+    }
+  }
+}

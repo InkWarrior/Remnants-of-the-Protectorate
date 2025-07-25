@@ -1,0 +1,49 @@
+{
+  "type" : "iwrmp_protector",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I was assigned to help in this location.",
+            "I'm currently at your disposal, for whatever you need.",
+            "I can help to resolve any inconveniences between tenants, that's what I'm best at!",
+			"We don't have a lot of personal, but we decided to reach you and now I'm here."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "<selfname> was assigned to help in this location.",
+            "<selfname> is at your disposal, for whatever you need.",
+            "<selfname> will help to resolve any inconveniences between tenants, that's what I'm best at!",
+			"We don't have a lot of personal, but we decided to reach you and now <selfname> is here."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Altruistic. I was assigned to help in this location.",
+            "Kind. I'm currently at your disposal, for whatever you need..",
+            "Ilustrative. I am glad I learned how electronics work - I find circuits fascinating.",
+			"Kind. We don't have a lot of personal, but we decided to reach you and now I'm here."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "protectoratechest", "parameters" : { "colorIndex" : [ 8 ] } } ],
+            "legs" : [ { "name" : "protectoratepants", "parameters" : { "colorIndex" : [ 8 ] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

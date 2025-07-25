@@ -1,0 +1,42 @@
+[
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/midnight/layers/surface/dungeons/-",
+            "value": [
+                2,
+                "iwrmp_artificialbiosphere"
+            ]
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/volcanic/layers/surface/dungeons/-",
+            "value": [
+                2,
+                "iwrmp_artificialbiosphere"
+            ]
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/midnight/layers/surface/dungeons/-",
+            "value": [
+                2,
+                "iwrmp_ruinedbiosphere"
+            ]
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/volcanic/layers/surface/dungeons/-",
+            "value": [
+                2,
+                "iwrmp_ruinedbiosphere"
+            ]
+        }
+    ]
+]

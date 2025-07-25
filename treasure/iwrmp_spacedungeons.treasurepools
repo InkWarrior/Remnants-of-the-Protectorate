@@ -1,0 +1,182 @@
+{
+  // ==============================================================================================
+  //                                INKWARRIOR'S ARMORY SPACE POOLS
+  // ==============================================================================================
+
+  // ================================
+  //        Protectorate Ship
+  // ================================
+
+  "iwrmp_protectorShipLore" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.40, "pool" : "basicSpaceTreasure"},
+        {"weight" : 0.10, "pool" : "iwrmp_protectorateLore"}
+      ],
+      "poolRounds" : [
+        [0.40, 1],
+        [0.30, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  // ================================
+  //           Envoy Ship
+  // ================================
+
+  "iwrmp_envoyShipLore" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.40, "pool" : "basicSpaceTreasure"},
+        {"weight" : 0.10, "pool" : "iwrmp_envoyLore"}
+      ],
+      "poolRounds" : [
+        [0.40, 1],
+        [0.30, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_envoyAstreusCaptainTreasure" : [
+    [0, {
+      "fill" : [
+        {"pool" : "iwrmp_envoyAstreusLore"}
+      ],
+      "poolRounds" : [
+        [0.2, 1],
+        [0.5, 2],
+        [0.2, 3],
+        [0.1, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"},
+        {"weight" : 0.03, "pool" : "rareSpaceItem"}
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_envoyGaiaCaptainTreasure" : [
+    [0, {
+      "fill" : [
+        {"pool" : "iwrmp_envoyGaiaLore"}
+      ],
+      "poolRounds" : [
+        [0.2, 1],
+        [0.5, 2],
+        [0.2, 3],
+        [0.1, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"},
+        {"weight" : 0.03, "pool" : "rareSpaceItem"}
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  
+  "iwrmp_envoyHermesCaptainTreasure" : [
+    [0, {
+      "fill" : [
+        {"pool" : "iwrmp_envoyHermesLore"}
+      ],
+      "poolRounds" : [
+        [0.2, 1],
+        [0.5, 2],
+        [0.2, 3],
+        [0.1, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"},
+        {"weight" : 0.03, "pool" : "rareSpaceItem"}
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_envoyCargoTreasure" : [
+    [0, {
+      "poolRounds" : [
+        [0.4, 2],
+        [0.3, 3]
+      ],
+      "pool" : [
+        {"weight" : 0.60, "pool" : "commonSpaceItem"},
+        {"weight" : 0.40, "pool" : "rareSpaceItem"},
+        {"weight" : 0.05, "item" : "iwrmp_prtcconsole"},
+        {"weight" : 0.05, "item" : "iwrmp_prtcdisplay"},
+        {"weight" : 0.05, "item" : "iwrmp_prtcholoconsole"},
+        {"weight" : 0.05, "item" : "iwrmp_prtclabdesk"},
+        {"weight" : 0.05, "item" : "iwrmp_prtclabcupboard"},
+        {"weight" : 0.05, "item" : "iwrmp_prtclabequipment"},
+        {"weight" : 0.05, "item" : "iwrmp_prtclabtable"},
+        {"weight" : 0.05, "item" : "iwrmp_prtcsmallmonitor"},
+        {"weight" : 0.05, "item" : "iwrmp_prtcstandconsole"},
+        {"weight" : 0.05, "item" : "iwrmp_prtcterminal"},
+        {"weight" : 0.05, "item" : "iwrmp_prtctopmonitor"},
+        {"weight" : 0.01, "item" : "iwrmp_ierfood"}
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+
+  "iwrmp_envoyAstreusLore" : [
+    [0, {
+      "poolRounds" : [
+        [1.0, 1]
+      ],
+      "pool" : [
+        {"weight" : 1.0, "item" : "iwrmp_easprotectorate3-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore1-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore2-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore3-codex"}
+      ]
+    }]
+  ],
+  
+  "iwrmp_envoyGaiaLore" : [
+    [0, {
+      "poolRounds" : [
+        [1.0, 1]
+      ],
+      "pool" : [
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore1-codex"}
+      ]
+    }]
+  ],
+  
+  "iwrmp_envoyHermesLore" : [
+    [0, {
+      "poolRounds" : [
+        [1.0, 1]
+      ],
+      "pool" : [
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore1-codex"}
+      ]
+    }]
+  ],
+  
+  "iwrmp_envoyLore" : [
+    [0, {
+      "poolRounds" : [
+        [0.5, 1],
+        [0.2, 2]
+      ],
+      "pool" : [
+	    {"weight" : 1.0, "item" : "iwrmp_protectoratelore2-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoylore1-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoylore2-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoylore3-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoylore4-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoylore5-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoylore5-codex"}
+      ],
+      "allowDuplication" : false
+    }]
+  ]
+}

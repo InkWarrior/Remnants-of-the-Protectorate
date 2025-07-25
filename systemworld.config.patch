@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/objectSpawnPool"
+        },
+        {
+            "op": "add",
+            "path": "/objectSpawnPool/-",
+            "value": [
+                0.06,
+                "iwrmp_protectorateship"
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/objectSpawnPool/-",
+            "value": [
+                2.0,
+                "iwrmp_envoyship"
+            ]
+        }
+    ]
+]

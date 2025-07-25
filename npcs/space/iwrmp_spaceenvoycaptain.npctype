@@ -1,0 +1,102 @@
+{
+  "type" : "iwrmp_spaceenvoycaptain",
+  "baseType" : "villager",
+
+  "movementParameters" : {
+    "walkSpeed" : 5.0
+  },
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "It's good to see friendly faces around here.",
+            "We do not tend to have visits like this, but I don't mind it.",
+            "Do you need help, my friend?",
+			"We are looking for volunteers, you can sign if you wish.",
+			"Hey, if you know anybody who wants to volunteer let me know.",
+			"We are in a dire situation, however, I remain calm.",
+			"We don't do charity here, but if you need something we might be able to help.",
+			"I haven't rest for a while, and this job is getting a bit too tiring.",
+			"I can't panic over our current status, what if the others panic too?",
+			"I'm afraid I can't help you right now, ask my crew instead.",
+			"Sorry, friend, I'm not available for a friendly visit. You can stay, however.",
+			"We are accepting donations in form of pixels, food, clothes, spare parts, old equipment and frankly anything!",
+			"Would you like to sign on our Volunteer program?",
+			"Doing the job of a Protector is really hard, I really respect them.",
+			"I'm an explorer first, a Protector second. However, I've been getting more experienced at that.",
+			"I don't mind if you stay here, just keep in mind our resources are limited.",
+			"There are still Protectors alone and lost out there. If you know one please let me know.",
+			"Are you our new supplier? We need to send some stuff out there."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "It's good to see friendly faces around here.",
+            "We do not tend to have visits like this, but <selfname> doesn't mind it.",
+            "Do you need help, my friend?",
+			"We are looking for volunteers, you can sign if you wish.",
+			"If you know anybody who wants to volunteer let me know.",
+			"We are in a dire situation, however, <selfname> remains calm.",
+			"We don't do charity here, but if you need something we might be able to help.",
+			"<selfname> hasn't rest for a while, and this job is getting a bit too tiring.",
+			"<selfname> can't panic over our current status, what if the others panic too?",
+			"I'm afraid <selfname> can't help you right now, ask my crew instead.",
+			"Sorry, friend, I'm not currently available for a friendly visit. You can stay, however.",
+			"We are accepting donations in form of pixels, food, clothes, spare parts, old equipment and frankly anything!",
+			"Would you like to sign on our Volunteer program?",
+			"Doing the job of a Protector is really hard, <selfname> really respects them.",
+			"<selfname> is an explorer first, a Protector second. However, I've been getting more experienced at that.",
+			"<selfname> doesn't mind if you stay here, just keep in mind our resources are limited.",
+			"There are still Protectors alone and lost out there. If you know one please let <selfname> know.",
+			"Are you our new supplier? We need to send some stuff out there."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Positive. It's good to see friendly faces around here.",
+            "Surprised. We do not tend to have visits like this, but I don't mind it.",
+            "Curious. Do you need help, my friend?",
+			"Honest. We are looking for volunteers, you can sign if you wish.",
+			"Inquiring. If you know anybody who wants to volunteer let me know.",
+			"Resilient. We are in a dire situation, however, I remain calm.",
+			"Assertive. We don't do charity here, but if you need something we might be able to help.",
+			"Exhausted. I haven't rest for a while, and this job is getting a bit too tiring.",
+			"Cautious. I can't panic over our current status, what if the others panic too?",
+			"Assertive. I'm afraid I can't help you right now, ask my crew instead.",
+			"Nonchalant. My apologies, I'm not currently available for a friendly visit. You can stay, however.",
+			"Informative. We are accepting donations in form of pixels, food, clothes, spare parts, old equipment and frankly anything!",
+			"Persuasive. Would you like to sign for our Volunteer program?",
+			"Respectful. Doing the job of a Protector is really hard, I really respect them.",
+			"Inquiring. I'm an explorer first, a Protector second. However, I've been getting more experienced at that.",
+			"Assertive. I don't mind if you stay here, just keep in mind our resources are limited.",
+			"Interested. There are still Protectors alone and lost out there. If you know one please let me know.",
+			"Inquisitive. Are you our new supplier? We need to send some stuff out there."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "captainshead", "parameters" : { "colorIndex" : [6] } } ],
+            "chest" : [ { "name" : "iwrmp_envoyuniformchest", "parameters" : { "colorIndex" : [6] } } ],
+            "legs" : [ { "name" : "iwrmp_envoyuniformpants", "parameters" : { "colorIndex" : [6] } } ],
+            "back" : [ { "name" : "simplecapeback", "parameters" : { "colorIndex" : [1] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

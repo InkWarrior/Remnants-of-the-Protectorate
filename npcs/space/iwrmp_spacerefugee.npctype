@@ -1,0 +1,258 @@
+{
+  "type" : "iwrmp_spacerefugee",
+  "baseType" : "villager",
+  
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0.0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "Things in the galaxy are going to get worse, aren't they?",
+            "I wonder how many of us are in this same situation...",
+            "Pirates are such a nuissance, I can't be at my home anymore because of them!",
+            "We had to flee our town because of pirates, a shame the Protectorate wasn't there anymore.",
+            "Can you believe that the Peacekeepers don't exist anymore? I lost my house because of it!",
+            "Some sectors had become more dangerous since the Protectorate is gone, what a shame.",
+            "Supplies weren't arriving at us anymore, that's why we had to move from our planet.",
+            "I'm hoping to return to my town when things get back to normal.",
+            "I hope the shelter is more warm, I didn't know that ships could be very cold!",
+            "I haven't seen my friends in a good while, I hope they are okay.",
+            "I haven't seen anyone from Earth, you think anybody made it?"
+          ]
+        },
+        "apex" : {
+          "default" : [
+            "Things in the galaxy are going to get worse, aren't they?",
+            "I wonder how many of us are in this same situation...",
+            "Pirates are such a nuissance, I can't be at my home anymore because of them!",
+            "We had to flee our town because of pirates, a shame the Protectorate wasn't there anymore.",
+            "Can you believe that the Peacekeepers don't exist anymore? I lost my house because of it!",
+            "Some sectors had become more dangerous since the Protectorate is gone, what a shame.",
+            "Supplies weren't arriving at us anymore, that's why we had to move from our planet.",
+            "I'm hoping to return to my town when things get back to normal.",
+            "I hope the shelter is more warm, I didn't know that ships could be very cold!",
+            "I haven't seen my friends in a good while, I hope they are okay.",
+            "I haven't seen anyone from Earth, you think anybody made it?",
+            "What if the Miniknog uses this opportunity to hunt us?",
+            "After what happened to the Protectorate, the Miniknog attacked our town!",
+            "We had to flee our camp because the Miniknog were close to getting us.",
+            "The Protectorate was the thing stopping the Miniknog, and now that they are gone..."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "Things in the galaxy will get worse, right?",
+            "Floran wonders if there are otherss in same situation...",
+            "Pirates are annoying, Floran fled of his forest because of them!",
+            "Floran tribe had to flee from our forest because of pirates, Protectorate is sssadly gone.",
+            "Peacekeeperss don't exist anymore! Floran mad! Floran lost forest because of it!",
+            "Some planets are more dangerous since Protectorate is gone, that's very sad.",
+            "Food weren't arriving at Floran tribe anymore, we had to move from our planet.",
+            "Floran hopes to return to forest when things get more quiet.",
+            "Floran hopes shelter iss warmer, Ship's cold is not good for Floran!",
+            "Floran hasn't seen tribe in a while, Floran hopes they are okay.",
+            "Floran hasn't seen anyone from Earth, you think humans made it?"
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Worried. Things in space are going to get worse, aren't they?",
+            "Concerned. I wonder how many of us are in this same situation...",
+            "Frustrated. Pirates are annoying, I can't be at my home anymore because of them!",
+            "Saddened. We had to escape our village because of pirates, a shame the Protectorate wasn't there anymore.",
+            "Bewildered. Can you believe that the Peacekeepers don't exist anymore? I lost my home because of it!",
+            "Saddened. Some sectors had become more dangerous since the Protectorate is gone, what a shame.",
+            "Explicative. Supplies weren't arriving at us anymore, that's why we had to move from our planet.",
+            "Hopeful. I'm hoping to return to my village when things get back to normal.",
+            "Expectant. I hope the shelter is more warm, I didn't know ships could be very cold!",
+            "Emotional. I haven't seen my friends in a good while, I hope they are okay.",
+            "Concerned. I haven't seen anyone from Earth, you think anybody made it?"
+          ]
+        }
+      }
+    }
+  },
+
+  "movementParameters" : {
+    "runSpeed" : 6.0,
+    "walkSpeed" : 5.0
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "human" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "caphead", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              "",
+              { "name" : "fancaphead", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "glasses1head", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "scientisthead", "parameters" : { "colorIndex" : 0 } },
+              { "name" : "winterscarfhead", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "coolchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "tshirtchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "hoodiechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "workoutchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }
+            ]
+          },
+          {
+            "head" : [
+              ""
+            ],
+            "chest" : [
+              { "name" : "conceptchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "coolchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "tshirtchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "hoodiechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "workoutchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }
+            ]
+          },
+          {
+            "head" : [
+              ""
+            ],
+            "chest" : [
+              { "name" : "workoutchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "tshirtchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "sweatervestlegs", "parameters" : { "colorIndex" : 1 } },
+              { "name" : "conceptlegs", "parameters" : { "colorIndex" : 1 } }
+            ]
+          }
+        ] ]
+    ],
+
+    "avian" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "avianadventurershirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "aviancommonershirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "avianfancyshirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "avianworkershirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "avianadventurerpants", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "aviancommonerlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "avianfancyskirt", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ],
+
+    "apex" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "apexcommanderjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexnavyjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexofficerjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexspecialistjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "apexcommanderpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexnavypants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexofficerpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "apexspecialistpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ],
+
+    "floran" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "floranfurnivourchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "floranhunterchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "floranleafchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "floranpeltchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "floranfurnivourlegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "floranhunterlegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "floranleaflegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "floranpeltlegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ],
+
+    "glitch" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "noblechest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantchest", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ],
+            "legs" : [
+              { "name" : "noblelegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }, 
+              { "name" : "peasantlegs", "parameters" : { "colorIndex" : [1, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ],
+
+    "hylotl" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "kimonochest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "monkchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traditionalchest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traineechest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ],
+
+            "legs" : [
+              { "name" : "kimonolegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "monklegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traditionallegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "traineelegs", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ],
+
+    "novakid" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "novakidfancychest", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidjacket", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidsuspenders", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidwaistcoat", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ],
+
+            "legs" : [
+              { "name" : "novakidfancypants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidjacketpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidsuspenderspants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } },
+              { "name" : "novakidblackpants", "parameters" : { "colorIndex" : [1, 3, 4, 5, 6, 7, 8, 9] } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

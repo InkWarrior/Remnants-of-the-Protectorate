@@ -1,0 +1,66 @@
+{
+  "type" : "iwrmp_mechanicprotector",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I was assigned to help mantain this location.",
+            "No, I'm not an engineer, why everybody confuses us?",
+            "I'm good with mechanical stuff, and from time to time I mess with electronics.",
+			"Yes, I could check what's wrong with your vehicle. No, It's not what I'm specialized in.",
+			"I guess if you have anything broken I can check it.",
+			"The TV wasn't working last time, maybe it's time to get a new one.",
+			"My job tends to be noisy, so I'm prepared for complaints from the neighbourhood.",
+			"Does my place have an electric system? I kinda need it.",
+			"An engineer? No, I'm not one of those."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "<selfname> was assigned to help mantain this location.",
+            "No, <selfname> is not an engineer, why everybody confuses uss?",
+            "<selfname> is good with mechanical stuff, and from time to time <selfname> messes with electronics.",
+			"Yes, <selfname> could check what's wrong with your vehicle. No, It's not what <selfname> is specialized in.",
+			"I guess if you have anything broken <selfname> can check it.",
+			"The TV wasn't working last time, maybe it's time to get a new one.",
+			"My job tends to be noisy, so <selfname> is prepared for complaintss of the neighbourhood.",
+			"Does my place have an electric system? <selfname> kinda needs it.",
+			"An engineer? No, <selfname> doesn't belong to them."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Explicative. I was assigned to help mantain this location.",
+            "Annoyed. No, I'm not an engineer, why everybody confuses us?",
+            "Descriptive. I'm good with mechanical stuff, but only because I studied for that.",
+			"Irritated. Yes, I could check what's wrong with your vehicle. No, that's not my field of expertise.",
+			"Resigned. I guess if you have anything broken I can check it.",
+			"Annoyed. The TV wasn't working last time, maybe it's time to get a new one.",
+			"Resigned. My job tends to be noisy, so I'm prepared for complaints of the neighbourhood.",
+			"Curious. Does my place have an electric system? I kinda need it.",
+			"Confused. An engineer? No, I'm not one of those.",
+			"Serious. Don't assume that every Glitch is a mechanics expert, it gets annoying to hear it every time."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+		    "head" : [ { "name" : "iwrmp_mechanichead" } ],
+            "chest" : [ { "name" : "iwrmp_mechanicchest" } ],
+            "legs" : [ { "name" : "iwrmp_mechaniclegs" } ],
+            "primary" : [ "npcwrench" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "kind" : "iwrmp_prtchoverbikewreck4",
+  "definition" : {
+    "type" : "textured",
+    "image" : "/particles/prtchoverbikewreck/prtchoverbikewreck4.png",
+    "position" : [0.75, -0.5],
+    "size" : 1.0,
+    "color" : [255, 255, 255, 255],
+    "fade" : 0,
+    "initialVelocity" : [0.75, 15.0],
+    "finalVelocity" : [0, -10],
+    "approach" : [5, 50],
+    "rotation" : 0,
+    "flippable" : true,
+    "angularVelocity" : 25,
+    "timeToLive" : 20,
+    "collidesForeground" : true,
+    "destructionAction" : "shrink",
+    "destructionTime" : 5,
+    "layer" : "front"
+  }
+}

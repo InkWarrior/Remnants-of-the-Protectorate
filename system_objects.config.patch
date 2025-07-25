@@ -1,0 +1,103 @@
+[
+    {
+        "op": "add",
+        "path": "/iwrmp_protectorateship",
+        "value": {
+            "warpAction": "InstanceWorld:iwrmp_protectorateship",
+            "threatLevel": 1,
+            "skyParameters": {
+                "seed": 0,
+                "horizonClouds": false,
+                "horizonImages": [
+                    {
+                        "left": "/celestial/system/ships/shiphorizonleft.png",
+                        "right": "/celestial/system/ships/shiphorizonright.png"
+                    }
+                ]
+            },
+            "moving": true,
+            "speed": 15,
+            "orbitRange": [
+                1,
+                1
+            ],
+            "lifeTime": [
+                1500,
+                2100
+            ],
+            "parameters": {
+                "icon": "/celestial/system/ships/iwrmp_protectorateship.png",
+                "displayName": "Protectorate Ship",
+                "description": "One of the few Protectorate ships left. We can make a friendly visit to the crew."
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/iwrmp_envoyship",
+        "value": {
+            "warpAction": "InstanceWorld:iwrmp_envoyship",
+            "threatLevel": 1,
+            "skyParameters": {
+                "seed": 0,
+                "horizonClouds": false,
+                "horizonImages": [
+                    {
+                        "left": "/celestial/system/ships/shiphorizonleft.png",
+                        "right": "/celestial/system/ships/shiphorizonright.png"
+                    }
+                ]
+            },
+            "moving": true,
+            "speed": 15,
+            "orbitRange": [
+                1,
+                1
+            ],
+            "lifeTime": [
+                1500,
+                2100
+            ],
+            "parameters": {
+                "icon": "/celestial/system/ships/iwrmp_protectorateship.png",
+                "displayName": "Envoy Ship",
+                "description": "One of the many ships that conform the 21st Astraeus Fleet. We can make a friendly visit to the crew."
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/iwrmp_testencounter",
+        "value": {
+            "warpAction": "InstanceWorld:iwrmp_testencounter",
+            "skyParameters": {
+                "seed": 0,
+                "horizonClouds": false,
+                "horizonImages": [
+                    {
+                        "left": "/celestial/system/anomaly/anomalyhorizonleft.png",
+                        "right": "/celestial/system/anomaly/anomalyhorizonright.png"
+                    }
+                ]
+            },
+            "moving": false,
+            "speed": 0,
+            "orbitRange": [
+                0,
+                0
+            ],
+            "generatedParameters": {
+                "displayName": "/celestial/anomalynames.config:nameGen"
+            },
+            "lifeTime": [
+                1500,
+                2100
+            ],
+            "parameters": {
+                "icon": "/celestial/system/anomaly/iwrmp_testencounter.png",
+                "displayName": "TEST",
+                "description": "This is a test, don't worry about it; ignore it, keep going on your way."
+            }
+        }
+    }
+]

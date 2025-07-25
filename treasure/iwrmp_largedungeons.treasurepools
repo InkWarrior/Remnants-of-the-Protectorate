@@ -1,0 +1,81 @@
+{
+  // ==============================================================================================
+  //                                INKWARRIOR'S ARMORY DUNGEON POOLS
+  // ==============================================================================================
+
+  // ================================
+  // Artificial Biosphere - Aditional
+  // ================================
+  
+  "iwrmp_biosphereTreasure" : [
+    [1, {
+      "fill" : [
+        {"pool" : "iwrmp_biosphereLore"}
+      ],
+      "pool" : [
+        {"weight" : 0.40, "pool" : "basicTreasure"}
+      ],
+      "poolRounds" : [
+        [0.40, 1],
+        [0.30, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  
+  "iwrmp_biosphereLore" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.25, "item" : "iwrmp_biospherelore2-codex"},
+        {"weight" : 0.25, "item" : "iwrmp_protectoratelore1-codex"},
+        {"weight" : 0.25, "item" : "iwrmp_protectoratelore2-codex"},
+        {"weight" : 0.25, "item" : "iwrmp_protectoratelore3-codex"},
+        {"weight" : 0.25, "item" : "iwrmp_protectoratelore4-codex"},
+		{"weight" : 0.25, "item" : "iwrmp_easprotectorate2-codex"}
+      ]
+    }]
+  ],
+
+  "iwrmp_biosphereCrewLeftTreasure" : [
+    [1, {
+      "fill" : [
+        {"item" : "iwrmp_biospherelore1-codex"}
+      ],
+      "pool" : [
+        {"weight" : 0.40, "pool" : "basicTreasure"}
+      ],
+      "poolRounds" : [
+        [0.40, 1],
+        [0.30, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_biosphereCrewRightTreasure" : [
+    [1, {
+      "fill" : [
+        {"pool" : "iwrmp_biosphereCrewLore"}
+      ],
+      "pool" : [
+        {"weight" : 0.40, "pool" : "basicTreasure"}
+      ],
+      "poolRounds" : [
+        [0.40, 1],
+        [0.30, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_biosphereCrewLore" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.25, "item" : "iwrmp_biospherelore3-codex"},
+        {"weight" : 0.25, "item" : "iwrmp_biospherelore4-codex"},
+        {"weight" : 0.25, "item" : "iwrmp_biospherelore5-codex"},
+        {"weight" : 0.25, "item" : "iwrmp_biospherelore6-codex"}
+      ]
+    }]
+  ]
+}

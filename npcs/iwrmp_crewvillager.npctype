@@ -1,0 +1,79 @@
+{
+  "type" : "iwrmp_crewvillager",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0.5
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "flee" : {
+        "helpme" : "/dialog/flee.config:helpme",
+        "safe" : "/dialog/flee.config:safe"
+      },
+      "greeting" : "/dialog/iwrmp_protectorateconverse.config:greeting",
+      "converse" : "/dialog/iwrmp_protectorateconverse.config:converse",
+      "accuse" : "/dialog/iwrmp_protectoratethief.config:accuse",
+      "alert" : "/dialog/iwrmp_protectoratethief.config:alert"
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+		    "head" : [ { "name" : "iwrmp_chemisthead" } ],
+            "chest" : [ { "name" : "iwrmp_chemistchest" } ],
+            "legs" : [ { "name" : "iwrmp_chemistlegs" } ],
+            "primary" : [ "bluestim", "greenstim", "orangestim", "yellowstim" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+
+          {
+		    "head" : [ { "name" : "iwrmp_janitorhead" } ],
+            "chest" : [ { "name" : "iwrmp_janitorchest" } ],
+            "legs" : [ { "name" : "iwrmp_janitorlegs" } ],
+            "primary" : [ "broom" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+
+          {
+		    "head" : [ { "name" : "iwrmp_mechanichead" } ],
+            "chest" : [ { "name" : "iwrmp_mechanicchest" } ],
+            "legs" : [ { "name" : "iwrmp_mechaniclegs" } ],
+            "primary" : [ "npcwrench" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+
+          {
+		    "head" : [ { "name" : "iwrmp_engineerhead" } ],
+            "chest" : [ { "name" : "iwrmp_engineerchest" } ],
+            "legs" : [ { "name" : "iwrmp_engineerlegs" } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+
+          {
+		    "head" : [ { "name" : "iwrmp_shipmedichead" } ],
+            "chest" : [ { "name" : "iwrmp_shipmedicchest" } ],
+            "legs" : [ { "name" : "iwrmp_shipmediclegs" } ],
+            "primary" : [ "medkit" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+
+          {
+		    "head" : [ { "name" : "iwrmp_tailorhead" } ],
+            "chest" : [ { "name" : "iwrmp_tailorchest" } ],
+            "legs" : [ { "name" : "iwrmp_tailorlegs" } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

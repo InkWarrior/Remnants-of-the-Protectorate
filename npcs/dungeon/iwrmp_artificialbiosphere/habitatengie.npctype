@@ -1,0 +1,46 @@
+{
+  "type" : "iwrmp_habitatengie",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0.5
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "flee" : {
+        "helpme" : "/dialog/flee.config:helpme",
+        "safe" : "/dialog/flee.config:safe"
+      },
+      "greeting" : "/dialog/iwrmp_protectorateconverse.config:greeting",
+      "converse" : "/dialog/iwrmp_protectorateconverse.config:converse",
+      "accuse" : "/dialog/iwrmp_protectoratethief.config:accuse",
+      "alert" : "/dialog/iwrmp_protectoratethief.config:alert"
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+		    "head" : [ { "name" : "iwrmp_mechanichead" }, { "name" : "iwrmp_mechanichead" }, "" ],
+            "chest" : [ { "name" : "iwrmp_mechanicchest" } ],
+            "legs" : [ { "name" : "iwrmp_mechaniclegs" } ],
+            "primary" : [ "npcwrench" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+          {
+		    "head" : [ { "name" : "iwrmp_engineerhead" }, { "name" : "iwrmp_engineerhead" }, "" ],
+            "chest" : [ { "name" : "iwrmp_engineerchest" } ],
+            "legs" : [ { "name" : "iwrmp_engineerlegs" } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}
