@@ -1,0 +1,33 @@
+{
+  "itemName" : "iwrmp_prtchoverbikecontroller",
+  "level" : 1,
+  "price" : 11000,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "shortdescription" : "Envoy Hoverbike Controller",
+  "description" : "Create a Protectorate-brand hoverbike from stored nanites.",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+  "largeImage" : "iwrmp_envoy.png",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "iwrmp_prtchoverbike",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/hoverbike/prtchoverbikewarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "prtchoverbikecontroller.png"
+  },
+
+  "inventoryIcon" : "prtchoverbikecontroller.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/prtchoverbikecontroller.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/prtchoverbikecontroller.png:full"
+}

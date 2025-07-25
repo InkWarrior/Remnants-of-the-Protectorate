@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwrmp_ierfood",
+  "rarity" : "Legendary",
+  "price" : 850,
+  "category" : "food",
+  "inventoryIcon" : "iwrmp_ierfood.png",
+  "description" : "It contains the necessary meals to survive in any situation.",
+  "shortdescription" : "Individual Emergency Ration",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 675
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 675
+    }
+  ] ],
+  "foodValue" : 90,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
