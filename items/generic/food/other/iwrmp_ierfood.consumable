@@ -4,7 +4,7 @@
   "price" : 850,
   "category" : "food",
   "inventoryIcon" : "iwrmp_ierfood.png",
-  "description" : "It contains the necessary meals to survive in any situation.",
+  "description" : "Contains the necessary nutrients to survive in any situation.",
   "shortdescription" : "Individual Emergency Ration",
   "effects" : [ [
     {
