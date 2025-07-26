@@ -1638,7 +1638,7 @@
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"iwrmp_envoyShipLore\"]}"
+                     "parameters":"{\"treasurePools\":[\"iwrmp_envoyLore\"]}"
                     },
                  "propertytypes":
                     {
