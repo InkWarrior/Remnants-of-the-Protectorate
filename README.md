@@ -3,7 +3,7 @@ This is a work-in-progress. The objective of the mod is to expand and add new lo
 
 # To do list
 __GENERAL:__
-- Find a way to make the Protectorate Overbike obtainable.
+- Find a way to make the Protectorate Overbike obtainable (in-progress).
 - Find a way to make the Protectorate armors obtainable.
 - Fix the antennae of the second middle sections of the Protectorate Ship.
 - Continue tests for the Envoy ship and fill it with npcs.
@@ -21,6 +21,7 @@ __FURNITURE__
 - Complete colony furniture.
 - Make SAIL Units for Envoy Ship and Protectorate Space Station.
 - Make a Protectorate Ship turret hatch.
+- Make a unique Protectorate door.
 
 __DUNGEONS__
 - Large Dungeons:
@@ -41,7 +42,6 @@ __LORE__
 - Replace Envoylore5 with something else
 - Make Lore about the 21st and 22nd Astraeus Missions
 - Expand on the lore of the Gaia and Hermes Programs.
-- Chage all instances of the Rosenberg Plan to Rosenfield Plan (I like it more).
 - Make Lore about the Rosenfield Plan.
 - Make Lore for Protectorate Space Stations.
 - Make Lore about the matter manipulator and make additions of it to other parts of the mod.
