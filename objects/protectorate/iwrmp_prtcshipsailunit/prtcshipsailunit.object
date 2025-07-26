@@ -7,16 +7,7 @@
   "shortdescription" : "Protectorate S.A.I.L Unit",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/prtccraftingtable.config",
-    "paneLayoutOverride" : {
-      "windowtitle" : {
-        "title" : " Protectorate S.A.I.L Trading Interface",
-        "subtitle" : " ^cyan;Help the Protectorate with your spare pixels!",
-        "icon" : {
-          "file" : "/interface/crafting/prtccraftingtable_sail1.png"
-        }
-      }
-    }
+    "config" : "/interface/windowconfig/prtcsailunit.config"
   },
   "race" : "protectorate",
   "printable" : false,
