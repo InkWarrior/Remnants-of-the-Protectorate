@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 125 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "iwrmp_prtcdrowertoolbox", "count" : 1 },
+  "groups" : [ "iwrmp_prtccraftingtable", "iwrmp_prtcsailunit", "prtccraftingtable_colony", "all" ]
+}

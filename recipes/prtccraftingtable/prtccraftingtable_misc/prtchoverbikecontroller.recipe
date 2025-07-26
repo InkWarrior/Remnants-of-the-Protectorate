@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "hoverbikecontrollerkhaki", "count" : 1 },
+    { "item" : "teleportercore", "count" : 1 },
+    { "item" : "money", "count" : 2500 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "iwrmp_prtchoverbikecontroller", "count" : 1 },
+  "groups" : [ "iwrmp_prtccraftingtable", "prtccraftingtable_misc", "all" ]
+}
