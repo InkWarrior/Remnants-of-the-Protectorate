@@ -1,11 +1,11 @@
 {
   "objectName" : "iwrmp_prtccraftingtable",
-  "colonyTags" : ["protectorate","commerce", "crafting"],
+  "colonyTags" : ["protectorate","commerce","crafting"],
   "rarity" : "Legendary",
   "category" : "crafting",
   "price" : 5000,
   "description" : "A trading terminal to buy and sell stuff from the Protectorate remotely.",
-  "shortdescription" : "Protectorate Remote Terminal",
+  "shortdescription" : "^cyan;Protectorate Remote Terminal",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/prtccraftingtable.config"
