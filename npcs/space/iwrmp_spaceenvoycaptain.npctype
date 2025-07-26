@@ -89,10 +89,10 @@
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "captainshead", "parameters" : { "colorIndex" : [6] } } ],
-            "chest" : [ { "name" : "iwrmp_envoyuniformchest", "parameters" : { "colorIndex" : [6] } } ],
-            "legs" : [ { "name" : "iwrmp_envoyuniformpants", "parameters" : { "colorIndex" : [6] } } ],
-            "back" : [ { "name" : "simplecapeback", "parameters" : { "colorIndex" : [1] } } ],
+            "head" : [ { "name" : "captainshead", "parameters" : { "directives" : "?replace;ffca8a=ffe975;e0975c=ffc038;a85636=e07625;6f2919=97400d;" } } ],
+            "chest" : [ { "name" : "iwrmp_envoyuniformchest" } ],
+            "legs" : [ { "name" : "iwrmp_envoyuniformpants" } ],
+            "back" : [ { "name" : "simplecapeback", "parameters" : { "directives" : "?replace;ffca8a=ffe975;e0975c=ffc038;a85636=e07625;6f2919=97400d;" } } ],
             "primary" : [ "" ],
             "sheathedprimary" : [ "npcpistol" ]
           }
