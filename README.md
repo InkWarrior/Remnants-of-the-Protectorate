@@ -39,7 +39,7 @@ __DUNGEONS__
 - Rework Emergency Drop-pods and make easprotectorate1 spawn on Pod Chests.
 
 __CLOTHES__
-- Complete Outlaw Crewmember outfit.
+- Make a Protectorate Captain outfit.
 - Find a way to make crewmemebers spawn with their unique outfits.
 
 __LORE__
