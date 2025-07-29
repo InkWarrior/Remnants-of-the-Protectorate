@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "chestarmour",
   "description" : "A simple vest used for combat training by the Protectorate.",
-  "shortdescription" : "^red;Soldier Vest^reset;",
+  "shortdescription" : "^red;Rearguard's Vest^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
