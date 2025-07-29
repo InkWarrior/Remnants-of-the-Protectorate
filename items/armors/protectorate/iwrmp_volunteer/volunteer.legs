@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legarmour",
-  "description" : "A distinctive pair of boots, unfortunately they aren't so comfortable.",
-  "shortdescription" : "Rearguard's Boots",
+  "description" : "A pair of old Frontiersman boots, now used as a distinctive for volunteers of the Protectorate.",
+  "shortdescription" : "Volunteer's Boots",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",

@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headarmour",
-  "description" : "A cheap and mass produced helmet, one of the few combat pieces produced by the Protectorate.",
-  "shortdescription" : "Rearguard's Helmet",
+  "description" : "An old Frontiersman helmet, currently used to protect the new volunteers of the Protectorate.",
+  "shortdescription" : "Volunteer's Helmet",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

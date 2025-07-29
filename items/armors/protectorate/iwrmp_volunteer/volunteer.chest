@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestarmour",
-  "description" : "A simple vest design, it should protect you for a while.",
-  "shortdescription" : "Rearguard's Vest",
+  "description" : "One of the main directives of the Volunteer Program is to secure volunteers against any threat.",
+  "shortdescription" : "Volunteer's Vest",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
