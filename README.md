@@ -7,6 +7,11 @@ __GENERAL:__
 - Find a way to make the Protectorate armors obtainable.
 - Fix the antennae of the second middle sections of the Protectorate Ship.
 - Continue tests for the Envoy ship and fill it with npcs.
+- Make Mech parts for the Protectorate:
+    - Protector body (maybe suited for construction).
+    - Envoy body (something for exploration).
+    - Matter manipulator-like Arm.
+- Split the store categories for the Envoy and Protectorate SAIL units.
 
 __NPCS__
 - Revamp dialogue for all custom npcs.
@@ -24,6 +29,7 @@ __FURNITURE__
 - Make a unique Protectorate door.
 
 __DUNGEONS__
+- Add 3 minidungeon variants for the Protectorate Dropship.
 - Large Dungeons:
    - Artificial Biosphere (needs revamp).
    - Envoy Shelter.
