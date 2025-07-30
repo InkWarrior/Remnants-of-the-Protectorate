@@ -1,17 +1,17 @@
 {
   "id" : "iwrmp_biospherelore2",
   "title" : "Artificial Biospheres - Design Features",
-  "description" : "A summary chapter of the design features of Artificial Biospheres.",
+  "description" : "A summary of the design features within Artificial Biospheres.",
   "icon" : "gaiabook1.png",
   "contentPages" : [ 
   
-  "The Advanced Ecological Preservation Habitat, or Artificial Biosphere, it's a conservation habitat designed to harbor endangered ecosystems and species, as part of the Preservation approach from the Rosenfield Plan. Said habitat is designed to endure the harshest conditions any planet may have while keeping its crew safe for all its useful life. These habitats alone can last up to 5 years on their own, but at the risk of malfunctions is that a crew is always required.",
+  "The Advanced Ecological Preservation Habitat, or Artificial Biosphere, is a conservation habitat designed to harbor endangered ecosystems and species, as part of the Preservation approach from the Rosenfield Plan. Said habitat is designed to endure the harshest conditions any planet may have while keeping its crew safe for all its useful life. These habitats alone can last up to 5 years on their own, but at the risk of malfunctions a crew should always be required.",
 
-"One of the main features of the Artificial Biosphere is its modular design; given the conditions, each module can work on its own as all of them count with auxiliar power units; they can enter each one on individual lockdowns if they are damaged, that way the habitat won't suffer of bigger structural problems while easing reparations.",
+"One of the main features of the Artificial Biosphere is its modular design; given the conditions, each module can work on its own as all of them come with auxiliary power units; they can each enter into individual lockdowns if they are damaged, that way the habitat won't suffer larger structural problems while also easing repairs for it.",
 
-"Automation is the other main feature of the Artificial Biosphere. Since deployment, the habitat is programmed to perform the necessary tasks to maintain the preserved habitat; it's able to regulate the temperature, the moisture, the atmosphere, the composition of the soil and even day/night cycles, just to mention a few. A crew of a Biosphere shouldn't worry of tending the habitat beyond making necessary maintenance routines.",
+"Automation is the other main feature of the Artificial Biosphere. Since deployment, the habitat is programmed to perform all the necessary tasks to maintain the preserved habitat; it's able to regulate temperature, moisture, atmosphere, soil composition and even day/night cycles, just to mention a few of its capabilities. The crew of a Biosphere shouldn't worry about tending to the habitat beyond the necessary maintenance routines because of this.",
 
-"It's not recommended to try to reprogram the Biosphere unless you're qualified, as it can endanger both its crew and its protected habitat by changing the parameters needed for their subsistence. If a reprograming is needed, a request form must be sent to the habitat's assigned outpost, so a specialized team can perform the reprogramming process."
+"It's not recommended to try to reprogram the Biosphere unless you're qualified however, as it can endanger both its crew and its protected habitat by changing the parameters needed for their subsistence. If reprograming is needed, a request form must be sent to the habitat's assigned outpost, so a specialized team can perform the reprogramming process."
 
   ],
     "itemConfig" : {
