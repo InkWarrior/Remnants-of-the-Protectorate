@@ -1,0 +1,42 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/default/0/1/0/head",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/default/0/1/0/head",
+            "value": [
+                {
+                    "name": "iwrmp_chemisthead"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/default/0/1/0/chest/0/name",
+            "value": "protectoratechest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/default/0/1/0/chest/0/name",
+            "value": "iwrmp_chemistchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/default/0/1/0/legs/0/name",
+            "value": "protectoratepants"
+        },
+        {
+            "op": "replace",
+            "path": "/items/default/0/1/0/legs/0/name",
+            "value": "iwrmp_chemistlegs"
+        }
+    ]
+]

@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/crew/defaultUniform",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/scriptConfig/crew/defaultUniform",
+            "value": {
+                "head": "iwrmp_chemisthead",
+                "chest": "iwrmp_chemistchest",
+                "legs": "iwrmp_chemistlegs"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/crew/uniformSlots",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/scriptConfig/crew/uniformSlots",
+            "value": [
+                "head",
+                "headCosmetic",
+                "chest",
+                "chestCosmetic",
+                "legs",
+                "legsCosmetic",
+                "back",
+                "backCosmetic"
+            ]
+        }
+    ]
+]
