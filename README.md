@@ -8,8 +8,7 @@ __GENERAL:__
 - Fix the antennae of the second middle sections of the Protectorate Ship.
 - Continue tests for the Envoy ship and fill it with npcs.
 - Make Mech parts for the Protectorate:
-    - Protector body (maybe suited for construction).
-    - Envoy body (something for exploration).
+    - Envoy body (exploration themed).
     - Matter manipulator-like Arm.
 - Split the store categories for the Envoy and Protectorate SAIL units.
 
@@ -40,7 +39,6 @@ __DUNGEONS__
 
 __CLOTHES__
 - Make a Protectorate Captain outfit.
-- Find a way to make crewmemebers spawn with their unique outfits.
 
 __LORE__
 - Revamp Codex for Floran Astraeus Captain (envoylore5).
