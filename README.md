@@ -41,9 +41,8 @@ __CLOTHES__
 - Make a Protectorate Captain outfit.
 
 __LORE__
-- Revamp Codex for Floran Astraeus Captain (envoylore5).
+- Revamp Codex for Floran Astraeus Captain and make it a separate codex from envoylore5.
 - Make 6 new codexes for Astraeus Captains (one for each race).
-- Replace Envoylore5 with something else
 - Make Lore about the 21st and 22nd Astraeus Missions
 - Expand on the lore of the Gaia and Hermes Programs.
 - Make Lore about the Rosenfield Plan.
