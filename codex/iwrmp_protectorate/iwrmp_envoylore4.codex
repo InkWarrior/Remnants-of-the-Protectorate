@@ -1,15 +1,15 @@
 {
   "id" : "iwrmp_envoylore4",
   "title" : "^green;The Gaia Program^reset;",
-  "description" : "A summary of the peculiar history of the Gaia Program.",
+  "description" : "A summary of the Gaia Program's peculiar history.",
   "icon" : "gaiabook2.png",
   "contentPages" : [ 
   
-  "In the troubled history of mankind, humans had to face the possibility of natural collapse on a global scale, so it's not a coincidence that humanity would be interested in making the lowest impact on nature as possible. It's interesting to see the creation of the Gaia Program given that nature is not exactly a matter for the Protectorate; we can see that it's in the interest of humans to help and preserve the ecosystems of other planets.",
+  "In the troubled history of Mankind, Humans had to face the possibility of natural collapse on a global scale, so it's not a coincidence that Humanity would be interested in making the lowest impact on nature as possible in modern times. It's interesting to see the creation of the Gaia Program given that nature preservation is not exactly a concern for the Protectorate; we can see that it's in the interest of Humans to help and preserve the ecosystems of other planets however.",
 
-"The Gaia Program would really come late in the history of the Protectorate, by the time that the 11th Astraeus Mission was being planned and it was obvious that many planets out there were facing natural and artificial disasters. It's not to say that before the Gaia Program the Protectorate didn't take any actions; in fact, a lot of the actions to protect the environments of other planets were directed by what is known as the Rosenfield Plan before the Gaia Program came.",
+"The Gaia Program would really come late in the history of the Protectorate, by the time that the 11th Astraeus Mission was being planned, it was obvious that many planets out there were facing natural and artificial disasters. That's not to say that before the Gaia Program the Protectorate didn't take any action; in fact, a lot of the actions to protect the environments of other planets were directed by what was known as the Rosenfield Plan before the Gaia Program came.",
 
-"The Rosenfield Plan, developed by the genius human protector Arthur Rosenfield, was a series of protocols regarding to which approach to take in case of encountering an endangered environment: the Restauration approach, or the Preservation approach. It wasn't exactly official Protectorate guidelines, so the creation of the Gaia Program had the purpose of officializing it and making it a pillar of the Protectorate for the rest of time."
+"The Rosenfield Plan, developed by the genius Human protector Arthur Rosenfield, was a series of protocols regarding which approach to take in case of encountering an endangered environment: the Restoration approach, or the Preservation approach. It wasn't exactly official Protectorate guideline, so the creation of the Gaia Program had the purpose of officializing it and making it a pillar of the Protectorate for the rest of time."
 
   ],
     "itemConfig" : {
