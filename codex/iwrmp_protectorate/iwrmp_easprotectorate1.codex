@@ -1,21 +1,21 @@
 {
   "id" : "iwrmp_easprotectorate1",
-  "title" : "^yellow;Volunteer Initiative^reset;",
-  "description" : "It seems like an important message from the remnants of the Protectorate.",
+  "title" : "^yellow;The Volunteer Initiative^reset;",
+  "description" : "It seems to be an important message from the remnants of the Protectorate.",
   "icon" : "emergencypaper1.png",
   "contentPages" : [ 
   
   "^gray;This message has been written and distributed by the remnants of the Protectorate Network. This is not a test.^reset; 
   
-Days ago, a SOS broadcast has been received from Earth warning of its destruction, and by extension, the destruction of the Protectorate at the hands of an unknown force. This coincides with the sudden fall of our communications network across the galaxy. Whichever rumors you have heard are true: the Protectorate has collapsed. However, it's not fully gone.",
+Days ago, a SOS broadcast has been received from Earth warning of its destruction, and by extension, the destruction of the Protectorate at the hands of an unknown force. This coincides with the sudden failure of our communications network across the galaxy. Whatevers rumors you have heard are true: the Protectorate has collapsed. However, it's not completely gone.",
 
-"In these moments, across the galaxy, many surviving Protectors remain along with the 21st Astreus Mission fleet, and we are determined to continue with our duties and be in service of the galaxy. But the reconstruction won't be easy, we'll need all help we can get, even yours.
+"In these moments, across the galaxy, many surviving Protectors remain along with the 21st Astreus Mission fleet, and we are determined to continue with our duties and be in service of the galaxy. But reconstruction won't be easy, we'll need all help we can get, including yours.
 
-This is a call to every citizen of the galaxy who are willing to volunteer in the reconstruction and help us in these dire moments. Whichever skills you have are welcomed.",
+This is a call to every citizen in the galaxy who is willing to volunteer in the reconstruction efforts and help us in these dire times. Any skills you have are welcomed.",
 
-"We encourage you to locate a near Protectorate outpost or Protector to be in further contact.
+"We encourage you to locate the nearest Protectorate outpost or Protector to be in further contact.
 
-If you're a Protector reading this message, do not fault; we are still here. If you're lost, you can be sure that we can find you, and you can find us. Civilian or Protector, take the contents of this pod so you can help yourself and even help others.
+If you're a Protector reading this message, do not lose hope; we are still here for you. If you are lost, you can be sure that we can find you, and that you can find us. Civilian or Protector, take the contents of this pod so you can help yourself and hopefully help others.
 
 Be safe and good luck."
 
