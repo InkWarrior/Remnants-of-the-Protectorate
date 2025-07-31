@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 650 },
+    { "item" : "durasteelbar", "count" : 10 },
+    { "item" : "leather", "count" : 3 },
+    { "item" : "silk", "count" : 1 }
+  ],
+  "duration" : 2.5,
+  "output" : { "item" : "iwrmp_watchmanchest", "count" : 1 },
+  "groups" : [ "iwrmp_prtccraftingtable", "prtccraftingtable_misc", "craftinganvil", "armours", "all" ]
+}

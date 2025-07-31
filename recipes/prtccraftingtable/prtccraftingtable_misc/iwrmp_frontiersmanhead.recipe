@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 450 },
+    { "item" : "titaniumbar", "count" : 6 },
+    { "item" : "canvas", "count" : 1 }
+  ],
+  "duration" : 2.5,
+  "output" : { "item" : "iwrmp_frontiersmanhead", "count" : 1 },
+  "groups" : [ "iwrmp_prtccraftingtable", "prtccraftingtable_misc", "craftinganvil", "armours", "all" ]
+}
