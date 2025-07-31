@@ -3,7 +3,6 @@ This is a work-in-progress. The objective of the mod is to expand and add new lo
 
 # To do list
 __GENERAL:__
-- Find a way to make the Protectorate Overbike obtainable (in-progress).
 - Find a way to make the Protectorate armors obtainable.
 - Fix the antennae of the second middle sections of the Protectorate Ship.
 - Continue tests for the Envoy ship and fill it with npcs.
@@ -17,7 +16,7 @@ __NPCS__
 - Make a Protectorate Ship Turret.
 
 __MISC__
-- Make an npc shield.
+-Introduce Pocket Storage Units (provisional name)
 
 __FURNITURE__
 - Standarize prices and rarity for all current objects.
