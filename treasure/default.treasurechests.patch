@@ -72,7 +72,7 @@
         "containers": [
           "iwrmp_prtccharredpod"
         ],
-        "treasurePool": "iwrmp_scorchedPodTreasure",
+        "treasurePool": "iwrmp_supplypodTreasure",
         "minimumLevel": 0
       }
     ]

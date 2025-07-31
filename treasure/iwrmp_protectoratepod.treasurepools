@@ -20,21 +20,6 @@
     }]
   ],
   
-  "iwrmp_scorchedPodTreasure" : [
-    [0, {
-      "fill" : [
-        {"item" : [ "iwrmp_scorchedpodnote", 1 ]},
-        {"pool" : "valuableTreasure" },
-        {"pool" : "valuableTreasure" },
-        {"pool" : "valuableTreasure" },
-        {"pool" : "augments" },
-        {"pool" : "richOre" },
-        {"pool" : "richOre" },
-        {"pool" : "richOre" }
-      ]
-    }]
-  ],
-  
   // ===================================
   //          SUPPLY POD POOLS
   // ===================================
