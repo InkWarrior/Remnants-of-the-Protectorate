@@ -1,6 +1,6 @@
 {
   "name" : "iwrmp__prtchoverbike",
-  "script" : "hoverbike.lua",
+  "script" : "iwrmp__prtchoverbike.lua",
   "boundBox" : [-5, -5, 5, 5],
   "slaveControlTimeout" : 2.0,
   "slaveControlHeartbeat" : 1.0,
@@ -64,19 +64,19 @@
   "hoverTargetDistance" : 3,
   "hoverVelocityFactor" : 8,
   "hoverControlForce" : 650,
-  "targetHorizontalVelocity" : 80,
+  "targetHorizontalVelocity" : 100,
   "horizontalControlForce" : 120,
   "zeroGTargetVelocity" : 40,
   "zeroGSpinRate" : 4,
   "spinFriction" : 0.1,
 
   "nearGroundDistance" : 4,
-  "jumpVelocity" : 40,
+  "jumpVelocity" : 80,
   "jumpTimeout" : 0.25,
 
   //Health and damage
-  "protection" : 50,
-  "maxHealth" : 1000,
+  "protection" : 100,
+  "maxHealth" : 2000,
 
   "damageStateNames" : ["undamaged","scratched","dented","wrecked"],
 
