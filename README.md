@@ -2,6 +2,11 @@
 This is a work-in-progress. The objective of the mod is to expand and add new lore regarding the Protectorate. New Furniture, new cosmetic sets, new codex and dungeons and all that stuff.
 
 # To do list
+__MOD SUPPORT__
+- Spawnable Item Pack
+- Wardrobe Interface
+- Planet Search
+
 __GENERAL:__
 - Find a way to make the Protectorate armors obtainable (in-progress).
 - Fix the antennae of the second middle sections of the Protectorate Ship.
