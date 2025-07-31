@@ -16,7 +16,7 @@ __NPCS__
 - Make a Protectorate Ship Turret.
 
 __MISC__
--Introduce Pocket Storage Units (provisional name)
+- Introduce Pocket Storage Units (provisional name)
 
 __FURNITURE__
 - Standarize prices and rarity for all current objects.
