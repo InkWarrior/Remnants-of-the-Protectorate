@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "shield",
   "description" : "A distinctive shield used by the Watchers of the Terrene Protectorate.",
-  "shortdescription" : "Protector Arch Shield",
+  "shortdescription" : "Protectorate Arch Shield",
   "tooltipKind" : "Shield",
   "twoHanded" : false,
   "itemTags" : ["shield"],
