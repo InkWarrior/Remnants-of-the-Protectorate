@@ -21,7 +21,7 @@
     "frontSleeve" : "fsleeve.png"
   },
   
-  "level" : 2,
+  "level" : 3,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
