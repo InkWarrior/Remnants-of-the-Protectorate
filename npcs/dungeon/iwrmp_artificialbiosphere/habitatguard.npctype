@@ -40,7 +40,7 @@
 					"npcpistol",
 					"npcmachinepistol"
 				],
-			"alt": [{ "name": "commonsmallshield" }, { "name": "commonlargeshield" }]
+			"alt": [{ "name": "iwrmp_protectorateshield" }]
           },
           {
 		    "head" : [ { "name" : "iwrmp_soldierhead" }, { "name" : "iwrmp_soldierhead" }, "" ],
@@ -57,7 +57,7 @@
 					"npcpistol",
 					"npcmachinepistol"
 				],
-			"alt": [{ "name": "commonsmallshield" }, { "name": "commonlargeshield" }]
+			"alt": [{ "name": "iwrmp_protectorateshield" }]
           }
         ] ]
     ]
