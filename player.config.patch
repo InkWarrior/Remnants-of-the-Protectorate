@@ -1,5 +1,22 @@
 [
 
+//MISC
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_protectorateshield"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtchoverbikecontroller"
+        }
+    },
+
+
 //CLOTHES
 
     {
