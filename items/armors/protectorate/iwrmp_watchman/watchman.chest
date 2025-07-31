@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestarmour",
-  "description" : "An already old armor design used by the Protectorate.",
+  "description" : "An old armor design used by the Protectorate.",
   "shortdescription" : "Watchman Breastplate",
   "tooltipKind" : "armor",
 
@@ -21,7 +21,7 @@
     "frontSleeve" : "fsleeve.png"
   },
   
-  "level" : 2,
+  "level" : 4,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",

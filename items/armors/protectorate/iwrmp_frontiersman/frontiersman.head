@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "An Envoy Combat Helmet, seems to be an old peacekeeper helmet repurposed for Envoys.",
+  "description" : "An Envoy Combat Helmet, seems to be based off of an old Peacekeeper helmet.",
   "shortdescription" : "Frontiersman Helmet",
   "tooltipKind" : "armor",
 
@@ -13,7 +13,7 @@
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
   
-  "level" : 2,
+  "level" : 3,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",

@@ -5,14 +5,14 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "legarmour",
-  "description" : "While sturdy looking, this set is surprisingly light and comfortable to use.",
+  "description" : "While sturdy looking, these boots are surprisingly light and comfortable to use.",
   "shortdescription" : "Watchman Boots",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
   
-  "level" : 2,
+  "level" : 4,
   "leveledStatusEffects" : [
     {
       "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
