@@ -40,7 +40,7 @@
 			  "durasteelrevolver",
 			  "titaniummachinepistol"
 				],
-			"alt": [{ "name": "commonsmallshield" }, { "name": "commonlargeshield" }]
+			"alt": [{ "name": "iwrmp_protectorateshield" }]
           },
           {
 		    "head" : [ { "name" : "iwrmp_frontiersmanhead" } ],
@@ -54,7 +54,7 @@
             "sheathedprimary" : [
               "durasteelshortsword"
             ],
-            "alt" : [{ "name" : "commonsmallshield" }, { "name" : "commonlargeshield" }]
+            "alt" : [{ "name" : "iwrmp_protectorateshield" }]
           }
         ] ]
     ]
