@@ -1,0 +1,13 @@
+[
+    {
+        "op": "test",
+        "path": "/gardenChestTreasure/0/1/fill"
+    },
+    {
+        "op": "add",
+        "path": "/gardenChestTreasure/0/1/fill/-",
+        "value": {
+            "item": "iwrmp_easprotectorate1-codex"
+        }
+    }
+]
