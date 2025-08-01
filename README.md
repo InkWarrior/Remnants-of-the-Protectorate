@@ -13,7 +13,7 @@ __GENERAL:__
 - Continue tests for the Envoy ship and fill it with npcs.
 - Make Mech parts for the Protectorate:
     - Envoy body (exploration themed).
-    - Matter manipulator-like Arm.
+    - Matter Separator Mech Arm.
 - Split the store categories for the Envoy and Protectorate SAIL units.
 
 __NPCS__
@@ -24,7 +24,7 @@ __MISC__
 - Introduce Pocket Storage Units (provisional name)
 
 __FURNITURE__
-- Standarize prices and rarity for all current objects.
+- Standarize prices and rarity for all current objects (in-progress).
 - Add obtainable recipes for Protectorate furniture.
 - Complete colony furniture.
 - Make SAIL Units for Envoy Ship and Protectorate Space Station.
@@ -39,7 +39,6 @@ __DUNGEONS__
 - Space Dungeons:
    - Envoy Ship (in-progress).
    - Protectorate Space Station.
-- Rework Emergency Drop-pods and make easprotectorate1 spawn on Pod Chests.
 
 __CLOTHES__
 - Make a Protectorate Captain outfit.
@@ -53,3 +52,4 @@ __LORE__
 - Make Lore about the Rosenfield Plan.
 - Make Lore for Protectorate Space Stations.
 - Make Lore about the matter manipulator and make additions of it to other parts of the mod.
+- Make piece of lore about the Arch of Peace.
