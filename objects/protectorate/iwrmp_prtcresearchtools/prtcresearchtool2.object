@@ -1,13 +1,12 @@
 {
   "objectName" : "iwrmp_prtcresearchtool2",
   "colonyTags" : ["protectorate","prtc_envoy","misc"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 1500,
+  "price" : 75,
   "description" : "A portable disdrometer, useful to measure the raindrop size distribution.",
   "shortdescription" : "Portable Disdrometer",
   "race" : "protectorate",
-  "printable" : false,
 
   "apexDescription" : "I can't think of good reasons to measure raindrops.",
   "avianDescription" : "What's the purpose of this device?",

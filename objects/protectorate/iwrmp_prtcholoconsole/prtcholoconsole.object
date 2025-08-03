@@ -3,10 +3,11 @@
   "colonyTags" : ["protectorate","electronic"],
   "rarity" : "Uncommon",
   "category" : "wire",
-  "price" : 70,
-  "description" : "A console with an integrated hologram projector.",
-  "shortdescription" : "Protectorate Holo-Console",
+  "price" : 150,
+  "description" : "A console with used to project holograms.",
+  "shortdescription" : "Remodeled Projector Console",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [22, 31, 36],
 

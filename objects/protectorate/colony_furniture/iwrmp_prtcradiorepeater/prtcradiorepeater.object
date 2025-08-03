@@ -1,9 +1,9 @@
 {
   "objectName" : "iwrmp_prtcradiorepeater",
   "colonyTags" : ["prtc_envoy","protectorate","electronic"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 75,
+  "price" : 50,
   "description" : "A radio repeater. It covers long distances.",
   "shortdescription" : "Radio Repeater",
   "race" : "protectorate",

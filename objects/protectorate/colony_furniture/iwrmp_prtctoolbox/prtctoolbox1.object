@@ -1,11 +1,11 @@
 {
   "objectName" : "iwrmp_prtctoolbox1",
   "colonyTags" : ["prtc_mechanic","protectorate","storage"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
-  "price" : 45,
+  "price" : 25,
   "description" : "A sturdy container, to store all of your tools in a handy place.",
   "shortdescription" : "Mechanic Toolbox",
   "race" : "protectorate",

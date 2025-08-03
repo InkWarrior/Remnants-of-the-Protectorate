@@ -7,6 +7,7 @@
   "description" : "A sleek monitor displaying medical data. A bit too high to reach.",
   "shortdescription" : "Medic Ceiling Monitor",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [22, 31, 36],
   "pointLight" : true,

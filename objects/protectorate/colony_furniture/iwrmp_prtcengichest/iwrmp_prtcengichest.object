@@ -1,11 +1,11 @@
 {
   "objectName" : "iwrmp_prtcengichest",
   "colonyTags" : ["prtc_engineer","protectorate","electronic","mechanical"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
-  "price" : 70,
+  "price" : 135,
   "description" : "A security chest where you can store all of your electronic components.",
   "shortdescription" : "Electronics Storage",
   "race" : "generic",

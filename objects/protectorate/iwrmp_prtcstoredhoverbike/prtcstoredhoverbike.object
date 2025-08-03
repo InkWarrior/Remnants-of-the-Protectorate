@@ -3,11 +3,10 @@
   "colonyTags" : ["protectorate","prtc_envoy","mechanical"],
   "rarity" : "Rare",
   "category" : "decorative",
-  "price" : 2000,
+  "price" : 500,
   "description" : "A storage unit for a protectorate hoverbike.",
-  "shortdescription" : "Stored Hoverbike",
+  "shortdescription" : "Stored Envoy Hoverbike",
   "race" : "protectorate",
-  "printable" : false,
 
   "apexDescription" : "These hoverbikes look very modern.",
   "avianDescription" : "They look solid, sure they are highly durable.",

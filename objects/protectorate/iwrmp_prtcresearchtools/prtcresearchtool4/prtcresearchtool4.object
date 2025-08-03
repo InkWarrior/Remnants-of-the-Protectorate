@@ -3,11 +3,10 @@
   "colonyTags" : ["protectorate","prtc_envoy","misc"],
   "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 1500,
+  "price" : 75,
   "description" : "A tool for... huh, I actually don't know what this does.",
   "shortdescription" : "Weather Research Tool",
   "race" : "protectorate",
-  "printable" : false,
 
   "apexDescription" : "What is this actually for?",
   "avianDescription" : "I don't really know what this does.",

@@ -4,10 +4,11 @@
   "rarity" : "Rare",
   "objectType" : "loungeable",
   "category" : "furniture",
-  "price" : 125,
+  "price" : 135,
   "description" : "Very comfortable, and also adjustable!",
-  "shortdescription" : "Surgical Table",
+  "shortdescription" : "Medic Surgical Table",
   "race" : "protectorate",
+  "printable" : false,
 
   "apexDescription" : "Don't believe their lies, this table is not comfortable!",
   "avianDescription" : "Wait, can you adjust the height of this thing?",

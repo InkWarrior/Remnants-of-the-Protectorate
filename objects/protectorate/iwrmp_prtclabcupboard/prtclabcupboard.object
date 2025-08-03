@@ -1,7 +1,7 @@
 {
   "objectName" : "iwrmp_prtclabcupboard",
   "colonyTags" : ["prtc_chemist","protectorate","science","storage"],
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
@@ -9,6 +9,7 @@
   "description" : "This cupboard looks robust and reliable.",
   "shortdescription" : "Laboratory Cupboard",
   "race" : "protectorate",
+  "printable" : false,
   "health" : 1.5,
 
   "apexDescription" : "Ah, What kind of sample collections are inside?",

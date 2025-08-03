@@ -1,9 +1,9 @@
 {
   "objectName" : "iwrmp_prtcportablebattery",
   "colonyTags" : ["protectorate","prtc_engineer"],
-  "rarity" : "Rare",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 1200,
+  "price" : 45,
   "description" : "Don't be fooled, this is anything but \"pocket\" size.",
   "shortdescription" : "Pocket Battery",
   "race" : "protectorate",

@@ -1,11 +1,11 @@
 {
   "objectName" : "iwrmp_prtccratesmall",
   "colonyTags" : ["protectorate","storage","commerce"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
-  "price" : 100,
+  "price" : 150,
   "description" : "A hefty Protectorate cargo crate, smaller yet reliable.",
   "shortdescription" : "Short Protectorate Crate",
   "race" : "protectorate",

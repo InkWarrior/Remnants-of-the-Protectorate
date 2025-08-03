@@ -3,10 +3,11 @@
   "colonyTags" : ["protectorate", "commerce"],
   "rarity" : "Common",
   "category" : "decorative",
-  "price" : 110,
+  "price" : 105,
   "description" : "A pretty white table. Just remember to clean it every time.",
   "shortdescription" : "Vanguard Table",
   "race" : "protectorate",
+  "printable" : false,
 
   "apexDescription" : "A decent white table.",
   "avianDescription" : "A nice simple table.",

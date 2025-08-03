@@ -3,11 +3,10 @@
   "colonyTags" : ["protectorate","prtc_envoy","misc"],
   "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 1500,
+  "price" : 75,
   "description" : "A Geiger-Muller counter, perfect to measure ionizing radiation in hazardous places.",
   "shortdescription" : "Geiger Counter",
   "race" : "protectorate",
-  "printable" : false,
 
   "apexDescription" : "A highly useful tool, radiation is a horrible thing to find.",
   "avianDescription" : "I wish I wouldn't know what radiation is.",

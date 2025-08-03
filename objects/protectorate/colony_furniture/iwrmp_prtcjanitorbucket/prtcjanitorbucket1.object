@@ -1,7 +1,7 @@
 {
   "objectName" : "iwrmp_prtcjanitorbucket1",
   "colonyTags" : ["prtc_janitor","protectorate","misc"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 25,
   "description" : "A bucket to wring out mops easily",

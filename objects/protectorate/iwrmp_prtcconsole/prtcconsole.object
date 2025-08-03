@@ -1,12 +1,13 @@
 {
   "objectName" : "iwrmp_prtcconsole",
   "colonyTags" : ["protectorate","electronic"],
-  "rarity" : "Rare",
+  "rarity" : "Uncommon",
   "category" : "wire",
-  "price" : 70,
+  "price" : 150,
   "description" : "A modernized security console, for any sort of activity besides securing things.",
   "shortdescription" : "Remodeled Console",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [22, 31, 36],
 

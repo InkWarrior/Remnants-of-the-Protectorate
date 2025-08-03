@@ -1,9 +1,9 @@
 {
   "objectName" : "iwrmp_prtcholoscreen",
   "colonyTags" : ["prtc_tailor","protectorate","electronic"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 135,
+  "price" : 165,
   "description" : "A holographic screen displaying some clothe designs.",
   "shortdescription" : "Designer Holo-Screen",
   "race" : "protectorate",

@@ -4,10 +4,11 @@
   "rarity" : "Rare",
   "objectType" : "loungeable",
   "category" : "furniture",
-  "price" : 125,
+  "price" : 135,
   "description" : "An adjustable medical bed, ideal to rest after a surgery.",
   "shortdescription" : "Medical Bed",
   "race" : "protectorate",
+  "printable" : false,
 
   "apexDescription" : "Unlike some tables out there, this? this is comfortable.",
   "avianDescription" : "Looks incredibly clean and... tasteless.",

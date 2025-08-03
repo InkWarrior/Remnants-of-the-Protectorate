@@ -1,13 +1,12 @@
 {
   "objectName" : "iwrmp_prtclabequipment",
   "colonyTags" : ["prtc_chemist","protectorate","science"],
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "category" : "decorative",
-  "price" : 2500,
+  "price" : 65,
   "description" : "All sort of science stuff you would see on a functional laboratory.",
   "shortdescription" : "Laboratory Equipment",
   "race" : "protectorate",
-  "printable" : false,
 
   "apexDescription" : "Equipment usually reserved for science purposes.",
   "avianDescription" : "Sanitized equipment used by lab people.",

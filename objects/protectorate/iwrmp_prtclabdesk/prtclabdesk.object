@@ -1,11 +1,11 @@
 {
   "objectName" : "iwrmp_prtclabdesk",
   "colonyTags" : ["prtc_chemist","protectorate","science","storage"],
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "furniture",
-  "price" : 120,
+  "price" : 115,
   "description" : "A clean desk that despite looking flimsy is solidly built.",
   "shortdescription" : "Laboratory Desk",
   "race" : "protectorate",

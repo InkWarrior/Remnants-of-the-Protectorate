@@ -3,10 +3,11 @@
   "colonyTags" : ["prtc_medic","protectorate","electronic"],
   "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 120,
+  "price" : 115,
   "description" : "A wall-mounted screen, it shows the vital signs of a person.",
   "shortdescription" : "Medic Vitals Display",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [27, 50, 64],
 

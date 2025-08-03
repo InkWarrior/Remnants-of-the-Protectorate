@@ -5,10 +5,11 @@
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
-  "price" : 225,
+  "price" : 175,
   "description" : "A storage panel locker with a big logo of the Protectorate.",
   "shortdescription" : "Protectorate Storage Locker",
   "race" : "protectorate",
+  "printable" : false,
   "health" : 1.5,
 
   "apexDescription" : "I should be careful with my hands.",

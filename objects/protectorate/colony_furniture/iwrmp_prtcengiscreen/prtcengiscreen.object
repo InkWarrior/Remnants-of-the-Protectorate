@@ -1,9 +1,9 @@
 {
   "objectName" : "iwrmp_prtcengiscreen",
   "colonyTags" : ["prtc_engineer","protectorate","electronic"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 120,
+  "price" : 165,
   "description" : "This screen is currently showing a lot of technical data.",
   "shortdescription" : "Engineering Screen",
   "race" : "protectorate",

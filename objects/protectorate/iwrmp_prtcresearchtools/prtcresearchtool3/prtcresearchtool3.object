@@ -1,13 +1,12 @@
 {
   "objectName" : "iwrmp_prtcresearchtool3",
   "colonyTags" : ["protectorate","prtc_envoy","misc"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 1500,
+  "price" : 75,
   "description" : "A tool to measure angles, often used for construction.",
   "shortdescription" : "Theodolite",
   "race" : "protectorate",
-  "printable" : false,
 
   "apexDescription" : "A very useful tool, if I knew how to actually use it.",
   "avianDescription" : "This is a very curious spyglass.",

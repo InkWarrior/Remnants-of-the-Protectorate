@@ -1,13 +1,14 @@
 {
   "objectName" : "iwrmp_prtctent",
   "colonyTags" : ["protectorate","explorer","prtc_envoy"],
-  "rarity" : "Rare",
+  "rarity" : "Common",
   "objectType" : "loungeable",
   "category" : "furniture",
   "price" : 65,
   "description" : "For all those times you wanted to sleep under harsh conditions!",
   "shortdescription" : "Vanguard Dome Tent",
   "race" : "protectorate",
+  "printable" : false,
 
   "apexDescription" : "A resistant tent. I should take a nap.",
   "avianDescription" : "A temporary house.",

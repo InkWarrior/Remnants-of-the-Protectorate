@@ -5,10 +5,11 @@
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
-  "price" : 160,
+  "price" : 145,
   "description" : "A medic cupboard full of medical goodies.",
   "shortdescription" : "Medic Cupboard",
   "race" : "protectorate",
+  "printable" : false,
   "health" : 1.5,
 
   "apexDescription" : "A tough cupboard for medical supplies.",

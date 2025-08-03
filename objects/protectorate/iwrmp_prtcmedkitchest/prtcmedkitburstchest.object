@@ -4,7 +4,6 @@
   "rarity" : "Legendary",
   "tooltipKind" : "base",
   "category" : "storage",
-  "price" : 70,
   "description" : "A mechanical wall chest, used to store medkits and other emergency medical stuff.",
   "shortdescription" : "Medkit Chest",
   "race" : "protectorate",

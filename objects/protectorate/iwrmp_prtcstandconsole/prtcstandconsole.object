@@ -3,10 +3,11 @@
   "colonyTags" : ["protectorate","wired"],
   "rarity" : "Uncommon",
   "category" : "wire",
-  "price" : 125,
+  "price" : 150,
   "description" : "A small security console. There's no chair around to sit down.",
   "shortdescription" : "Remodeled Standing Console",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [23, 33, 38],
   "flickerPeriod" : 0.3,

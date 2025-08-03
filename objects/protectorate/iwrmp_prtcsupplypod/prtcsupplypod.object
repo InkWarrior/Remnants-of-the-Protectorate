@@ -7,10 +7,9 @@
   "category" : "storage",
   "price" : 125,
   "description" : "An emergency supply pod, quite spacious considering its size.",
-  "shortdescription" : "Emergency Supply Pod",
+  "shortdescription" : "Protectorate Supply Pod",
   "race" : "generic",
   "health" : 1.5,
-  "printable" : false,
 
   "lightColor" : [20, 29, 33],
 

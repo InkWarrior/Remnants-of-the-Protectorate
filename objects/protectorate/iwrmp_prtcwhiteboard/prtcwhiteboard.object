@@ -1,9 +1,9 @@
 {
   "objectName" : "iwrmp_prtcwhiteboard",
   "colonyTags" : ["protectorate","science","pretty"],
-  "rarity" : "Rare",
+  "rarity" : "Common",
   "category" : "decorative",
-  "price" : 800,
+  "price" : 75,
   "description" : "A shiny white board with some writings on it.",
   "shortdescription" : "White Board",
   "race" : "protectorate",

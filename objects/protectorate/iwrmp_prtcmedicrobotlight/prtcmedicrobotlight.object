@@ -3,10 +3,11 @@
   "colonyTags" : ["prtc_medic","protectorate","light"],
   "rarity" : "Rare",
   "category" : "light",
-  "price" : 90,
+  "price" : 105,
   "description" : "A light attached to a robotic arm, ideal when you need to reposition it during a surgery.",
   "shortdescription" : "Medical Robotic Light",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [220, 220, 220],
   "pointLight" : true,

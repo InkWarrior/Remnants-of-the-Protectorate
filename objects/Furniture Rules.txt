@@ -1,0 +1,95 @@
+
+--"Remodeled" Stuff is going to be Uncommon, included other mechanical stuff not labeled the same but with a similar style.
+
+--"Vanguard" Stuff is going to be Common.
+
+--Any specialization (like "Medical") is going to be Rare.
+
+--Any plain non-obtainable items are going to be Legendary (independently of the categories above).
+
+--All colony items are going to be Uncommon (independently of the categories above), these include only those in the colony folder.
+
+*The purchase price of any item is going to be its regular price + a 1/4 of its regular price, always rounded to either 0 or 5.
+
+
+CATALOGUE DATA PAD LIST:
+-iwrmp_prtctopmonitor
+-iwrmp_prtctinycrate1
+-iwrmp_prtctinycrate2
+-iwrmp_prtcterminal
+-iwrmp_prtctent
+-iwrmp_prtcstoragelocker
+-iwrmp_prtcstandconsole
+-iwrmp_prtcsmallmonitor
+-iwrmp_prtcportableantenna
+-iwrmp_prtcportablebattery
+-iwrmp_prtcholoconsole
+-iwrmp_prtcdisplay
+-iwrmp_prtcconsole
+
+-iwrmp_prtcmedictrolley
+-iwrmp_prtcmedicrobotlight
+-iwrmp_prtcmedicpanel
+-iwrmp_prtcmediclight
+-iwrmp_prtcmedicdisplay1
+-iwrmp_prtcmedicdisplay2
+-iwrmp_prtcmediccupboard
+-iwrmp_prtcmedicceilingmonitor
+-iwrmp_prtcmediccabinet
+-iwrmp_prtcmedicbed
+-iwrmp_prtcmedicbed2
+-iwrmp_prtcmedicarms
+-iwrmp_prtclabdeskshelf
+-iwrmp_prtclabtable
+-iwrmp_prtclabcupboard
+
+
+PIXEL PRINTER LIST:
+-iwrmp_prtcwhiteboard
+-iwrmp_prtcunmountedpod
+-iwrmp_prtccharredpod
+-iwrmp_prtcsupplypod
+-iwrmp_prtcstoredhoverbike
+-iwrmp_prtcsaplingbox
+-iwrmp_prtcresearchtool1
+-iwrmp_prtcresearchtool2
+-iwrmp_prtcresearchtool3
+-iwrmp_prtcresearchtool4
+-iwrmp_prtcresearchtool5
+-iwrmp_prtcpodstorage
+-iwrmp_prtcnavconsole
+-iwrmp_prtcenvoystuff1
+-iwrmp_prtcenvoystuff2
+
+REMOTE TERMINAL/SAIL UNITS:
+-iwrmp_prtctoolbox1
+-iwrmp_prtcsmallscanner
+-iwrmp_prtcradiorepeater
+-iwrmp_prtcjanitortrolley
+-iwrmp_prtcjanitorbucket1
+-iwrmp_prtchotplate
+-iwrmp_prtcholoscreen
+-iwrmp_prtcengiscreen
+-iwrmp_prtcengichest
+-iwrmp_prtcdrowertoolbox
+-iwrmp_prtccuttingdesk
+-iwrmp_prtcmedicdesk
+-iwrmp_prtcmedkitchest
+-iwrmp_prtcmedictrashbin
+-iwrmp_prtclabdesk
+-iwrmp_prtclabequipment
+-iwrmp_prtccraftingtable
+
+-iwrmp_prtctable
+-iwrmp_prtcshelf
+-iwrmp_prtcpottedplant
+-iwrmp_prtccratelarge
+-iwrmp_prtccratesmall
+-iwrmp_prtcchair
+-iwrmp_prtccaptainbed
+-iwrmp_prtccabinet
+-iwrmp_prtcbookcase
+
+UNOBTAIBLE
+-iwrmp_prtcmedkitburstchest
+-iwrmp_prtcshipsailunit

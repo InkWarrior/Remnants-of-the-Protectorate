@@ -1,7 +1,7 @@
 {
   "objectName" : "iwrmp_prtccuttingdesk",
   "colonyTags" : ["prtc_tailor","protectorate","science","storage"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "furniture",

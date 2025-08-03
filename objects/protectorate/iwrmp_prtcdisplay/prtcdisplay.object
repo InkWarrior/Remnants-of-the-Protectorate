@@ -3,10 +3,11 @@
   "colonyTags" : ["protectorate","electronic"],
   "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 120,
+  "price" : 115,
   "description" : "A wall-mounted screen, there seems to be an image of a planet there.",
-  "shortdescription" : "Protectorate Display",
+  "shortdescription" : "Remodeled Planet Display",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [27, 50, 64],
 

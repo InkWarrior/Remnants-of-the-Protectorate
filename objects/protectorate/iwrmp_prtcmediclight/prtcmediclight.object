@@ -3,10 +3,11 @@
   "colonyTags" : ["prtc_medic","protectorate","light"],
   "rarity" : "Rare",
   "category" : "light",
-  "price" : 60,
+  "price" : 65,
   "description" : "A wall medic light.",
   "shortdescription" : "Medic Light",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [0, 174, 255],
 

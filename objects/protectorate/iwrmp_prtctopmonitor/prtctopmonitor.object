@@ -3,10 +3,11 @@
   "colonyTags" : ["protectorate","electronic","wired"],
   "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 125,
+  "price" : 185,
   "description" : "Depending where you're sitting it can be comfortable to look at.",
-  "shortdescription" : "Protectorate Ceiling Monitor",
+  "shortdescription" : "Remodeled Ceiling Monitor",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [22, 31, 36],
   "pointLight" : true,

@@ -3,10 +3,11 @@
   "colonyTags" : ["prtc_medic","protectorate","light"],
   "rarity" : "Rare",
   "category" : "light",
-  "price" : 90,
+  "price" : 175,
   "description" : "Three mechanical arms specialized on surgery. Don't worry! They know what they're doing.",
   "shortdescription" : "Medical Surgery Arms",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [220, 220, 220],
   "pointLight" : true,

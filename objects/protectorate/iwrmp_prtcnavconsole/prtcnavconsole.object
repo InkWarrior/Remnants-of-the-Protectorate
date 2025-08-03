@@ -3,11 +3,10 @@
   "colonyTags" : ["protectorate","electronic"],
   "rarity" : "Rare",
   "category" : "wire",
-  "price" : 220,
+  "price" : 195,
   "description" : "A navigation console, displaying data about this ship current course.",
   "shortdescription" : "Remodeled Navigation Console",
   "race" : "protectorate",
-  "printable" : false,
 
   "lightColor" : [22, 31, 36],
 

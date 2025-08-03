@@ -5,10 +5,11 @@
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
-  "price" : 85,
+  "price" : 115,
   "description" : "A metallic suspended cabinet.",
   "shortdescription" : "Medic Wall Cabinet",
   "race" : "protectorate",
+  "printable" : false,
   "health" : 1.5,
 
   "apexDescription" : "A bit too far for me to reach.",

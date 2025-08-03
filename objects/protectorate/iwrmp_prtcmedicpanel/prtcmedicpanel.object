@@ -3,10 +3,11 @@
   "colonyTags" : ["prtc_medic","protectorate","electronic"],
   "rarity" : "Rare",
   "category" : "decorative",
-  "price" : 800,
+  "price" : 205,
   "description" : "A bunch of screens displaying medical information.",
   "shortdescription" : "Medical Panel Display",
   "race" : "protectorate",
+  "printable" : false,
 
   "lightColor" : [27, 50, 64],
 

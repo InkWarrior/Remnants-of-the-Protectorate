@@ -1,9 +1,9 @@
 {
   "objectName" : "iwrmp_prtchotplate",
   "colonyTags" : ["prtc_chemist","protectorate","electronic"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 135,
+  "price" : 45,
   "description" : "A small appliance used in laboratories to heat samples.",
   "shortdescription" : "Laboratory Hotplate",
   "race" : "protectorate",

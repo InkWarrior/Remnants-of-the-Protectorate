@@ -1,13 +1,12 @@
 {
   "objectName" : "iwrmp_prtcresearchtool1",
   "colonyTags" : ["protectorate","prtc_envoy","misc"],
-  "rarity" : "Rare",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 1500,
+  "price" : 75,
   "description" : "A Campbell-Stokes heliograph, useful to measure the sunshine density.",
   "shortdescription" : "Sunshine Recorder",
   "race" : "protectorate",
-  "printable" : false,
 
   "apexDescription" : "I can't think of good reasons to measure sunshine.",
   "avianDescription" : "What's the purpose of the crystal sphere inside?",

@@ -1,13 +1,12 @@
 {
   "objectName" : "iwrmp_prtcunmountedpod",
   "colonyTags" : ["protectorate","mechanical"],
-  "rarity" : "Rare",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 1800,
+  "price" : 185,
   "description" : "So... why there are bombs inside this status pod?",
   "shortdescription" : "Unmounted Status Pod",
   "race" : "protectorate",
-  "printable" : false,
 
   "apexDescription" : "Thank god I won't have to deal with bombs.",
   "avianDescription" : "Finally, no more bombs!",

@@ -3,7 +3,7 @@
   "colonyTags" : ["protectorate","commerce","crafting"],
   "rarity" : "Legendary",
   "category" : "crafting",
-  "price" : 5000,
+  "price" : 2500,
   "description" : "A trading terminal to buy and sell stuff from the Protectorate remotely.",
   "shortdescription" : "^cyan;Protectorate Remote Terminal",
   "interactAction" : "OpenCraftingInterface",

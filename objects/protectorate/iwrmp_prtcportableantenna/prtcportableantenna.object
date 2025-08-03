@@ -3,9 +3,9 @@
   "colonyTags" : ["protectorate","explorer","pretty"],
   "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 2500,
+  "price" : 105,
   "description" : "A deployable antenna, easy to carry around.",
-  "shortdescription" : "Portable Antenna",
+  "shortdescription" : "Envoy Portable Antenna",
   "race" : "protectorate",
   "printable" : false,
 

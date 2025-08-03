@@ -1,9 +1,9 @@
 {
   "objectName" : "iwrmp_prtcjanitortrolley",
   "colonyTags" : ["prtc_janitor","protectorate","misc"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 25,
+  "price" : 85,
   "description" : "A plastic trolley, useful to carry all of your cleaning stuff wherever you need.",
   "shortdescription" : "Janitor Trolley",
   "race" : "protectorate",

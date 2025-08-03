@@ -1,9 +1,9 @@
 {
   "objectName" : "iwrmp_prtclabdeskshelf",
   "colonyTags" : ["prtc_chemist","protectorate","science"],
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "category" : "decorative",
-  "price" : 120,
+  "price" : 75,
   "description" : "Better to stack them over a handy desk.",
   "shortdescription" : "Laboratory Shelves",
   "race" : "protectorate",

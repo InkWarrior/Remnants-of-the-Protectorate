@@ -3,11 +3,10 @@
   "colonyTags" : ["protectorate","storage","mechanical"],
   "rarity" : "Uncommon",
   "category" : "decorative",
-  "price" : 50,
+  "price" : 125,
   "description" : "A storage unit which supports an individual supply pod.",
   "shortdescription" : "Supply Pod Storage Unit",
   "race" : "protectorate",
-  "printable" : false,
 
   "apexDescription" : "The protectorate launch these pods only in case of an emergency, which is quite rare.",
   "avianDescription" : "I know the Protectorate uses them from time to time, usually means \"bad news\".",

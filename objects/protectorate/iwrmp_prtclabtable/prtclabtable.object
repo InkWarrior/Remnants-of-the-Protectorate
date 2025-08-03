@@ -1,12 +1,13 @@
 {
   "objectName" : "iwrmp_prtclabtable",
   "colonyTags" : ["prtc_chemist","protectorate","science"],
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "category" : "furniture",
-  "price" : 105,
+  "price" : 130,
   "description" : "An unusually large laboratory table.",
   "shortdescription" : "Laboratory Table",
   "race" : "protectorate",
+  "printable" : false,
 
   "apexDescription" : "A large laboratory table.",
   "avianDescription" : "A table to make experiments on it.",

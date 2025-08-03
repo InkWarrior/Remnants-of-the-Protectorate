@@ -1,7 +1,7 @@
 {
   "objectName" : "iwrmp_prtcdrowertoolbox",
   "colonyTags" : ["prtc_mechanic","protectorate","storage"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",
