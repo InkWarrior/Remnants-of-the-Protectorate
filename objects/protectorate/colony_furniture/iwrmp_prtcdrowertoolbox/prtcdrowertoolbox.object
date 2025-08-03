@@ -7,7 +7,7 @@
   "category" : "storage",
   "price" : 115,
   "description" : "A red metallic toolbox.",
-  "shortdescription" : "Drower Toolbox",
+  "shortdescription" : "Drawer Toolbox",
   "race" : "protectorate",
   "health" : 1.5,
 
@@ -16,7 +16,7 @@
   "floranDescription" : "Floran can store spearss and stickss!",
   "glitchDescription" : "Curious. A dedicated drower for working tools.",
   "humanDescription" : "A good reliable toolbox.",
-  "hylotlDescription" : "A toolbox is essential to keep a working place in order.",
+  "hylotlDescription" : "A toolbox is essential to keep a work space in order.",
   "novakidDescription" : "A good ol' toolbox.",
 
   "inventoryIcon" : "icon.png",
