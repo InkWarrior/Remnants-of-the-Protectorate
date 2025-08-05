@@ -223,7 +223,7 @@
           "onfire" : {
             "on" : {
               "properties" : {
-                "image" : "hoverbikefire.png:burn.<frame>"
+                "image" : "/vehicles/hoverbike/hoverbikefire.png:burn.<frame>"
               }
             }
           }
