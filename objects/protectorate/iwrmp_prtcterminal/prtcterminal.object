@@ -17,7 +17,7 @@
   "hylotlDescription" : "A terminal to consult anything on.",
   "novakidDescription" : "Just a terminal, prob'ly connects to somethin'.",
 
-  "inventoryIcon" : "prtcterminalicon.png",
+  "inventoryIcon" : "icon.png",
   "orientations" : [
     {
       "imageLayers" : [ { "image" : "prtcterminal.png:<color>" } ],
