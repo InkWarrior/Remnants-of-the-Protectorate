@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 115,
-  "description" : "A wall-mounted screen, it shows the vital signs of a person.",
+  "description" : "A wall-mounted screen, it shows the vital signs of someone.",
   "shortdescription" : "Medic Vitals Display",
   "race" : "protectorate",
   "printable" : false,
@@ -14,10 +14,10 @@
   "apexDescription" : "A monitor displaying the heart rate of a person.",
   "avianDescription" : "Somehow this is able to monitor your life?",
   "floranDescription" : "Floran feels curiouss about how the display workss.",
-  "glitchDescription" : "Intrigued. Can something similar be made for the Glitch?",
+  "glitchDescription" : "Intrigued. Can something similar be made for us Glitch?",
   "humanDescription" : "Oh, it's just like in the movies with the beep and all! ",
   "hylotlDescription" : "A display that monitors the vitality of a person.",
-  "novakidDescription" : "This works with novakids?",
+  "novakidDescription" : "Does this work on Novakids?",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

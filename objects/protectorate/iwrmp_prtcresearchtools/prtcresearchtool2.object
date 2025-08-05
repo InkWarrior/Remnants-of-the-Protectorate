@@ -4,17 +4,17 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 75,
-  "description" : "A portable disdrometer, useful to measure the raindrop size distribution.",
+  "description" : "A portable disdrometer, useful to measuring raindrop size distribution.",
   "shortdescription" : "Portable Disdrometer",
   "race" : "protectorate",
 
-  "apexDescription" : "I can't think of good reasons to measure raindrops.",
+  "apexDescription" : "I can't think of any good reasons to measure raindrops.",
   "avianDescription" : "What's the purpose of this device?",
   "floranDescription" : "Floran wonderss how small drops are.",
-  "glitchDescription" : "Curious. I wonder which are the benefits of measuring raindrops.",
-  "humanDescription" : "Why somebody would like to measure raindrops?",
-  "hylotlDescription" : "It's wonderful the kind of instruments we invent to measure everything.",
-  "novakidDescription" : "Heh, the two-facing cameras look kinda funny.",
+  "glitchDescription" : "Curious. I wonder what the benefits of measuring raindrops are.",
+  "humanDescription" : "Why would somebody want to measure raindrops?",
+  "hylotlDescription" : "It's wonderful the kind of instruments we invent to measure everything with.",
+  "novakidDescription" : "Heh, the two-facin' cameras look kinda funny.",
 
 
   "inventoryIcon" : "prtcresearchtool2icon.png",

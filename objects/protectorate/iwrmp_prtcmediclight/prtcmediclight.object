@@ -4,20 +4,20 @@
   "rarity" : "Rare",
   "category" : "light",
   "price" : 65,
-  "description" : "A wall medic light.",
+  "description" : "A wall-mounted medic light.",
   "shortdescription" : "Medic Light",
   "race" : "protectorate",
   "printable" : false,
 
   "lightColor" : [0, 174, 255],
 
-  "apexDescription" : "A wall light commonly used to lit medical areas.",
-  "avianDescription" : "A blue vibrant light.",
-  "floranDescription" : "Floran likess the blue sshine of the light.",
+  "apexDescription" : "A wall light commonly used to light medical areas.",
+  "avianDescription" : "A blue, vibrant light.",
+  "floranDescription" : "Floran likess the blue sshine of light.",
   "glitchDescription" : "Neutral. This blue light makes me feel oddly relaxed.",
-  "humanDescription" : "A simple medic blue light.",
-  "hylotlDescription" : "These blue lights creates that calming atmosphere medical areas have.",
-  "novakidDescription" : "That's one bright long light.",
+  "humanDescription" : "A simple blue medic light.",
+  "hylotlDescription" : "These blue lights create that calming atmosphere medical areas tend to have.",
+  "novakidDescription" : "That's one bright n' long light.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

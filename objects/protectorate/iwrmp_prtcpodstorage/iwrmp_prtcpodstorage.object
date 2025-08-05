@@ -8,12 +8,12 @@
   "shortdescription" : "Supply Pod Storage Unit",
   "race" : "protectorate",
 
-  "apexDescription" : "The protectorate launch these pods only in case of an emergency, which is quite rare.",
-  "avianDescription" : "I know the Protectorate uses them from time to time, usually means \"bad news\".",
-  "floranDescription" : "Why the pod is sstored? Floran wantss to know whats inside.",
+  "apexDescription" : "The Protectorate launch these pods only in case of an emergency, which is quite rare.",
+  "avianDescription" : "I know the Protectorate uses these from time to time, usually means \"bad news\".",
+  "floranDescription" : "Why is pod sstored? Floran wantss to know whats inside.",
   "glitchDescription" : "Cautious. The fact I've seen them recently means bad news.",
-  "humanDescription" : "I wished for the day I never saw an emergency pod, until now.",
-  "hylotlDescription" : "Used to provide people with supplies on hard times, I guess those times had arrived.",
+  "humanDescription" : "I wished for the day I never saw an emergency pod, too late now.",
+  "hylotlDescription" : "Used to provide people with supplies during hard times, I guess those times have arrived.",
   "novakidDescription" : "What if I get into one and get myself launched into space?",
 
 

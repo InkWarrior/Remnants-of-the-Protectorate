@@ -9,13 +9,13 @@
   "race" : "protectorate",
   "printable" : false,
 
-  "apexDescription" : "I'm glad the saplings are okay.",
-  "avianDescription" : "Is it necessary to have all of that plastic to carry a sapling?",
-  "floranDescription" : "Floran glad the ssaplings are good.",
-  "glitchDescription" : "Happy. It's good to see this plants are pristine.",
-  "humanDescription" : "Ah look at that! I didn't knew plants had crates of their own.",
-  "hylotlDescription" : "I undestand the safety measures, but this is already exaggerated.",
-  "novakidDescription" : "A lovely collection of saplings.",
+  "apexDescription" : "I'm glad these saplings are okay.",
+  "avianDescription" : "Is it necessary to have all of that plastic to carry a sapling around?",
+  "floranDescription" : "Floran glad ssaplings are good.",
+  "glitchDescription" : "Happy. It's good to see these plants are in pristine condition.",
+  "humanDescription" : "Ah look at that! I didn't know plants had crates of their own.",
+  "hylotlDescription" : "I undestand the safety measures, but this feels unnecessary .",
+  "novakidDescription" : "A lovely collection o' saplings.",
 
 
   "inventoryIcon" : "icon.png",

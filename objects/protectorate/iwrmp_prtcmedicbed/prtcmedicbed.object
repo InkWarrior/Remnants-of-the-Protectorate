@@ -12,11 +12,11 @@
 
   "apexDescription" : "Don't believe their lies, this table is not comfortable!",
   "avianDescription" : "Wait, can you adjust the height of this thing?",
-  "floranDescription" : "Table doesn't look comfy.",
-  "glitchDescription" : "Concerned. I don't know why people think this table looks comfy, it doesn't!",
+  "floranDescription" : "Table doesssn't look comfy.",
+  "glitchDescription" : "Concerned. I don't know why people think this table looks comfy, it isn't!",
   "humanDescription" : "I prefer to not sleep on one of these under any circumstances!",
-  "hylotlDescription" : "The fact it's employed for medical operations should tell it's not really comfortable.",
-  "novakidDescription" : "It'll be a lot of fun if you can adjust it!",
+  "hylotlDescription" : "The fact it's employed for medical operations should tell you that it's not really comfortable.",
+  "novakidDescription" : "These can be a lot o' fun if you can adjust it!",
 
   "sitFlipDirection" : true,
   "sitPosition" : [-10, 27],

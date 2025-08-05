@@ -4,18 +4,18 @@
   "rarity" : "Rare",
   "category" : "decorative",
   "price" : 125,
-  "description" : "To move medical goods as swift as any situation requires it.",
+  "description" : "For moving medical goods as swiftly as the situation requires.",
   "shortdescription" : "Medical Trolley",
   "race" : "protectorate",
   "printable" : false,
 
   "apexDescription" : "A medical trolley, seems to be very important.",
-  "avianDescription" : "It's really a good idea to move medicine and that stuff on a trolley.",
+  "avianDescription" : "It's a good idea to move medicine and stuff on a trolley.",
   "floranDescription" : "Floran wantsss to ride trolley!",
-  "glitchDescription" : "Reflexive. A trolley can make all the difference in a life-death situation.",
+  "glitchDescription" : "Reflective. A trolley can make all the difference in a life-or-death situation.",
   "humanDescription" : "A trolley full of medical supplies.",
-  "hylotlDescription" : "A trolley is vital to save many lives.",
-  "novakidDescription" : "A medical car, how it would be to ride one?",
+  "hylotlDescription" : "A trolley can be vital to save many lives with.",
+  "novakidDescription" : "A medical car, what would it be like to ride one?",
 
 
   "inventoryIcon" : "icon.png",

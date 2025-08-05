@@ -10,12 +10,12 @@
   "printable" : false,
 
   "apexDescription" : "A large laboratory table.",
-  "avianDescription" : "A table to make experiments on it.",
+  "avianDescription" : "A table to make experiments with.",
   "floranDescription" : "A table for ssscience stuff.",
   "glitchDescription" : "Curious. Why is this table so long?",
   "humanDescription" : "This lab table is quite long.",
   "hylotlDescription" : "A large laboratory table.",
-  "novakidDescription" : "A metallic long table.",
+  "novakidDescription" : "A long metallic table.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

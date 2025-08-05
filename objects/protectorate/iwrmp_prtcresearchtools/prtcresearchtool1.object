@@ -4,17 +4,17 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 75,
-  "description" : "A Campbell-Stokes heliograph, useful to measure the sunshine density.",
+  "description" : "A Campbell-Stokes heliograph, useful for measuring sunshine density.",
   "shortdescription" : "Sunshine Recorder",
   "race" : "protectorate",
 
-  "apexDescription" : "I can't think of good reasons to measure sunshine.",
+  "apexDescription" : "I can't think of any good reasons to measure sunshine.",
   "avianDescription" : "What's the purpose of the crystal sphere inside?",
-  "floranDescription" : "Floran iss intrigued about the glasss ball.",
-  "glitchDescription" : "Curious. I wonder which are the benefits of measuring sunshine.",
+  "floranDescription" : "Floran iss intrigued about glasss ball.",
+  "glitchDescription" : "Curious. I wonder what the benefits of measuring sunshine are.",
   "humanDescription" : "Maybe I can use the sphere for magic stuff!",
-  "hylotlDescription" : "It's wonderful the kind of instruments we invent to measure everything.",
-  "novakidDescription" : "Hey that glass ball looks pretty cool!",
+  "hylotlDescription" : "It's wonderful the kind of instruments we invent to measure everything with.",
+  "novakidDescription" : "Hey that there glass ball looks pretty darned cool!",
 
 
   "inventoryIcon" : "prtcresearchtool1icon.png",

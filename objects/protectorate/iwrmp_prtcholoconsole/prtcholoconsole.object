@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "category" : "wire",
   "price" : 150,
-  "description" : "A console with used to project holograms.",
+  "description" : "A console used to project holograms.",
   "shortdescription" : "Remodeled Projector Console",
   "race" : "protectorate",
   "printable" : false,
@@ -12,12 +12,12 @@
   "lightColor" : [22, 31, 36],
 
   "apexDescription" : "A console projecting the image of a planet.",
-  "avianDescription" : "I wonder which planet it's being displayed here.",
+  "avianDescription" : "I wonder what planet is being displayed here.",
   "floranDescription" : "Big blue planet, Floran is interessted.",
   "glitchDescription" : "Amazed. The fidelity of the hologram is quite advanced compared to others.",
   "humanDescription" : "It looks amazing! I wonder what else it can project.",
   "hylotlDescription" : "This hologram is in high definition, the Protectorate definitely has good stuff.",
-  "novakidDescription" : "What a peculiar image! I can watch movies there.",
+  "novakidDescription" : "What an odd image! I can watch movies with this here machine!",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

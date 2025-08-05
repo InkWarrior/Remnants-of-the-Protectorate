@@ -13,13 +13,13 @@
 
   "lightColor" : [16, 23, 26],
 
-  "apexDescription" : "I had heard that Protectorate crates are some of the sturdiest in space.",
-  "avianDescription" : "I wonder what the Protectorate stores here.",
-  "floranDescription" : "Crate too sturdy for Floran to survive a crash?",
-  "glitchDescription" : "Intrigued. Protectorate crates are designed to store their things for decades.",
+  "apexDescription" : "I had heard that Protectorate crates are some of the sturdiest out there.",
+  "avianDescription" : "I wonder what the Protectorate stores in these.",
+  "floranDescription" : "Crate ssturdy enough for Floran to survive a crash in?",
+  "glitchDescription" : "Intrigued. Protectorate crates are designed to store their contents for decades.",
   "humanDescription" : "A Protectorate crate, one of the strongest to exist.",
-  "hylotlDescription" : "I can proudly afirm that the Protectorate crate was designed by our genious inventors.",
-  "novakidDescription" : "A Protectorate crate... there coul be something valuable there.",
+  "hylotlDescription" : "I can proudly affirm that the Protectorate crate was designed by one of our genius inventors.",
+  "novakidDescription" : "A Protectorate crate... there could be somethin' valuable in there.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

@@ -4,17 +4,17 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 45,
-  "description" : "Don't be fooled, this is anything but \"pocket\" size.",
+  "description" : "Don't be fooled, this is anything but \"pocket\" sized.",
   "shortdescription" : "Pocket Battery",
   "race" : "protectorate",
   "printable" : false,
 
-  "apexDescription" : "This doesn't fit on my pockets.",
-  "avianDescription" : "This is too big to carrry on my bag.",
+  "apexDescription" : "This doesn't fit in my pockets.",
+  "avianDescription" : "This is too big to carrry in my bag.",
   "floranDescription" : "Floran wonderss what to do with thisss.",
   "glitchDescription" : "Curious. Why call it a pocket battery if it doesn't fit in a pocket?",
   "humanDescription" : "This is a scam, it doesn't fit in my pockets!",
-  "hylotlDescription" : "\"Pocket\" is the proper adjective despite not fitting inside a pocket.",
+  "hylotlDescription" : "\"Pocket\" is the proper adjective despite not being able to fit inside a pocket.",
   "novakidDescription" : "This ain't fittin' my pockets!",
 
 

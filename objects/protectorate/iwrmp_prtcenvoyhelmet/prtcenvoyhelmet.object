@@ -12,8 +12,8 @@
   "floranDescription" : "Finderss Keepersss!",
   "glitchDescription" : "Unsure. Who left their helmet here?",
   "humanDescription" : "I'm not supposed to take it, right?",
-  "hylotlDescription" : "Hello? Did somebody lost their helmet?",
-  "novakidDescription" : "I'm just givin' it a quick look.",
+  "hylotlDescription" : "Hello? Did somebody lose their helmet?",
+  "novakidDescription" : "Just givin' it a quick look...",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

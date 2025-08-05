@@ -4,17 +4,17 @@
   "rarity" : "Rare",
   "category" : "decorative",
   "price" : 500,
-  "description" : "A storage unit for a protectorate hoverbike.",
+  "description" : "A storage unit for a Protectorate hoverbike.",
   "shortdescription" : "Stored Envoy Hoverbike",
   "race" : "protectorate",
 
-  "apexDescription" : "These hoverbikes look very modern.",
-  "avianDescription" : "They look solid, sure they are highly durable.",
-  "floranDescription" : "Floran wantss to drive the bike!",
+  "apexDescription" : "This hoverbike look very modern.",
+  "avianDescription" : "This look solid, surely they are highly durable.",
+  "floranDescription" : "Floran wantss to drive bike!",
   "glitchDescription" : "Neutral. It's good this hoverbike is safely stored.",
   "humanDescription" : "Oh I really want one of these!!",
-  "hylotlDescription" : "The Protectorate choosed a very nice hoverbike model.",
-  "novakidDescription" : "I wanna ride this hoverbike!",
+  "hylotlDescription" : "The Protectorate choose a very nice hoverbike model it seems.",
+  "novakidDescription" : "I wanna ride this here hoverbike!",
 
 
   "inventoryIcon" : "icon.png",

@@ -14,10 +14,10 @@
   "apexDescription" : "A quite sturdy cabinet.",
   "avianDescription" : "A very square-shaped cabinet.",
   "floranDescription" : "A white cabinet, to store your goodiesss.",
-  "glitchDescription" : "Intrigued. Can I stack cabinets on each other?",
-  "humanDescription" : "I'm thinking of doind cabinet jenga.",
+  "glitchDescription" : "Intrigued. Can I stack these cabinets on each other?",
+  "humanDescription" : "I'm thinking of doing cabinet jenga with these.",
   "hylotlDescription" : "A simple yet modern cabinet.",
-  "novakidDescription" : "A very protectorate-like cabinet, what's inside?",
+  "novakidDescription" : "A very Protectorate-like cabinet, what's inside?",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
