@@ -19,12 +19,12 @@
   "flickerPeriodVariance" : 0,
   "flickerIntensityVariance" : 0,
 
-  "apexDescription" : "There is medical data being displayed. If I could only look closer.",
+  "apexDescription" : "There is medical data being displayed. If only I could look closer at it.",
   "avianDescription" : "What if I want to change the channel?",
-  "floranDescription" : "It's far away!",
-  "glitchDescription" : "Annoyed. This medical monitor is way up there.",
-  "humanDescription" : "Thank god, my neck is having some rest.",
-  "hylotlDescription" : "Seems to be a medical monitor. A bit too far for my liking.",
+  "floranDescription" : "It'sss too far away!",
+  "glitchDescription" : "Annoyed. This medical monitor is way too high up.",
+  "humanDescription" : "Thank god my neck is usually having some rest when I'm looking at one of these.",
+  "hylotlDescription" : "Seems to be a medical monitor. A bit too far up for my liking.",
   "novakidDescription" : "This screen is just hangin' there.",
 
   "inventoryIcon" : "icon.png",

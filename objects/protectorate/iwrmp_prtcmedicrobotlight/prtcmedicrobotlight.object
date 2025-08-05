@@ -5,7 +5,7 @@
   "category" : "light",
   "price" : 105,
   "description" : "A light attached to a robotic arm, ideal when you need to reposition it during a surgery.",
-  "shortdescription" : "Medical Robotic Light",
+  "shortdescription" : "Medical Robot Light",
   "race" : "protectorate",
   "printable" : false,
 
@@ -14,13 +14,13 @@
   "pointBeam" : 2,
   "beamAmbience" : 0.3,
 
-  "apexDescription" : "A light attached to a robotic arm? quite genius.",
+  "apexDescription" : "A light attached to a robotic arm? Quite genius.",
   "avianDescription" : "A robotic arm with a light, who could have thought of it?",
-  "floranDescription" : "Is the arm alive?",
+  "floranDescription" : "Isss arm alive?",
   "glitchDescription" : "Curious. This arm for sure does not have any will of its own.",
   "humanDescription" : "I think I want one of these for my room.",
-  "hylotlDescription" : "This have to be a useful thing for doctors!",
-  "novakidDescription" : "A cool looking robot arm.",
+  "hylotlDescription" : "This must be a useful thing for doctors!",
+  "novakidDescription" : "A mighty cool lookin' robot arm.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

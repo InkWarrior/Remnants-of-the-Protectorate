@@ -4,7 +4,7 @@
   "rarity" : "Rare",
   "category" : "light",
   "price" : 175,
-  "description" : "Three mechanical arms specialized on surgery. Don't worry! They know what they're doing.",
+  "description" : "Three mechanical arms specialized in surgery. Don't worry! They know what they're doing.",
   "shortdescription" : "Medical Surgery Arms",
   "race" : "protectorate",
   "printable" : false,
@@ -18,9 +18,9 @@
   "avianDescription" : "These mechanical arms are very frightening.",
   "floranDescription" : "Floran disslikes armsss... can Floran eat them?",
   "glitchDescription" : "Relaxed. I'm certain these arms know how to do their job.",
-  "humanDescription" : "Thank god to this day I haven't need a surgery.",
-  "hylotlDescription" : "Despite it's frightening look, I'm confident on the engineering behind them.",
-  "novakidDescription" : "Lucky me I'll never need these arms on me.",
+  "humanDescription" : "Thank god I haven't needed any surgery to this day.",
+  "hylotlDescription" : "Despite their frightening look, I'm confident on the engineering behind them.",
+  "novakidDescription" : "Lucky me, I'll never need these arms used on lil' ol' me.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

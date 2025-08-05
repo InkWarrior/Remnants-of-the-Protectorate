@@ -6,7 +6,7 @@
   "tooltipKind" : "container",
   "category" : "storage",
   "price" : 175,
-  "description" : "A mechanical wall chest, used to store medkits and other emergency medical stuff.",
+  "description" : "A mechanical wall chest, used to store medkits and other emergency medical supplies.",
   "shortdescription" : "Medkit Chest",
   "race" : "protectorate",
   "health" : 1.5,

@@ -6,17 +6,17 @@
   "tooltipKind" : "container",
   "category" : "storage",
   "price" : 65,
-  "description" : "A pretty medical trash bin for one simple yet unpleasant thing: trash.",
+  "description" : "A pretty advanced trash bin for one simple yet unpleasant thing: trash.",
   "shortdescription" : "Medical Trash Bin",
   "race" : "protectorate",
   "health" : 1.5,
 
   "apexDescription" : "Garbage day!",
   "avianDescription" : "Trash. Simple as that.",
-  "floranDescription" : "Just Rubbish.",
+  "floranDescription" : "Just Rubbisssh.",
   "glitchDescription" : "Unimpressed. It's garbage. Not the bin I mean.",
   "humanDescription" : "Time to take out the trash!",
-  "hylotlDescription" : "Disgusting garbage. Not the bin.",
+  "hylotlDescription" : "Disgusting garbage. Not the bin of course.",
   "novakidDescription" : "Ain't nothin' but trash.",
 
 

@@ -12,9 +12,9 @@
   "avianDescription" : "I don't really know what this does.",
   "floranDescription" : "Floran iss confusssed about tool.",
   "glitchDescription" : "Puzzled. I, in fact, don't know what this is.",
-  "humanDescription" : "Looks very sophisticated! What does it do tho?",
-  "hylotlDescription" : "For once, I don't know the kind of scientific tool this is.",
-  "novakidDescription" : "hehe look at the silly spoon it has on top.",
+  "humanDescription" : "Looks very sophisticated! What does it do though?",
+  "hylotlDescription" : "For once, I don't know the kind of scientific tool this is supposed to be.",
+  "novakidDescription" : "Hehe look at the silly spoon it has on top.",
 
  
   "inventoryIcon" : "prtcresearchtool4icon.png",

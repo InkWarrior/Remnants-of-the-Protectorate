@@ -8,13 +8,13 @@
   "shortdescription" : "Vanguard Captain Bed",
   "race" : "protectorate",
 
-  "apexDescription" : "Only for captains? that's a shame.",
+  "apexDescription" : "Only for captains? That's a shame.",
   "avianDescription" : "Surely I could get a bed like this one, right?",
   "floranDescription" : "Floran will be a captain to sleep on thisss bed!",
-  "glitchDescription" : "Unpleased. what do you mean it's only for captains?",
+  "glitchDescription" : "Displeased. What do you mean it's only for captains?",
   "humanDescription" : "Ah, if only I could sleep on it.",
-  "hylotlDescription" : "One bed of its kind. Shame that it's not common for everyone.",
-  "novakidDescription" : "I will take a nap on it and nobody ain't stoppin' me.",
+  "hylotlDescription" : "Just one bed of its kind. Shame that it's not so common for everyone.",
+  "novakidDescription" : "I will take a nap on it and ain't nobody stoppin' me.",
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,

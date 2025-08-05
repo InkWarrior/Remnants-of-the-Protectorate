@@ -4,19 +4,19 @@
   "rarity" : "Rare",
   "category" : "wire",
   "price" : 195,
-  "description" : "A navigation console, displaying data about this ship current course.",
+  "description" : "A navigation console, displaying data about this ship's current course.",
   "shortdescription" : "Remodeled Navigation Console",
   "race" : "protectorate",
 
   "lightColor" : [22, 31, 36],
 
-  "apexDescription" : "A navigation console, where are we going?",
-  "avianDescription" : "Is this the console that controles the whole ship?",
-  "floranDescription" : "Floran can fly ship with this console!",
+  "apexDescription" : "A navigation console, I wonder where we are going?",
+  "avianDescription" : "Is this the console that controls the whole ship?",
+  "floranDescription" : "Floran can fly ssship with this console!",
   "glitchDescription" : "Observant. This is a navigation console for the ship.",
-  "humanDescription" : "Would the captain let me fly the ship for a second?",
+  "humanDescription" : "Would the captain let me fly the ship for a second maybe?",
   "hylotlDescription" : "A navigation console, manual flight is currently off.",
-  "novakidDescription" : "A navigation console. I need one of those.",
+  "novakidDescription" : "A navigation console. I sure need one of those.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

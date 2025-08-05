@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "category" : "wire",
   "price" : 150,
-  "description" : "A small security console. There's no chair around to sit down.",
+  "description" : "A small security console. There's no chair around to sit down on.",
   "shortdescription" : "Remodeled Standing Console",
   "race" : "protectorate",
   "printable" : false,
@@ -17,11 +17,11 @@
   "flickerIntensityVariance" : 0.0,
 
   "apexDescription" : "Hmm, it wouldn't be bad to sit while using it.",
-  "avianDescription" : "I had always wonder how things would be if other species got to use avolite for their tech.",
+  "avianDescription" : "I have always wondered how things would be if other species got to use Avolite for their tech.",
   "floranDescription" : "Floran stands here. Floran wishess to sit.",
   "glitchDescription" : "Tired. Standing for too long doesn't help the spine.",
-  "humanDescription" : "A small console. Hmm, where could I find a chair?",
-  "hylotlDescription" : "Who tought it would be better used by standing and not sitting?",
+  "humanDescription" : "A small console. Hmm, now where could I find a chair for it?",
+  "hylotlDescription" : "Who thought it would be better used by standing in front of it and not sitting?",
   "novakidDescription" : "I don't mind standing or sittin'.",
 
   "inventoryIcon" : "icon.png",

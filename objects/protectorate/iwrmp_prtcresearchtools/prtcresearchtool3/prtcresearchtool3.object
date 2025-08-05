@@ -4,17 +4,17 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 75,
-  "description" : "A tool to measure angles, often used for construction.",
+  "description" : "A tool to measure angles with, often used for construction.",
   "shortdescription" : "Theodolite",
   "race" : "protectorate",
 
-  "apexDescription" : "A very useful tool, if I knew how to actually use it.",
+  "apexDescription" : "A very useful tool, if I knew how to actually use it that was.",
   "avianDescription" : "This is a very curious spyglass.",
   "floranDescription" : "Floran can look far away!",
-  "glitchDescription" : "Conflicted. I'm sure this tool isn't necessary to build a house.",
+  "glitchDescription" : "Conflicted. I'm sure this tool isn't necessary to build a house with, right?",
   "humanDescription" : "Hot take: this is just a stylish telescope.",
   "hylotlDescription" : "The invention of the theodolite is a blessing for any civilization.",
-  "novakidDescription" : "Who's a theodolite!",
+  "novakidDescription" : "Who's Theodolite?",
 
  
   "inventoryIcon" : "prtcresearchtool3icon.png",

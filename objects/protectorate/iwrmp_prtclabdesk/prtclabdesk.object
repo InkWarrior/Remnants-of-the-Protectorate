@@ -11,13 +11,13 @@
   "race" : "protectorate",
   "health" : 1.5,
 
-  "apexDescription" : "An science desk for science stuff.",
-  "avianDescription" : "I like the clean look it has.",
-  "floranDescription" : "Dessk looks weak but it's strong, Floran respects the dessk.",
-  "glitchDescription" : "Indifferent. A simple desk, usually for science purposes.",
-  "humanDescription" : "The ideal desk to make all sort of experiments over it.",
-  "hylotlDescription" : "Despite its fragile look this desk shows to be highly resistant.",
-  "novakidDescription" : "I love to ride these desks over hallways!",
+  "apexDescription" : "A science desk for science stuff.",
+  "avianDescription" : "I like the clean look this desk has.",
+  "floranDescription" : "Dessk looks weak but is strong, Floran respects the dessk.",
+  "glitchDescription" : "Indifferent. A simple desk, usually for scientific purposes.",
+  "humanDescription" : "The ideal desk to make all sort of experiments with.",
+  "hylotlDescription" : "Despite its fragile look, this desk seems to be highly resistant.",
+  "novakidDescription" : "I love to ride these desks in the hallway! Yeehaw!",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

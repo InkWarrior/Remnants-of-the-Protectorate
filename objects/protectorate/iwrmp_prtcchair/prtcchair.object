@@ -9,12 +9,12 @@
   "race" : "protectorate",
 
   "apexDescription" : "It really looks comfortable.",
-  "avianDescription" : "I don't know which materials are these, but they make it look comfortable.",
-  "floranDescription" : "Floran thinkss this really lookss comfy.",
-  "glitchDescription" : "Cozy. What a confortable-looking chair to sit on.",
+  "avianDescription" : "I don't know what materials this is made from, but they make it look very comfortable.",
+  "floranDescription" : "Floran thinkss this lookss really comfy.",
+  "glitchDescription" : "Cozy. What a comfortable-looking chair to sit on.",
   "humanDescription" : "A comfy, futuristic-styled chair? I need to sit on this!",
   "hylotlDescription" : "I hope this chair is retractable.",
-  "novakidDescription" : "Why is the chair mounted to the floor?",
+  "novakidDescription" : "Why is this here chair mounted to the floor?",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

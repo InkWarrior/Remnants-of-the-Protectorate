@@ -4,17 +4,17 @@
   "rarity" : "Common",
   "category" : "decorative",
   "price" : 75,
-  "description" : "A shiny white board with some writings on it.",
+  "description" : "A shiny white board with some writing on it.",
   "shortdescription" : "White Board",
   "race" : "protectorate",
 
   "apexDescription" : "What if I just erase everything on the board?",
-  "avianDescription" : "Oh, I can write over this board?",
+  "avianDescription" : "Oh, can I write over this board?",
   "floranDescription" : "Floran makess doodles, very fun!!",
-  "glitchDescription" : "Amused. A white board can provide a lot of hours of entertainment.",
-  "humanDescription" : "I love when people make their silly doodles on the board.",
+  "glitchDescription" : "Amused. A white board can provide many hours of entertainment.",
+  "humanDescription" : "I love when people make their silly doodles on these boards.",
   "hylotlDescription" : "Having some fun with a white board is inevitable.",
-  "novakidDescription" : "hoho! I'm gonna make a big drawing!",
+  "novakidDescription" : "Hoho! I'm gonna make a big drawin'!",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

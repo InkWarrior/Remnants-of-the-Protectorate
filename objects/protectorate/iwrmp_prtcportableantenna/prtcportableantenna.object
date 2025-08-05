@@ -11,11 +11,11 @@
 
   "apexDescription" : "It's always useful to have a portable antenna with you!",
   "avianDescription" : "The antenna seems to be lighter than it appears.",
-  "floranDescription" : "Floran likess the antenna.",
-  "glitchDescription" : "Calmed. This antenna is not temperering with my sensors.",
-  "humanDescription" : "For sure I can put it wherever I want, whenever I want.",
-  "hylotlDescription" : "Not as good as a stationay antenna, but it's better than nothing.",
-  "novakidDescription" : "A portable antenna, maybe I can hear the radio.",
+  "floranDescription" : "Floran likess antenna.",
+  "glitchDescription" : "Calmed. This antenna is not tampering with my sensors.",
+  "humanDescription" : "I can for sure put this wherever I want, whenever I want.",
+  "hylotlDescription" : "Not as good as a stationary antenna, but it's better than nothing.",
+  "novakidDescription" : "A portable antenna, maybe I can hear the radio with it.",
 
 
   "inventoryIcon" : "icon.png",
