@@ -1,0 +1,6 @@
+
+>Protectorate ship - 0.06
+
+>Envoy ship - 0.08
+
+>testencounter - 2.0

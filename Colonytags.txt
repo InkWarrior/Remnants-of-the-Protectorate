@@ -1,0 +1,24 @@
+Custom:
+-protectorate
+-prtc_janitor
+-prtc_mechanic
+-prtc_engineer
+-prtc_chemist
+-prtc_tailor
+-prtc_medic
+-prtc_envoy
+
+
+Could be useful:
+-medical *
+-combat
+-explorer
+-mechanical
+-wired
+-pretty
+-electronic
+-misc
+-science
+
+
+*there's only one instance of Starbound vanilla using the "medical" colony tag and that's for the "Station Medical Scanner",

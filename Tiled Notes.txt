@@ -1,0 +1,5 @@
+
+- The burst version of the Medkit Chest moves one tile to the left when a dungeon is placed in Starbound. Account for this
+when using Tiled.
+
+-The lab table moves one tile to the left when a dungeon is placed in Starbound. Account for this when using Tiled.

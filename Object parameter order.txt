@@ -1,0 +1,40 @@
+[GENERAL]
+
+  "objectName" 
+  "colonyTags" :
+  "rarity" : 
+  "objectType" : 
+  "tooltipKind" : 
+  "category" : 
+  "price" : 
+  "description" : 
+  "shortdescription" : 
+  "interactAction" : 
+  "interactData" : 
+  "race" : 
+  "health" : 
+  "printable" : 
+
+[LIGHT]
+
+  "lightColor" :
+  "lightPosition" :
+  "pointLight" :
+  "pointBeam" :
+  "beamAmbience" :
+  "flickerPeriod" : 
+  "flickerMinIntensity" : 
+  "flickerMaxIntensity" :
+  "flickerPeriodVariance" :
+  "flickerIntensityVariance" :
+
+[LOUNGABLE]
+
+  "sitFlipDirection" :
+  "sitPosition" : 
+  "sitOrientation" : 
+  "sitAngle" : 
+  "sitCoverImage" :
+  "sitEmote" : 
+  "sitStatusEffects" : 
+  "sitEffectEmitters" :
