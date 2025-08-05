@@ -12,12 +12,12 @@
   "lightColor" : [22, 31, 36],
 
   "apexDescription" : "A projector console. It seems one can attach projection modules on top of it.",
-  "avianDescription" : "I wonder what kind of stuff I can light here.",
+  "avianDescription" : "I wonder what kind of stuff I can project here.",
   "floranDescription" : "Machine for light images, Floran is interessted.",
-  "glitchDescription" : "Amazed. The ability to draw high-fidelity images with lights is something else.",
-  "humanDescription" : "Oh yeah! I always loved holografic stuff.",
-  "hylotlDescription" : "An hologram displayer. The Protectorate has truly up their game.",
-  "novakidDescription" : "A projector to make things out of light? Just like me!",
+  "glitchDescription" : "Amazed. The ability to draw high-fidelity images with light is truly something else.",
+  "humanDescription" : "Oh yeah! I've always loved holographic stuff.",
+  "hylotlDescription" : "A hologram displayer. The Protectorate has truly upped their game.",
+  "novakidDescription" : "A projector to make things out of light with? Kinda like me!",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
