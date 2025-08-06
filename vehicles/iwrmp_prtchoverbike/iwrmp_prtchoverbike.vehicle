@@ -75,8 +75,8 @@
   "jumpTimeout" : 0.25,
 
   //Health and damage
-  "protection" : 100,
-  "maxHealth" : 2000,
+  "protection" : 50,
+  "maxHealth" : 1500,
 
   "damageStateNames" : ["undamaged","scratched","dented","wrecked"],
 
