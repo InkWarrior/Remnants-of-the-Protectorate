@@ -21,7 +21,7 @@
 
   "vehicleType" : "iwrmp_prtchoverbike",
   "vehicleBoundingBox" : [-5, -3, 5, 3],
-  "vehicleImage" : "/vehicles/iwrmp_prtchoverbike/prtchoverbikewarp.png:warp.7",
+  "vehicleImage" : "/vehicles/iwrmp_prtchoverbike/iwrmp_prtchoverbikewarp.png:warp.7",
 
   "animationParts" : {
     "casing" : "prtchoverbikecontroller.png"
