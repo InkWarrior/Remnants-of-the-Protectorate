@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJw7zsDAcHwE4IM0xLjsi6EiHir2lSDhdUCsAMXr0OSGqv9G7Rsc9q1hQKSlwWKfAhUxMfb1UREPRvvoXV6P2jdqHyn2DeXyk1z7Ruv3kWnfYKxv6W2fAhXxYKxvh3P9PlwxAHHkSmo=",
+         "data":"eJw7zsDAcHwE4IM0xLjs209FPNjsKyECrwNiBSheR4T6weS\/Ufuob18fFfEaBkS6oYf\/iLFPgYqYGPvoHZ70to\/e5fWofaP2kWLfcC6vaVG\/l+Cxb7iH51C3bzDWD\/T2nwIV8WAMz+Fcvw9XDACusLjj",
          "encoding":"base64",
          "height":36,
          "id":17,
@@ -47,6 +47,132 @@
                  "width":32,
                  "x":88,
                  "y":120
+                }, 
+                {
+                 "height":8,
+                 "id":1437,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"apexshipwall",
+                     "colorVariant":"2"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":152,
+                 "x":24,
+                 "y":80
+                }, 
+                {
+                 "height":8,
+                 "id":1438,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":152,
+                 "x":24,
+                 "y":88
+                }, 
+                {
+                 "height":8,
+                 "id":1439,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"apexshipwall",
+                     "colorVariant":"2"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":152,
+                 "x":24,
+                 "y":224
+                }, 
+                {
+                 "height":8,
+                 "id":1440,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":152,
+                 "x":24,
+                 "y":232
+                }, 
+                {
+                 "height":32,
+                 "id":1441,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":152,
+                 "x":24,
+                 "y":48
+                }, 
+                {
+                 "height":32,
+                 "id":1442,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":152,
+                 "x":24,
+                 "y":192
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -93,7 +219,7 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":144,
+                 "x":152,
                  "y":208
                 }, 
                 {
@@ -456,7 +582,7 @@
          "y":0
         }],
  "nextlayerid":19,
- "nextobjectid":1437,
+ "nextobjectid":1443,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",

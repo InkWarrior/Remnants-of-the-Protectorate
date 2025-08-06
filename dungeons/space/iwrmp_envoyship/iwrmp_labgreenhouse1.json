@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztmMENwyAMRTNKr12op46ROTpJxApVT1mr7SGSZRn4JjYhgcNTVRKHF0NNYZ2maR1U53MSUt7hx50R2GcKq3v\/bTMB8X4wtmdI17zu5d7hwt6xMUPH3uJerffcCFrvN2Fh31FK4njM8G7bm\/42zuSd6z8AbZJDSQyvL9x7eyceG\/OWapbGAY3J5VvjXXOeWOa7pflNvW8ZWs33MwPi7pHvZac34u6Rb8mb\/qficyrl7gmSb+rNY7dryDhYos13S94W+a7trtlf5rzRd6i9L9Z4H8HVvf9tJeu8FXvyTWv5C0RaB0pi+Xj34E3X3VretM+evXPnOKkzG02stTdaByRvTWzP3rF9rKc37XNvHUTnpwW0T9Q7drbYS\/3mNWLU737y3cO6kzoL9KjfpXXXA9Rb4gjfmIvGuyWu4j2owxfcckpC",
+         "data":"eJztmM0NwyAMRjNKr10op46ROTpJxApVT1mrzSGSZfHz2YADCYentgSHF0OgsE3TtA3M+XZCzNv9eTIc+4xRqu5ethAQ75lx3MN3rVZd7u0u7B3qM7TvS9SVei+NIPX+EFb2G0UTx2OGd9ve9N3oyTvVvgPKfA6aGD6\/cO\/jmXhsyNs3Z0kc0JhUviXeluOkZL5bGt\/U+5Gg1Xy\/EiDuNfK9Znoj7jXy7fOm\/6n4mIq51wTJN\/Xmscc1pB9KIs13S94l8m3tLtlfprzRZ7DeF0u8z+Dq3nuZZp0vRU6+6VyOtudbBzSxvL+13m8Qn7cmNseb5sEq3\/T7nb1T5zixMxtJ7Mh3f96hfWxNb9pm7jyIjs8S0DZR79DZYm\/rDr2fZO3gc4Qk9s7vpdY7djZl7X2Hdcc639pxWQPU28cZviEXiXdLXMV7YMMPLrVhOg==",
          "encoding":"base64",
          "height":48,
          "id":11,
@@ -43,7 +43,7 @@
                  "properties":
                     {
                      "back":"slopedhullpanel",
-                     "colorVariant":"8"
+                     "colorVariant":"7"
                     },
                  "propertytypes":
                     {
@@ -64,7 +64,7 @@
                  "properties":
                     {
                      "back":"slopedhullpanel",
-                     "colorVariant":"8"
+                     "colorVariant":"7"
                     },
                  "propertytypes":
                     {
@@ -85,7 +85,7 @@
                  "properties":
                     {
                      "back":"slopedhullpanel",
-                     "colorVariant":"8"
+                     "colorVariant":"7"
                     },
                  "propertytypes":
                     {
@@ -106,7 +106,7 @@
                  "properties":
                     {
                      "back":"slopedhullpanel",
-                     "colorVariant":"8"
+                     "colorVariant":"7"
                     },
                  "propertytypes":
                     {
@@ -127,7 +127,7 @@
                  "properties":
                     {
                      "back":"slopedhullpanel",
-                     "colorVariant":"8"
+                     "colorVariant":"7"
                     },
                  "propertytypes":
                     {
@@ -148,7 +148,7 @@
                  "properties":
                     {
                      "back":"slopedhullpanel",
-                     "colorVariant":"8"
+                     "colorVariant":"7"
                     },
                  "propertytypes":
                     {
@@ -874,6 +874,174 @@
                  "width":80,
                  "x":216,
                  "y":296
+                }, 
+                {
+                 "height":8,
+                 "id":1384,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":96,
+                 "y":216
+                }, 
+                {
+                 "height":8,
+                 "id":1385,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":216,
+                 "y":216
+                }, 
+                {
+                 "height":16,
+                 "id":1386,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":96,
+                 "y":232
+                }, 
+                {
+                 "height":16,
+                 "id":1387,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":216,
+                 "y":232
+                }, 
+                {
+                 "height":8,
+                 "id":1388,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":96,
+                 "y":288
+                }, 
+                {
+                 "height":16,
+                 "id":1389,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":96,
+                 "y":304
+                }, 
+                {
+                 "height":8,
+                 "id":1390,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":216,
+                 "y":288
+                }, 
+                {
+                 "height":16,
+                 "id":1391,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":80,
+                 "x":216,
+                 "y":304
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1979,7 +2147,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":1384,
+ "nextobjectid":1392,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
