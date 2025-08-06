@@ -525,7 +525,7 @@
                  "name":"",
                  "properties":
                     {
-                     "colorVariant":"8",
+                     "colorVariant":"2",
                      "front":"slopedhullpanel"
                     },
                  "propertytypes":
@@ -546,7 +546,7 @@
                  "name":"",
                  "properties":
                     {
-                     "colorVariant":"8",
+                     "colorVariant":"2",
                      "front":"slopedhullpanel"
                     },
                  "propertytypes":
@@ -567,7 +567,7 @@
                  "name":"",
                  "properties":
                     {
-                     "colorVariant":"8",
+                     "colorVariant":"2",
                      "front":"slopedhullpanel"
                     },
                  "propertytypes":
@@ -1474,9 +1474,21 @@
                  "y":360
                 }, 
                 {
+                 "gid":7777,
+                 "height":32,
+                 "id":909,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":120,
+                 "y":376
+                }, 
+                {
                  "gid":7749,
-                 "height":42,
-                 "id":882,
+                 "height":16,
+                 "id":911,
                  "name":"",
                  "properties":
                     {
@@ -1492,18 +1504,6 @@
                  "width":48,
                  "x":304,
                  "y":416
-                }, 
-                {
-                 "gid":7777,
-                 "height":32,
-                 "id":909,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":120,
-                 "y":376
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1838,7 +1838,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":911,
+ "nextobjectid":912,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",

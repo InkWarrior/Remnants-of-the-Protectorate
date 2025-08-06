@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztmdmNwjAQQFMKvzS0X1sABVAHlQRaWG0\/FLGKhCVr1sfk8oyT9\/GEEhxn5mEbH+9hGN4AJ+bqIAYAWAf9GCwYHcTQM\/jbxt\/ZPb6UzPG3tM4zUfIHZWhLsCe3D97q6gX8AfRFro+l7ss+mSsz5z29gz\/8AQDsya2AdWy9gDf84c8X3wnuGZ6F72JkfaODPLcm5Dpm8v0RjAl\/uXKp+uJnrHNv5S+UqfmT5Y7uT+aT83f9UPMny53N30Wwtv2l6uvN33S2cxWEezKfh2Ctv1R98TNxLKn4PJxLTTF8CV5RDpb+7oX4wucR\/C0d\/47iL9U\/PLU\/z\/23NL\/V+ls6\/9P4q2HtT+ZQG881PGeUjan9XjHW3pb4a93+vPurxaj1t9f4p42td397\/f\/24O9SwLr9aWOz9Jfal8qtR1v708aGvz79afyW+tNaf6n64mes89+CUnsIXti\/0rXFFvun8fusc27lb8v9+yP7S625NGtUSWkNZ51na8IZZZx\/7vxSXntdl+1F3P80Tjn\/XQb+AAAAAPrlV2AdT49Ib3Pmx8yl\/zvE33KHAfytdxiY9qTknl+4ZvysO8TfOodaf9Yxe2OOP+tYvaLxZx2jd0r+rGMDAAAAAADwzB\/+jE4j",
+         "data":"eJztmd1twyAQgN1N8pqF+tQBMkDm6CROVqi6T4aoIgUJXeHAJuYO+3v4FMXB+O4LYH4e0zQ9AA7M2UEMXpg+dLzU6RX82fnL9WP8teWKPz3XGX\/4c+Av5\/Eo\/u6VLPG3ts4jofkDHdoSbMnlhbe6PKG9A3v629O7GMCKXB9LXZd9MldmyXNGB3\/4AwDYkouCdWyjgDf84c8XXwmuGW7KbzGyvtlBnu8m5Dpn8v0RzAl\/uXKp+uJ7rHPv5S+UKfmT5fbuT+aT83d+UfInyx3N30nQ2v5S9Y3m73m2cxaEazKf1BjW4i9VX3xPHEsqPg\/nUs8YPgX3KAdLf1clvvC5B39rx7+9+Ev1D0\/tz3P\/1ea3tf7Wzv9q\/JWw9idzKI3nNdwWlI0p\/V8x1t7W+Ovd\/rz7K8VY62+r8a82ttH9bfX+HcHfScG6\/dXGZukvtS+VW4\/29lcbG\/7G9FfjV+tPrf5S9cX3WOf\/DrT2ELywf1XXFnvsn8bPs865l7+18+ej+UutuWrWqBJtDWedZ2\/CGWWcf+78Un7\/TmCdz5bUrj85\/20DfwAAAADj8iuwjmdEpLcl82Pm0v8d4m+9wwD+2h0GnntScs8vfGf8LDvEX5vDWn\/WMXtjiT\/rWL1S4886Ru9o\/qxjAwAAAAAA8MwfZ7YBDQ==",
          "encoding":"base64",
          "height":80,
          "id":11,
@@ -224,7 +224,7 @@
                  "name":"",
                  "properties":
                     {
-                     "back":"apexshipwall",
+                     "back":"slopedhullpanel",
                      "colorVariant":"7"
                     },
                  "propertytypes":
@@ -476,7 +476,7 @@
                  "name":"",
                  "properties":
                     {
-                     "back":"apexshipwall",
+                     "back":"slopedhullpanel",
                      "colorVariant":"7"
                     },
                  "propertytypes":
@@ -497,7 +497,7 @@
                  "name":"",
                  "properties":
                     {
-                     "back":"apexshipwall",
+                     "back":"slopedhullpanel",
                      "colorVariant":"7"
                     },
                  "propertytypes":
@@ -560,7 +560,7 @@
                  "name":"",
                  "properties":
                     {
-                     "back":"apexshipwall",
+                     "back":"slopedhullpanel",
                      "colorVariant":"7"
                     },
                  "propertytypes":
@@ -889,6 +889,69 @@
                  "width":8,
                  "x":256,
                  "y":496
+                }, 
+                {
+                 "height":32,
+                 "id":977,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":56,
+                 "x":-224,
+                 "y":304
+                }, 
+                {
+                 "height":32,
+                 "id":978,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":56,
+                 "x":88,
+                 "y":304
+                }, 
+                {
+                 "height":32,
+                 "id":979,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":56,
+                 "x":400,
+                 "y":304
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1187,7 +1250,7 @@
                  "type":"",
                  "visible":true,
                  "width":60,
-                 "x":320,
+                 "x":336,
                  "y":80
                 }, 
                 {
@@ -1199,7 +1262,7 @@
                  "type":"",
                  "visible":true,
                  "width":52,
-                 "x":152,
+                 "x":160,
                  "y":80
                 }, 
                 {
@@ -2080,7 +2143,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":977,
+ "nextobjectid":980,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",

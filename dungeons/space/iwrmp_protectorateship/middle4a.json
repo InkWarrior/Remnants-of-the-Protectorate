@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztmcGtwyAMhjNKr13ond4AvfXSOTpJkhXeQh3iqVKQLMsGhwQM5D98qtoaan+FJMBnmqYPABfm3kAOAIBjYB4DD+YGcugZ+DvH39U9rkb2+Mvt80rE\/IE4GEugJI+N1vrqBfgDoC+0OSZ9zuekFrPnd3oH\/uAPAABK8ojgnVsvwBv8wV9b\/Aq8FJbIdxTe39xAnWcTap2Vev8Ys+BPi5P6o228a6\/lL8Sk\/PG40f3xejR\/942UPx53NX83xtHxJ\/XXm7\/v2c6dET7j9bwZR\/1J\/dE2NBcpvxbOpb45\/DBWUoOnv1ckv\/A6gr\/c698o\/qT50dL4a3n+xp5vrf5yn\/8s\/lJ4++M1pK7nFpYdsZTU\/0Xx9pbjr\/b4a91fKkerv1LXP2tuvfsrdf\/twd8tgvf4s+bm6U\/al9LWo7X9WXODvz79WfzG5tNRf1J\/tI13\/WcQGw\/BC\/avbGOxxv4p\/T3vmmv5O3P\/fmR\/0prLskblxNZw3nXWJpxR0vq180v+vtV1WSno\/LM4xflvHvAHAAAAADAO4ZluVdDWHNb40XluaD6eCql477pqwPdQSuBdYwve+Prtyg4lJ4sCjQ3zkvrT2kmuvesu6U8aM9yfFL8obeEP\/mJo985SeNeL8dcO8He+P9x\/8xzi+a+ew1y86wQAAAAA6JF\/yLsQGA==",
+         "data":"eJztnMFtwzAMRd1NcvVCPXWA3HLJHJ3EzgpdKEMUASxAIEiKlm2Rsv\/hoWhKKeSrZEsWkvcwDG8ALswYIIcoDF86UfqMCvz5+ZPmMfxtqxX+9Fon+IO\/AP4kj1fx9zKyxl9tn1dC8wd0MJbAkdwXovUVCe0e2NLfme7FAHghzTHudTonpZg179M78Ad\/AABwJHcF79x6Ad7gD\/5i8cPwFJiVv+XQ\/qYAde5NqnUS6v0jTIw\/KY7rL2\/jXXsrfymm5I\/Gnd0frUfyNy6U\/NG4q\/m7EbaOP66\/3vx9znZGQnqN1sNdw7b44\/rL2+S5cPlFOJf65PBNeGU1ePp7Kvmln2fwV3v9O4s\/bn5EGn+R56+2vrX6q13\/WfyV8PZHayhdzy3MK2JzSv+vHG9vNf5aj7\/o\/ko5Wv0ddf2z5ta7v6Puvz34uyl4jz9rbp7+uOdS0n60tT9rbvDXpz+LX20+bfXH9Ze38a5\/D7TxkLzg+ZVtLLZ4fpq\/n3fNrfzVrp+v5o\/bc1n2qBRtD+ddZ2vSGWVev3R+SX\/\/ZfCu50is+0+c\/24D\/gAAAAAAzkNa00mfGZf2HNb4s\/NYkHw8BErx3nW1QDvP2QvvGiN4o\/u3KzvknMwCeWyal7k\/qR3n2rvuI\/1xY4b64+JnoS38wZ+G9ftu9sK7Xoy\/OMDf\/v5w\/61ziPVfO4e1eNcJAAAAANAj\/zHlwvM=",
          "encoding":"base64",
          "height":80,
          "id":11,
@@ -224,7 +224,7 @@
                  "name":"",
                  "properties":
                     {
-                     "back":"apexshipwall",
+                     "back":"slopedhullpanel",
                      "colorVariant":"7"
                     },
                  "propertytypes":
@@ -476,7 +476,7 @@
                  "name":"",
                  "properties":
                     {
-                     "back":"apexshipwall",
+                     "back":"slopedhullpanel",
                      "colorVariant":"7"
                     },
                  "propertytypes":
@@ -497,7 +497,7 @@
                  "name":"",
                  "properties":
                     {
-                     "back":"apexshipwall",
+                     "back":"slopedhullpanel",
                      "colorVariant":"7"
                     },
                  "propertytypes":
@@ -560,7 +560,7 @@
                  "name":"",
                  "properties":
                     {
-                     "back":"apexshipwall",
+                     "back":"slopedhullpanel",
                      "colorVariant":"7"
                     },
                  "propertytypes":
@@ -658,6 +658,48 @@
                  "width":16,
                  "x":152,
                  "y":184
+                }, 
+                {
+                 "height":32,
+                 "id":946,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":56,
+                 "x":88,
+                 "y":304
+                }, 
+                {
+                 "height":32,
+                 "id":947,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":56,
+                 "x":400,
+                 "y":304
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -956,7 +998,7 @@
                  "type":"",
                  "visible":true,
                  "width":60,
-                 "x":320,
+                 "x":336,
                  "y":80
                 }, 
                 {
@@ -968,7 +1010,7 @@
                  "type":"",
                  "visible":true,
                  "width":52,
-                 "x":152,
+                 "x":160,
                  "y":80
                 }, 
                 {
@@ -1497,7 +1539,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":946,
+ "nextobjectid":948,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",

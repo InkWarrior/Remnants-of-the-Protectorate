@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztm8ttwkAQhl0GR67uhgIogFsutJBauDhuIQpKORQRRaylyWrsmdnXrMN\/+CSyWux\/P88+QOQxDMMDAAAAAAAAJ6YNvLP1xJanb4ZX98o54lxt+Vtr++8+U5zk9vUes4e70u3eYy\/hjsNaTylzeMHbQem6k\/aCVLbu5e2ihj9Le8779urvc1ivkZr+6P0+A94uUv3FrPnMXf84ZxRvF6X8ST5T0NzH20UK2rHVZooyfRkp6eQsEGf1dsf5swB\/+6u\/a6AnfzQT\/MHfq\/o7CsRZpf4tyM3kWX9S\/xbkZoK\/fvxpoFlb3zs10\/sG3tn3wHUF71x7YRyetTlGr1tmmHZInJ\/6a+nubmRtvpTAmuUOf9n+uPnb0t9c2UktHso+uYwCs+FZ\/z7bS2BZhw4Euj6dQtspauf602tqs8yKsZXwJ50xqb9lDCfy+iL4u4W\/b0p\/XH\/On5RlHv6es+n8LXl+TvFHxy3526q\/G+NPW39Slp79LbWz5U9ae6g\/qa9Uf1yWlv7ovc5RW6q\/VvXXiz9un8X8rVd\/0v7Rcv567R\/0Wpr1r\/T5Jaf+NOcXyd9EnlFNf5OB2ucXLa38HQXmMEYN1vpLOT9rs8yKsbWqP8v8fRuez\/mD4RBxYdq4943huqnzV\/P9dS\/+an6m7c2fhr1+fzBXdGJB+7wXajqxZvF2B39l8Z6TGrwdSVj2k5b0st7BH\/z1DPzl+\/PeI7TnvdK\/UUuhhwypuXvIXvM3h6+SNc6kWY9KnoO19Ogudij58\/z80as76lBbfx707A6AHrD+j0BLvN1Y\/HnnWHum3lkAAAAAAAAAAAAAAGjFDyhI1B4=",
+         "data":"eJztmMltwzAQRZkufPRV3biAFOBbLm4htfiiqAXDRspxEUFgCZgQFGe4zkj5hwfYBG19Pg0X6emcewIAAAAAAKDEGEE7myVinr4D\/HevIUchVzF\/a21795njpLSv9pg13NVu1x57DXchUuspZw4vaDuoXXfcXpBL7FraLlr4S2kv+d1W\/d3ceo209Eevd5vRdpHrz2fNZ+n6F3JG0XZRyx\/nMwfJdbRd5CAdW2vGwkw1nbwzlGbt4S+1ruGvPFNPf5cZS\/5KM8Ef\/O3B35HBz8r170Fppt77B83K9e9BaSb4s+NPAs3a+9q5mT4jaGffApcVtHNthcG9anPwPvfMMG4QPz\/119PdI5G1+VKD1CwP+Cv2F5q\/Pf1NjZ204insU8rAMCXc6997e55Z1qEDga5Pp7nt5LWH+tP\/lGaZBGOr4Y97PqT+ljGcyOcz4+86f78K\/YX6h\/xxWSb39zmZzt+az745\/ui4OX+x+rsG\/Enrj8ti2d9SOzF\/3NpD\/XF9ufoLZenpj17r5rXl+utVf1b8hfZZzN929cftHz3nr9b+Qf9Lsv7VPr+U1J\/k\/ML5G8k9aulvTKD1+UVKL39Hhmkeo4TU+ss5P0uzTIKx1fDHvaNNnb8f7nWfvwIcPM6BttDvhvl\/U+dvyvtrK\/5aPtNa8ydhq+8PpoZOUpDe74WWTlKzaLuDv7poz0kJ2o44UvaTnlhZ7+AP\/iwDf+X+tPcI6XnvbsCXhQy5uS1kv3to59liVj+TZD2qeQ6WYtGd75Dzp\/n8YdUddSitPw0suwPAAv4eZwltNyn+tHOs3VPtLKAN7k0\/w55yAgAAAAAAAAAAYB\/8AAlK8m8=",
          "encoding":"base64",
          "height":80,
          "id":11,
@@ -560,6 +560,216 @@
                  "width":40,
                  "x":560,
                  "y":480
+                }, 
+                {
+                 "height":8,
+                 "id":950,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":88,
+                 "x":480,
+                 "y":168
+                }, 
+                {
+                 "height":24,
+                 "id":951,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":480,
+                 "y":176
+                }, 
+                {
+                 "height":64,
+                 "id":952,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"7"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":512,
+                 "y":288
+                }, 
+                {
+                 "height":64,
+                 "id":953,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"7"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":288
+                }, 
+                {
+                 "height":24,
+                 "id":954,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":72,
+                 "y":288
+                }, 
+                {
+                 "height":16,
+                 "id":955,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":72,
+                 "y":336
+                }, 
+                {
+                 "height":8,
+                 "id":956,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":88,
+                 "y":312
+                }, 
+                {
+                 "height":8,
+                 "id":957,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":88,
+                 "y":328
+                }, 
+                {
+                 "height":24,
+                 "id":958,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":72,
+                 "y":312
+                }, 
+                {
+                 "height":24,
+                 "id":959,
+                 "name":"",
+                 "properties":
+                    {
+                     "back":"slopedhullpanel",
+                     "colorVariant":"8"
+                    },
+                 "propertytypes":
+                    {
+                     "back":"string",
+                     "colorVariant":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":128,
+                 "y":312
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1090,18 +1300,6 @@
                  "y":288
                 }, 
                 {
-                 "gid":7826,
-                 "height":16,
-                 "id":924,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":40,
-                 "x":520,
-                 "y":192
-                }, 
-                {
                  "gid":7842,
                  "height":32,
                  "id":925,
@@ -1110,7 +1308,7 @@
                  "type":"",
                  "visible":true,
                  "width":16,
-                 "x":488,
+                 "x":480,
                  "y":224
                 }, 
                 {
@@ -1326,90 +1524,6 @@
                  "y":400
                 }, 
                 {
-                 "height":8,
-                 "id":944,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
-                     "typeName":"iwrmp_spacerefugee"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":352,
-                 "y":392
-                }, 
-                {
-                 "height":8,
-                 "id":945,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
-                     "typeName":"iwrmp_spacerefugee"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":368,
-                 "y":392
-                }, 
-                {
-                 "height":8,
-                 "id":946,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
-                     "typeName":"iwrmp_spacerefugee"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":384,
-                 "y":328
-                }, 
-                {
-                 "height":8,
-                 "id":947,
-                 "name":"",
-                 "properties":
-                    {
-                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
-                     "typeName":"iwrmp_spacerefugee"
-                    },
-                 "propertytypes":
-                    {
-                     "npc":"string",
-                     "typeName":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":400,
-                 "y":328
-                }, 
-                {
                  "height":96,
                  "id":948,
                  "name":"",
@@ -1429,6 +1543,18 @@
                  "width":96,
                  "x":72,
                  "y":280
+                }, 
+                {
+                 "gid":7817,
+                 "height":32,
+                 "id":949,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":496,
+                 "y":200
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1516,6 +1642,90 @@
                  "width":8,
                  "x":288,
                  "y":200
+                }, 
+                {
+                 "height":8,
+                 "id":944,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_spacerefugee"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":352,
+                 "y":392
+                }, 
+                {
+                 "height":8,
+                 "id":945,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_spacerefugee"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":368,
+                 "y":392
+                }, 
+                {
+                 "height":8,
+                 "id":946,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_spacerefugee"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":384,
+                 "y":328
+                }, 
+                {
+                 "height":8,
+                 "id":947,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_spacerefugee"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":400,
+                 "y":328
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1593,7 +1803,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":949,
+ "nextobjectid":960,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
