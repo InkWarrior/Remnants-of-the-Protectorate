@@ -6,13 +6,14 @@ __MOD SUPPORT__
 - Spawnable Item Pack
 - Wardrobe Interface
 - Planet Search
+- Better Crew
 
 __GENERAL:__
 - Find a way to make the Protectorate armors obtainable (in-progress).
 - Fix the antennae of the second middle sections of the Protectorate Ship.
-- Continue tests for the Envoy ship and fill it with npcs.
+- Complete the Envoy ship (add more parts; add npcs).
 - Make Mech parts for the Protectorate:
-    - Envoy body (exploration themed).
+    - Globetrotter Mech Body (Envoy body; exploration themed).
     - Matter Separator Mech Arm.
 - Split the store categories for the Envoy and Protectorate SAIL units.
 
@@ -25,11 +26,25 @@ __MISC__
 
 __FURNITURE__
 - Standarize prices and rarity for all current objects (in-progress).
-- Add obtainable recipes for Protectorate furniture.
-- Complete colony furniture.
-- Make SAIL Units for Envoy Ship and Protectorate Space Station.
-- Make a Protectorate Ship turret hatch.
-- Make a unique Protectorate door.
+- Add obtainable recipes for Protectorate furniture (in-progress).
+- Complete the next furniture objects:
+   - Protectorate Turret Hatch
+   - Protectorate ship door
+   - Medic ship door
+   - Protectorate Panels (x19)
+   - Remodeled Starmap Console
+   - Protectorate Colony Deed
+   - Mechanics workbench
+   - Tool Rack (+ Empty variant)
+   - Computation Desk
+   - Fashion Holo-Projector
+   - Fashion Wardrobe
+   - Protectorate Server
+   - Janitor Shelf
+   - Janitor Desk
+   - Security Station
+   - Envoy SAIL Unit
+- Make a colony furniture tileset.
 
 __DUNGEONS__
 - Add 3 minidungeon variants for the Protectorate Dropship.
