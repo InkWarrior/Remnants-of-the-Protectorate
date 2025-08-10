@@ -1,6 +1,6 @@
 {
   "objectName" : "iwrmp_prtccuttingdesk",
-  "colonyTags" : ["prtc_tailor","protectorate","science","storage"],
+  "colonyTags" : ["prtc_tailor","protectorate","storage"],
   "rarity" : "Uncommon",
   "objectType" : "container",
   "tooltipKind" : "container",
