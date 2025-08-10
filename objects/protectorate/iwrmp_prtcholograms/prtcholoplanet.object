@@ -1,0 +1,63 @@
+{
+  "objectName" : "iwrmp_prtcholoplanet",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "light",
+  "price" : 75,
+  "description" : "A hologram projector, currently displaying the image of a planet.",
+  "shortdescription" : "Planet Hologram",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [0, 75, 227],
+  "pointLight" : true,
+  "pointBeam" : 2,
+  "beamAmbience" : 0.1,
+
+  "apexDescription" : "A projector module displaying the image of a planet.",
+  "avianDescription" : "I wonder what planet is being displayed here.",
+  "floranDescription" : "Big blue planet, Floran is interessted.",
+  "glitchDescription" : "Amazed. The fidelity of the hologram is quite advanced compared to others.",
+  "humanDescription" : "It looks amazing! I wonder what else it can project.",
+  "hylotlDescription" : "Theoretically, I could project a movie in here, right?",
+  "novakidDescription" : "What an odd image! I can watch movies with this here machine!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcholoplanet.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [1, 0], [2, 0], [3, 0] ],
+      "anchors" : [ "bottom" ],
+      "lightPosition" : [2, 0],
+      "beamAngle" : 90
+    },
+    {
+      "image" : "prtcholoplanet.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [1, 0], [2, 0], [3, 0] ],
+      "anchors" : [ "bottom" ],
+      "lightPosition" : [2, 0],
+      "beamAngle" : 90
+    }
+  ],
+
+  "animation" : "prtcholoplanet.animation",
+  "animationParts" : {
+    "bg" : "prtcholoplanet.png",
+    "fg" : "prtcholoplanetlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}
