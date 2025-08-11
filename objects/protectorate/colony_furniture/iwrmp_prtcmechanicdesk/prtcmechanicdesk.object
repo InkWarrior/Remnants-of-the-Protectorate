@@ -11,11 +11,11 @@
   "race" : "protectorate",
   "health" : 1.5,
 
-  "apexDescription" : "A workbench. I can work pleasantly in my projects in here.",
+  "apexDescription" : "A workbench. I can pleasantly work with my projects on this.",
   "avianDescription" : "A table where once can work with mechanical stuff.",
-  "floranDescription" : "Floran can work on metal stuff here.",
-  "glitchDescription" : "Curious. A table were others can work in mechanical stuff.",
-  "humanDescription" : "A place where I can work safely on my mechanics projects.",
+  "floranDescription" : "Floran can work on metal ssstuff here.",
+  "glitchDescription" : "Curious. A table were others can work on mechanical stuff.",
+  "humanDescription" : "A place where I can work safely on my mechanic projects.",
   "hylotlDescription" : "A workbench were I can work properly on mechanical devices.",
   "novakidDescription" : "I can repair my stuff here.",
 
