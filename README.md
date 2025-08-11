@@ -33,16 +33,6 @@ __FURNITURE__
    - Medic ship door
    - Protectorate Panels (x19)
    - Remodeled Starmap Console
-   - Protectorate Colony Deed
-   - Mechanics workbench
-   - Tool Rack (+ Empty variant)
-   - Computation Desk
-   - Fashion Holo-Projector
-   - Fashion Wardrobe
-   - Protectorate Server
-   - Janitor Shelf
-   - Janitor Desk
-   - Security Station
    - Envoy SAIL Unit
 - Make a colony furniture tileset.
 
