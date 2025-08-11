@@ -1,0 +1,43 @@
+{
+  "objectName" : "iwrmp_prtcjanitorshelf",
+  "colonyTags" : ["prtc_janitor","protectorate","storage"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 125,
+  "description" : "A simple metallic shelf, useful to store all of your cleaning supplies.",
+  "shortdescription" : "Janitor Shelf",
+  "race" : "protectorate",
+  "printable" : false,
+  "health" : 1.5,
+
+  "apexDescription" : "A shelf for cleaning supplies.",
+  "avianDescription" : "A very simple shelf, used for cleaning supplies.",
+  "floranDescription" : "Sssheeelf.",
+  "glitchDescription" : "Neutral. It's a metallic shelf.",
+  "humanDescription" : "I can put all of my cleaning stuff in here.",
+  "hylotlDescription" : "A place where to safely store all of my cleaning supplies.",
+  "novakidDescription" : "A simple iron shelf.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcjanitorshelf.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/locker_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/locker_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

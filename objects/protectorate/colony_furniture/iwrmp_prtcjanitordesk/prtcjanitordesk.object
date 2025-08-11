@@ -1,0 +1,42 @@
+{
+  "objectName" : "iwrmp_prtcjanitordesk",
+  "colonyTags" : ["prtc_janitor","protectorate","storage"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "furniture",
+  "price" : 120,
+  "description" : "A simple metallic desk where janitors can store their supplies.",
+  "shortdescription" : "Janitor Desk",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "A desk where janitors can rest after a work day.",
+  "avianDescription" : "A table where janitors can do stuff.",
+  "floranDescription" : "Floran can use this table for rest.",
+  "glitchDescription" : "Neutral. An iron desk for janitors.",
+  "humanDescription" : "Looks kinda comfortable.",
+  "hylotlDescription" : "A clean desk. Didn't expect any less.",
+  "novakidDescription" : "An iron desk, I can rest my legs over here.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcjanitordesk.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

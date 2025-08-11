@@ -1,0 +1,82 @@
+{
+  "objectName" : "iwrmp_prtcsecurityconsole",
+  "colonyTags" : ["combat","protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "wire",
+  "price" : 150,
+  "description" : "A highly modern security camera station, suited only for Watchers.",
+  "shortdescription" : "Watcher Security Console",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [22, 31, 36],
+
+  "apexDescription" : "A security station. The screens are all in blue...",
+  "avianDescription" : "Looks like a more sophisticated security console.",
+  "floranDescription" : "Floran is supposed to see othersss from here?",
+  "glitchDescription" : "Curious. This console allows me to watch over people in other rooms.",
+  "humanDescription" : "A security console, why is it all blue?",
+  "hylotlDescription" : "A security console reserved only for security, I like this.",
+  "novakidDescription" : "So, this is the place where the other guy sees me when I wave to the camera?",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcsecurityconsole.png:<color>.on",
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcsecurityconsole.png:<color>.on",
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "prtcsecurityconsole.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_button.ogg" ],
+      "off" : [ "/sfx/objects/console_button.ogg" ]
+    }
+  },
+
+  "animationParts" : {
+    "bg" : "prtcsecurityconsole.png",
+    "fg" : "prtcsecurityconsolelit.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "outputNodes" : [ [0, 0] ],
+
+  "npcToy" : {
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-0.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

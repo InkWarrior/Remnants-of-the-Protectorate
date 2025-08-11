@@ -1,0 +1,42 @@
+{
+  "objectName" : "iwrmp_prtcmechanicdesk",
+  "colonyTags" : ["prtc_mechanic","protectorate","storage"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "furniture",
+  "price" : 120,
+  "description" : "A solid workbench were mechanics can store all of their supplies.",
+  "shortdescription" : "Mechanic's Workbench",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "A workbench. I can work pleasantly in my projects in here.",
+  "avianDescription" : "A table where once can work with mechanical stuff.",
+  "floranDescription" : "Floran can work on metal stuff here.",
+  "glitchDescription" : "Curious. A table were others can work in mechanical stuff.",
+  "humanDescription" : "A place where I can work safely on my mechanics projects.",
+  "hylotlDescription" : "A workbench were I can work properly on mechanical devices.",
+  "novakidDescription" : "I can repair my stuff here.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcmechanicdesk.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

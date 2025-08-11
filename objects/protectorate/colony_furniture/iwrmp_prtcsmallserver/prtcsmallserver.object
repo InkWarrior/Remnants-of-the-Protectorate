@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcsmallserver",
+  "colonyTags" : ["prtc_engineer","protectorate","storage"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "lightColor" : [23, 33, 38],
+  "price" : 100,
+  "description" : "A compact Protectorate server, ideal for small places.",
+  "shortdescription" : "Small Protectorate Server",
+  "race" : "generic",
+
+  "apexDescription" : "A small rack loaded with computer equipment.",
+  "avianDescription" : "A small server rack.",
+  "floranDescription" : "A cabinet full of computersss.",
+  "glitchDescription" : "Curious. The capacity of this server is lower compared to other servers.",
+  "humanDescription" : "I wonder what this tiny server is being used on.",
+  "hylotlDescription" : "A simple and compact server. I approve of this.",
+  "novakidDescription" : "Small computer. 'Bout the size of a door.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcsmallserver.png" }, { "image" : "prtcsmallserverlit.png", "fullbright" : true } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "lightPosition" : [0, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcsmallserver.png" }, { "image" : "prtcsmallserverlit.png", "fullbright" : true } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+
+      "lightPosition" : [0, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/server_loop.ogg",
+  "soundEffectRangeMultiplier" : 0.5
+}

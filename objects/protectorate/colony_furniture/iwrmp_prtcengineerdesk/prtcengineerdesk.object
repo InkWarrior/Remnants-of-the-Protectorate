@@ -1,0 +1,59 @@
+{
+  "objectName" : "iwrmp_prtcengineerdesk",
+  "colonyTags" : ["prtc_engineer","protectorate","storage"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "furniture",
+  "price" : 120,
+  "description" : "A desk equiped with a couple of computers.",
+  "shortdescription" : "Computation Desk",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "What manner of things I can do on this desk.",
+  "avianDescription" : "A table fitted with computers, I can use it for something.",
+  "floranDescription" : "Floran can use thinking machiness here!",
+  "glitchDescription" : "Curious. This desk is equiped with computers.",
+  "humanDescription" : "Oh? Maybe I can conect my pc here and play videogames!",
+  "hylotlDescription" : "I wonder what this upgraded desk would allow me to do.",
+  "novakidDescription" : "I can play some videogames here.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcengineerdesk.png:<color>" }, { "image" : "prtcengineerdesklit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcengineerdesk.png:<color>" }, { "image" : "prtcengineerdesklit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,30 @@
+{
+  "objectName" : "iwrmp_prtctoolrack",
+  "colonyTags" : ["prtc_mechanic","protectorate","science"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "A wall rack where you can hang all of your tools.",
+  "shortdescription" : "Tool Rack",
+  "race" : "protectorate",
+
+  "apexDescription" : "A tool rack. This is going to be very handy.",
+  "avianDescription" : "A place where I can hang my tools. Interesting.",
+  "floranDescription" : "Floran can hang weaponss here!",
+  "glitchDescription" : "Neutral. A rack for tools.",
+  "humanDescription" : "A very handy solution to the \"where did I left my wrench\" problem.",
+  "hylotlDescription" : "An elegant solution for all the logistical problems that tools represent.",
+  "novakidDescription" : "I can put my stuff here.",
+
+  "inventoryIcon" : "icon1.png",
+  "orientations" : [
+    {
+      "image" : "prtctoolrack.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

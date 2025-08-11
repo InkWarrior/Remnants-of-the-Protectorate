@@ -1,0 +1,43 @@
+{
+  "objectName" : "iwrmp_prtctailorwardrobe",
+  "colonyTags" : ["prtc_tailor","protectorate","storage"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 140,
+  "description" : "A sturdy and reliable wardrobe.",
+  "shortdescription" : "Fashion Wardrobe",
+  "race" : "protectorate",
+  "printable" : false,
+  "health" : 1.5,
+
+  "apexDescription" : "I can put my clothes in this wardrobe.",
+  "avianDescription" : "This wardrobe looks safe enough for my clothes.",
+  "floranDescription" : "Floran can hide insside!",
+  "glitchDescription" : "Neutral. A metallic wardrobe.",
+  "humanDescription" : "I should put my clothes here inside.",
+  "hylotlDescription" : "A wardrobe where I could store my clothes.",
+  "novakidDescription" : "I can put my hats in this wardrobe.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtctailorwardrobe.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/locker_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/locker_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

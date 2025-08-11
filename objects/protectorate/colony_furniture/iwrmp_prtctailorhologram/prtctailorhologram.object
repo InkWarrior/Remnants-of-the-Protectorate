@@ -1,0 +1,63 @@
+{
+  "objectName" : "iwrmp_prtctailorhologram",
+  "colonyTags" : ["prtc_tailor","protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "light",
+  "price" : 75,
+  "description" : "A modular projector used by tailors to visualize their clothing designs.",
+  "shortdescription" : "Fashion Hologram Projector",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [0, 75, 227],
+  "pointLight" : true,
+  "pointBeam" : 4,
+  "beamAmbience" : 0.1,
+
+  "apexDescription" : "A projector module by which I can display clothing designs.",
+  "avianDescription" : "A device that projects images of outfits and other clothes.",
+  "floranDescription" : "Floran is intrigued, can Floran be displayed here?",
+  "glitchDescription" : "Excited.I can display armors with this device!",
+  "humanDescription" : "What a marvel! Can I display my outfits in here?",
+  "hylotlDescription" : "Wonderful! I see the Protectorate took notes in our own fashion projectors.",
+  "novakidDescription" : "I'm gonna look fine with this projector!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtctailorhologram.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [1, 0], [2, 0] ],
+      "anchors" : [ "bottom" ],
+      "lightPosition" : [1, 0],
+      "beamAngle" : 90
+    },
+    {
+      "image" : "prtctailorhologram.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [1, 0], [2, 0] ],
+      "anchors" : [ "bottom" ],
+      "lightPosition" : [1, 0],
+      "beamAngle" : 90
+    }
+  ],
+
+  "animation" : "prtctailorhologram.animation",
+  "animationParts" : {
+    "bg" : "prtctailorhologram.png",
+    "fg" : "prtctailorhologramlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : true,
+
+  "inputNodes" : [ [1, 0] ]
+}
