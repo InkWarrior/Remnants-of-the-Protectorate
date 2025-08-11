@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "money", "count" : 175 }
+    { "item" : "money", "count" : 215 }
   ],
   "duration" : 0,
   "output" : { "item" : "iwrmp_prtcmedkitchest", "count" : 1 },

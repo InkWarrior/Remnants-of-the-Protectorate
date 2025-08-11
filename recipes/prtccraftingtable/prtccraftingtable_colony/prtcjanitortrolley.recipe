@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "money", "count" : 60 }
+    { "item" : "money", "count" : 90 }
   ],
   "duration" : 0,
   "output" : { "item" : "iwrmp_prtcjanitortrolley", "count" : 1 },

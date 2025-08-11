@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "money", "count" : 70 }
+    { "item" : "money", "count" : 750 }
   ],
   "duration" : 0,
-  "output" : { "item" : "iwrmp_prtcradiorepeater", "count" : 1 },
+  "output" : { "item" : "iwrmp_prtccolonydeed", "count" : 1 },
   "groups" : [ "iwrmp_prtccraftingtable", "iwrmp_prtcsailunit", "prtccraftingtable_colony", "all" ]
 }

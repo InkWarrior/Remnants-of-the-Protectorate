@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "money", "count" : 100 }
+    { "item" : "money", "count" : 65 }
   ],
   "duration" : 0,
   "output" : { "item" : "iwrmp_prtcsmallscanner", "count" : 1 },
