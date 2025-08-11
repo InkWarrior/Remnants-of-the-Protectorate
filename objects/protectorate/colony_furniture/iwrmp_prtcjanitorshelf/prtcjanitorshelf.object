@@ -6,7 +6,7 @@
   "tooltipKind" : "container",
   "category" : "storage",
   "price" : 125,
-  "description" : "A simple metallic shelf, useful to store all of your cleaning supplies.",
+  "description" : "A simple metallic shelf, useful to store all of your cleaning supplies with.",
   "shortdescription" : "Janitor Shelf",
   "race" : "protectorate",
   "printable" : false,
@@ -17,7 +17,7 @@
   "floranDescription" : "Sssheeelf.",
   "glitchDescription" : "Neutral. It's a metallic shelf.",
   "humanDescription" : "I can put all of my cleaning stuff in here.",
-  "hylotlDescription" : "A place where to safely store all of my cleaning supplies.",
+  "hylotlDescription" : "A place to safely store all of my cleaning supplies.",
   "novakidDescription" : "A simple iron shelf.",
 
   "inventoryIcon" : "icon.png",
