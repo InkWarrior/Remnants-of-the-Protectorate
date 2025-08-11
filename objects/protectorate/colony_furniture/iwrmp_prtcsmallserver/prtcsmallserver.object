@@ -5,7 +5,7 @@
   "category" : "decorative",
   "lightColor" : [23, 33, 38],
   "price" : 100,
-  "description" : "A compact Protectorate server, ideal for small places.",
+  "description" : "A compact Protectorate server, ideal for small spaces.",
   "shortdescription" : "Small Protectorate Server",
   "race" : "generic",
 
@@ -13,7 +13,7 @@
   "avianDescription" : "A small server rack.",
   "floranDescription" : "A cabinet full of computersss.",
   "glitchDescription" : "Curious. The capacity of this server is lower compared to other servers.",
-  "humanDescription" : "I wonder what this tiny server is being used on.",
+  "humanDescription" : "I wonder what this tiny server is being used for.",
   "hylotlDescription" : "A simple and compact server. I approve of this.",
   "novakidDescription" : "Small computer. 'Bout the size of a door.",
 
