@@ -16,11 +16,11 @@
 
   "apexDescription" : "A projector module by which I can display clothing designs.",
   "avianDescription" : "A device that projects images of outfits and other clothes.",
-  "floranDescription" : "Floran is intrigued, can Floran be displayed here?",
-  "glitchDescription" : "Excited.I can display armors with this device!",
-  "humanDescription" : "What a marvel! Can I display my outfits in here?",
-  "hylotlDescription" : "Wonderful! I see the Protectorate took notes in our own fashion projectors.",
-  "novakidDescription" : "I'm gonna look fine with this projector!",
+  "floranDescription" : "Floran isss intrigued, can Floran be displayed here?",
+  "glitchDescription" : "Excited. I can display armor with this device!",
+  "humanDescription" : "What a marvel! Can I display my outfits in this?",
+  "hylotlDescription" : "Wonderful! I see the Protectorate took notes from our own fashion projectors.",
+  "novakidDescription" : "I'm gonna look mighty fine with this projector!",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
