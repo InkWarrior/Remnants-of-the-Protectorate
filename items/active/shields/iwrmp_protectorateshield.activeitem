@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "shield",
-  "description" : "A distinctive shield used by the Watchers of the Terrene Protectorate.",
+  "description" : "A distinctive shield used by Watchers from the Terrene Protectorate.",
   "shortdescription" : "Protectorate Arch Shield",
   "tooltipKind" : "Shield",
   "twoHanded" : false,
