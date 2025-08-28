@@ -1,0 +1,52 @@
+{
+  "objectName" : "iwrmp_prtcenvoysailunit",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "description" : "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+  "shortdescription" : "Astraeus S.A.I.L Unit",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/envoysailunit.config"
+  },
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [100, 37, 0],
+  "lightPosition" : [-1, 0],
+
+  "apexDescription" : "I can talk to SAIL through this console.",
+  "avianDescription" : "I can use this station to talk to SAIL.",
+  "floranDescription" : "Floran use thisss magic panel to talk to SAIL!",
+  "glitchDescription" : "Happy. This station allows me to talk to SAIL.",
+  "humanDescription" : "This station allows me to communicate with SAIL.",
+  "hylotlDescription" : "This console allows me to communicate with SAIL.",
+  "novakidDescription" : "This here station lets me talk with SAIL.",
+
+  "inventoryIcon" : "iconenvoy.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcshipsailunit.png:<color>.<frame>" }, { "image" : "prtcenvoysailunitlit.png:<color>.<frame>", "fullbright" : true } ],
+      "imagePosition" : [-16, -8],
+      "frames" : 32,
+      "animationCycle" : 3.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "scripts" : [ "/objects/protectorate/iwrmp_prtcshipsailunit/prtcshipsailunit.lua" ],
+  "scriptDelta" : 20,
+
+  "chatRadius" : 10,
+  "chatCooldown" : 15,
+  "chatOptions" : [
+    "^#ffb06e;Take a look into our furniture catalogue!",
+    "^#ffb06e;Are you interested in Protectorate furniture? We can sell you stuff.",
+    "^#ffb06e;You want to support the Protectorate? You can buy our stuff!",
+    "^#ffb06e;Help the Protectorate with your spare pixels!",
+    "^#ffb06e;We have furniture in stock, are you interested?"
+  ]
+}
