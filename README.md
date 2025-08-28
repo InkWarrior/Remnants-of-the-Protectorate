@@ -9,13 +9,11 @@ __MOD SUPPORT__
 - Better Crew
 
 __GENERAL:__
-- Find a way to make the Protectorate armors obtainable (in-progress).
 - Fix the antennae of the second middle sections of the Protectorate Ship.
 - Complete the Envoy ship (add more parts; add npcs).
 - Make Mech parts for the Protectorate:
     - Globetrotter Mech Body (Envoy body; exploration themed).
     - Matter Separator Mech Arm.
-- Split the store categories for the Envoy and Protectorate SAIL units.
 
 __NPCS__
 - Revamp dialogue for all custom npcs.
