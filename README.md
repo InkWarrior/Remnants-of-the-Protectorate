@@ -44,7 +44,6 @@ __DUNGEONS__
    - Protectorate Space Station.
 
 __CLOTHES__
-- Make a Protectorate Captain outfit.
 
 __LORE__
 - Make more happy codexes :)
