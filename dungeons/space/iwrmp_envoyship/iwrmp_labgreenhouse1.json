@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztmM0NwyAMRjNKr10op46ROTpJxApVT1mrzSGSZfHz2YADCYentgSHF0OgsE3TtA3M+XZCzNv9eTIc+4xRqu5ethAQ75lx3MN3rVZd7u0u7B3qM7TvS9SVei+NIPX+EFb2G0UTx2OGd9ve9N3oyTvVvgPKfA6aGD6\/cO\/jmXhsyNs3Z0kc0JhUviXeluOkZL5bGt\/U+5Gg1Xy\/EiDuNfK9Znoj7jXy7fOm\/6n4mIq51wTJN\/Xmscc1pB9KIs13S94l8m3tLtlfprzRZ7DeF0u8z+Dq3nuZZp0vRU6+6VyOtudbBzSxvL+13m8Qn7cmNseb5sEq3\/T7nb1T5zixMxtJ7Mh3f96hfWxNb9pm7jyIjs8S0DZR79DZYm\/rDr2fZO3gc4Qk9s7vpdY7djZl7X2Hdcc639pxWQPU28cZviEXiXdLXMV7YMMPLrVhOg==",
+         "data":"eJztmM0NwjAMhTsKVxbixBidg0mqrIA4dS3gUMmynOTZ+WnS5PAEtHH98eI6bfZlWfap6vp0ohC3++nO5NhnSLnG\/o+tRAj3g+m4hnSu1FjO7S7M7ZszdO5zjNVyr41Iy\/0m2thvVJY4HjO52+am90ZP3LH8DjgmMVhieH\/h3Md\/4rE+bqlnaRjQmJjfGu6adZLT75bqm3LfImrV72dECHsJv7dEboS9hN8SN32m4jUVYi8pxG\/KzWOPc8g85JTW75a4c\/hdm13zfhnjPluTuw9utBdLOVNiLdy0l6O5pXXAEst9s3K\/QEncltgUbupDLb\/p95G5Y\/s4oT0bTez0uz9u33tsSW6aM7UPovWZQzQnyu3bW+xt3aHX06wdvEdoYke+L63cob2p2twjrDu1\/fbVpTW3VhZuSWdycxYNd0u6CvdUHX0BuhZjlg==",
          "encoding":"base64",
          "height":48,
          "id":11,
@@ -169,7 +169,7 @@
                  "properties":
                     {
                      "back":"slopedhullpanel",
-                     "colorVariant":"8"
+                     "colorVariant":"7"
                     },
                  "propertytypes":
                     {
@@ -190,7 +190,7 @@
                  "properties":
                     {
                      "back":"slopedhullpanel",
-                     "colorVariant":"8"
+                     "colorVariant":"7"
                     },
                  "propertytypes":
                     {
@@ -1042,6 +1042,26 @@
                  "width":80,
                  "x":216,
                  "y":304
+                }, 
+                {
+                 "gid":8283,
+                 "height":24,
+                 "id":1394,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{ \"startingStage\" : 4 }"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":264,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1076,7 +1096,7 @@
                  "type":"",
                  "visible":true,
                  "width":16,
-                 "x":128,
+                 "x":120,
                  "y":272
                 }, 
                 {
@@ -1656,7 +1676,7 @@
                  "type":"",
                  "visible":true,
                  "width":16,
-                 "x":248,
+                 "x":240,
                  "y":272
                 }, 
                 {
@@ -1668,7 +1688,7 @@
                  "type":"",
                  "visible":true,
                  "width":16,
-                 "x":248,
+                 "x":240,
                  "y":336
                 }, 
                 {
@@ -1680,7 +1700,7 @@
                  "type":"",
                  "visible":true,
                  "width":16,
-                 "x":128,
+                 "x":120,
                  "y":336
                 }, 
                 {
@@ -1786,7 +1806,7 @@
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"iwrmp_envoyShipTreasure\"]}"
                     },
                  "propertytypes":
                     {
@@ -2058,6 +2078,66 @@
                  "width":16,
                  "x":72,
                  "y":152
+                }, 
+                {
+                 "gid":8303,
+                 "height":16,
+                 "id":1392,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{ \"startingStage\" : 3 }"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":144,
+                 "y":272
+                }, 
+                {
+                 "gid":8297,
+                 "height":16,
+                 "id":1393,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{ \"startingStage\" : 3 }"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":264,
+                 "y":272
+                }, 
+                {
+                 "gid":8333,
+                 "height":32,
+                 "id":1395,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{ \"startingStage\" : 4 }"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":144,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2147,7 +2227,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":1392,
+ "nextobjectid":1396,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
