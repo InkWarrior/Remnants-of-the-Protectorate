@@ -21,6 +21,50 @@
     }]
   ],
 
+  "iwrmp_protectorShipTreasure" : [
+    [0, {
+      "poolRounds" : [
+        [0.4, 1],
+        [0.3, 2],
+        [0.3, 3]
+      ],
+      "pool" : [
+        {"weight" : 0.33, "pool" : "chestMoney"},
+        {"weight" : 0.60, "pool" : "commonSpaceItem"},
+        {"weight" : 0.07, "pool" : "rareSpaceItem"},
+        {"weight" : 0.003, "item" : "protectoratechest"},
+        {"weight" : 0.003, "item" : "protectoratepants"},
+        {"weight" : 0.003, "item" : "iwrmp_volunteerhead"},
+        {"weight" : 0.003, "item" : "iwrmp_volunteerchest"},
+        {"weight" : 0.003, "item" : "iwrmp_volunteerpants"}
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_protectorChestTreasure" : [
+    [0, {
+      "fill" : [
+        {"pool" : "rareSpaceItem"}
+      ],
+      "poolRounds" : [
+        [0.2, 1],
+        [0.5, 2],
+        [0.2, 3],
+        [0.1, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"},
+        {"weight" : 0.03, "pool" : "rareSpaceItem"}
+        {"weight" : 0.003, "item" : "iwrmp_protectorcaptainhead"},
+        {"weight" : 0.003, "item" : "iwrmp_protectorcaptainchest"},
+        {"weight" : 0.003, "item" : "iwrmp_protectorcaptainpants"}
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
   // ================================
   //           Envoy Ship
   // ================================
@@ -34,6 +78,27 @@
       "poolRounds" : [
         [0.40, 1],
         [0.30, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_envoyShipTreasure" : [
+    [0, {
+      "poolRounds" : [
+        [0.4, 1],
+        [0.3, 2],
+        [0.3, 3]
+      ],
+      "pool" : [
+        {"weight" : 0.33, "pool" : "chestMoney"},
+        {"weight" : 0.60, "pool" : "commonSpaceItem"},
+        {"weight" : 0.07, "pool" : "rareSpaceItem"},
+        {"weight" : 0.003, "item" : "iwrmp_envoyuniformchest"},
+        {"weight" : 0.003, "item" : "iwrmp_envoyuniformpants"},
+        {"weight" : 0.003, "item" : "iwrmp_volunteerhead"},
+        {"weight" : 0.003, "item" : "iwrmp_volunteerchest"},
+        {"weight" : 0.003, "item" : "iwrmp_volunteerpants"}
       ],
       "allowDuplication" : false
     }]
@@ -53,7 +118,9 @@
       "pool" : [
         {"weight" : 0.32, "pool" : "chestMoney"},
         {"weight" : 0.65, "pool" : "commonSpaceItem"},
-        {"weight" : 0.03, "pool" : "rareSpaceItem"}
+        {"weight" : 0.03, "pool" : "rareSpaceItem"},
+        {"weight" : 0.003, "item" : "iwrmp_envoycaptainhead"},
+        {"weight" : 0.003, "item" : "iwrmp_envoycaptainchest"}
       ],
       "allowDuplication" : false
     }]
@@ -73,7 +140,9 @@
       "pool" : [
         {"weight" : 0.32, "pool" : "chestMoney"},
         {"weight" : 0.65, "pool" : "commonSpaceItem"},
-        {"weight" : 0.03, "pool" : "rareSpaceItem"}
+        {"weight" : 0.03, "pool" : "rareSpaceItem"},
+        {"weight" : 0.003, "item" : "iwrmp_envoycaptainhead"},
+        {"weight" : 0.003, "item" : "iwrmp_envoycaptainchest"}
       ],
       "allowDuplication" : false
     }]
@@ -93,7 +162,9 @@
       "pool" : [
         {"weight" : 0.32, "pool" : "chestMoney"},
         {"weight" : 0.65, "pool" : "commonSpaceItem"},
-        {"weight" : 0.03, "pool" : "rareSpaceItem"}
+        {"weight" : 0.03, "pool" : "rareSpaceItem"},
+        {"weight" : 0.003, "item" : "iwrmp_envoycaptainhead"},
+        {"weight" : 0.003, "item" : "iwrmp_envoycaptainchest"}
       ],
       "allowDuplication" : false
     }]
