@@ -1219,7 +1219,7 @@
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"spaceChestTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"iwrmp_protectorChestTreasure\"]}"
                     },
                  "propertytypes":
                     {
@@ -1504,6 +1504,18 @@
                  "width":48,
                  "x":304,
                  "y":416
+                }, 
+                {
+                 "gid":7799,
+                 "height":32,
+                 "id":912,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":312,
+                 "y":400
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1716,6 +1728,26 @@
                  "width":0,
                  "x":325.5625,
                  "y":413.0625
+                }, 
+                {
+                 "height":0,
+                 "id":913,
+                 "name":"",
+                 "polyline":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":-9.88068181818181,
+                         "y":-17
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":325.727272727273,
+                 "y":413.181818181818
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1736,7 +1768,7 @@
                  "properties":
                     {
                      "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
-                     "typeName":"iwrmp_spaceprotector"
+                     "typeName":"iwrmp_spaceprotectorcaptain"
                     },
                  "propertytypes":
                     {
@@ -1838,7 +1870,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":912,
+ "nextobjectid":914,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",

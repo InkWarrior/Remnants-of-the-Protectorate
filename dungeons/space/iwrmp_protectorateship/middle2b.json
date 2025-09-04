@@ -1048,7 +1048,7 @@
                  "y":536
                 }, 
                 {
-                 "gid":7884,
+                 "gid":7887,
                  "height":47,
                  "id":870,
                  "name":"",
@@ -1060,7 +1060,7 @@
                  "y":224
                 }, 
                 {
-                 "gid":7884,
+                 "gid":7887,
                  "height":47,
                  "id":871,
                  "name":"",
@@ -1072,7 +1072,7 @@
                  "y":224
                 }, 
                 {
-                 "gid":7880,
+                 "gid":7883,
                  "height":28,
                  "id":872,
                  "name":"",
@@ -1084,7 +1084,7 @@
                  "y":216
                 }, 
                 {
-                 "gid":2147491536,
+                 "gid":2147491539,
                  "height":24,
                  "id":873,
                  "name":"",
@@ -1096,7 +1096,7 @@
                  "y":224
                 }, 
                 {
-                 "gid":7882,
+                 "gid":7885,
                  "height":29,
                  "id":874,
                  "name":"",
@@ -1108,7 +1108,7 @@
                  "y":224
                 }, 
                 {
-                 "gid":7889,
+                 "gid":7892,
                  "height":22,
                  "id":875,
                  "name":"",
@@ -1132,7 +1132,7 @@
                  "y":168
                 }, 
                 {
-                 "gid":7893,
+                 "gid":7896,
                  "height":13,
                  "id":877,
                  "name":"",
@@ -1144,7 +1144,7 @@
                  "y":208
                 }, 
                 {
-                 "gid":7972,
+                 "gid":7975,
                  "height":32,
                  "id":880,
                  "name":"",
@@ -1156,7 +1156,7 @@
                  "y":192
                 }, 
                 {
-                 "gid":7947,
+                 "gid":7950,
                  "height":18,
                  "id":882,
                  "name":"",
@@ -1168,7 +1168,7 @@
                  "y":200
                 }, 
                 {
-                 "gid":7940,
+                 "gid":7943,
                  "height":17,
                  "id":883,
                  "name":"",
@@ -1180,7 +1180,7 @@
                  "y":184
                 }, 
                 {
-                 "gid":7939,
+                 "gid":7942,
                  "height":8,
                  "id":885,
                  "name":"",
@@ -1318,7 +1318,7 @@
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"spaceChestTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"iwrmp_protectorShipTreasure\"]}"
                     },
                  "propertytypes":
                     {
@@ -1338,7 +1338,7 @@
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"iwrmp_protectorShipTreasure\"]}"
                     },
                  "propertytypes":
                     {
@@ -1926,7 +1926,7 @@
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
         }, 
         {
-         "firstgid":7879,
+         "firstgid":7882,
          "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/_unpacked\/tilesets\/packed\/objects-by-race\/protectorate.json"
         }],
  "tilewidth":8,

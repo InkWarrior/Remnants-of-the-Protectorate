@@ -922,7 +922,7 @@
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"spaceChestTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"iwrmp_protectorChestTreasure\"]}"
                     },
                  "propertytypes":
                     {
@@ -1072,7 +1072,7 @@
                  "y":312
                 }, 
                 {
-                 "gid":7807,
+                 "gid":7810,
                  "height":16,
                  "id":889,
                  "name":"",
@@ -1216,7 +1216,7 @@
                  "y":416
                 }, 
                 {
-                 "gid":7837,
+                 "gid":7840,
                  "height":24,
                  "id":908,
                  "name":"",
@@ -1228,7 +1228,7 @@
                  "y":376
                 }, 
                 {
-                 "gid":2147491485,
+                 "gid":2147491488,
                  "height":24,
                  "id":909,
                  "name":"",
@@ -1252,7 +1252,7 @@
                  "y":280
                 }, 
                 {
-                 "gid":7837,
+                 "gid":7840,
                  "height":24,
                  "id":911,
                  "name":"",
@@ -1264,7 +1264,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":2147491485,
+                 "gid":2147491488,
                  "height":24,
                  "id":912,
                  "name":"",
@@ -1527,6 +1527,18 @@
                  "width":48,
                  "x":264,
                  "y":416
+                }, 
+                {
+                 "gid":7799,
+                 "height":32,
+                 "id":956,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":272,
+                 "y":400
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1639,6 +1651,26 @@
                  "width":0,
                  "x":284.994945595503,
                  "y":412.787071211527
+                }, 
+                {
+                 "height":0,
+                 "id":957,
+                 "name":"",
+                 "polyline":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":-9.5,
+                         "y":-16.6875
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":285.125,
+                 "y":412.8125
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1659,7 +1691,7 @@
                  "properties":
                     {
                      "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
-                     "typeName":"iwrmp_spaceprotector"
+                     "typeName":"iwrmp_spaceprotectorcaptain"
                     },
                  "propertytypes":
                     {
@@ -1758,7 +1790,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":956,
+ "nextobjectid":958,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -1881,7 +1913,7 @@
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
         }, 
         {
-         "firstgid":7799,
+         "firstgid":7802,
          "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/_unpacked\/tilesets\/packed\/objects-by-colonytag\/outpost.json"
         }],
  "tilewidth":8,

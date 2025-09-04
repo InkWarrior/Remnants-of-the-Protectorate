@@ -1604,7 +1604,7 @@
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"iwrmp_protectorShipTreasure\"]}"
                     },
                  "propertytypes":
                     {
@@ -1624,7 +1624,7 @@
                  "name":"",
                  "properties":
                     {
-                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                     "parameters":"{\"treasurePools\":[\"iwrmp_protectorShipTreasure\"]}"
                     },
                  "propertytypes":
                     {
