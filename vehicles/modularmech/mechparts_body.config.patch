@@ -1,0 +1,51 @@
+[
+//TIER 5 - Only body in the game with full hazard protection at this tier, that's intended
+    {
+        "op": "add",
+        "path": "/iwrmp_envoy",
+        "value": {
+            "stats": {
+                "energy": 5,
+                "protection": 5
+            },
+            "partParameters": {
+                "hazardImmunities": [
+                    "biomeradiation",
+                    "biomecold",
+                    "biomeheat"
+                ]
+            },
+            "partImages": {
+                "bodyBack": "body/iwrmp_envoy_back.png",
+                "bodyFront": "body/iwrmp_envoy_front.png",
+                "bodyFullbright": "body/iwrmp_envoy_fullbright.png"
+            },
+            "defaultPrimaryColors": [
+                "f4c56f",
+                "dc8c13",
+                "9e570d",
+                "733807"
+            ],
+            "defaultSecondaryColors": [
+                "ffe975",
+                "ffc038",
+                "e07625",
+                "97400d"
+            ],
+            "animationCustom": {
+                "animatedParts": {
+                    "parts": {
+                        "bodyFront": {
+                            "properties": {
+                                "sitPosition": [
+                                    0.65,
+                                    0.28
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+]
