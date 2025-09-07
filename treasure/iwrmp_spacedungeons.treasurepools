@@ -56,7 +56,7 @@
       "pool" : [
         {"weight" : 0.32, "pool" : "chestMoney"},
         {"weight" : 0.65, "pool" : "commonSpaceItem"},
-        {"weight" : 0.03, "pool" : "rareSpaceItem"}
+        {"weight" : 0.03, "pool" : "rareSpaceItem"},
         {"weight" : 0.003, "item" : "iwrmp_protectorcaptainhead"},
         {"weight" : 0.003, "item" : "iwrmp_protectorcaptainchest"},
         {"weight" : 0.003, "item" : "iwrmp_protectorcaptainpants"}
