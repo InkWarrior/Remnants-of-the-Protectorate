@@ -11,8 +11,6 @@ __MOD SUPPORT__
 __GENERAL:__
 - Fix the antennae of the second middle sections of the Protectorate Ship.
 - Complete the Envoy ship (add more parts; add npcs).
-- Make Mech parts for the Protectorate:
-    - Matter Separator Mech Arm.
 
 __NPCS__
 - Revamp dialogue for all custom npcs.
