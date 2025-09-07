@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwrmp_protectorateyellowdye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "protectorateyellowdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Protectorate Yellow Dye",
+
+  "dyeDirectives" : {"ffca8a" : "ffe975", "e0975c" : "ffc038", "a85636" : "e07625", "6f2919" : "97400d"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}
