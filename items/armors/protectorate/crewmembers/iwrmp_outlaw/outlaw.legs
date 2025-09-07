@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "legarmour",
   "description" : "A pair of trousers padded with protective gear, should be good enough.",
-  "shortdescription" : "^red;Outlaw Makeshift Trousers^reset;",
+  "shortdescription" : "^red;Outlaw^reset; Makeshift Trousers",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",
