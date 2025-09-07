@@ -1,0 +1,24 @@
+{
+  "itemName" : "iwrmp_pocketstoreunit",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "A Pocket Store Unit for building materials, uses the same technology behind the matter manipulator.",
+  "shortdescription" : "Lupton Storage Unit",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "icon.png",
+  "animation" : "pocketstoreunit.animation",
+  "animationCustom" : {},
+  "scripts" : ["pocketstoreunit.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwrmp_pocketUnitReward",
+    "level" : 1
+  }
+}
