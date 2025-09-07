@@ -30,13 +30,5 @@
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
     "textSpeed" : 70,
     "text" : "We are currently selling our supply of Protectorate furniture and equipment to acquire funds. Please, take a look into our catalogue."
-  },
-
-  "prtc_remoteterminalbuy" : {
-    "type" : "tutorial",
-    "persistTime" : 10.0,
-    "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
-    "textSpeed" : 70,
-    "text" : "Excellent choice. You may expand the catalogue of your terminal by using our data pads."
   }
 }
