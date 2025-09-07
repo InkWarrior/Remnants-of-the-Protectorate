@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "headarmour",
   "description" : "The Protectorate doesn't employ outlaws, yet these are desperate times.",
-  "shortdescription" : "^red;Outlaw Makeshift Helmet^reset;",
+  "shortdescription" : "^red;Outlaw^reset; Makeshift Helmet",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
