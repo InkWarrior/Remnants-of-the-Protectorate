@@ -19,7 +19,7 @@ __NPCS__
 - Make a Protectorate Ship Turret.
 
 __MISC__
---------
+o-o-o-o-o
 
 __FURNITURE__
 - Standarize prices and rarity for all current objects (in-progress).
@@ -43,7 +43,7 @@ __DUNGEONS__
    - Protectorate Space Station.
 
 __CLOTHES__
------------
+o-o-o-o-o-o
 
 __LORE__
 - Make more happy codexes :)
