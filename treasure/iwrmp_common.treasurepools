@@ -1,0 +1,168 @@
+{
+  // ==============================================================================================
+  //                     REMNANTS OF THE PROTECTORATE - COMMON TREASURE POOLS
+  // ==============================================================================================
+
+  // ================================
+  //       Lupton Storage Unit
+  // ================================
+  
+  "iwrmp_pocketUnitReward" : [
+    [1, {
+      "fill" : [
+        {"pool" : "iwrmp_pocketUnitTiles"},
+        {"pool" : "iwrmp_pocketUnitMaterials"},
+        {"pool" : "iwrmp_pocketUnitFurniture"}
+      ]
+    }]
+  ],
+  
+  "iwrmp_pocketUnitTiles" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.25, "item" : ["slopedinsetpanel", 50]},
+        {"weight" : 0.25, "item" : ["slopedhullpanel", 50]},
+        {"weight" : 0.25, "item" : ["slopedglasspanel", 50]},
+        {"weight" : 0.25, "item" : ["apexshipwall", 50]},
+        {"weight" : 0.25, "item" : ["apexshipsupport", 50]},
+        {"weight" : 0.25, "item" : ["apexshipdetails", 50]},
+        {"weight" : 0.25, "item" : ["outpostsupport", 50]},
+        {"weight" : 0.25, "item" : ["outpostwall1", 50]},
+        {"weight" : 0.25, "item" : ["outpostwall2", 50]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2],
+        [0.05, 3]
+      ],
+      "allowDuplication" : false
+    }],
+    [4.9, {
+      "pool" : [
+        {"weight" : 0.25, "item" : ["slopedinsetpanel", 100]},
+        {"weight" : 0.25, "item" : ["slopedhullpanel", 100]},
+        {"weight" : 0.25, "item" : ["slopedglasspanel", 100]},
+        {"weight" : 0.25, "item" : ["apexshipwall", 100]},
+        {"weight" : 0.25, "item" : ["apexshipsupport", 100]},
+        {"weight" : 0.25, "item" : ["apexshipdetails", 100]},
+        {"weight" : 0.25, "item" : ["outpostsupport", 100]},
+        {"weight" : 0.25, "item" : ["outpostwall1", 100]},
+        {"weight" : 0.25, "item" : ["outpostwall2", 100]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2],
+        [0.05, 3]
+      ],
+      "allowDuplication" : false
+    }],
+    [5.9, {
+      "pool" : [
+        {"weight" : 0.25, "item" : ["slopedinsetpanel", 200]},
+        {"weight" : 0.25, "item" : ["slopedhullpanel", 200]},
+        {"weight" : 0.25, "item" : ["slopedglasspanel", 200]},
+        {"weight" : 0.25, "item" : ["apexshipwall", 200]},
+        {"weight" : 0.25, "item" : ["apexshipsupport", 200]},
+        {"weight" : 0.25, "item" : ["apexshipdetails", 200]},
+        {"weight" : 0.25, "item" : ["outpostsupport", 200]},
+        {"weight" : 0.25, "item" : ["outpostwall1", 200]},
+        {"weight" : 0.25, "item" : ["outpostwall2", 200]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2],
+        [0.05, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_pocketUnitMaterials" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.05, "item" : ["battery", 1]},
+        {"weight" : 0.25, "item" : ["siliconboard", 1]},
+        {"weight" : 0.25, "item" : ["wire", 3]},
+        {"weight" : 0.25, "item" : ["glass", 15]},
+        {"weight" : 0.25, "item" : ["copperbar", 5]},
+        {"weight" : 0.25, "item" : ["silverore", 5]},
+        {"weight" : 0.25, "item" : ["goldore", 5]},
+        {"weight" : 0.25, "item" : ["ironbar", 5]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2],
+        [0.05, 3]
+      ],
+      "allowDuplication" : false
+    }],
+    [3.9, {
+      "pool" : [
+        {"weight" : 0.05, "item" : ["battery", 2]},
+        {"weight" : 0.25, "item" : ["siliconboard", 3]},
+        {"weight" : 0.25, "item" : ["wire", 5]},
+        {"weight" : 0.25, "item" : ["glass", 25]},
+        {"weight" : 0.25, "item" : ["copperbar", 10]},
+        {"weight" : 0.25, "item" : ["silverore", 10]},
+        {"weight" : 0.25, "item" : ["goldore", 10]},
+        {"weight" : 0.25, "item" : ["ironbar", 10]},
+        {"weight" : 0.25, "item" : ["tungstenbar", 5]},
+        {"weight" : 0.25, "item" : ["titaniumbar", 5]},
+        {"weight" : 0.25, "item" : ["durasteelbar", 5]},
+        {"weight" : 0.05, "item" : ["teleportercore", 1]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2],
+        [0.05, 3]
+      ],
+      "allowDuplication" : false
+    }],
+    [4.9, {
+      "pool" : [
+        {"weight" : 0.05, "item" : ["battery", 3]},
+        {"weight" : 0.25, "item" : ["siliconboard", 5]},
+        {"weight" : 0.25, "item" : ["wire", 8]},
+        {"weight" : 0.25, "item" : ["glass", 35]},
+        {"weight" : 0.25, "item" : ["copperbar", 15]},
+        {"weight" : 0.25, "item" : ["silverore", 15]},
+        {"weight" : 0.25, "item" : ["goldore", 15]},
+        {"weight" : 0.25, "item" : ["ironbar", 15]},
+        {"weight" : 0.25, "item" : ["tungstenbar", 10]},
+        {"weight" : 0.25, "item" : ["titaniumbar", 10]},
+        {"weight" : 0.25, "item" : ["durasteelbar", 10]},
+        {"weight" : 0.05, "item" : ["teleportercore", 1]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2],
+        [0.05, 3]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_pocketUnitFurniture" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.25, "item" : ["iwrmp_prtctable", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcchair", 2]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcbookcase", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccabinet", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccaptainbed", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccratelarge", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccratesmall", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcpottedplant", 2]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcdisplay", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcstandconsole", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcsmallmonitor", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcterminal", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtctopmonitor", 1]},
+        {"weight" : 0.25, "item" : ["redlight", 3]},
+        {"weight" : 0.25, "item" : ["apexshiplight", 3]},
+        {"weight" : 0.25, "item" : ["mysteriouslight", 5]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcstoragelocker", 1]}
+      ]
+    }]
+  ]
+}
