@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "chestarmour",
   "description" : "A plate made out of multiple armor pieces, Watchers get priority after all.",
-  "shortdescription" : "^red;Outlaw Makeshift Plate^reset;",
+  "shortdescription" : "^red;Outlaw^reset; Makeshift Plate",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
