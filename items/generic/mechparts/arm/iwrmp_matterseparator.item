@@ -1,0 +1,15 @@
+{
+  "itemName" : "iwrmp_matterseparator",
+  "price" : 5600,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mecharm",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "iwrmp_matterseparator.png",
+  "description" : "An utility mech arm based on advanced laser mining technology.",
+  "shortdescription" : "Matter Separator Mech Arm",
+  "itemTags" : [ ],
+
+  "mechPart" : ["arm", "iwrmp_matterseparator"]
+}
