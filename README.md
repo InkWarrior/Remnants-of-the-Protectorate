@@ -13,7 +13,6 @@ __GENERAL:__
 - Complete the Envoy ship (add more parts; add npcs).
 - Make Mech parts for the Protectorate:
     - Matter Separator Mech Arm.
-    - Add Protectorate colors for mechs.
 
 __NPCS__
 - Revamp dialogue for all custom npcs.
