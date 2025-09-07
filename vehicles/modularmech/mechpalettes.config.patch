@@ -1,0 +1,35 @@
+[
+//PROTECTORATE BLUE
+    {
+        "op": "add",
+        "path": "/swapSets/-",
+        "value": [
+            "7db8d6",
+            "5588ab",
+            "325a81",
+            "1c3553"
+        ]
+    },
+//PROTECTORATE YELLOW
+    {
+        "op": "add",
+        "path": "/swapSets/-",
+        "value": [
+            "ffe975",
+            "ffc038",
+            "e07625",
+            "97400d"
+        ]
+    },
+//PROTECTORATE ORANGE
+    {
+        "op": "add",
+        "path": "/swapSets/-",
+        "value": [
+            "f4c56f",
+            "dc8c13",
+            "9e570d",
+            "733807"
+        ]
+    }
+]
