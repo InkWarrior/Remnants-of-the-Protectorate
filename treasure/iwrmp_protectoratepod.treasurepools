@@ -178,7 +178,7 @@
     } ]
   ],
   
-  "iwrmp__supplypodLore" : [
+  "iwrmp_supplypodLore" : [
     [0, {
 	  "pool" : [
 		{"weight" : 1, "item" : "humanhistory5-codex" }
