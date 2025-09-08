@@ -1,13 +1,13 @@
 {
   "id" : "iwrmp_biospherelore3",
   "title" : "Everything is OK!",
-  "description" : "A message from the previous crew of the Artificial Biosphere.",
+  "description" : "A message from the previous crew of an Artificial Biosphere.",
   "icon" : "protectoratepad2.png",
   "contentPages" : [ 
   
   "If you're reading this, welcome! Thankfully our request to go to the Graduation Ceremony got approved, as we wouldn't stand to miss it! I suppose we should apologize though, because you wouldn't be there if you got assigned here... Anyways, no hard feelings right? Don't worry, we have the finest entertainment out of any habitat in the galaxy! You like Numi-related movies hopefully?",
 
-"Right, the Biosphere! You don't have to worry; we have a good record of sending our reports in time and handling the few malfunctions we have had quite well. We did a double check of everything and everything looks good! Except for the supplies, they are kinda low? We were supposed to fill a request for more, I guess you can do that. Anyways, everything is in check, all is fine, send your reports, bla bla bla, you know the rest. Have fun!"
+"Right, the Biosphere! You don't have to worry; we have a good record of sending our reports in time and handling the few malfunctions we have had quite well. We did a double check of everything, and everything looks good! Except for the supplies, they are kinda low? We were supposed to fill a request for more, I guess you can do that. Anyways, everything is in check, all is fine, send your reports, bla bla bla, you know the rest. Have fun!"
 
   ],
     "itemConfig" : {
