@@ -1,0 +1,19 @@
+{
+  "id" : "iwrmp_rosenfieldlore1",
+  "title" : "The Rosenfield Plan - 1",
+  "description" : "A copy of the original Rosenfield Plan, an important document for the Terrene Protectorate.",
+  "icon" : "gaiabook1.png",
+  "contentPages" : [ 
+  
+  "An environment of peace can only be fostered in a healthy natural environment. Humanity had to learn this the hard way long ago, and it was only in our acceptance of our role as tenders and members of nature that peace could truly be achieved. While I understand that the Protectorate cares about the denizens of the galaxy, I, Arthur Rosenfield, Chief Commander of the 7th Astraeus Fleet, believe that this perspective must be accounted too, so our task can be truly achieved.",
+
+"In the eve of setting sail to fulfill our duties, I met with different space organizations, Earth mandataries and with our Grand Protector to speak of this matter, and an accord has been achieved. It will be under my command that the 7th Astraeus Mission shall attend any endangered environments, and with the help of different space organizations they will lead us to those places where our presence is needed the most.",
+
+"Is in this document where I intend to set and explain the protocols to fulfill such tasks, all ships have been provided with important and necessary equipment to carry out a wide range of activities: from investigating and recording environments to the healing and regrowth of these. According to what the situation needs, these activities will be catalogued under two general categories: Restoration or Preservation."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}
