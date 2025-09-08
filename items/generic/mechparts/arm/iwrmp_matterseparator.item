@@ -7,7 +7,7 @@
   "tooltipKind" : "mecharm",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "iwrmp_matterseparator.png",
-  "description" : "An utility mech arm based on advanced laser mining technology.",
+  "description" : "A utility mech arm derived from the Matter Manipulator's deconstructive abilities.",
   "shortdescription" : "Matter Separator Mech Arm",
   "itemTags" : [ ],
 
