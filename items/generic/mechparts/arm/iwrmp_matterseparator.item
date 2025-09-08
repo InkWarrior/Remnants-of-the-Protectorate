@@ -7,7 +7,7 @@
   "tooltipKind" : "mecharm",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "iwrmp_matterseparator.png",
-  "description" : "A utility mech arm derived from the Matter Manipulator's deconstructive abilities.",
+  "description" : "A utility mech arm derived from the Matter Manipulator.",
   "shortdescription" : "Matter Separator Mech Arm",
   "itemTags" : [ ],
 
