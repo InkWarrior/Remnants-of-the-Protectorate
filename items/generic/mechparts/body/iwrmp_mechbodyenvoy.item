@@ -8,7 +8,7 @@
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "iwrmp_mechbodyenvoy.png",
   "description" : "A resilient mech body, able to withstand any enviroment ever!",
-  "shortdescription" : "Globetrotter Mech Body",
+  "shortdescription" : "Envoy Mech Body",
   "itemTags" : [ ],
 
   "mechPart" : ["body", "iwrmp_envoy"]
