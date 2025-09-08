@@ -13,7 +13,7 @@
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_envoysailtalk.png:<frame>",
     "textSpeed" : 70,
-    "text" : "Please, the crew is upstairs, they can assist you if it's necessary. We are currently moving between outposts and the workload is heavy!"
+    "text" : "Please, the crew is upstairs, they can assist you if it's necessary. We are currently moving between outposts and the workload is rather heavy!"
   },
 
   "prtc_envoy_cargoship" : {
@@ -21,7 +21,7 @@
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_envoysailtalk.png:<frame>",
     "textSpeed" : 70,
-    "text" : "This is where we keep our supplies! You shouldn't be here... hmmm. Oh, well, we trust you won't take anything from here!"
+    "text" : "This is where we keep our supplies! You shouldn't be here... hmmm. Oh well, we trust you won't take anything from here!"
   },
 
   "prtc_envoy_shiptrade1" : {
@@ -40,3 +40,4 @@
     "text" : "Excellent choice! With this terminal you will be able to purchase our stuff remotely, and you can expand the catalogue even more. Thank you very much!"
   }
 }
+
