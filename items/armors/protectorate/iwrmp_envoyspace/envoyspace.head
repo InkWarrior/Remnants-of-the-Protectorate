@@ -5,13 +5,20 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "A particularly heavy visor, useful to explore space with.",
+  "description" : "A particularly heavy visor, useful to explore space with. ^green;Provides oxygen.^resest;",
   "shortdescription" : "Frontiersman Space Visor",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
   "mask" : "mask.png",
+
+ "statusEffects" : [
+    {
+      "stat" : "breathProtection",
+      "amount" : 1.0
+    }
+  ],
   
   "level" : 3,
   "leveledStatusEffects" : [
