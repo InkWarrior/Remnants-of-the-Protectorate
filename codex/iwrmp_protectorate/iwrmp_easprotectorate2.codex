@@ -1,15 +1,15 @@
 {
   "id" : "iwrmp_easprotectorate2",
-  "title" : "500th Anniversary Announcement",
-  "description" : "An old announcement made months before Earth's destruction.",
-  "icon" : "protectoratefolder1.png",
+  "title" : "Change of Directives",
+  "description" : "A dossier of an ordinance made by the Chief Commander of the 21st Astraeus Fleet.",
+  "icon" : "protectoratefolder2.png",
   "contentPages" : [ 
   
-  "^yellow;THE 500th ANNIVERSARY IS NEAR^reset;
-  
-As you may have heard, the 500th Anniversary of the Protectorate is getting closer, people from around the galaxy have already prepared to move to Earth for the celebration and you should too! You may have heard rumors that not everybody is able to assist with the celebrations, sadly this is true; only about 80% of the Network's staff will be free to assist.",
+  "This is Chief Commander Obinata speaking from the AES Argonaut to all the 21st Astraeus Fleet.//
+After an arduous assessment of the current conditions of the Protectorate and our own fleet, I have taken the decision to help all the remaining Protectors in the galaxy.//
+All ships will be assigned to Protectorate outposts to support in anything they need; Division Commanders will still oversee their own Divisions.//",
 
-"Likewise, we'll be only able to attend the first week of the celebration, we simply can't stay away from our work stations for that long! Don't worry, the first week will cover the parade of the 22nd Astreus Fleet and the Graduation Ceremony at the Protectorate Academy, which will be as memorable as you can expect! Send the appropriate request forms to the officer in charge of your station and you may have a chance of assisting the Anniversary!"
+"Our duties as explorers have officially expired, we are now what's left of the Terrene Protectorate. Chief Commander Obinata out.//"
 
   ],
     "itemConfig" : {
