@@ -6,9 +6,9 @@
   "contentPages" : [ 
   
   "Request Form Type 27
-Application place: ^yellow;Artificial Biosphere B-23^reset;
+Application from: ^yellow;Artificial Biosphere B-23^reset;
 Request subject: ^yellow;Additional security patrols for the habitat.^reset;
-Description: ^yellow;Since a couple of days ago, we had spotted unknown vessels approximately 8 kilometers from the habitat.^reset;
+Description: ^yellow;Since a couple of days ago, we have spotted unknown vessels approximately 8 kilometers from the habitat.^reset;
 ^yellow;Our security guard took a hoverbike to check the location, but nothing was found. The sightings continued. We request for a vessel to patrol over the habitat area, we don't want any bandits to give us problems.^reset;"
 
   ],
