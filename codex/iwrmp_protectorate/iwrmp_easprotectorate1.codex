@@ -1,6 +1,6 @@
 {
   "id" : "iwrmp_easprotectorate1",
-  "title" : "^yellow;The Volunteer Initiative^reset;",
+  "title" : "The Volunteer Initiative",
   "description" : "It seems to be an important message from the remnants of the Protectorate.",
   "icon" : "emergencypaper1.png",
   "contentPages" : [ 
@@ -15,7 +15,7 @@ This is a call to every citizen in the galaxy who is willing to volunteer in the
 
 "We encourage you to locate the nearest Protectorate outpost or Protector to be in further contact.
 
-If you're a Protector reading this message, do not lose hope; we are still here for you. If you are lost, you can be sure that we can find you, and that you can find us. Civilian or Protector, take the contents of this pod so you can help yourself and hopefully help others.
+If you are a Protector reading this message, do not lose hope; we are still here for you. If you are lost, you can be sure that we can find you, and that you can find us. Civilian or Protector, take the contents of this pod so you can help yourself and hopefully help others.
 
 Be safe and good luck."
 
