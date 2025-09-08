@@ -5,7 +5,7 @@
   "icon" : "notebook.png",
   "contentPages" : [ 
   
-  "^yellow;Hey there! We should put up a list of movies to watch together! I start: Star Adventures II: The Wrath of Ironbeak -Thomas^reset;
+  "^yellow;Hey there! We should put up a list of movies to watch together! I'll start; Star Adventures II: The Wrath of Ironbeak -Thomas^reset;
 ^orange;What about the first Star Adventures? That's where my boy Tinscrew appears! I'm adding it too, but we must watch it first before the second one -Longbolt^reset;
  ^blue;>Numi The TV Series^reset;
  ^blue;>Numi goes to the Future!^reset;
