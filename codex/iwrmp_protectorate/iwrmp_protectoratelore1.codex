@@ -1,17 +1,17 @@
 {
   "id" : "iwrmp_protectoratelore1",
-  "title" : "^yellow;The Protectorate Network^reset;",
+  "title" : "The Protectorate Network",
   "description" : "An excerpt from a book explaing what the Protectorate Network is.",
   "icon" : "/codex/default/protectoratecover1.png",
   "contentPages" : [ 
 
-  "One of the goals of the Protectorate was to explore space beyond what was already known, otherwise, how would they achieve their goals of aiding the galaxy without knowing it?
+  "One of the goals of the Protectorate was to explore space beyond what was already known, after all, how could they achieve their goals of aiding the galaxy without knowing it?
 The Astraeus Program was a first step towards that, as its missions revealed new planets and communities far away from contact and help; however, how to efficiently help them would become the challenge in question. The answer thankfully not far.",
 
-"Before exploring out, the Protectorate established a set of space stations in strategical points so they could answer any emergency swiftly. They decided to establish space stations which could aid multiple communities at the same time, so long as they asked for assistance.
-With some extra outposts and satellites to cut the communication gap, along constant supply chains, would the Protectorate Network arise to be what it nowadays is.",
+"Before exploring out, the Protectorate established a set of space stations in strategic points so they could answer any emergency swiftly. They decided to establish space stations which could aid multiple communities at the same time, so long as they asked for assistance.
+It would be with some extra outposts and satellites to cross the communication gap, alongside constant supply chains, would the Protectorate Network arise to be what it nowadays is.",
 
-"Since then, the Protectorate has operated in a big network of pivotal locations and ship routes that encompasses countless quadrants and planets. The Protectorate is able to send rescue teams, humanitarian help, diplomats and more to the far reaches of the galaxy, and the Network has served as a cornerstone for reaching such a milestone."
+"Since then, the Protectorate has operated within a big network of pivotal locations and ship routes that encompasses countless quadrants and planets. The Protectorate is able to send rescue teams, humanitarian aid, diplomats and more to the far reaches of the galaxy, and the Network has served as a cornerstone for reaching such an achievement."
 
   ],
     "itemConfig" : {
