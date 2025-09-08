@@ -46,11 +46,9 @@ __CLOTHES__
 __LORE__
 - Make more happy codexes :)
 - Revamp Codex for Floran Astraeus Captain and make it a separate codex from envoylore5 (in-progress).
-- Make easprotectorate2 codex a new unique codex and replace it with a new one.
 - Make 6 new codexes for Astraeus Captains (one for each race).
 - Make Lore about the 21st and 22nd Astraeus Missions
 - Expand on the lore of the Gaia and Hermes Programs.
-- Make Lore about the Rosenfield Plan.
 - Make Lore for Protectorate Space Stations.
 - Make Lore about the matter manipulator and make additions of it to other parts of the mod.
 - Make piece of lore about the Arch of Peace.
