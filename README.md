@@ -45,7 +45,8 @@ __CLOTHES__
 
 __LORE__
 - Make more happy codexes :)
-- Revamp Codex for Floran Astraeus Captain and make it a separate codex from envoylore5.
+- Revamp Codex for Floran Astraeus Captain and make it a separate codex from envoylore5 (in-progress).
+- Make easprotectorate2 codex a new unique codex and replace it with a new one.
 - Make 6 new codexes for Astraeus Captains (one for each race).
 - Make Lore about the 21st and 22nd Astraeus Missions
 - Expand on the lore of the Gaia and Hermes Programs.
