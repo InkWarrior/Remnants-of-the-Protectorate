@@ -15,6 +15,7 @@ __GENERAL:__
 __NPCS__
 - Revamp dialogue for all custom npcs.
 - Make a Protectorate Ship Turret.
+   - Make it fire a beam (or few) instead of projectiles?
 
 __MISC__
 
