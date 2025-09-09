@@ -29,7 +29,7 @@ __FURNITURE__
    - Medic ship door
    - Protectorate Panels (x19)
    - Remodeled Starmap Console
-   - Envoy SAIL Unit
+   - Protectorate and Envoy Flags
 - Make a colony furniture tileset.
 
 __DUNGEONS__
