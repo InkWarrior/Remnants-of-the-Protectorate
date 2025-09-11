@@ -30,7 +30,9 @@ __FURNITURE__
    - Protectorate Panels (x19)
    - Remodeled Starmap Console
    - Protectorate and Envoy Flags
+   - Additional colony furniture (outlaw themed objects)
 - Make a colony furniture tileset.
+- Be sure to utilize Astro furniture where it make sense!
 
 __DUNGEONS__
 - Add 3 minidungeon variants for the Protectorate Dropship.
