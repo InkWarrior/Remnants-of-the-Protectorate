@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1800 },
+    { "item" : "durasteelbar", "count" : 30 },
+    { "item" : "salvagearm", "count" : 50 },
+    { "item" : "salvagetier5", "count" : 25 }
+  ],
+  "duration" : 2.5,
+  "output" : { "item" : "iwrmp_matterseparator", "count" : 1 },
+  "groups" : [ "craftingmech", "mecharm" ]
+}
