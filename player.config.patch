@@ -63,6 +63,37 @@
     },
 
 
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_protectorateyellowdye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_protectoratebluedye"
+        }
+    },
+
+
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_matterseparator"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_mechbodyenvoy"
+        }
+    },
+
 //CLOTHES
 
     {
