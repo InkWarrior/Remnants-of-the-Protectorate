@@ -5,15 +5,15 @@
   "category" : "decorative",
   "price" : 65,
   "description" : "A healthy and pretty plant, definitely not fake.",
-  "shortdescription" : "Vanguard Potted Plant",
+  "shortdescription" : "Voyager Potted Plant",
   "race" : "protectorate",
 
   "apexDescription" : "I suspect this plant is real.",
   "avianDescription" : "A fake plan- wait no, this one is real.",
   "floranDescription" : "Floran knowss this isss a true plant!",
   "glitchDescription" : "Unsure. I suspect this might be a plastic plant.",
-  "humanDescription" : "The Protectorate knows how to give style to plants.",
-  "hylotlDescription" : "I hope this plant has enought water.",
+  "humanDescription" : "The Protectorate sure knows how to give style to plants.",
+  "hylotlDescription" : "I hope this plant has had enought water.",
   "novakidDescription" : "A not-fake plant, sounds like too much work.",
 
   "inventoryIcon" : "icon.png",
