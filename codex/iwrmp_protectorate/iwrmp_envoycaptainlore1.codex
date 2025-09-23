@@ -1,0 +1,23 @@
+{
+  "id" : "iwrmp_envoycaptainlore1",
+  "title" : "Odd Stories about Odd Ships",
+  "description" : "A log entry of a Floran captain's diary about odd ship stories.",
+  "icon" : "captainlogfloran.png",
+  "contentPages" : [ 
+  
+  "^green;Log Entry #07, Year 1 - Mission Astraeus XXI^reset;
+  
+Sseventh day on the job, Beatu is truly happy about this journey! Crew are happy too, they've been watching a lot of moviess, I find them weird, why would someone like a story about something that is not truth? The concept is weird to me! Anyway, odd stories are something I've been thinking about a lot these days. Beatu remembersss being still an initiate when I got to hear fantastic stories from the old, wiser Envoyss.",
+
+"But, of all those stories, I remember the ones old Riversong told me many years ago. He was, strangely, very adept at telling stories, even if he didn't talk that expressly. He talked about the time they discovered a graveyard of old unknown warships, or the time they found an abandoned space station made of ship parts! Old Riversong loved to say that, even with everything we know, there will always be something mysterious to find, and you'll never know the deal with it.",
+
+"The most frightening one must be the sphere one. When their ship was resting, and so was the crew, Riversong went to the cockpit to stretch for a bit, when he saw something in the distance: a metal sphere. It looked small at first, but then he realized the sphere was getting close. The sphere was bigger than the ship! It looked plain, with no details. And then, with no warning, it vanished! Riversong was scared to death! He tried to see if the ship registered something, but it didn't!",
+
+"Even the SAIL unit was completely unaware of what happened. Was it some sort of robotic hallucination? Who knows. Odd story indeed, never heard of something like that before. I would be certainly scared if I found something like that too, but it would be an amazing story! So, I have 10 years to discover the wildest of things ever! I wouldn't be happy if I can't scare to death the new cadets with those storiess! And for sure, those would be better than movies."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "rare",
+    "price" : 25
+  }
+}
