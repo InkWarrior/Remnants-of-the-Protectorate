@@ -48,7 +48,7 @@ __CLOTHES__
 
 __LORE__
 - Make more happy codexes :)
-- Make 5 new codexes for Astraeus Captains (one for each race).
+- Make 5 new codexes for Astraeus Captains (Human, Hylotl, Novakid, Avian, Apex).
 - Make Lore about the 21st and 22nd Astraeus Missions (in-progress).
 - Expand on the lore of the Gaia and Hermes Programs.
 - Make Lore for Protectorate Space Stations.
