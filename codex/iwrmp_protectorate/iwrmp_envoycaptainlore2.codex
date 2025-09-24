@@ -1,17 +1,17 @@
 {
   "id" : "iwrmp_envoycaptainlore2",
   "title" : "About Glitch Unity",
-  "description" : "A log entry of a Glitch captain's diary about peace among her kind.",
+  "description" : "A Glitch captain's log about peace among her kind.",
   "icon" : "captainlogglitch.png",
   "contentPages" : [ 
   
-  "^orange;Log Entry #207, Year 10 - Mission Astraeus XXI^reset;
+  "^orange;Log Entry #207, Year 10 - Astraeus Mission XXI^reset;
   
-And so, the adventure ends. Right now, we are heading back to Earth to reunite with our fellow colleagues and enjoy the monumental celebration they are preparing. I remember the day we sailed away for the 21st Astraeus Mission and how we were told that, when we returned, a new era would begin. 500 years of the Protectorate! It's hard to believe, yet humans were able to achieve it.",
+And so, the adventure ends. Right now, we are heading back to Earth to reunite with our fellow colleagues and enjoy the monumental celebration they are preparing. I remember the day we sailed away for the 21st Astraeus Mission and how we were told that, when we returned, a new era would begin. 500 years of the Protectorate! It's hard to believe, but Humanity was able to achieve it.",
 
 "Unity, I mean. They were able to bring so much peace amidst the turmoil of this galaxy. And while there's still much work to be done, what they have achieved is nothing less than spectacular. I yearn for such unity and peace for my people; I still ponder about Glitch unity, and I know it isn't just the dream of a mad self-aware Glitch, I firmly believe it's possible. Sometimes I read about the Aureate Brotherhood and their dreams of unity, I see their inspiration from the Protectorate.",
 
-"It inspires me too!... I was considering retiring after this mission, my joints rasp already! But maybe I could go on a last adventure: to find how to unite our kind. I might as well be just a mad self-aware Glitch. Still, I don't lose my hope that one day the Glitch can belong with each other under the same banner, one where my self-aware brothers and sisters don't know what it means to flee or live secluded. If this is a new era, then I can only hope of a bright future for the Glitch."
+"It inspires me too!... I was considering retiring after this mission, my joints rasp already! But maybe I could go on a last adventure: to find how to unite our kind. I might as well be just a mad self-aware Glitch. Still, I don't lose my hope that one day the Glitch can be with each other under the same banner, one where my self-aware brothers and sisters won't have to know what it means to flee or live in seclusion. If this is a new era, then I can only hope of a bright future for the Glitch."
 
   ],
     "itemConfig" : {
