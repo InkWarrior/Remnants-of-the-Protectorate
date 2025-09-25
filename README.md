@@ -7,6 +7,9 @@ __MOD SUPPORT__
 - Wardrobe Interface
 - Planet Search
 - Better Crew
+- Scripted SAIL
+- Maybe a full SAIL replacement addon?
+- Make an extra addon for crewmembers so they can wear their unique outfits.
 
 __GENERAL:__
 - Fix the antennae of the second middle sections of the Protectorate Ship.
@@ -29,7 +32,7 @@ __FURNITURE__
    - Medic ship door
    - Protectorate Panels (x19)
    - Remodeled Starmap Console
-   - Protectorate and Envoy Flags
+   - Protectorate and Envoy Flags (in-progress)
    - Additional colony furniture (outlaw themed objects)
 - Make a colony furniture tileset.
 - Be sure to utilize Astro furniture where it make sense!
@@ -52,5 +55,5 @@ __LORE__
 - Make Lore about the 21st and 22nd Astraeus Missions (in-progress).
 - Expand on the lore of the Gaia and Hermes Programs.
 - Make Lore for Protectorate Space Stations.
-- Make Lore about the matter manipulator and make additions of it to other parts of the mod.
-- Make piece of lore about the Arch of Peace (in-progress).
+- Make Lore additions of the matter manipulator where it makes sense.
+- Make lore additions of the the Arch of Peace where it makes sense (in-progress).
