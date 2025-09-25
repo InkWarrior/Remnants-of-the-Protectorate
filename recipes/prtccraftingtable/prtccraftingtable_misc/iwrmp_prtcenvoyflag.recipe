@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 100 },
+    { "item" : "fabric", "count" : 20 },
+    { "item" : "copperbar", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwrmp_prtcenvoyflag", "count" : 1 },
+  "groups" : [ "iwrmp_prtccraftingtable", "prtccraftingtable_misc", "all" ]
+}
