@@ -1,0 +1,51 @@
+{
+  "objectName" : "iwrmp_prtcenvoyflag",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "description" : "An Astraeus Envoy flag, displaying the Arch of Peace. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Astraeus Envoy Flag",
+  "race" : "protectorate",
+  "printable" : false,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+
+  "apexDescription" : "An Envoy flag. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This Envoy flag can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "Envoy flag makess good point to teleport back to ussing teleporter!",
+  "glitchDescription" : "Observant. A small locator module attached to this Envoy flag allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This Envoy flag can be saved as a location for my teleporter. Then I can return to it any time.",
+  "hylotlDescription" : "This Envoy flag can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this Envoy flag for quick teleportin'.",
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcenvoyflag.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcenvoyflag.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}
