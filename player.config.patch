@@ -102,6 +102,13 @@
             "item": "iwrmp_prtcenvoyflag"
         }
     },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcbeaconflag"
+        }
+    },
 
 //CLOTHES
 
