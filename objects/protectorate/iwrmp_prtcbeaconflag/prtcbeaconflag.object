@@ -1,0 +1,51 @@
+{
+  "objectName" : "iwrmp_prtcbeaconflag",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "description" : "A Protectorate emergency beacon. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Protectorate Beacon",
+  "race" : "protectorate",
+  "printable" : false,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+
+  "apexDescription" : "A Protectorate beacon. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This beacon can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "Beacon makess good point to teleport back to ussing teleporter!",
+  "glitchDescription" : "Observant. The small locator module of to this Protectorate beacon allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This beacon can be saved as a location for my teleporter. Then I can return to it any time.",
+  "hylotlDescription" : "This Protectorate beacon can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this Protector beacon for quick teleportin'.",
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcbeaconflag.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcbeaconflag.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}
