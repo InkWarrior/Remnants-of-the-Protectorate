@@ -7,5 +7,5 @@
   ],
   "duration" : 2.5,
   "output" : { "item" : "iwrmp_matterseparator", "count" : 1 },
-  "groups" : [ "craftingmech", "mecharm" ]
+  "groups" : [ "iwrmp_prtccraftingtable", "iwrmp_prtcsailunit", "prtccraftingtable_misc", "craftingmech", "mecharm" ]
 }

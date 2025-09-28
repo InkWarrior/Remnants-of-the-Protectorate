@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 100 },
+    { "item" : "ironbar", "count" : 10 },
+    { "item" : "copperbar", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwrmp_prtcbeaconflag", "count" : 1 },
+  "groups" : [ "iwrmp_prtccraftingtable", "prtccraftingtable_misc", "all" ]
+}

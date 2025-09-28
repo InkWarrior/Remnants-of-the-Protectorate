@@ -7,5 +7,5 @@
   ],
   "duration" : 2.5,
   "output" : { "item" : "iwrmp_mechbodyenvoy", "count" : 1 },
-  "groups" : [ "craftingmech", "mechbody" ]
+  "groups" : [ "iwrmp_prtccraftingtable", "iwrmp_prtcsailunit", "prtccraftingtable_misc", "craftingmech", "mechbody" ]
 }
