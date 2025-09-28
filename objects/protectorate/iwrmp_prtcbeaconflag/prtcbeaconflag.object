@@ -14,10 +14,10 @@
   "apexDescription" : "A Protectorate beacon. I can use this as a waypoint for teleportation.",
   "avianDescription" : "This beacon can be bookmarked as a destination for my ship teleporter.",
   "floranDescription" : "Beacon makess good point to teleport back to ussing teleporter!",
-  "glitchDescription" : "Observant. The small locator module of to this Protectorate beacon allows it to be bookmarked for teleportation.",
+  "glitchDescription" : "Observant. The small locator module in this Protectorate beacon allows it to be bookmarked for teleportation.",
   "humanDescription" : "This beacon can be saved as a location for my teleporter. Then I can return to it any time.",
   "hylotlDescription" : "This Protectorate beacon can act as a way point, enabling me to return to this point using a teleporter.",
-  "novakidDescription" : "I can bookmark this Protector beacon for quick teleportin'.",
+  "novakidDescription" : "I can bookmark this Protectorate beacon for quick teleportin'.",
 
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/destinationonly.config",
