@@ -1,0 +1,59 @@
+{
+  "objectName" : "iwrmp_prtcmapconsole",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 300,
+  "description" : "A large projector console, currently displaying a ship route.",
+  "shortdescription" : "Remodeled Starmap Console",
+  "race" : "protectorate",
+
+  "lightColor" : [76, 148, 156],
+
+  "apexDescription" : "This is such a large console.",
+  "avianDescription" : "It seems to be a ship route. I wonder to where it leads.",
+  "floranDescription" : "Floran is impresssed by large table.",
+  "glitchDescription" : "Impressed. A large console, currently displaying a star map.",
+  "humanDescription" : "This is so cool! Imagine watching movies here!",
+  "hylotlDescription" : "Seems to be a star map and a ship route. I wonder which is the destination of this ship.",
+  "novakidDescription" : "I ain't got any idea where this is goin'.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcmapconsole.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcmapconsole.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "prtcmapconsole.animation",
+  "animationParts" : {
+    "bg" : "prtcmapconsole.png",
+    "fg" : "prtcmapconsolelit.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/bunkerconsole.ogg",
+  "soundEffectRangeMultiplier" : 0.25
+
+}
