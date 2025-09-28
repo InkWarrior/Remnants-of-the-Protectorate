@@ -20,6 +20,7 @@ __NPCS__
 - Revamp dialogue for all custom npcs.
 - Make a Protectorate Ship Turret.
    - Make it fire a beam (or few) instead of projectiles?
+   - I'll probably delay this one for a subsequent update, as this current version of the mod doesn't use the turret at all.
 
 __MISC__
 
@@ -32,13 +33,14 @@ __FURNITURE__
    - Protectorate ship door
    - Medic ship door
    - Protectorate Panels (x19)
-   - Remodeled Starmap Console
+   - Remodeled Starmap Console (in-progress)
    - Additional colony furniture (outlaw themed objects)
 - Make a colony furniture tileset.
 - Be sure to utilize Astro furniture where it make sense!
 
 __DUNGEONS__
 - Add 3 minidungeon variants for the Protectorate Dropship.
+- Add at least 3 beacon encounters.
 - Large Dungeons:
    - Artificial Biosphere (needs revamp).
    - Envoy Shelter.
