@@ -54,8 +54,8 @@ __CLOTHES__
 __LORE__
 - Make more happy codexes :)
 - Make 5 new codexes for Astraeus Captains (Human, Hylotl, Novakid, Avian, Apex).
-- Make Lore about the 21st and 22nd Astraeus Missions (in-progress).
 - Expand on the lore of the Gaia and Hermes Programs.
 - Make Lore for Protectorate Space Stations.
 - Make Lore additions of the matter manipulator where it makes sense.
 - Make lore additions of the the Arch of Peace where it makes sense (in-progress).
+- 1 Codex entry of an Edutainment magazine with a Protectorate trivia, mostly to put little nuggets of lore that I feel are not really worth whole codexes, will include: Arch of Peace, 21st and 22nd Astraeus Missions, Astraeus SAIL units, matter manipulator, and some other stuff.
