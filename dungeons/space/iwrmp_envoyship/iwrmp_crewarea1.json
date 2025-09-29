@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztmMENwjAMRT1KryzUE2N0DiapvELFqWtRDkiRqROnmNhRfHhCIgn0facpZgeAPRie50CU\/PHgRkDymiO3XrKOW9\/Sfya831uYMW5uSs067vvD33b\/L8wYN5f6S9dZ73967V6QZCih5L855WxfXSH8v\/mMrQcPR1j4W9c5Jc0AlT6z5D85gWbQyv\/uBJrBaP40AwSdM6WH\/ucsg3\/W39pXkgGCzrnSiz\/NAEHnnurJP81gVH9twj\/vr9Fj1eDNv3VfG\/5j+7fOz9v9r32G\/Pr8s\/7NXwut7xV\/r\/2PhLXy+nv6\/0eCtr91Pa3rP3UG9S\/Nj\/qHf\/Q\/QQDwAo8RKXY=",
+         "data":"eJztmMENgzAMAD0K3y7UV8dgjk6CsgLixVqFBxJyceJQN7YVP06Vmrjk7BBwVwBYg+5ZOqLknzYeiIQ+c+TiOXFUfEv\/J2L\/biTGqLlnauKo64e\/7v4fiTFqLvbnxmnvf7x2K3ByyKHkPxvlal\/dIfy\/OcamjbdRWvlr1zlXf4nfKfkPRtDyfxkB56A3f5yD3V\/iHPHQ\/1zl4J\/11\/bl5CCBzLnixR\/nIIHMPeXJ\/5yDXv2lCf+8v0SPVYM1\/9Z9bfj37d86f9buf+kz5Nfnn\/Y7fy24vnf8rfY\/HKbK9Xv9\/4dC2l+7ntr1H5yB\/Uvzo\/7hH\/1PEAB8AGkCKXY=",
          "encoding":"base64",
          "height":36,
          "id":15,
@@ -79,111 +79,6 @@
                  "y":200
                 }, 
                 {
-                 "height":8,
-                 "id":1404,
-                 "name":"",
-                 "properties":
-                    {
-                     "back":"apexshipwall",
-                     "colorVariant":"4"
-                    },
-                 "propertytypes":
-                    {
-                     "back":"string",
-                     "colorVariant":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":280,
-                 "x":40,
-                 "y":80
-                }, 
-                {
-                 "height":8,
-                 "id":1405,
-                 "name":"",
-                 "properties":
-                    {
-                     "back":"apexshipwall",
-                     "colorVariant":"4"
-                    },
-                 "propertytypes":
-                    {
-                     "back":"string",
-                     "colorVariant":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":136,
-                 "x":352,
-                 "y":112
-                }, 
-                {
-                 "height":8,
-                 "id":1412,
-                 "name":"",
-                 "properties":
-                    {
-                     "back":"apexshipwall",
-                     "colorVariant":"4"
-                    },
-                 "propertytypes":
-                    {
-                     "back":"string",
-                     "colorVariant":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":320,
-                 "y":88
-                }, 
-                {
-                 "height":8,
-                 "id":1413,
-                 "name":"",
-                 "properties":
-                    {
-                     "back":"apexshipwall",
-                     "colorVariant":"4"
-                    },
-                 "propertytypes":
-                    {
-                     "back":"string",
-                     "colorVariant":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":328,
-                 "y":96
-                }, 
-                {
-                 "height":8,
-                 "id":1414,
-                 "name":"",
-                 "properties":
-                    {
-                     "back":"apexshipwall",
-                     "colorVariant":"4"
-                    },
-                 "propertytypes":
-                    {
-                     "back":"string",
-                     "colorVariant":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":336,
-                 "y":104
-                }, 
-                {
                  "height":16,
                  "id":1415,
                  "name":"",
@@ -221,72 +116,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":280,
+                 "width":304,
                  "x":40,
                  "y":88
-                }, 
-                {
-                 "height":8,
-                 "id":1417,
-                 "name":"",
-                 "properties":
-                    {
-                     "back":"slopedhullpanel",
-                     "colorVariant":"8"
-                    },
-                 "propertytypes":
-                    {
-                     "back":"string",
-                     "colorVariant":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":320,
-                 "y":80
-                }, 
-                {
-                 "height":8,
-                 "id":1418,
-                 "name":"",
-                 "properties":
-                    {
-                     "back":"slopedhullpanel",
-                     "colorVariant":"8"
-                    },
-                 "propertytypes":
-                    {
-                     "back":"string",
-                     "colorVariant":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":328,
-                 "y":88
-                }, 
-                {
-                 "height":8,
-                 "id":1419,
-                 "name":"",
-                 "properties":
-                    {
-                     "back":"slopedhullpanel",
-                     "colorVariant":"8"
-                    },
-                 "propertytypes":
-                    {
-                     "back":"string",
-                     "colorVariant":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":336,
-                 "y":96
                 }, 
                 {
                  "height":24,
@@ -347,7 +179,7 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
+                 "width":32,
                  "x":312,
                  "y":96
                 }, 
@@ -368,7 +200,7 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
+                 "width":24,
                  "x":320,
                  "y":104
                 }, 
@@ -455,27 +287,6 @@
                  "width":352,
                  "x":40,
                  "y":232
-                }, 
-                {
-                 "height":8,
-                 "id":1428,
-                 "name":"",
-                 "properties":
-                    {
-                     "back":"apexshipwall",
-                     "colorVariant":"4"
-                    },
-                 "propertytypes":
-                    {
-                     "back":"string",
-                     "colorVariant":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":352,
-                 "x":40,
-                 "y":224
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -702,7 +513,7 @@
                  "y":248
                 }, 
                 {
-                 "gid":8984,
+                 "gid":8990,
                  "height":16,
                  "id":1351,
                  "name":"",
@@ -1600,7 +1411,7 @@
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
         }, 
         {
-         "firstgid":8971,
+         "firstgid":8977,
          "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/_unpacked\/tilesets\/packed\/objects-by-colonytag\/station.json"
         }],
  "tilewidth":8,
