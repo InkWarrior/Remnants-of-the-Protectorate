@@ -36,7 +36,7 @@ __FURNITURE__
    - Remodeled Starmap Console (in-progress)
    - Additional colony furniture (outlaw themed objects)
 - Make a colony furniture tileset.
-- Be sure to utilize Astro furniture where it make sense!
+- Be sure to utilize Astro furniture where it make sense (probably older Protectorate installations and the like?)
 
 __DUNGEONS__
 - Add 3 minidungeon variants for the Protectorate Dropship.
