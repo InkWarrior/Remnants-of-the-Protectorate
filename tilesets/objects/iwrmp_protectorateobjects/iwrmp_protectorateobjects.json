@@ -8,9 +8,9 @@
  "margin":0,
  "name":"iwrmp_protectorateobjects",
  "spacing":0,
- "tilecount":65,
+ "tilecount":70,
  "tiledversion":"1.2.2",
- "tileheight":48,
+ "tileheight":56,
  "tileproperties":
     {
      "0":
@@ -631,6 +631,56 @@
          "imagePositionX":"-16",
          "imagePositionY":"-8",
          "object":"iwrmp_prtcenvoysailunit",
+         "tilesetDirection":"right"
+        },
+     "65":
+        {
+         "\/\/description":"A large projector console, currently displaying a ship route.",
+         "\/\/name":"iwrmp_prtcmapconsole",
+         "\/\/shortdescription":"Remodeled Starmap Console",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcmapconsole",
+         "tilesetDirection":"right"
+        },
+     "66":
+        {
+         "\/\/description":"A Protectorate emergency beacon. Use ^green;[E]^white; to bookmark a teleportation location.",
+         "\/\/name":"iwrmp_prtcbeaconflag",
+         "\/\/shortdescription":"Protectorate Beacon",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcbeaconflag",
+         "tilesetDirection":"right"
+        },
+     "67":
+        {
+         "\/\/description":"A Protectorate emergency beacon. Use ^green;[E]^white; to bookmark a teleportation location.",
+         "\/\/name":"iwrmp_prtcbeaconflag_orientation1",
+         "\/\/shortdescription":"Protectorate Beacon",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcbeaconflag",
+         "tilesetDirection":"right"
+        },
+     "68":
+        {
+         "\/\/description":"An Astraeus Envoy flag, displaying the Arch of Peace. Use ^green;[E]^white; to bookmark a teleportation location.",
+         "\/\/name":"iwrmp_prtcenvoyflag",
+         "\/\/shortdescription":"Astraeus Envoy Flag",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcenvoyflag",
+         "tilesetDirection":"right"
+        },
+     "69":
+        {
+         "\/\/description":"An Astraeus Envoy flag, displaying the Arch of Peace. Use ^green;[E]^white; to bookmark a teleportation location.",
+         "\/\/name":"iwrmp_prtcenvoyflag_orientation1",
+         "\/\/shortdescription":"Astraeus Envoy Flag",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcenvoyflag",
          "tilesetDirection":"right"
         },
      "7":
@@ -1286,6 +1336,56 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "65":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "66":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "67":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "68":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "69":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "7":
         {
          "\/\/description":"string",
@@ -1691,6 +1791,36 @@
          "imageheight":24,
          "imagewidth":24
         },
+     "65":
+        {
+         "image":"prtcmapconsole.png",
+         "imageheight":56,
+         "imagewidth":120
+        },
+     "66":
+        {
+         "image":"prtcbeaconflag.png",
+         "imageheight":48,
+         "imagewidth":38
+        },
+     "67":
+        {
+         "image":"prtcbeaconflag_orientation1.png",
+         "imageheight":48,
+         "imagewidth":26
+        },
+     "68":
+        {
+         "image":"prtcenvoyflag.png",
+         "imageheight":32,
+         "imagewidth":38
+        },
+     "69":
+        {
+         "image":"prtcenvoyflag_orientation1.png",
+         "imageheight":32,
+         "imagewidth":26
+        },
      "7":
         {
          "image":"prtccratesmall.png",
@@ -1710,7 +1840,7 @@
          "imagewidth":32
         }
     },
- "tilewidth":80,
+ "tilewidth":120,
  "type":"tileset",
  "version":1.1
 }
