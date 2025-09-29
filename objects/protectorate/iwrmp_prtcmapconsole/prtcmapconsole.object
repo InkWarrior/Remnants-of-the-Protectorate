@@ -10,12 +10,12 @@
 
   "lightColor" : [76, 148, 156],
 
-  "apexDescription" : "This is such a large console.",
-  "avianDescription" : "It seems to be a ship route. I wonder to where it leads.",
+  "apexDescription" : "This is a rather large console.",
+  "avianDescription" : "It seems to be a ship route. I wonder where it leads?",
   "floranDescription" : "Floran is impresssed by large table.",
   "glitchDescription" : "Impressed. A large console, currently displaying a star map.",
-  "humanDescription" : "This is so cool! Imagine watching movies here!",
-  "hylotlDescription" : "Seems to be a star map and a ship route. I wonder which is the destination of this ship.",
+  "humanDescription" : "This is so cool! Imagine watching movies with this!",
+  "hylotlDescription" : "Seems to be a star map featuring a ship route. I wonder what the destination of this ship is?",
   "novakidDescription" : "I ain't got any idea where this is goin'.",
 
   "inventoryIcon" : "icon.png",
