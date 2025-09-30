@@ -6,6 +6,7 @@ __MOD SUPPORT__
 - Spawnable Item Pack
 - Wardrobe Interface
 - Planet Search
+- More Planet Info
 - Better Crew
 - Scripted SAIL
 - Maybe a full SAIL replacement addon?
@@ -52,10 +53,8 @@ __CLOTHES__
 
 
 __LORE__
-- Make more happy codexes :)
 - Make 5 new codexes for Astraeus Captains (Human, Hylotl, Novakid, Avian, Apex).
-- Expand on the lore of the Gaia and Hermes Programs.
+- Expand on the lore of the Gaia and Hermes Programs (in the future pal).
 - Make Lore for Protectorate Space Stations.
-- Make Lore additions of the matter manipulator where it makes sense.
+- Make Lore additions of the matter manipulator where it makes sense (in-progress).
 - Make lore additions of the the Arch of Peace where it makes sense (in-progress).
-- 1 Codex entry of an Edutainment magazine with a Protectorate trivia, mostly to put little nuggets of lore that I feel are not really worth whole codexes, will include: Arch of Peace, 21st and 22nd Astraeus Missions, Astraeus SAIL units, matter manipulator, and some other stuff.
