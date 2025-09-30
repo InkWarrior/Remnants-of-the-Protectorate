@@ -1,0 +1,33 @@
+{
+  "id" : "iwrmp_protectoratetrivia",
+  "title" : "Protectorate Trivia!",
+  "description" : "A number of an edutainment magazine, all about random facts of the Terrene Protectorate.",
+  "icon" : "magazinecover.png",
+  "contentPages" : [ 
+  
+  "^yellow;DID YOU KNOW?^reset;
+
+-Astraeus SAIL units, unlike regular ones, are programmed to be more cheerful and casual in their interactions, that way Envoys feel less alone!
+
+-Astraeus ships don't transport prefabricated buildings, instead, they use Lupton units to storage building materials. It also uses the same technology as the Matter Manipulator!",
+
+"-Older versions of the Matter Manipulator were incredibly big. As Pocket Universe tech got better, Matter Manipulators started to be smaller. The oldest one recorded was the size of a house!
+
+-The 21st Astraeus Mission was delayed by ten years to coincide with the launch of the 22nd Astraeus fleet along its renovated spaceship fleet. Only 2 years left!",
+
+"-Watchers must endure extra 4 years of discipline and education! After all, their job is to be as stoic and reasonable under pressure as possible, and they are good at that!
+
+-The Arch of Peace, the name of the Terrene Protectorate logo, actually predates the formation of the Protectorate! It was a sign of peace and progress long before now.",
+
+"-The Protectorate Network spans over thousands of systems! Isn't it impressive how humans can manage everything from Earth?
+
+-Maybe not for too long! Grand Protector Leda Portia has said there is interest for opening a new Protectorate Academy in the Hylotl Homeworld! It's still in discussions, so let's hope it happens!
+
+^yellow;NOW YOU KNOW!!^reset;"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}
