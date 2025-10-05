@@ -31,9 +31,9 @@ __FURNITURE__
 - Add obtainable recipes for Protectorate furniture (in-progress).
 - Complete the next furniture objects:
    - Protectorate Turret Hatch
-   - Protectorate ship door
-   - Medic ship door
-   - Protectorate Panels (x19)
+   - Protectorate ship door(in-progress)
+   - Medic ship door(in-progress)
+   - Protectorate Panels (x19)(in-progress)
    - Remodeled Starmap Console (in-progress)
    - Additional colony furniture (outlaw themed objects)
 - Make a colony furniture tileset.
