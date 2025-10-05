@@ -34,7 +34,6 @@ __FURNITURE__
    - Protectorate ship door(in-progress)
    - Medic ship door(in-progress)
    - Protectorate Panels (x19)(in-progress)
-   - Remodeled Starmap Console (in-progress)
    - Additional colony furniture (outlaw themed objects)
 - Make a colony furniture tileset.
 - Be sure to utilize Astro furniture where it make sense (probably older Protectorate installations and the like?)
