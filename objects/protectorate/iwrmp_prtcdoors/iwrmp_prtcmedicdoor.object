@@ -1,0 +1,63 @@
+{
+  "objectName" : "iwrmp_prtcmedicdoor",
+  "colonyTags" : ["protectorate","door"],
+  "rarity" : "Common",
+  "category" : "door",
+  "price" : 125,
+  "description" : "A durable security door, used by medic divisions of the Protectorate.",
+  "shortdescription" : "Protectorate Medic Door",
+  "race" : "protectorate",
+
+  "apexDescription" : "A medic security door! Looks sturdy enough.",
+  "avianDescription" : "A white Protectorate door, seems to be used for medic areas.",
+  "floranDescription" : "Door of great ssstrength.",
+  "glitchDescription" : "Impressed. A strong door, used for medic purposes.",
+  "humanDescription" : "A heavy security door, for medic stuff and such.",
+  "hylotlDescription" : "A durable seecurity door for medic areas within the Protectorate.",
+  "novakidDescription" : "A very thick door.",
+
+  "inventoryIcon" : "icon1.png",
+  "orientations" : [
+    {
+      "image" : "prtcmedicdoor.png:default",
+      "flipImages" : true,
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "left"
+    },
+    {
+      "image" : "prtcmedicdoor.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "prtcmedicdoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}
