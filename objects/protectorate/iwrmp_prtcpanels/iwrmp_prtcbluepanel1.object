@@ -1,0 +1,40 @@
+{
+  "objectName" : "iwrmp_prtcbluepanel1",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 15,
+  "description" : "A metallic blue service panel.",
+  "shortdescription" : "Service Panel",
+  "race" : "protectorate",
+
+  "apexDescription" : "It's a panel.",
+  "avianDescription" : "A panel for an unknown purpose.",
+  "floranDescription" : "A panel.",
+  "glitchDescription" : "Neutral. It's a service panel.",
+  "humanDescription" : "It's just a panel.",
+  "hylotlDescription" : "A service panel.",
+  "novakidDescription" : "Just a panel.",
+
+
+  "inventoryIcon" : "icon4.png",
+  "orientations" : [
+    {
+      "image" : "prtcbluepanel1.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcbluepanel1.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

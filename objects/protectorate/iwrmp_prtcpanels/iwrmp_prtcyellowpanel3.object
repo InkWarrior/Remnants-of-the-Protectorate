@@ -1,0 +1,40 @@
+{
+  "objectName" : "iwrmp_prtcyellowpanel3",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 15,
+  "description" : "A plain orange Protectorate panel.",
+  "shortdescription" : "Protectorate Panel",
+  "race" : "protectorate",
+
+  "apexDescription" : "It's a panel.",
+  "avianDescription" : "A panel for an unknown purpose.",
+  "floranDescription" : "A panel.",
+  "glitchDescription" : "Neutral. It's a metal panel.",
+  "humanDescription" : "It's just a panel.",
+  "hylotlDescription" : "A metallic panel.",
+  "novakidDescription" : "Just a panel.",
+
+
+  "inventoryIcon" : "icon3.png",
+  "orientations" : [
+    {
+      "image" : "prtcyellowpanel3.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcyellowpanel3.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}
