@@ -1,0 +1,40 @@
+{
+  "objectName" : "iwrmp_prtcbluepanel4h",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 15,
+  "description" : "A metallic blue service panel, allows access to a pipe.",
+  "shortdescription" : "Service Horizontal Panel",
+  "race" : "protectorate",
+
+  "apexDescription" : "It's a panel, I can see a pipe there.",
+  "avianDescription" : "A panel to access a pipe.",
+  "floranDescription" : "A panel.",
+  "glitchDescription" : "Neutral. It's a service panel.",
+  "humanDescription" : "It's just a pipe.",
+  "hylotlDescription" : "A service panel.",
+  "novakidDescription" : "Just a panel.",
+
+
+  "inventoryIcon" : "icon7.png",
+  "orientations" : [
+    {
+      "image" : "prtcbluepanel4h.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcbluepanel4h.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

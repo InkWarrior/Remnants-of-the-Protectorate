@@ -1,26 +1,26 @@
 {
-  "objectName" : "iwrmp_prtcyellowpanel1h",
+  "objectName" : "iwrmp_prtcbluepanel3h",
   "colonyTags" : ["protectorate"],
   "rarity" : "Common",
   "category" : "decorative",
   "price" : 15,
-  "description" : "An orange Protectorate panel with a small vent.",
-  "shortdescription" : "Protectorate Horizontal Panel",
+  "description" : "A metallic blue service panel, looks like a vent.",
+  "shortdescription" : "Service Horizontal Panel",
   "race" : "protectorate",
 
-  "apexDescription" : "It's a panel.",
-  "avianDescription" : "A panel for an unknown purpose.",
+  "apexDescription" : "It's a vent panel.",
+  "avianDescription" : "A panel for ventilation.",
   "floranDescription" : "A panel.",
-  "glitchDescription" : "Neutral. It's a metal panel.",
+  "glitchDescription" : "Neutral. It's a vent panel.",
   "humanDescription" : "It's just a panel.",
-  "hylotlDescription" : "A metallic panel.",
+  "hylotlDescription" : "A vent panel.",
   "novakidDescription" : "Just a panel.",
 
 
-  "inventoryIcon" : "icon1.png",
+  "inventoryIcon" : "icon6.png",
   "orientations" : [
     {
-      "image" : "prtcyellowpanel1h.png:<color>",
+      "image" : "prtcbluepanel3h.png:<color>",
       "imagePosition" : [-16, -8],
       "direction" : "left",
       "flipImages" : true,
@@ -29,7 +29,7 @@
       "anchors" : [ "background" ]
     },
     {
-      "image" : "prtcyellowpanel1h.png:<color>",
+      "image" : "prtcbluepanel3h.png:<color>",
       "imagePosition" : [-16, -8],
       "direction" : "right",
 

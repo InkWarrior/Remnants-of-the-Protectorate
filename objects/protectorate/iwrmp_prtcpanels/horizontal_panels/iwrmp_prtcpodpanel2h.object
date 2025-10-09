@@ -1,0 +1,40 @@
+{
+  "objectName" : "iwrmp_prtcpodpanel2h",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 15,
+  "description" : "A pod storage panel, how does one open this?",
+  "shortdescription" : "Green Pod Storage Panel",
+  "race" : "protectorate",
+
+  "apexDescription" : "It's a storage panel.",
+  "avianDescription" : "A panel for storage. I can't open it.",
+  "floranDescription" : "A panel.",
+  "glitchDescription" : "Neutral. It's a white storage panel.",
+  "humanDescription" : "What's inside this thing?",
+  "hylotlDescription" : "A white storage panel.",
+  "novakidDescription" : "Just a panel.",
+
+
+  "inventoryIcon" : "icon9.png",
+  "orientations" : [
+    {
+      "image" : "prtcpodpanel2h.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcpodpanel2h.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

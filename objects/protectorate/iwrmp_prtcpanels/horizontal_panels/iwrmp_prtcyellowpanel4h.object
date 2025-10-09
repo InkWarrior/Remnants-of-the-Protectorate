@@ -1,10 +1,10 @@
 {
-  "objectName" : "iwrmp_prtcyellowpanel1h",
+  "objectName" : "iwrmp_prtcyellowpanel4h",
   "colonyTags" : ["protectorate"],
   "rarity" : "Common",
   "category" : "decorative",
   "price" : 15,
-  "description" : "An orange Protectorate panel with a small vent.",
+  "description" : "A plain orange Protectorate panel.",
   "shortdescription" : "Protectorate Horizontal Panel",
   "race" : "protectorate",
 
@@ -17,10 +17,10 @@
   "novakidDescription" : "Just a panel.",
 
 
-  "inventoryIcon" : "icon1.png",
+  "inventoryIcon" : "icon3.png",
   "orientations" : [
     {
-      "image" : "prtcyellowpanel1h.png:<color>",
+      "image" : "prtcyellowpanel4h.png:<color>",
       "imagePosition" : [-16, -8],
       "direction" : "left",
       "flipImages" : true,
@@ -29,7 +29,7 @@
       "anchors" : [ "background" ]
     },
     {
-      "image" : "prtcyellowpanel1h.png:<color>",
+      "image" : "prtcyellowpanel4h.png:<color>",
       "imagePosition" : [-16, -8],
       "direction" : "right",
 
