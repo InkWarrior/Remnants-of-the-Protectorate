@@ -1,0 +1,50 @@
+{
+  "objectName" : "iwrmp_prtcpodpanel1s",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 15,
+  "description" : "A pod screen, it seems that it regulates something.",
+  "shortdescription" : "Pod Config Screen",
+  "race" : "protectorate",
+
+  "lightColor" : [0, 75, 227],
+
+  "apexDescription" : "It's a screen panel.",
+  "avianDescription" : "A screen panel, to control something.",
+  "floranDescription" : "A screen.",
+  "glitchDescription" : "Neutral. It's a screen panel.",
+  "humanDescription" : "It's just a screen panel.",
+  "hylotlDescription" : "A screen panel.",
+  "novakidDescription" : "Just a screen panel.",
+
+
+  "inventoryIcon" : "icon3.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcpodpanel1s.png:<color>.<frame>" }, { "image" : "fullbright3.png:<color>.<frame>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, -8],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcpodpanel1s.png:<color>.<key>" }, { "image" : "fullbright3.png:<color>.<frame>", "fullbright" : true } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, -8],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

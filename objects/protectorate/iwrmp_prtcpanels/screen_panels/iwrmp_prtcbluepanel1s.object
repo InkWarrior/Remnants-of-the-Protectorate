@@ -1,0 +1,50 @@
+{
+  "objectName" : "iwrmp_prtcbluepanel1s",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 15,
+  "description" : "A metallic blue service screen panel displaying some data.",
+  "shortdescription" : "Service Screen",
+  "race" : "protectorate",
+
+  "lightColor" : [0, 75, 227],
+
+  "apexDescription" : "It's a screen panel.",
+  "avianDescription" : "A screen panel, it's saying something.",
+  "floranDescription" : "A screen.",
+  "glitchDescription" : "Neutral. It's a screen panel.",
+  "humanDescription" : "It's just a screen panel.",
+  "hylotlDescription" : "A screen panel.",
+  "novakidDescription" : "Just a screen panel.",
+
+
+  "inventoryIcon" : "icon2.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcbluepanel1s.png:<color>.<frame>" }, { "image" : "fullbright2.png:<color>.<frame>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, -8],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcbluepanel1s.png:<color>.<key>" }, { "image" : "fullbright2.png:<color>.<frame>", "fullbright" : true } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, -8],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
