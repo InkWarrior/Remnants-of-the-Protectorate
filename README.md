@@ -19,6 +19,7 @@ __GENERAL:__
 
 __NPCS__
 - Revamp dialogue for all custom npcs.
+- Make outlaw npcs and tenants.
 - Make a Protectorate Ship Turret.
    - Make it fire a beam (or few) instead of projectiles?
    - I'll probably delay this one for a subsequent update, as this current version of the mod doesn't use the turret at all.
