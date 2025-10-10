@@ -12,11 +12,11 @@
   "lightColor" : [27, 50, 64],
 
   "apexDescription" : "There is a lot of data displayed on this screen.",
-  "avianDescription" : "The display is showing a lot of data.",
+  "avianDescription" : "This display is showing a lot of data.",
   "floranDescription" : "Floran doesssn't care about light sign.",
-  "glitchDescription" : "Curious. What information is currently being displayed?",
-  "humanDescription" : "The data just keeps going! I can't read it!",
-  "hylotlDescription" : "It would be helpful that the data would move slower",
+  "glitchDescription" : "Curious. What information is currently being displayed here?",
+  "humanDescription" : "The data just keeps going! I can't read it all!",
+  "hylotlDescription" : "It would be more helpful if the data would move slower",
   "novakidDescription" : "Too much information for my lil' ionized brain to understand.",
 
   "inventoryIcon" : "icon.png",
