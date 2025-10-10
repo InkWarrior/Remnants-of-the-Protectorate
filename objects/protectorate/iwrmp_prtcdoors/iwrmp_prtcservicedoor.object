@@ -8,12 +8,12 @@
   "shortdescription" : "Protectorate Service Door",
   "race" : "protectorate",
 
-  "apexDescription" : "A Protectorate service door! Looks very sturdy.",
+  "apexDescription" : "A Protectorate service door. Looks very sturdy.",
   "avianDescription" : "A metallic Protectorate service door.",
   "floranDescription" : "Door of great ssstrength.",
   "glitchDescription" : "Impressed. Such a strong door.",
   "humanDescription" : "A heavy Protectorate service door.",
-  "hylotlDescription" : "A durable seecurity door for the Protectorate.",
+  "hylotlDescription" : "A durable security door for the Protectorate.",
   "novakidDescription" : "A very thick door.",
 
   "inventoryIcon" : "icon2.png",
