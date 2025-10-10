@@ -20,9 +20,6 @@ __GENERAL:__
 __NPCS__
 - Revamp dialogue for all custom npcs.
 - Make outlaw npcs and tenants.
-- Make a Protectorate Ship Turret.
-   - Make it fire a beam (or few) instead of projectiles?
-   - I'll probably delay this one for a subsequent update, as this current version of the mod doesn't use the turret at all.
 
 __MISC__
 
@@ -51,7 +48,6 @@ __CLOTHES__
 
 __LORE__
 - Make 5 new codexes for Astraeus Captains (Human, Hylotl, Novakid, Avian, Apex).
-- Expand on the lore of the Gaia and Hermes Programs (in the future pal).
-- Make Lore for Protectorate Space Stations.
+- Make 4 codexes for Protectorate Space Stations.
 - Make Lore additions of the matter manipulator where it makes sense (in-progress).
 - Make lore additions of the the Arch of Peace where it makes sense (in-progress).
