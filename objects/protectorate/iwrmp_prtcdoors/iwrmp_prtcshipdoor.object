@@ -8,12 +8,12 @@
   "shortdescription" : "Protectorate Ship Door",
   "race" : "protectorate",
 
-  "apexDescription" : "A Protectorate space door! Looks sturdy.",
+  "apexDescription" : "A Protectorate ship door. Looks sturdy.",
   "avianDescription" : "An orange Protectorate door.",
   "floranDescription" : "Door of great ssstrength.",
   "glitchDescription" : "Impressed. Such a strong door.",
   "humanDescription" : "A heavy Protectorate airlock door.",
-  "hylotlDescription" : "A durable seecurity door for the Protectorate.",
+  "hylotlDescription" : "A durable security door for the Protectorate.",
   "novakidDescription" : "A very thick door.",
 
   "inventoryIcon" : "icon3.png",
