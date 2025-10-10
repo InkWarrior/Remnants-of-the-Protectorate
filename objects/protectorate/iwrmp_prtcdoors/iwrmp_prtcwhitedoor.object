@@ -5,15 +5,15 @@
   "category" : "door",
   "price" : 125,
   "description" : "A durable ship door, used by the Protectorate.",
-  "shortdescription" : "Protectorate White Door",
+  "shortdescription" : "White Protectorate Door",
   "race" : "protectorate",
 
-  "apexDescription" : "A Protectorate door! Looks very sturdy.",
+  "apexDescription" : "A Protectorate door. Looks very sturdy.",
   "avianDescription" : "A white Protectorate door.",
   "floranDescription" : "Door of great ssstrength.",
   "glitchDescription" : "Impressed. Such a strong door.",
   "humanDescription" : "A heavy Protectorate airlock door.",
-  "hylotlDescription" : "A durable seecurity door for the Protectorate.",
+  "hylotlDescription" : "A durable security door for the Protectorate.",
   "novakidDescription" : "A very thick door.",
 
   "inventoryIcon" : "icon4.png",
