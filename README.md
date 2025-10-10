@@ -3,10 +3,10 @@ This is a work-in-progress. The objective of the mod is to expand and add new lo
 
 # To do list
 __MOD SUPPORT__
-- Spawnable Item Pack
-- Wardrobe Interface
+- Spawnable Item Pack (in-progress)
+- Wardrobe Interface (in-progress)
 - Planet Search
-- More Planet Info
+- More Planet Info (in-progress)
 - Better Crew
 - Scripted SAIL
 - Maybe a full SAIL replacement addon?
