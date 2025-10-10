@@ -4,14 +4,14 @@
   "rarity" : "Common",
   "category" : "decorative",
   "price" : 15,
-  "description" : "A metallic blue service screen panel displaying some data.",
+  "description" : "A metallic blue service screen panel, displaying some data.",
   "shortdescription" : "Service Screen",
   "race" : "protectorate",
 
   "lightColor" : [0, 75, 227],
 
   "apexDescription" : "It's a screen panel.",
-  "avianDescription" : "A screen panel, it's saying something.",
+  "avianDescription" : "A screen panel, it's indicating something.",
   "floranDescription" : "A screen.",
   "glitchDescription" : "Neutral. It's a screen panel.",
   "humanDescription" : "It's just a screen panel.",
