@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 3000 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "manipulatormodule", "count" : 1 },
+  "groups" : [ "iwrmp_prtccraftingtable", "prtccraftingtable_misc", "all" ]
+}
