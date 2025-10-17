@@ -1,6 +1,6 @@
 {
   "objectName" : "iwrmp_prtcoutlawdisplay",
-  "colonyTags" : ["protectorate","electronic"],
+  "colonyTags" : ["prtc_outlaw","protectorate","electronic"],
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 115,
