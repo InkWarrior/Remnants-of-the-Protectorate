@@ -448,5 +448,75 @@
         "value": {
             "item": "iwrmp_prtctoolbox1"
         }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcshipdoor"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcwhitedoor"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcmedicdoor"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcservicedoor"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcoutlawceilingmonitor"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcoutlawconsole"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcoutlawdisplay"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcoutlawlocker"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcoutlawterminal"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcwatcherlocker"
+        }
     }
 ]
