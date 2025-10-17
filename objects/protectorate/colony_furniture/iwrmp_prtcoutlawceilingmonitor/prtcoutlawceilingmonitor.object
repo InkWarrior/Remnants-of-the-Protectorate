@@ -22,9 +22,9 @@
   "apexDescription" : "I don't think I recognize any of those channels.",
   "avianDescription" : "What if I want to change the channel?",
   "floranDescription" : "It'sss too far away!",
-  "glitchDescription" : "Intrigued. There are more channels than usual.",
-  "humanDescription" : "I knew there are local channels per sector, I didn't know there were a lot!",
-  "hylotlDescription" : "There are more channels than usual. That's odd.",
+  "glitchDescription" : "Intrigued. There are more channels than usual on this monitor.",
+  "humanDescription" : "I knew there are local channels for every sector, I didn't know there are this many!",
+  "hylotlDescription" : "There are more channels on this monitor than usual. That's odd.",
   "novakidDescription" : "This screen is just hangin' there.",
 
   "inventoryIcon" : "icon.png",
