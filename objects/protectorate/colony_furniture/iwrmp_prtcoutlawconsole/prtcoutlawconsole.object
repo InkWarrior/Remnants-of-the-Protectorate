@@ -1,6 +1,6 @@
 {
   "objectName" : "iwrmp_prtcoutlawconsole",
-  "colonyTags" : ["protectorate","electronic"],
+  "colonyTags" : ["prtc_outlaw","protectorate","electronic"],
   "rarity" : "Uncommon",
   "category" : "wire",
   "price" : 150,
