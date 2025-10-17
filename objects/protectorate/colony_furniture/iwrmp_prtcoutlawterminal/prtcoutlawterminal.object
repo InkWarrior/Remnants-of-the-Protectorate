@@ -1,6 +1,6 @@
 {
   "objectName" : "iwrmp_prtcoutlawterminal",
-  "colonyTags" : ["protectorate","electronic"],
+  "colonyTags" : ["prtc_outlaw","protectorate","electronic"],
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 135,
