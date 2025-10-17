@@ -31,7 +31,6 @@ __FURNITURE__
    - Protectorate Turret Hatch
    - Additional colony furniture (outlaw themed objects) (in-progress)
 - Make a colony furniture tileset.
-- Be sure to utilize Astro furniture where it make sense (probably older Protectorate installations and the like?)
 
 __DUNGEONS__
 - Add 3 minidungeon variants for the Protectorate Dropship.
