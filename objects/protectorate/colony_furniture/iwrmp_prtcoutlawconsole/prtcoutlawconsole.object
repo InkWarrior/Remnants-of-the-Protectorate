@@ -1,0 +1,82 @@
+{
+  "objectName" : "iwrmp_prtcoutlawconsole",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "wire",
+  "price" : 150,
+  "description" : "There's a note; \"Don't worry, I modified it so I can see some TV channels\".",
+  "shortdescription" : "Altered Security Console",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [92, 162, 44],
+
+  "apexDescription" : "I guess entertainment is very important while doing security stuff.",
+  "avianDescription" : "Sounds like it won't be used for security that often.",
+  "floranDescription" : "A ssecurity console... with channelsss!",
+  "glitchDescription" : "Confused. How can you secure things if you are watching TV?",
+  "humanDescription" : "A security console with TV channels. No videogames?",
+  "hylotlDescription" : "A security console should just be for security, I will die on this hill.",
+  "novakidDescription" : "I might do somethin' silly here.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcoutlawconsole.png:<color>.on",
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcoutlawconsole.png:<color>.on",
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "prtcoutlawconsole.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_button.ogg" ],
+      "off" : [ "/sfx/objects/console_button.ogg" ]
+    }
+  },
+
+  "animationParts" : {
+    "bg" : "prtcoutlawconsole.png",
+    "fg" : "prtcoutlawconsolelit.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "outputNodes" : [ [0, 0] ],
+
+  "npcToy" : {
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-0.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

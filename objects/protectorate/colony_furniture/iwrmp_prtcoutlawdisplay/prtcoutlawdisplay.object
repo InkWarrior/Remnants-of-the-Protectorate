@@ -1,0 +1,60 @@
+{
+  "objectName" : "iwrmp_prtcoutlawdisplay",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 115,
+  "description" : "What a curiosity, the Protector Tenets are currently being displayed.",
+  "shortdescription" : "ALtered Display",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [92, 162, 44],
+
+  "apexDescription" : "Someone didn't do their homework!",
+  "avianDescription" : "The Tenets of the Protector? Somebody just forgot them.",
+  "floranDescription" : "Floran thinkss is good to remember the sacred Protector oath.",
+  "glitchDescription" : "Pleased. It's always good to have your principles at hand.",
+  "humanDescription" : "Hey! I know those Tenets!",
+  "hylotlDescription" : "I guess it's not bad to have the Protector Tenents at hand.",
+  "novakidDescription" : "Good. I was forgetin' about them tenets.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcoutlawdisplay.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcoutlawdisplay.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "prtcoutlawdisplay.animation",
+  "animationParts" : {
+    "bg" : "prtcoutlawdisplay.png",
+    "fg" : "prtcoutlawdisplaylit.png"
+  },
+  "animationPosition" : [-16, -8],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/bunkerdisplay.ogg",
+  "soundEffectRangeMultiplier" : 0.25
+
+}

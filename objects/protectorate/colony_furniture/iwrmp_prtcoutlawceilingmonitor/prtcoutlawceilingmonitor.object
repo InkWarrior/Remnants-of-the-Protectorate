@@ -1,0 +1,76 @@
+{
+  "objectName" : "iwrmp_prtcoutlawceilingmonitor",
+  "colonyTags" : ["prtc_outlaw","protectorate","medical","wired"],
+  "rarity" : "Rare",
+  "category" : "wire",
+  "price" : 125,
+  "description" : "A restyled ceiling monitor. Seems to be modified to show more channels than usual.",
+  "shortdescription" : "Altered Ceiling Monitor",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [92, 162, 44],
+  "pointLight" : true,
+  "pointBeam" : 2.25,
+  "beamAmbience" : 0.7,
+  "flickerPeriod" : 0.4,
+  "flickerMinIntensity" : 0.975,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+
+  "apexDescription" : "I don't think I recognize any of those channels.",
+  "avianDescription" : "What if I want to change the channel?",
+  "floranDescription" : "It'sss too far away!",
+  "glitchDescription" : "Intrigued. There are more channels than usual.",
+  "humanDescription" : "I knew there are local channels per sector, I didn't know there were a lot!",
+  "hylotlDescription" : "There are more channels than usual. That's odd.",
+  "novakidDescription" : "This screen is just hangin' there.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcoutlawceilingmonitor.png:<color>.<frame>",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, -16],
+      "animationPosition" : [-8, -16],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "direction" : "left",
+      "lightPosition" : [0, -1],
+      "beamAngle" : 225
+    },
+    {
+      "image" : "prtcoutlawceilingmonitor.png:<color>.<frame>",
+
+      "imagePosition" : [-8, -16],
+      "animationPosition" : [-8, -16],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ],
+      "direction" : "right",
+      "lightPosition" : [-1, -1],
+      "beamAngle" : 315
+    }
+  ],
+
+  "animation" : "prtcoutlawceilingmonitor.animation",
+  "animationParts" : {
+    "bg" : "prtcoutlawceilingmonitor.png",
+    "fg" : "prtcoutlawceilingmonitorlit.png"
+  },
+
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+      "off" : [ "/sfx/objects/console_generic_switchoff.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, -2] ]
+}

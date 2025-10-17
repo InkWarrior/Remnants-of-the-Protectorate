@@ -1,0 +1,59 @@
+{
+  "objectName" : "iwrmp_prtcoutlawterminal",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 135,
+  "description" : "This terminal is displaying a chat, there's a lot of messages.",
+  "shortdescription" : "Altered Terminal",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Impressive, this person is receiving a storm of insults yet their messages are always nice.",
+  "avianDescription" : "Whoever used this terminal was being oddly and absolutely nice.",
+  "floranDescription" : "Floran can say naughty stuff in the chat, heheh...",
+  "glitchDescription" : "Intrigued. This is a chat between criminals, and the messages on this end are super nice.",
+  "humanDescription" : "God, that's a wall of insults there, whoever used this just said, \"thank you! I love you too!\".",
+  "hylotlDescription" : "There are a lot of unpleasant messages here! Why is this person so noble?",
+  "novakidDescription" : "There's a lot of nasty messages here, If it was me I would start blastin'!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcoutlawterminal.png:<color>" }, { "image" : "prtcoutlawterminallit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcoutlawterminal.png:<color>" }, { "image" : "prtcoutlawterminallit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "scripts" : [ "/scripts/npcToyObject.lua" ],
+  "npcToy" : {
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-0.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}
