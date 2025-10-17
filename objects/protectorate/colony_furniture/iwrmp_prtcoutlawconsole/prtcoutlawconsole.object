@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "category" : "wire",
   "price" : 150,
-  "description" : "There's a note; \"Don't worry, I modified it so I can see some TV channels\".",
+  "description" : "There's a note attached; \"Don't worry, I modified it so I can watch some TV\".",
   "shortdescription" : "Altered Security Console",
   "race" : "protectorate",
   "printable" : false,
@@ -12,12 +12,12 @@
   "lightColor" : [92, 162, 44],
 
   "apexDescription" : "I guess entertainment is very important while doing security stuff.",
-  "avianDescription" : "Sounds like it won't be used for security that often.",
+  "avianDescription" : "Sounds like this won't be used for security that often.",
   "floranDescription" : "A ssecurity console... with channelsss!",
-  "glitchDescription" : "Confused. How can you secure things if you are watching TV?",
+  "glitchDescription" : "Confused. How can you keen things secure while you are watching TV?",
   "humanDescription" : "A security console with TV channels. No videogames?",
   "hylotlDescription" : "A security console should just be for security, I will die on this hill.",
-  "novakidDescription" : "I might do somethin' silly here.",
+  "novakidDescription" : "I might do somethin' silly here with all these here channels.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
