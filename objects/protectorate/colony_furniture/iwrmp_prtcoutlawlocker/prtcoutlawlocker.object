@@ -23,7 +23,7 @@
   "inventoryIcon" : "icon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "prtcwatcherlocker.png:<color>.<key>" }, { "image" : "prtcwatcherlockerlit.png:<color>.<key>", "fullbright" : true } ],
+      "imageLayers" : [ { "image" : "prtcoutlawlocker.png:<color>.<key>" }, { "image" : "prtcoutlawlockerlit.png:<color>.<key>", "fullbright" : true } ],
       "flipImages" : true,
       "direction" : "left",
 
@@ -36,7 +36,7 @@
       "collision" : "platform"
     },
     {
-      "imageLayers" : [ { "image" : "prtcwatcherlocker.png:<color>.<key>" }, { "image" : "prtcwatcherlockerlit.png:<color>.<key>", "fullbright" : true } ],
+      "imageLayers" : [ { "image" : "prtcoutlawlocker.png:<color>.<key>" }, { "image" : "prtcoutlawlockerlit.png:<color>.<key>", "fullbright" : true } ],
       "direction" : "right",
 
       "imagePosition" : [-8, 0],
