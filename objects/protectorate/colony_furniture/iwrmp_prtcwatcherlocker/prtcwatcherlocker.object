@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "category" : "storage",
   "price" : 140,
-  "description" : "A heavy duty locker for storing mostly weapons and uniforms.",
+  "description" : "A heavy duty locker for storing weapons and uniforms.",
   "shortdescription" : "Watcher Security Locker",
   "race" : "generic",
   "printable" : false,
