@@ -9,6 +9,8 @@
   "race" : "protectorate",
   "printable" : false,
 
+  "lightColor" : [92, 162, 44],
+
   "apexDescription" : "Impressive, this person is receiving a storm of insults, yet their replies always manage to be polite.",
   "avianDescription" : "Whoever used this terminal was being oddly and completely polite.",
   "floranDescription" : "Floran can say naughty ssstuff in the chat, heheh...",
@@ -23,6 +25,7 @@
       "imageLayers" : [ { "image" : "prtcoutlawterminal.png:<color>" }, { "image" : "prtcoutlawterminallit.png:<color>", "fullbright" : true } ],
       "flipImages" : true,
       "direction" : "left",
+      "lightPosition" : [0, 1],
 
       "imagePosition" : [-8, 0],
       "frames" : 1,
@@ -35,6 +38,7 @@
     {
       "imageLayers" : [ { "image" : "prtcoutlawterminal.png:<color>" }, { "image" : "prtcoutlawterminallit.png:<color>", "fullbright" : true } ],
       "direction" : "right",
+      "lightPosition" : [0, 1],
 
       "imagePosition" : [-8, 0],
       "frames" : 1,
