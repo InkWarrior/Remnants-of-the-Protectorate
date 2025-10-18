@@ -4,20 +4,20 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 115,
-  "description" : "What a curiosity, the Protector Tenets are currently being displayed.",
-  "shortdescription" : "ALtered Display",
+  "description" : "How curious, the Protectorate Tenets are currently being displayed on this.",
+  "shortdescription" : "Altered Display",
   "race" : "protectorate",
   "printable" : false,
 
   "lightColor" : [92, 162, 44],
 
-  "apexDescription" : "Someone didn't do their homework!",
-  "avianDescription" : "The Tenets of the Protector? Somebody just forgot them.",
+  "apexDescription" : "Someone forgot their homework!",
+  "avianDescription" : "The \"Tenets of the Protector\"? Somebody needs a refresher it seems.",
   "floranDescription" : "Floran thinkss is good to remember the sacred Protector oath.",
   "glitchDescription" : "Pleased. It's always good to have your principles at hand.",
-  "humanDescription" : "Hey! I know those Tenets!",
-  "hylotlDescription" : "I guess it's not bad to have the Protector Tenents at hand.",
-  "novakidDescription" : "Good. I was forgetin' about them tenets.",
+  "humanDescription" : "Hey! I know these Tenets!",
+  "hylotlDescription" : "I guess it's not bad to have the Protectorate Tenents at hand.",
+  "novakidDescription" : "Good. I was forgetin' about them Tenets too.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
