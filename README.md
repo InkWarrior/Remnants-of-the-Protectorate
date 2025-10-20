@@ -1,5 +1,14 @@
 # Remnants of the Protectorate
-This is a work-in-progress. The objective of the mod is to expand and add new lore regarding the Protectorate. New Furniture, new cosmetic sets, new codex and dungeons and all that stuff.
+Welcome! This is the official Github page for Starbound mod "Remnants of the Protectorate", a small content expansion that aims to expand on the few bits of lore around the Terrene Protectorate from a "worldbuilding" angle. You'll be able to find new dungeons, furniture items, clothing outfits, friendly npcs, brand-new codexes and more! Currently a work-in-progress (getting closer to the 0.1 release version!!!).
+
+#Mod Support#
+This mod has in-built support for other mods, like Spawnable Item Pack, Wardrobe Interface, Planet Search, Book of Spirits, Erisss' More Planet Info and Better Crew; we are aiming for even more compatibily!
+
+Here's also a couple of mod recommendations to play with that fit nice with Remnants: Protectorate Themed Blocks, either Protector icons or Starbound Patch Project mostly for the icons (although I do recomend having both) and Project Redemption (as some parts of the Lore presented by Remnants were inspired by the additions of PR)
+
+#Credits#
+Armok - A huge shoutout to him for being a good friend in general, for doing a lot of helpful writing corrections to my descriptions, codexes and dialogues and giving me a lot of interesting ideas and helpful feedback.
+Pixelflame - Also a huge shoutout to her for spriting what would be the final version of the Protectorate Astraeus logo.
 
 # To do list
 __MOD SUPPORT__
