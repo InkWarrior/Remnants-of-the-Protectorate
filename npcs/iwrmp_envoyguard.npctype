@@ -1,6 +1,7 @@
 {
   "type": "iwrmp_envoyguard",
   "baseType": "villageguard",
+  "displayTitle" : "Envoy",
 
   "scriptConfig" : {
 	"dialog": {

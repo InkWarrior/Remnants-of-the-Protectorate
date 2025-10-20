@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_habitatguard",
   "baseType" : "villageguard",
+  "displayTitle" : "Assigned Habitat Watcher",
 
   "scriptConfig" : {
 	"dialog": {

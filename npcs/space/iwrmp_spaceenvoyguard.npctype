@@ -1,6 +1,7 @@
 {
   "type": "iwrmp_spaceenvoyguard",
   "baseType": "villageguard",
+  "displayTitle" : "Envoy Watcher",
 
   "scriptConfig" : {
     "behaviorConfig" : {

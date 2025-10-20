@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_watcherprotector",
   "baseType" : "friendlyguard",
+  "displayTitle" : "On-Duty Protector Watcher",
   
   "dropPools" : [],
 

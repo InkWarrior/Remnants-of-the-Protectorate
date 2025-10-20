@@ -1,16 +1,15 @@
 {
   "type" : "iwrmp_spacevolunteer",
   "baseType" : "villager",
+  "displayTitle" : "Protectorate Volunteer",
 
   "scriptConfig" : {
-    "behaviorConfig" : {
-      "greetingChance" : 0.0
-    },
     "questGenerator" : {
       "enableParticipation" : false
     },
 
     "dialog" : {
+      "greeting" : "/dialog/iwrmp_protectorateconverse.config:converse",
       "converse" : "/dialog/iwrmp_protectorateconverse.config:converse"
     }
   },

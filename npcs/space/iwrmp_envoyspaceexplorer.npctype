@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_envoyspaceexplorer",
   "baseType" : "villager",
+  "displayTitle" : "On-Duty Envoy",
 
   "scriptConfig" : {
     "behaviorConfig" : {

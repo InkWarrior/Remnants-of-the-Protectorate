@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_spaceprotectorcaptain",
   "baseType" : "villager",
+  "displayTitle" : "Protector Ship Captain",
 
   "movementParameters" : {
     "walkSpeed" : 5.0

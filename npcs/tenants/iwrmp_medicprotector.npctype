@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_medicprotector",
   "baseType" : "generictenant",
+  "displayTitle" : "Medical Specialist",
   
 
   "scriptConfig" : {

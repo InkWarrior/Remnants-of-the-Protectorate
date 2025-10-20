@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_janitorprotector",
   "baseType" : "generictenant",
+  "displayTitle" : "Master of Cleaning",
   
 
   "scriptConfig" : {

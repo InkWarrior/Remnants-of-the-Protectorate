@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_envoy",
   "baseType" : "generictenant",
+  "displayTitle" : "Aged Explorer",
   
 
   "scriptConfig" : {

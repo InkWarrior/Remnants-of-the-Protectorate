@@ -1,16 +1,15 @@
 {
   "type" : "iwrmp_spaceprotectorcrew",
   "baseType" : "villager",
+  "displayTitle" : "Specialized Crewmate Protector",
 
   "scriptConfig" : {
-    "behaviorConfig" : {
-      "greetingChance" : 0.0
-    },
     "questGenerator" : {
       "enableParticipation" : false
     },
 
     "dialog" : {
+      "greeting" : "/dialog/iwrmp_protectorateconverse.config:converse",
       "converse" : "/dialog/iwrmp_protectorateconverse.config:converse"
     }
   },

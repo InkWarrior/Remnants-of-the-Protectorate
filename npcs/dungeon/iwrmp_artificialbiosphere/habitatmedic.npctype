@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_habitatmedic",
   "baseType" : "villager",
+  "displayTitle" : "Assigned Habitat Medic",
 
   "scriptConfig" : {
     "behaviorConfig" : {

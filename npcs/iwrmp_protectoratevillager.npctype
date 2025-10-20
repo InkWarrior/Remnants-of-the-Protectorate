@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_protectoratevillager",
   "baseType" : "villager",
+  "displayTitle" : "Protector",
 
   "scriptConfig" : {
     "behaviorConfig" : {

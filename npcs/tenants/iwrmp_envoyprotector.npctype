@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_envoyprotector",
   "baseType" : "friendlyguard",
+  "displayTitle" : "Conflict Defuser",
   
   "dropPools" : [],
 

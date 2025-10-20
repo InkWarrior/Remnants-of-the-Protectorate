@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_habitatengie",
   "baseType" : "villager",
+  "displayTitle" : "Assigned Habitat Specialist",
 
   "scriptConfig" : {
     "behaviorConfig" : {

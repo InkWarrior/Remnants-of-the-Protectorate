@@ -1,6 +1,7 @@
 {
   "type": "iwrmp_protectorateguard",
   "baseType": "villageguard",
+  "displayTitle" : "Protector Watcher",
 
   "scriptConfig" : {
 	"dialog": {

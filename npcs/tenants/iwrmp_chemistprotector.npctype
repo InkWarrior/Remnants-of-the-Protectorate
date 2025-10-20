@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_chemistprotector",
   "baseType" : "generictenant",
+  "displayTitle" : "Proficient Scientist",
   
 
   "scriptConfig" : {

@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_volunteer",
   "baseType" : "villager",
+  "displayTitle" : "Protectorate Volunteer",
 
   "scriptConfig" : {
     "behaviorConfig" : {

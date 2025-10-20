@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_mechanicprotector",
   "baseType" : "generictenant",
+  "displayTitle" : "Maintenance Professional",
   
 
   "scriptConfig" : {

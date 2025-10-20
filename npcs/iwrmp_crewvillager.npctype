@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_crewvillager",
   "baseType" : "villager",
+  "displayTitle" : "Specialized Protector",
 
   "scriptConfig" : {
     "behaviorConfig" : {

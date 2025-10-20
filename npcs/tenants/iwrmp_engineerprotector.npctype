@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_engineerprotector",
   "baseType" : "generictenant",
+  "displayTitle" : "Computer Specialist",
   
 
   "scriptConfig" : {

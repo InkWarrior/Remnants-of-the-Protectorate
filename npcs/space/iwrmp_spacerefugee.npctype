@@ -1,6 +1,7 @@
 {
   "type" : "iwrmp_spacerefugee",
   "baseType" : "villager",
+  "displayTitle" : "Refugee",
   
 
   "scriptConfig" : {
