@@ -5,7 +5,36 @@
     "rules" : [
     ],
 
-    "anchor" : [ "iwrmp_envoycamp1", "iwrmp_envoycamp2", "iwrmp_envoycamp3", "iwrmp_prtchoverbike1", "iwrmp_prtchoverbike2", "iwrmp_prtchoverbike3", "iwrmp_researchground2", "iwrmp_researchground1", "iwrmp_statuspodfix1", "iwrmp_statuspodfix2", "iwrmp_statuspodfix3", "iwrmp_prtcpost1", "iwrmp_prtcpost2", "iwrmp_prtcpost3", "iwrmp_prtcpost4", "iwrmp_prtcpost7", "iwrmp_prtcpost8", "iwrmp_reforestation1", "iwrmp_reforestation2", "iwrmp_reforestation3", "iwrmp_reforestation4", "iwrmp_reforestation5", "iwrmp_reforestation6" ],
+    "anchor": [
+        "iwrmp_envoycamp1",
+        "iwrmp_envoycamp2",
+        "iwrmp_envoycamp3",
+        "iwrmp_prtchoverbike1",
+        "iwrmp_prtchoverbike2",
+        "iwrmp_prtchoverbike3",
+        "iwrmp_researchground2",
+        "iwrmp_researchground1",
+        "iwrmp_statuspodfix1",
+        "iwrmp_statuspodfix2",
+        "iwrmp_statuspodfix3",
+        "iwrmp_prtcpost1",
+        "iwrmp_prtcpost2",
+        "iwrmp_prtcpost3",
+        "iwrmp_prtcpost4",
+        "iwrmp_prtcpost7",
+        "iwrmp_prtcpost8",
+        "iwrmp_reforestation1",
+        "iwrmp_reforestation2",
+        "iwrmp_reforestation3",
+        "iwrmp_reforestation4",
+        "iwrmp_reforestation5",
+        "iwrmp_reforestation6",
+        "iwrmp_dropshippost1",
+        "iwrmp_dropshippost2",
+        "iwrmp_dropshippost3",
+        "iwrmp_beaconflag1",
+        "iwrmp_beaconflag2"
+    ],
 
     "gravity" : 80,
     "maxRadius" : 1000000,
@@ -174,6 +203,41 @@
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "iwrmp_reforestation6.json" ]
+    },
+    {
+      "name" : "iwrmp_dropshippost1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_dropshippost1.json" ]
+    },
+    {
+      "name" : "iwrmp_dropshippost2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_dropshippost2.json" ]
+    },
+    {
+      "name" : "iwrmp_dropshippost3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_dropshippost3.json" ]
+    },
+    {
+      "name" : "iwrmp_beaconflag1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_beaconflag1.json" ]
+    },
+    {
+      "name" : "iwrmp_beaconflag2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_beaconflag2.json" ]
     }
   ]
 }
