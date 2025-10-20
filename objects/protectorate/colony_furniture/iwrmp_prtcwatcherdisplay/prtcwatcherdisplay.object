@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 115,
-  "description" : "A wall-mounted screen currently displaying a visual image of a room.",
+  "description" : "A wall-mounted screen currently displaying the visual image of a room.",
   "shortdescription" : "Watcher Security Screen",
   "race" : "protectorate",
   "printable" : false,
@@ -16,8 +16,8 @@
   "floranDescription" : "Floran can see other people from here!",
   "glitchDescription" : "Flustered. Watching someone from another room is still a strange thing to me.",
   "humanDescription" : "It seems to be only for displaying video from cameras.",
-  "hylotlDescription" : "A security camera, I feel more at safe.",
-  "novakidDescription" : "Can I see myself in other rooms?",
+  "hylotlDescription" : "A security camera, I feel more at peace.",
+  "novakidDescription" : "Can I see myself in other rooms with this?",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
