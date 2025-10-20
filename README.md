@@ -14,7 +14,6 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the final ve
 # To do list
 __MOD SUPPORT__
 - Spawnable Item Pack (in-progress)
-- Wardrobe Interface (in-progress)
 - Planet Search
 - More Planet Info (in-progress)
 - Better Crew
