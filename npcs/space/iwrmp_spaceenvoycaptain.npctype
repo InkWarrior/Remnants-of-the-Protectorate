@@ -93,7 +93,7 @@
             "head" : [ { "name" : "iwrmp_envoycaptainhead" } ],
             "chest" : [ { "name" : "iwrmp_envoycaptainchest" } ],
             "legs" : [ { "name" : "iwrmp_protectorcaptainpants", "parameters" : { "directives" : "?replace;ffca8a=ffe975;e0975c=ffc038;a85636=e07625;6f2919=97400d;" } } ],
-            "back" : [ { "name" : "simplecapeback", "parameters" : { "ColorIndex" : 1 } } ],
+            "back" : [ { "name" : "simplecapeback", "parameters" : { "colorIndex" : [1] } } ],
             "primary" : [ "" ],
             "sheathedprimary" : [ "npcpistol" ]
           }

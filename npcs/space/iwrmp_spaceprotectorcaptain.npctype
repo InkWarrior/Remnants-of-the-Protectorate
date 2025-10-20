@@ -90,10 +90,10 @@
     "override" : [
       [0, [
           {
-            "head" : [ { "name" : "iwrmp_envoycaptainhead" } ],
-            "chest" : [ { "name" : "iwrmp_envoycaptainchest" } ],
+            "head" : [ { "name" : "iwrmp_protectorcaptainhead" } ],
+            "chest" : [ { "name" : "iwrmp_protectorcaptainchest" } ],
             "legs" : [ { "name" : "iwrmp_protectorcaptainpants" } ],
-            "back" : [ { "name" : "simplecapeback", "parameters" : { "ColorIndex" : 1 } } ],
+            "back" : [ { "name" : "simplecapeback", "parameters" : { "ColorIndex" : [1] } } ],
             "primary" : [ "" ],
             "sheathedprimary" : [ "npcpistol" ]
           }
