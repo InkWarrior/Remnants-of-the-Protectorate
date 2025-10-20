@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "money", "count" : 650 },
-    { "item" : "titaniumbar", "count" : 10 },
-    { "item" : "leather", "count" : 1 },
+    { "item" : "durasteelbar", "count" : 10 },
+    { "item" : "leather", "count" : 3 },
     { "item" : "silk", "count" : 1 }
   ],
   "duration" : 2.5,
