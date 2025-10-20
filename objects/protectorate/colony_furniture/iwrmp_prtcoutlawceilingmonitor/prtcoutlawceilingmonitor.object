@@ -1,7 +1,7 @@
 {
   "objectName" : "iwrmp_prtcoutlawceilingmonitor",
   "colonyTags" : ["prtc_outlaw","protectorate","medical","wired"],
-  "rarity" : "Rare",
+  "rarity" : "Uncommon",
   "category" : "wire",
   "price" : 125,
   "description" : "A restyled ceiling monitor. Seems to be modified to show more channels than usual.",
