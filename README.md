@@ -8,6 +8,7 @@ Here's also a couple of mod recommendations to play with that fit nice with Remn
 
 # Credits
 Armok - A huge shoutout to him for being a good friend in general, for doing a lot of helpful writing corrections to my descriptions, codexes and dialogues and giving me a lot of interesting ideas and helpful feedback.
+
 Pixelflame - Also a huge shoutout to her for spriting what would be the final version of the Protectorate Astraeus logo.
 
 # To do list
