@@ -1,0 +1,63 @@
+{
+  "objectName" : "iwrmp_prtcturrethatch",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 225,
+  "description" : "A hatch for turrets. Currently closed.",
+  "shortdescription" : "Protectorate Turret Hatch",
+  "race" : "protectorate",
+
+  "apexDescription" : "I didn't know the Protectorate had turrets.",
+  "avianDescription" : "I guess the Protectorate uses turrets just in case of emergency.",
+  "floranDescription" : "Floran is curious what's inside.",
+  "glitchDescription" : "Observant. This is a Protectorate-branded turret hatch.",
+  "humanDescription" : "I don't think I ever have seen their Protectorate turrets in action.",
+  "hylotlDescription" : "\"Whoever wants peace be prepared for war\", just as that old human proverb says.",
+  "novakidDescription" : "A cool lookin' hatch.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+
+//CEILLING
+    {
+      "image" : "prtcturrethatch_ceiling.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["top"]
+    },
+
+//GROUND
+    {
+      "image" : "prtcturrethatch_ground.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+
+//LEFT
+    {
+      "image" : "prtcturrethatch_left.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["left"]
+    },
+
+//RIGHT
+    {
+      "image" : "prtcturrethatch_right.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["right"]
+    }
+  ]
+}
