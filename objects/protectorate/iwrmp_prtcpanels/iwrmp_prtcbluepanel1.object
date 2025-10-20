@@ -21,7 +21,7 @@
   "orientations" : [
     {
       "image" : "prtcbluepanel1.png:<color>",
-      "imagePosition" : [-16, -8],
+      "imagePosition" : [0, 0],
       "direction" : "left",
       "flipImages" : true,
 
@@ -30,7 +30,7 @@
     },
     {
       "image" : "prtcbluepanel1.png:<color>",
-      "imagePosition" : [-16, -8],
+      "imagePosition" : [0, 0],
       "direction" : "right",
 
       "spaceScan" : 0.1,
