@@ -518,5 +518,68 @@
         "value": {
             "item": "iwrmp_prtcwatcherlocker"
         }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcengineerdesk"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcmechanicdesk"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcsecurityconsole"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcsmallserver"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtctailorhologram"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtctailorwardrobe"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtctoolrackempty"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtctoolrack"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcwatcherdisplay"
+        }
     }
 ]
