@@ -1,1 +1,1 @@
-{"name":"IWProtectorateRemnants","includes":["SpawnableItemPack"]}
+{"name":"IWPrtcRemnants","includes":["SpawnableItemPack", "Wardrobe", "MorePlanetInfo", "fl_planetsearch", "rl_bettercrew", "BookOfSpirits"]}
