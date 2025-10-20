@@ -11,8 +11,8 @@ __MOD SUPPORT__
 - Book of Spirits
 - Scripted SAIL
 - Maybe a full SAIL replacement addon?
-- Make an extra addon for crewmembers so they can wear their unique outfits.
-- Many Tabs (particularly adding a dedicated Protectorate category for the codex).
+- Make an extra addon for crewmembers so they can wear their unique outfits (in-progress).
+- Many Tabs (particularly adding a dedicated Protectorate category for the codex)(in-progress).
 
 __GENERAL:__
 - Fix the antennae of the second middle sections of the Protectorate Ship.
