@@ -1,0 +1,60 @@
+{
+  "objectName" : "iwrmp_prtcwatcherdisplay",
+  "colonyTags" : ["combat","protectorate"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 115,
+  "description" : "A wall-mounted screen currently displaying a visual image of a room.",
+  "shortdescription" : "Watcher Security Screen",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [27, 50, 64],
+
+  "apexDescription" : "A security monitor, I guess it's attached to a camera.",
+  "avianDescription" : "I can see other rooms from here.",
+  "floranDescription" : "Floran can see other people from here!",
+  "glitchDescription" : "Flustered. Watching someone from another room is still a strange thing to me.",
+  "humanDescription" : "It seems to be only for displaying video from cameras.",
+  "hylotlDescription" : "A security camera, I feel more at safe.",
+  "novakidDescription" : "Can I see myself in other rooms?",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcwatcherdisplay.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcwatcherdisplay.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "prtcwatcherdisplay.animation",
+  "animationParts" : {
+    "bg" : "prtcwatcherdisplay.png",
+    "fg" : "prtcwatcherdisplaylit.png"
+  },
+  "animationPosition" : [-16, -8],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/bunkerdisplay4.ogg",
+  "soundEffectRangeMultiplier" : 0.25
+
+}
