@@ -8,6 +8,7 @@ __MOD SUPPORT__
 - Planet Search
 - More Planet Info (in-progress)
 - Better Crew
+
 - Scripted SAIL
 - Maybe a full SAIL replacement addon?
 - Make an extra addon for crewmembers so they can wear their unique outfits.
@@ -29,11 +30,10 @@ __FURNITURE__
 - Add obtainable recipes for Protectorate furniture (in-progress).
 - Complete the next furniture objects:
    - Protectorate Turret Hatch.
+   - Watcher screen
 - Make a colony furniture tileset.
 
 __DUNGEONS__
-- Add 3 minidungeon variants for the Protectorate Dropship.
-- Add at least 3 beacon encounters.
 - Large Dungeons:
    - Artificial Biosphere (needs revamp).
    - Envoy Shelter.
