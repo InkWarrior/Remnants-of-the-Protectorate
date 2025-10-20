@@ -8,7 +8,7 @@
  "margin":0,
  "name":"iwrmp_protectorateobjects",
  "spacing":0,
- "tilecount":70,
+ "tilecount":75,
  "tiledversion":"1.2.2",
  "tileheight":56,
  "tileproperties":
@@ -691,6 +691,56 @@
          "imagePositionX":"-16",
          "imagePositionY":"0",
          "object":"iwrmp_prtccratesmall",
+         "tilesetDirection":"right"
+        },
+     "70":
+        {
+         "\/\/description":"A wall-mounted screen, a lot of data is currently being displayed.",
+         "\/\/name":"iwrmp_prtcdisplay2",
+         "\/\/shortdescription":"Remodeled Data Display",
+         "imagePositionX":"-16",
+         "imagePositionY":"-8",
+         "object":"iwrmp_prtcdisplay2",
+         "tilesetDirection":"right"
+        },
+     "71":
+        {
+         "\/\/description":"A durable security door, used by the medic division of the Protectorate.",
+         "\/\/name":"iwrmp_prtcmedicdoor",
+         "\/\/shortdescription":"Protectorate Medic Door",
+         "imagePositionX":"-20",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcmedicdoor",
+         "tilesetDirection":"right"
+        },
+     "72":
+        {
+         "\/\/description":"A durable ship door, used by the Protectorate for service areas.",
+         "\/\/name":"iwrmp_prtcservicedoor",
+         "\/\/shortdescription":"Protectorate Service Door",
+         "imagePositionX":"-20",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcservicedoor",
+         "tilesetDirection":"right"
+        },
+     "73":
+        {
+         "\/\/description":"A durable ship door, used by the Protectorate.",
+         "\/\/name":"iwrmp_prtcshipdoor",
+         "\/\/shortdescription":"Protectorate Ship Door",
+         "imagePositionX":"-20",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcshipdoor",
+         "tilesetDirection":"right"
+        },
+     "74":
+        {
+         "\/\/description":"A durable ship door, used by the Protectorate.",
+         "\/\/name":"iwrmp_prtcwhitedoor",
+         "\/\/shortdescription":"White Protectorate Door",
+         "imagePositionX":"-20",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcwhitedoor",
          "tilesetDirection":"right"
         },
      "8":
@@ -1396,6 +1446,56 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "70":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "71":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "72":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "73":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "74":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "8":
         {
          "\/\/description":"string",
@@ -1826,6 +1926,36 @@
          "image":"prtccratesmall.png",
          "imageheight":16,
          "imagewidth":40
+        },
+     "70":
+        {
+         "image":"prtcdisplay2.png",
+         "imageheight":16,
+         "imagewidth":40
+        },
+     "71":
+        {
+         "image":"prtcmedicdoor.png",
+         "imageheight":40,
+         "imagewidth":48
+        },
+     "72":
+        {
+         "image":"prtcservicedoor.png",
+         "imageheight":40,
+         "imagewidth":48
+        },
+     "73":
+        {
+         "image":"prtcshipdoor.png",
+         "imageheight":40,
+         "imagewidth":48
+        },
+     "74":
+        {
+         "image":"prtcwhitedoor.png",
+         "imageheight":40,
+         "imagewidth":48
         },
      "8":
         {
