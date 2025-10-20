@@ -8,7 +8,6 @@ __MOD SUPPORT__
 - Planet Search
 - More Planet Info (in-progress)
 - Better Crew
-
 - Scripted SAIL
 - Maybe a full SAIL replacement addon?
 - Make an extra addon for crewmembers so they can wear their unique outfits.
