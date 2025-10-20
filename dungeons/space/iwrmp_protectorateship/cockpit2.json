@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt2O1tgzAQgGGvw04doAMwFmGHSB2HIRqkWHJdfxzgs7no\/fGoFcS0vDrFJJtzbgMAAAAAAAAAAAAAw74zRv9fVrTqt74sHYzupdnvJ2MpnJNagp+jm531VaDZL15vteGIfrm1Fhv27ldbZ61hz37SNZYa1votBeE9Ty\/z2yRsV1pjpeHZ+YubzBHJ3JXWWGl4pV\/YJjdLuXaSmbXQ8Gq\/2n56Zo+x1LBFv1SrVu20Gu7Xe2bs5yaBVXD+6D1qtNNoWOv3eDd4FOx9\/KzFn\/WOzp\/W3Gk1rPWL97YU3y\/1WflsP3+Pmnr1C\/e33v2sz9+I979P6ufnx7+\/ze7vvhqfv7r\/fmq\/HPrV+4XC9714DulHv5H9Vvd\/T46P1\/bx1O8aWvYr\/Y0j\/eL10vlMXXsWrjnL2vxJ7im3\/s79tkI\/ybOf9PlPeq1eWva7SrJ\/aM7S6PmjH\/3od9zzwuvu1s+aO\/XrJXw2GLHeOvqN6xc\/246+F0sd6SbvkTpOP1mPo8dBJwAAdv7799oxzdcCAAAAAADAll\/06gPo",
+         "data":"eJztm9uNgzAQAH3l0NMVcAVQFqGHSFcORVwixZLj82PB+LFkPkaJbNZZj1asQcpmjNkAAAAAAAAAAAAujvmK0zs3DeAPf\/jTC\/4A4FP4idA7Ly2c5W99sDSgt6+a\/n4jLIk5KYvz2dvZUb4T1PTnx2t12MNfLFajw9b+cnHaHLb0J43R5DDnb0ng7nl6ML+YhO5SMVocHq0\/38nsIam7VIwWhyX+XDexWoq5k9SsBoel\/nL99EiP0eTwDH8hV2e5q+Xwud49wnNuErAK5vfusYa7Gg5z\/m4vB7cETz+21vxnvb31V6vuajnM+fN7WwjrL\/SsfNSf3WNNWvlz+1trf9rrr8f970r+bP3Y+9ts3vuqP1\/af6\/qLwb+8v5c3PueX4f4w19Pf6v535P98VwfD32vwZn+Ur+xx58fL63P0NqzMOYo2upPsqdY\/Mj+toQ\/ydlPev6TrtWKM\/2VIukfNWupd\/3hD3\/428+94LrR\/GljJH+tcM8GPeK1g79+\/vyzbe+9aPKIN7mP0Dj+ZD72jgOeYBxG+X\/UKHlozXuUPLTmPUoeWvMuycO+f8+N1bj2Cv4AAAAAAAAAAD6RP090o3Y=",
          "encoding":"base64",
          "height":80,
          "id":11,
@@ -1072,7 +1072,7 @@
                  "y":312
                 }, 
                 {
-                 "gid":7810,
+                 "gid":7825,
                  "height":16,
                  "id":889,
                  "name":"",
@@ -1216,7 +1216,7 @@
                  "y":416
                 }, 
                 {
-                 "gid":7840,
+                 "gid":7855,
                  "height":24,
                  "id":908,
                  "name":"",
@@ -1228,7 +1228,7 @@
                  "y":376
                 }, 
                 {
-                 "gid":2147491488,
+                 "gid":2147491503,
                  "height":24,
                  "id":909,
                  "name":"",
@@ -1252,7 +1252,7 @@
                  "y":280
                 }, 
                 {
-                 "gid":7840,
+                 "gid":7855,
                  "height":24,
                  "id":911,
                  "name":"",
@@ -1264,7 +1264,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":2147491488,
+                 "gid":2147491503,
                  "height":24,
                  "id":912,
                  "name":"",
@@ -1725,6 +1725,42 @@
                  "width":8,
                  "x":312,
                  "y":264
+                }, 
+                {
+                 "gid":7814,
+                 "height":40,
+                 "id":958,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":104,
+                 "y":536
+                }, 
+                {
+                 "gid":7814,
+                 "height":40,
+                 "id":959,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":472,
+                 "y":528
+                }, 
+                {
+                 "gid":7813,
+                 "height":40,
+                 "id":960,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":152,
+                 "y":160
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1790,7 +1826,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":958,
+ "nextobjectid":961,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -1913,7 +1949,7 @@
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
         }, 
         {
-         "firstgid":7802,
+         "firstgid":7817,
          "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/_unpacked\/tilesets\/packed\/objects-by-colonytag\/outpost.json"
         }],
  "tilewidth":8,

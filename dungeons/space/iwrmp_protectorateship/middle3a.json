@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt3EGuwiAQxvG+m7j1Qm\/lAdy58VjVK3ghD2GIkhDCUGilM8h\/8YsJxbHzpaT6SN9zmqYnMLCjgXOwYvrLs1LTKvLTy09ax+S3rVfyy\/c6kx\/5GchPynGU\/O6FavJbW3MkufyQx7WEls4f1mpZkrsH7pnfL92LAS3SGkuNx2tSmlPzOb0jP\/IDgJbOGdrnBgAAAGzh9nWOkXv0mjpWOta6hva+lPv8\/4gbuy4cC2nV8K\/k13d+qbVxXTgW965Rw8L6jftYMheOta4R0szvUcn1eYjMCjUeyrltya9krHUNC\/mtOWdL+YVrnvz6zO9QSep97xq+jnZ+p0pS73vX8HXIr9\/8AIzD2vfX3rjM\/D54mF9qb7xm7iiWMvF\/GyE\/Ob\/S9ctaBwAAAN78bwjpmfHUsx8183\/d5UPK4yJYmq\/dV2u1+ztrafdpIbv4uYWRM0xlchOEc\/26DPOT3pfKWrvvlvmlrpk4v9T8m\/Be8iO\/nNL\/d\/Mt2v1y\/dlBft\/Pj\/vvugz5\/rdfhmtp9wkAANCjF5\/qIuM=",
+         "data":"eJztnMutwjAQAPM64UpD70QB3LhQVqAFGqIIFIEly\/L6F5zd4DmMItnOJjvyKgHLeU7T9AQYmKOBe7DC9JfGSkyr4E\/Pn1TH+FuXK\/7Suc74w58Bf5LHUfzdC6nx1xpzJFL+IA1zCXpy\/mAtliVSz8At\/f3SsxhAC6nGYu1hTUpjaq6zd\/CHPwCAnpwTaN8bAAAAAMAalnWdY8A9OMb6Stt6x9Bel1qu\/x+wtF0zfT5aMdwRf\/v2F6uNa6YvzF0jhoX6DfPIMRe29Y7ho+nvUcmS5yFgVojxUPa2xl9JW+8YFvy13LMlf37N42+f\/g6VSLlvHcPF0fZ3qkTKfesYLg7+9usPAMbB2vvr3licuXVw319sbbxm7CjknLj\/RvAn+yutX2odAAAAAOCN+w0h7RmP7f2oGf\/rXD5IPi4CufHaefWmdn2nFe08LbgL9y2M7DDm5Cbgj3V16fuTzou51s67p7\/YnAn9xcbfhHPxh78Upd+7+Rba+TL\/7IC\/7\/vj+dvmkPe\/7Ry2op1nb9Z8s2+E7\/3hD3+WwR\/+ACzzApAg4pI=",
          "encoding":"base64",
          "height":80,
          "id":11,
@@ -906,18 +906,6 @@
                  "y":280
                 }, 
                 {
-                 "gid":5959,
-                 "height":40,
-                 "id":692,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":48,
-                 "x":448,
-                 "y":360
-                }, 
-                {
                  "gid":6444,
                  "height":8,
                  "id":699,
@@ -1394,7 +1382,7 @@
                  "y":128
                 }, 
                 {
-                 "gid":7740,
+                 "gid":2147491388,
                  "height":56,
                  "id":893,
                  "name":"",
@@ -1402,11 +1390,11 @@
                  "type":"",
                  "visible":true,
                  "width":60,
-                 "x":336,
+                 "x":160,
                  "y":80
                 }, 
                 {
-                 "gid":2147491389,
+                 "gid":7741,
                  "height":56,
                  "id":894,
                  "name":"",
@@ -1414,7 +1402,7 @@
                  "type":"",
                  "visible":true,
                  "width":52,
-                 "x":160,
+                 "x":336,
                  "y":80
                 }, 
                 {
@@ -1440,6 +1428,42 @@
                  "width":16,
                  "x":304,
                  "y":400
+                }, 
+                {
+                 "gid":7989,
+                 "height":40,
+                 "id":904,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":456,
+                 "y":360
+                }, 
+                {
+                 "gid":7992,
+                 "height":40,
+                 "id":905,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":192,
+                 "y":624
+                }, 
+                {
+                 "gid":7992,
+                 "height":40,
+                 "id":906,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":312,
+                 "y":624
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1663,7 +1687,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":904,
+ "nextobjectid":907,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
