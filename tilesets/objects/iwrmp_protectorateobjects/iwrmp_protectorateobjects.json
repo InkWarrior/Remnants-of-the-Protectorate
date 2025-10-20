@@ -8,7 +8,7 @@
  "margin":0,
  "name":"iwrmp_protectorateobjects",
  "spacing":0,
- "tilecount":75,
+ "tilecount":79,
  "tiledversion":"1.2.2",
  "tileheight":56,
  "tileproperties":
@@ -741,6 +741,46 @@
          "imagePositionX":"-20",
          "imagePositionY":"0",
          "object":"iwrmp_prtcwhitedoor",
+         "tilesetDirection":"right"
+        },
+     "75":
+        {
+         "\/\/description":"A hatch for turrets. Currently closed.",
+         "\/\/name":"iwrmp_prtcturrethatch_orientation1",
+         "\/\/shortdescription":"Protectorate Turret Hatch",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcturrethatch",
+         "tilesetDirection":"right"
+        },
+     "76":
+        {
+         "\/\/description":"A hatch for turrets. Currently closed.",
+         "\/\/name":"iwrmp_prtcturrethatch_orientation2",
+         "\/\/shortdescription":"Protectorate Turret Hatch",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcturrethatch",
+         "tilesetDirection":"right"
+        },
+     "77":
+        {
+         "\/\/description":"A hatch for turrets. Currently closed.",
+         "\/\/name":"iwrmp_prtcturrethatch_orientation3",
+         "\/\/shortdescription":"Protectorate Turret Hatch",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcturrethatch",
+         "tilesetDirection":"right"
+        },
+     "78":
+        {
+         "\/\/description":"A hatch for turrets. Currently closed.",
+         "\/\/name":"iwrmp_prtcturrethatch_orientation4",
+         "\/\/shortdescription":"Protectorate Turret Hatch",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcturrethatch",
          "tilesetDirection":"right"
         },
      "8":
@@ -1496,6 +1536,46 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "75":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "76":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "77":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "78":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "8":
         {
          "\/\/description":"string",
@@ -1956,6 +2036,30 @@
          "image":"prtcwhitedoor.png",
          "imageheight":40,
          "imagewidth":48
+        },
+     "75":
+        {
+         "image":"prtcturrethatch_orientation1.png",
+         "imageheight":40,
+         "imagewidth":40
+        },
+     "76":
+        {
+         "image":"prtcturrethatch_orientation2.png",
+         "imageheight":40,
+         "imagewidth":40
+        },
+     "77":
+        {
+         "image":"prtcturrethatch_orientation3.png",
+         "imageheight":40,
+         "imagewidth":40
+        },
+     "78":
+        {
+         "image":"prtcturrethatch_orientation4.png",
+         "imageheight":40,
+         "imagewidth":40
         },
      "8":
         {
