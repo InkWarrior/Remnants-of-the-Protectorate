@@ -23,7 +23,6 @@ __MOD SUPPORT__
 - Many Tabs (particularly adding a dedicated Protectorate category for the codex)(in-progress).
 
 __GENERAL:__
-- Fix the antennae of the second middle sections of the Protectorate Ship.
 - Complete the Envoy ship (add more parts; add npcs).
 
 __NPCS__
