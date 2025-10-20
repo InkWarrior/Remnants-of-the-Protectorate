@@ -46,5 +46,3 @@ __CLOTHES__
 __LORE__
 - Make 5 new codexes for Astraeus Captains (Human, Hylotl, Novakid, Avian, Apex).
 - Make 4 codexes for Protectorate Space Stations.
-- Make Lore additions of the matter manipulator where it makes sense (in-progress).
-- Make lore additions of the the Arch of Peace where it makes sense (in-progress).
