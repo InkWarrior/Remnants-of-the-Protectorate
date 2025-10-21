@@ -21,10 +21,10 @@
     "frontSleeve" : "fsleeve.png"
   },
   
-  "level" : 3,
+  "level" : 4,
   "leveledStatusEffects" : [
     {
-      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "levelFunction" : "manipulatorArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
       "baseMultiplier" : 1.25
     },
@@ -34,7 +34,7 @@
       "amount" : 0.5
     },
     {
-      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "levelFunction" : "acceleratorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
       "amount" : 5
     },

@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "money", "count" : 350 },
-    { "item" : "titaniumbar", "count" : 4 },
-    { "item" : "canvas", "count" : 1 }
+    { "item" : "durasteelbar", "count" : 4 },
+    { "item" : "leather", "count" : 1 }
   ],
   "duration" : 2.5,
   "output" : { "item" : "iwrmp_frontiersmanpants", "count" : 1 },
