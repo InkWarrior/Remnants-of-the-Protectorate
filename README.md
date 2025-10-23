@@ -36,8 +36,6 @@ __MISC__
 __FURNITURE__
 - Standarize prices and rarity for all current objects (in-progress).
 - Add obtainable recipes for Protectorate furniture (in-progress).
-- Complete the next furniture objects:
-   - Protectorate Turret Hatch (in-progress).
 - Make a colony furniture tileset (in-progress).
 
 __DUNGEONS__
