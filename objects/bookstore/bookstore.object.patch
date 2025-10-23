@@ -1,0 +1,148 @@
+[
+//BASE BOOKSTORE PATCH
+    [
+        {
+            "op": "add",
+            "path": "/interactData/modTab/-",
+            "value": {
+                "file": "/interface/bookstore/tabicon_prtchistory.png",
+                "label": "Protectorate History",
+                "filter": [
+                    "iwrmp_prtchistory"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/storeInventory/iwrmp_prtchistory",
+            "value": [
+                "iwrmp_envoylore2-codex",
+                "iwrmp_envoylore3-codex",
+                "iwrmp_envoylore4-codex",
+                "iwrmp_envoylore5-codex",
+                "iwrmp_protectoratelore1-codex"
+            ]
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/storeInventory/manuals/-",
+            "value": "iwrmp_easprotectorate1-codex"
+        }
+    ],
+
+//CODEX BOOKSTORE ADDON PATCH
+    [
+        {
+            "op": "test",
+            "path": "/storeInventory/races",
+            "inverse": false
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/races/-",
+            "value": "iwrmp_envoycaptainlore1-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/races/-",
+            "value": "iwrmp_envoycaptainlore2-codex"
+        }
+    ],
+
+    [
+        {
+            "op": "test",
+            "path": "/storeInventory/other",
+            "inverse": false
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_biospherelore1-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_biospherelore2-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_biospherelore3-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_biospherelore4-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_biospherelore5-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_biospherelore6-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_easprotectorate2-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_easprotectorate3-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_envoylore1-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_protectoratelore2-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_protectoratelore3-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_protectoratelore4-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_protectoratetrivia-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_prtcstationlore1-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_rosenfieldlore1-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_rosenfieldlore2-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/other/-",
+            "value": "iwrmp_rosenfieldlore3-codex"
+        }
+    ]
+]
