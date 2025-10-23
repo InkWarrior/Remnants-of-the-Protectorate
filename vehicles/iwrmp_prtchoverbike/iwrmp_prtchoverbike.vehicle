@@ -71,7 +71,7 @@
   "spinFriction" : 0.1,
 
   "nearGroundDistance" : 4,
-  "jumpVelocity" : 80,
+  "jumpVelocity" : 60,
   "jumpTimeout" : 0.25,
 
   //Health and damage
