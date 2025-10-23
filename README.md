@@ -21,7 +21,6 @@ __MOD SUPPORT__
 - Maybe a full SAIL replacement addon?
 - Make an extra addon for crewmembers so they can wear their unique outfits (in-progress).
 - Many Tabs (particularly adding a dedicated Protectorate category for the codex)(in-progress).
-- Bookstore/Codex.
 
 __GENERAL:__
 - Complete the Envoy ship (add more parts; add npcs).
