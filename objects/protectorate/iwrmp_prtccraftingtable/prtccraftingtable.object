@@ -56,5 +56,5 @@
     }
   ],
 
-  "radioMessagesOnPickup" : [ "prtc_remoteterminalbuy" ]
+  "radioMessagesOnPickup" : [ "prtc_envoy_remoteterminal" ]
 }
