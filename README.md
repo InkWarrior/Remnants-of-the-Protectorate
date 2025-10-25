@@ -27,15 +27,13 @@ __GENERAL:__
 
 __NPCS__
 - Revamp dialogue for all custom npcs.
-- Make outlaw npcs and tenants.
+- Make outlaw npcs and tenants (in-progress).
 
 __MISC__
 
 
 __FURNITURE__
-- Standarize prices and rarity for all current objects (in-progress).
 - Add obtainable recipes for Protectorate furniture (in-progress).
-- Make a colony furniture tileset (in-progress).
 
 __DUNGEONS__
 - Large Dungeons:
