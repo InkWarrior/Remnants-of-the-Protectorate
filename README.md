@@ -1,6 +1,6 @@
 # Remnants of the Protectorate
 
-<img width="566" height="566" alt="Remnants of the Protectorate Official Cover" src="https://github.com/user-attachments/assets/57c5a920-dfc3-4872-8a98-2c0d416aae8f" />
+<img width="566" height="566" alt="Remnants of the Protectorate Official Cover" src="https://github.com/user-attachments/assets/9a9371f7-2fee-49f2-852d-ddd346424a6d" />
 
 Welcome! This is the official Github page for Starbound mod "Remnants of the Protectorate", a small content expansion that aims to expand on the few bits of lore around the Terrene Protectorate from a "worldbuilding" angle. You'll be able to find new dungeons, furniture items, clothing outfits, friendly npcs, brand-new codexes and more! Currently a work-in-progress (getting closer to the 0.1 release version!!!).
 
