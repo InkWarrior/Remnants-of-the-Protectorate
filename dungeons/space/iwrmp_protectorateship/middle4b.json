@@ -931,6 +931,54 @@
                  "width":56,
                  "x":400,
                  "y":304
+                }, 
+                {
+                 "gid":8003,
+                 "height":24,
+                 "id":981,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":224,
+                 "y":264
+                }, 
+                {
+                 "gid":8003,
+                 "height":24,
+                 "id":982,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":264
+                }, 
+                {
+                 "gid":8008,
+                 "height":16,
+                 "id":983,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":216,
+                 "y":336
+                }, 
+                {
+                 "gid":8008,
+                 "height":16,
+                 "id":984,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":296,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1582,7 +1630,7 @@
                  "visible":true,
                  "width":32,
                  "x":176,
-                 "y":296
+                 "y":288
                 }, 
                 {
                  "gid":7950,
@@ -1602,7 +1650,7 @@
                  "visible":true,
                  "width":32,
                  "x":336,
-                 "y":296
+                 "y":288
                 }, 
                 {
                  "gid":7756,
@@ -1699,6 +1747,54 @@
                  "width":48,
                  "x":456,
                  "y":360
+                }, 
+                {
+                 "gid":8001,
+                 "height":16,
+                 "id":985,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":336,
+                 "y":304
+                }, 
+                {
+                 "gid":8001,
+                 "height":16,
+                 "id":986,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":176,
+                 "y":304
+                }, 
+                {
+                 "gid":8010,
+                 "height":24,
+                 "id":987,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":152,
+                 "y":296
+                }, 
+                {
+                 "gid":8005,
+                 "height":24,
+                 "id":988,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":376,
+                 "y":296
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2122,7 +2218,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":981,
+ "nextobjectid":989,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -2247,6 +2343,10 @@
         {
          "firstgid":7916,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
+        }, 
+        {
+         "firstgid":7995,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
         }],
  "tilewidth":8,
  "type":"map",

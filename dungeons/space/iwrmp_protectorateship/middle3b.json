@@ -1589,18 +1589,6 @@
                  "y":80
                 }, 
                 {
-                 "gid":3610,
-                 "height":40,
-                 "id":895,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":32,
-                 "x":256,
-                 "y":360
-                }, 
-                {
                  "gid":6510,
                  "height":8,
                  "id":896,
@@ -1731,6 +1719,54 @@
                  "width":48,
                  "x":456,
                  "y":360
+                }, 
+                {
+                 "gid":8015,
+                 "height":32,
+                 "id":925,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":272,
+                 "y":360
+                }, 
+                {
+                 "gid":2147491663,
+                 "height":32,
+                 "id":926,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":248,
+                 "y":360
+                }, 
+                {
+                 "gid":8021,
+                 "height":16,
+                 "id":927,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":184,
+                 "y":304
+                }, 
+                {
+                 "gid":2147491669,
+                 "height":16,
+                 "id":928,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":328,
+                 "y":304
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1954,7 +1990,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":925,
+ "nextobjectid":929,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -2079,6 +2115,10 @@
         {
          "firstgid":7916,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
+        }, 
+        {
+         "firstgid":7995,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratecolonyobjects\/iwrmp_protectoratecolonyobjects.json"
         }],
  "tilewidth":8,
  "type":"map",

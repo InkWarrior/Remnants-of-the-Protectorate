@@ -1575,6 +1575,42 @@
                  "width":40,
                  "x":496,
                  "y":136
+                }, 
+                {
+                 "gid":8010,
+                 "height":24,
+                 "id":960,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":512,
+                 "y":352
+                }, 
+                {
+                 "gid":8003,
+                 "height":24,
+                 "id":961,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":560,
+                 "y":352
+                }, 
+                {
+                 "gid":8002,
+                 "height":24,
+                 "id":962,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":424,
+                 "y":192
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1823,7 +1859,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":960,
+ "nextobjectid":963,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -1948,6 +1984,10 @@
         {
          "firstgid":7897,
          "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/_unpacked\/tilesets\/packed\/objects-by-race\/protectorate.json"
+        }, 
+        {
+         "firstgid":7995,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
         }],
  "tilewidth":8,
  "type":"map",

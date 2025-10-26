@@ -770,6 +770,39 @@
                  "width":16,
                  "x":176,
                  "y":336
+                }, 
+                {
+                 "height":24,
+                 "id":963,
+                 "name":"",
+                 "properties":
+                    {
+                     "colorVariant":"8",
+                     "front":"slopedhullpanel"
+                    },
+                 "propertytypes":
+                    {
+                     "colorVariant":"string",
+                     "front":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":160,
+                 "y":184
+                }, 
+                {
+                 "gid":7964,
+                 "height":32,
+                 "id":964,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":432,
+                 "y":384
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -960,18 +993,6 @@
                  "y":348
                 }, 
                 {
-                 "gid":7777,
-                 "height":32,
-                 "id":876,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":24,
-                 "x":224,
-                 "y":280
-                }, 
-                {
                  "gid":7746,
                  "height":16,
                  "id":879,
@@ -1070,18 +1091,6 @@
                  "width":8,
                  "x":128,
                  "y":312
-                }, 
-                {
-                 "gid":7825,
-                 "height":16,
-                 "id":889,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":208,
-                 "y":280
                 }, 
                 {
                  "gid":7761,
@@ -1248,7 +1257,7 @@
                  "type":"",
                  "visible":true,
                  "width":16,
-                 "x":256,
+                 "x":264,
                  "y":280
                 }, 
                 {
@@ -1539,6 +1548,30 @@
                  "width":32,
                  "x":272,
                  "y":400
+                }, 
+                {
+                 "gid":7928,
+                 "height":24,
+                 "id":961,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":176,
+                 "y":360
+                }, 
+                {
+                 "gid":7962,
+                 "height":32,
+                 "id":962,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":224,
+                 "y":280
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1826,7 +1859,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":961,
+ "nextobjectid":965,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -1951,6 +1984,14 @@
         {
          "firstgid":7817,
          "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/_unpacked\/tilesets\/packed\/objects-by-colonytag\/outpost.json"
+        }, 
+        {
+         "firstgid":7921,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
+        }, 
+        {
+         "firstgid":7944,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratecolonyobjects\/iwrmp_protectoratecolonyobjects.json"
         }],
  "tilewidth":8,
  "type":"map",

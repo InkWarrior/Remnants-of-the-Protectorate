@@ -1552,6 +1552,30 @@
                  "width":40,
                  "x":104,
                  "y":536
+                }, 
+                {
+                 "gid":7830,
+                 "height":16,
+                 "id":918,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":224,
+                 "y":456
+                }, 
+                {
+                 "gid":7824,
+                 "height":24,
+                 "id":919,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":176,
+                 "y":360
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1906,7 +1930,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":918,
+ "nextobjectid":920,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -2027,6 +2051,10 @@
         {
          "firstgid":7738,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
+        }, 
+        {
+         "firstgid":7817,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
         }],
  "tilewidth":8,
  "type":"map",

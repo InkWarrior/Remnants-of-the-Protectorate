@@ -1739,6 +1739,54 @@
                  "width":40,
                  "x":152,
                  "y":440
+                }, 
+                {
+                 "gid":7903,
+                 "height":24,
+                 "id":891,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":352
+                }, 
+                {
+                 "gid":7903,
+                 "height":24,
+                 "id":892,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":400,
+                 "y":352
+                }, 
+                {
+                 "gid":7907,
+                 "height":16,
+                 "id":893,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":440,
+                 "y":336
+                }, 
+                {
+                 "gid":7907,
+                 "height":16,
+                 "id":894,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":496,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1868,7 +1916,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":891,
+ "nextobjectid":895,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -1989,6 +2037,10 @@
         {
          "firstgid":7815,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
+        }, 
+        {
+         "firstgid":7894,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
         }],
  "tilewidth":8,
  "type":"map",

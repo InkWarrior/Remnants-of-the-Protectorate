@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztnMutwjAQAPM64UpD70QB3LhQVqAFGqIIFIEly\/L6F5zd4DmMItnOJjvyKgHLeU7T9AQYmKOBe7DC9JfGSkyr4E\/Pn1TH+FuXK\/7Suc74w58Bf5LHUfzdC6nx1xpzJFL+IA1zCXpy\/mAtliVSz8At\/f3SsxhAC6nGYu1hTUpjaq6zd\/CHPwCAnpwTaN8bAAAAAMAalnWdY8A9OMb6Stt6x9Bel1qu\/x+wtF0zfT5aMdwRf\/v2F6uNa6YvzF0jhoX6DfPIMRe29Y7ho+nvUcmS5yFgVojxUPa2xl9JW+8YFvy13LMlf37N42+f\/g6VSLlvHcPF0fZ3qkTKfesYLg7+9usPAMbB2vvr3licuXVw319sbbxm7CjknLj\/RvAn+yutX2odAAAAAOCN+w0h7RmP7f2oGf\/rXD5IPi4CufHaefWmdn2nFe08LbgL9y2M7DDm5Cbgj3V16fuTzou51s67p7\/YnAn9xcbfhHPxh78Upd+7+Rba+TL\/7IC\/7\/vj+dvmkPe\/7Ry2op1nb9Z8s2+E7\/3hD3+WwR\/+ACzzApAg4pI=",
+         "data":"eJzt3M2NwjAQQOFsJ1xpaE9bADculBVogYYoYhWBJcvy+CcmmbHzDp+QkmDwExZho+xrmqYXcGBnA+\/BiuknzcqYVtFPr5+0junXNlf6pec6049+BvpJHY\/S71Gopt\/aMY8k1Q9pfJawpcuHtbEsSX0H7tlvpO9iQIu0xmLbwzUpHVPzOr2jH\/0AYEuXBO33BgAAALRYruucA4\/gMbavdNvWY2hfl1pe\/zewbLtl9vm0xnCP9Ou7X2xt3DL7wrlrjGFh\/YbzyJkLt209hk+z37PSMs9TYFYY46ncraVfybatx7DQb817ttTPX\/P067PfqZI0973HcONo9\/urJM197zHcOPTrtx+A47B2\/tqbpZm7Du73i10brzn2KHJN3N9G6Cf3K12\/rHUAAADgzf2GkO4Zj937UXN8zEj3+V8\/pB5XQe740fvVXt9Za8R+tQ3C+xZaG\/bcL9bkLvCPdevS7yc9L9Z65H6xz0zYL3b8XXhurl\/P6Neu9P\/dfIv2fPn82UG\/7\/fb+\/u3d9rnfyOobbCW9jy31nIu2\/N5MP1soB\/96AeM6x8dIMJx",
          "encoding":"base64",
          "height":80,
          "id":11,
@@ -1464,6 +1464,18 @@
                  "width":40,
                  "x":312,
                  "y":624
+                }, 
+                {
+                 "gid":7992,
+                 "height":40,
+                 "id":911,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":424,
+                 "y":520
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1587,7 +1599,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":256,
+                 "x":128,
                  "y":336
                 }, 
                 {
@@ -1608,8 +1620,56 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":272,
+                 "x":416,
                  "y":336
+                }, 
+                {
+                 "gid":8021,
+                 "height":16,
+                 "id":907,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":184,
+                 "y":304
+                }, 
+                {
+                 "gid":2147491669,
+                 "height":16,
+                 "id":908,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":328,
+                 "y":304
+                }, 
+                {
+                 "gid":8015,
+                 "height":32,
+                 "id":909,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":272,
+                 "y":360
+                }, 
+                {
+                 "gid":2147491663,
+                 "height":32,
+                 "id":910,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":248,
+                 "y":360
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1687,7 +1747,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":907,
+ "nextobjectid":912,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -1812,6 +1872,10 @@
         {
          "firstgid":7916,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
+        }, 
+        {
+         "firstgid":7995,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratecolonyobjects\/iwrmp_protectoratecolonyobjects.json"
         }],
  "tilewidth":8,
  "type":"map",
