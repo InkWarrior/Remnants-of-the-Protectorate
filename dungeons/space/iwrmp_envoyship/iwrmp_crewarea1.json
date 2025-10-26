@@ -513,7 +513,7 @@
                  "y":248
                 }, 
                 {
-                 "gid":8990,
+                 "gid":8999,
                  "height":16,
                  "id":1351,
                  "name":"",
@@ -581,7 +581,7 @@
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":136,
+                 "x":128,
                  "y":232
                 }, 
                 {
@@ -593,7 +593,7 @@
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":248,
+                 "x":256,
                  "y":232
                 }, 
                 {
@@ -737,42 +737,6 @@
                  "y":96
                 }, 
                 {
-                 "gid":5729,
-                 "height":40,
-                 "id":1367,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":48,
-                 "x":0,
-                 "y":120
-                }, 
-                {
-                 "gid":5729,
-                 "height":40,
-                 "id":1368,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":48,
-                 "x":0,
-                 "y":264
-                }, 
-                {
-                 "gid":5729,
-                 "height":40,
-                 "id":1369,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":48,
-                 "x":384,
-                 "y":264
-                }, 
-                {
                  "gid":6407,
                  "height":8,
                  "id":1370,
@@ -817,8 +781,8 @@
                  "type":"",
                  "visible":true,
                  "width":28,
-                 "x":448,
-                 "y":96
+                 "x":456,
+                 "y":112
                 }, 
                 {
                  "gid":8868,
@@ -1057,8 +1021,8 @@
                  "type":"",
                  "visible":true,
                  "width":23,
-                 "x":416,
-                 "y":80
+                 "x":432,
+                 "y":104
                 }, 
                 {
                  "gid":8917,
@@ -1157,15 +1121,210 @@
                  "y":264
                 }, 
                 {
-                 "gid":8915,
-                 "height":16,
-                 "id":1411,
+                 "gid":8981,
+                 "height":40,
+                 "id":1429,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":40,
-                 "x":128,
+                 "width":48,
+                 "x":392,
+                 "y":264
+                }, 
+                {
+                 "gid":8980,
+                 "height":40,
+                 "id":1430,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":8,
+                 "y":264
+                }, 
+                {
+                 "gid":8980,
+                 "height":40,
+                 "id":1431,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":8,
+                 "y":120
+                }, 
+                {
+                 "height":8,
+                 "id":1432,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_spaceenvoy"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":112,
+                 "y":240
+                }, 
+                {
+                 "height":8,
+                 "id":1433,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_spaceenvoy"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":200,
+                 "y":248
+                }, 
+                {
+                 "height":8,
+                 "id":1434,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_spacevolunteer"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":304,
+                 "y":104
+                }, 
+                {
+                 "gid":9029,
+                 "height":16,
+                 "id":1435,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":176,
+                 "y":48
+                }, 
+                {
+                 "gid":9029,
+                 "height":16,
+                 "id":1436,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":360,
+                 "y":80
+                }, 
+                {
+                 "gid":9029,
+                 "height":16,
+                 "id":1437,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":448,
+                 "y":80
+                }, 
+                {
+                 "gid":9029,
+                 "height":16,
+                 "id":1439,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":88,
+                 "y":200
+                }, 
+                {
+                 "gid":9029,
+                 "height":16,
+                 "id":1440,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":184,
+                 "y":200
+                }, 
+                {
+                 "gid":9027,
+                 "height":16,
+                 "id":1441,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":120,
+                 "y":200
+                }, 
+                {
+                 "gid":9027,
+                 "height":16,
+                 "id":1442,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":152,
+                 "y":200
+                }, 
+                {
+                 "gid":9021,
+                 "height":16,
+                 "id":1447,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":216,
+                 "y":200
+                }, 
+                {
+                 "gid":9021,
+                 "height":16,
+                 "id":1448,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":56,
                  "y":200
                 }],
          "opacity":1,
@@ -1256,7 +1415,7 @@
          "y":0
         }],
  "nextlayerid":17,
- "nextobjectid":1429,
+ "nextobjectid":1449,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -1411,8 +1570,12 @@
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
         }, 
         {
-         "firstgid":8977,
+         "firstgid":8986,
          "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/_unpacked\/tilesets\/packed\/objects-by-colonytag\/station.json"
+        }, 
+        {
+         "firstgid":9016,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
         }],
  "tilewidth":8,
  "type":"map",

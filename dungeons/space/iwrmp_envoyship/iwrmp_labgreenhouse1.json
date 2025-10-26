@@ -1076,18 +1076,6 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":5729,
-                 "height":40,
-                 "id":1275,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":48,
-                 "x":0,
-                 "y":152
-                }, 
-                {
                  "gid":7940,
                  "height":8,
                  "id":1276,
@@ -2138,6 +2126,18 @@
                  "width":16,
                  "x":144,
                  "y":336
+                }, 
+                {
+                 "gid":8882,
+                 "height":40,
+                 "id":1396,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":8,
+                 "y":152
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2174,7 +2174,169 @@
          "draworder":"topdown",
          "id":7,
          "name":"monsters & npcs",
-         "objects":[],
+         "objects":[
+                {
+                 "height":8,
+                 "id":1397,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_spaceenvoy"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":104,
+                 "y":144
+                }, 
+                {
+                 "height":8,
+                 "id":1398,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_spaceenvoy"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":232,
+                 "y":56
+                }, 
+                {
+                 "gid":8904,
+                 "height":24,
+                 "id":1401,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":256
+                }, 
+                {
+                 "gid":8904,
+                 "height":24,
+                 "id":1402,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":304,
+                 "y":320
+                }, 
+                {
+                 "gid":8908,
+                 "height":16,
+                 "id":1403,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":104,
+                 "y":248
+                }, 
+                {
+                 "gid":8908,
+                 "height":16,
+                 "id":1405,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":224,
+                 "y":248
+                }, 
+                {
+                 "gid":8909,
+                 "height":16,
+                 "id":1408,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":136,
+                 "y":248
+                }, 
+                {
+                 "gid":8909,
+                 "height":16,
+                 "id":1410,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":256,
+                 "y":248
+                }, 
+                {
+                 "gid":8907,
+                 "height":24,
+                 "id":1412,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":72,
+                 "y":264
+                }, 
+                {
+                 "gid":8907,
+                 "height":24,
+                 "id":1413,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":72,
+                 "y":328
+                }, 
+                {
+                 "gid":8905,
+                 "height":24,
+                 "id":1414,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":48,
+                 "y":128
+                }, 
+                {
+                 "gid":8917,
+                 "height":16,
+                 "id":1415,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":88,
+                 "y":72
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -2227,7 +2389,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":1396,
+ "nextobjectid":1416,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -2376,6 +2538,14 @@
         {
          "firstgid":8809,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
+        }, 
+        {
+         "firstgid":8888,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
+        }, 
+        {
+         "firstgid":8911,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratecolonyobjects\/iwrmp_protectoratecolonyobjects.json"
         }],
  "tilewidth":8,
  "type":"map",
