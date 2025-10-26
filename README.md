@@ -19,7 +19,7 @@ __MOD SUPPORT__
 - Spawnable Item Pack (in-progress)
 - Planet Search
 - More Planet Info (in-progress)
-- Better Crew
+- Better Crew (it will probably be a separate addon)
 - Scripted SAIL
 - Maybe a full SAIL replacement addon?
 - Make an extra addon for crewmembers so they can wear their unique outfits (in-progress).
