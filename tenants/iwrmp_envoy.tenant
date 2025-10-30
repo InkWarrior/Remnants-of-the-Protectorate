@@ -5,8 +5,8 @@
   "colonyTagCriteria": {
     "light": 1,
     "door": 1,
-    "protectorate": 14,
-	"prtc_envoy": 14
+    "protectorate": 4,
+	"prtc_envoy": 8
   },
 
   "tenants": [
