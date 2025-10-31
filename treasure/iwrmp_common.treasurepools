@@ -153,15 +153,135 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtccratelarge", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccratesmall", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcpottedplant", 2]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtcdisplay", 1]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtcstandconsole", 1]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtcsmallmonitor", 1]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtcterminal", 1]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtctopmonitor", 1]},
         {"weight" : 0.25, "item" : ["redlight", 3]},
         {"weight" : 0.25, "item" : ["apexshiplight", 3]},
-        {"weight" : 0.25, "item" : ["mysteriouslight", 5]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtcstoragelocker", 1]}
+        {"weight" : 0.25, "item" : ["mysteriouslight", 5]}
+      ]
+    }]
+  ],
+
+  // ================================
+  //     Furniture Storage Unit
+  // ================================
+
+  "iwrmp_furnitureUnitReward" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.25, "item" : ["iwrmp_prtcconsole", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcholoconsole", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcdisplay", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcdisplay2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtclabcupboard", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtclabtable", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicarms", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicbed", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicbed2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmediccabinet", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicceilingmonitor", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmediccupboard", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicdisplay1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicdisplay2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmediclight", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicpanel", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicrobotlight", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedictrolley", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcsmallmonitor", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcstandconsole", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcstoragelocker", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcterminal", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtctinycrate1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtctinycrate2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtctopmonitor", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcholoplanet", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcholoship1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcholoship2", 1]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2],
+        [0.05, 3]
+      ]
+    }]
+  ],
+
+  // ================================
+  //      Survival Capsule Pod
+  // ================================
+
+  "iwrmp_survivalPodReward" : [
+    [1, {
+      "fill" : [
+        {"pool" : "iwrmp_survivalGear"},
+        {"pool" : "iwrmp_survivalFurniture"}
+      ]
+    }]
+  ],
+
+  "iwrmp_survivalGear" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.35, "item" : ["climbingrope", 5]},
+        {"weight" : 0.40, "item" : ["flare", 3]},
+        {"weight" : 0.10, "item" : ["fishingrod", 3]},
+        {"weight" : 0.25, "item" : ["flashlight", 1]},
+        {"weight" : 0.35, "item" : ["copperpickaxe", 5]},
+        {"weight" : 0.25, "item" : ["silverpickaxe", 5]},
+        {"weight" : 0.15, "item" : ["silverdrill", 5]},
+        {"weight" : 0.05, "item" : ["golddrill", 5]},
+        {"weight" : 0.35, "item" : ["bandage", 3]},
+        {"weight" : 0.25, "item" : ["salve", 2]},
+        {"weight" : 0.20, "item" : ["bottledwater", 3]},
+        {"weight" : 0.20, "item" : ["cannedfood", 3]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2],
+        [0.05, 3]
+      ],
+      "allowDuplication" : false
+    }],
+    [3.9, {
+      "pool" : [
+        {"weight" : 0.05, "item" : ["grapplinghook", 1]},
+        {"weight" : 0.40, "item" : ["flare", 5]},
+        {"weight" : 0.10, "item" : ["durablefishingrod", 1]},
+        {"weight" : 0.25, "item" : ["flashlight", 1]},
+        {"weight" : 0.25, "item" : ["diamondpickaxe", 1]},
+        {"weight" : 0.15, "item" : ["platinumpickaxe", 1]},
+        {"weight" : 0.10, "item" : ["diamonddrill", 1]},
+        {"weight" : 0.05, "item" : ["platinumdrill", 1]},
+        {"weight" : 0.25, "item" : ["medkit", 2]},
+        {"weight" : 0.20, "item" : ["nanowrap", 2]},
+        {"weight" : 0.20, "item" : ["cannedfood", 3]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_survivalFurniture" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.25, "item" : ["iwrmp_prtcportableantenna", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcportablebattery", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtctent", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool3", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool4", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool5", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool1", 1]},
+        {"weight" : 0.25, "item" : ["sleepingbag", 1]},
+        {"weight" : 0.25, "item" : ["tent1", 1]},
+        {"weight" : 0.25, "item" : ["tent2", 1]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.30, 2],
+        [0.05, 3]
       ]
     }]
   ]
