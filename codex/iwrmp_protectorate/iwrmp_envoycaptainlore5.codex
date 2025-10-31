@@ -1,0 +1,21 @@
+{
+  "id" : "iwrmp_envoycaptainlore5",
+  "title" : "Memories of Mizan",
+  "description" : "A Hyltol captain's log on a event on the Hylotl colony world Mizan.",
+  "icon" : "captainloghylotl.png",
+  "contentPages" : [ 
+  
+  "^blue;Log Entry #98, Year 3 - Astraeus Mission XXI^reset;
+  
+We recently found a vessel from the Mizan Rescue Brigade. It seems that they were returning to their outpost after hours of hardworking. We stopped briefly and visited their ship, exchanged stories and then after 2 hours left. That was enough to have my mind flooded with memories from my brief time as a kid on Mizan.",
+
+"I never got to live it; however, I do remember a lot of elder Hylotl talking about the catastrophe that unfolded many decades ago. It seems like a meteorite impacted an ocean close to the prime meridian of the planet. Big waves arose and impacted many villages and coastal cities, and the Protectorate, knowing what they had to do, organized the biggest search and rescue mission ever in the galaxy.",
+
+"I wish I knew about the Rescue Brigade way sooner; I would have definitely joined them. Regardless, I'm not sad to be here in the Protectorate, quite the contrary. The stories of Mizan definitely inspired me to do some good in the galaxy, and it seems that they inspired the Mizan Rescue Brigade too, that's good enough for me. I wonder how many more people in the galaxy are being inspired by us."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "rare",
+    "price" : 25
+  }
+}

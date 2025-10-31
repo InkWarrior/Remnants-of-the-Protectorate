@@ -1,0 +1,29 @@
+{
+  "id" : "iwrmp_envoycaptainlore6",
+  "title" : "Stuff I Would Like to Remember",
+  "description" : "A collection of log entries from a Novakid captain about interesting stuff.",
+  "icon" : "captainlognovakid.png",
+  "contentPages" : [ 
+  
+  "^magenta;Log Entry #289, Year 3 - Astraeus Mission XXI^reset;
+  
+Oh my! We found the biggest mountain in the galaxy, I think! It's huge! We could see it from the exosphere of the planet, I think it's quite a feat of nature. Someone said to call it Josh, I don't get why but sounds funny. Anyway, it goes to my list of things I would like to remember!",
+
+"^magenta;Log Entry #67, Year 5 - Astraeus Mission XXI^reset;
+
+There are stories of unknown ships in space, sometimes there are talks of ship debris that belonged to who-knows. We found sort of a ship graveyard on a volcanic planet. The ships are incredibly old, and they are pretty much toasted by the environment. Another curiosity for the list, I guess!",
+
+"^magenta;Log Entry #15, Year 6 - Astraeus Mission XXI^reset;
+
+Have you ever seen a subterranean liquid erchius waterfall? Well, I just did! We got a little problem with our fuel and decided that it was a great idea to explore a moon for fuel. Not a good idea, no no, moons are really scary. Regardless, that waterfall was impressive, I just can imagine the size of that deposit. We got what we needed, and we left. Another for the list!",
+
+"^magenta;Log Entry #301, Year 9 - Astraeus Mission XXI^reset;
+
+Time is up! We are going back to Earth. I just kind of forgot what we saw during the Mission, which is a shame because I'm sure we had a rad time. Hmm, if only I had a list of things I would like to remember!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "rare",
+    "price" : 25
+  }
+}
