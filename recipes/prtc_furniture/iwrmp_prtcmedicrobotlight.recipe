@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 15 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "iwrmp_prtcmedicrobotlight", "count" : 1 },
+  "groups" : [ "iwrmp_prtccraftingtable", "prtccraftingtable_furniture", "all" ]
+}
