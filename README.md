@@ -34,9 +34,7 @@ __NPCS__
 
 __MISC__
 
-
 __FURNITURE__
-- Add obtainable recipes for Protectorate furniture (in-progress).
 
 __DUNGEONS__
 - Large Dungeons:
@@ -50,5 +48,5 @@ __CLOTHES__
 
 
 __LORE__
-- Make 5 new codexes for Astraeus Captains (Human, Hylotl, Novakid, Avian, Apex).
+- Make 5 new codexes for Astraeus Captains (Human, Hylotl, Novakid, Avian, Apex)(in-progress).
 - Make 4 codexes for Protectorate Space Stations.
