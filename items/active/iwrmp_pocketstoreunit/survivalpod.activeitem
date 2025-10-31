@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "mysteriousReward",
-  "description" : "A capsule pod specialized for storing survival gear.",
+  "description" : "A capsule pod specialized in storing survival gear.",
   "shortdescription" : "Survival Capsule Pod",
   "twoHanded" : true,
   "tooltipKind" : "eppaugment",
