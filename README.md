@@ -30,7 +30,7 @@ __GENERAL:__
 
 __NPCS__
 - Revamp dialogue for all custom npcs.
-- Make outlaw npcs and tenants (in-progress).
+- Make new dialogue files for Watchers and Outlaw npcs.
 
 __MISC__
 
