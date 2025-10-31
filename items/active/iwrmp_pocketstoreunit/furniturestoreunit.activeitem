@@ -1,0 +1,26 @@
+{
+  "itemName" : "iwrmp_furniturestoreunit",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "A Lupton Storage Unit dedicated for storing Protectorate furniture.",
+  "shortdescription" : "Furniture Storage Unit",
+  "twoHanded" : true,
+  "tooltipKind" : "eppaugment",
+  "tooltipFields" : {"instructionLabel":""},
+
+  "inventoryIcon" : "icon2.png",
+  "animation" : "furniturestoreunit.animation",
+  "animationCustom" : {},
+  "scripts" : ["pocketstoreunit.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwrmp_furnitureUnitReward",
+    "level" : 1
+  }
+}

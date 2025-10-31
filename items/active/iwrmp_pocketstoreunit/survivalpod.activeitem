@@ -1,0 +1,26 @@
+{
+  "itemName" : "iwrmp_survivalpod",
+  "price" : 150,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "mysteriousReward",
+  "description" : "A capsule pod specialized for storing survival gear.",
+  "shortdescription" : "Survival Capsule Pod",
+  "twoHanded" : true,
+  "tooltipKind" : "eppaugment",
+  "tooltipFields" : {"instructionLabel":""},
+
+  "inventoryIcon" : "icon3.png",
+  "animation" : "survivalpod.animation",
+  "animationCustom" : {},
+  "scripts" : ["pocketstoreunit.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwrmp_survivalPodReward",
+    "level" : 1
+  }
+}
