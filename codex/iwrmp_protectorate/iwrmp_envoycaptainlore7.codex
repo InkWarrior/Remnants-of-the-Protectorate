@@ -1,17 +1,17 @@
 {
   "id" : "iwrmp_envoycaptainlore7",
   "title" : "A Walk Through the Trees",
-  "description" : "An Apex captain's log about a community of Deadbeats in a forest.",
+  "description" : "An Apex captain's log about a community of forest-dwelling Deadbeats.",
   "icon" : "captainlogapex.png",
   "contentPages" : [ 
   
   "^cyan;Log Entry #54, Year 6 - Astraeus Mission XXI^reset;
   
-We arrived at the third planet of the Australis Ridge system, a lush planet with some rather large forests. Some of the trees are particularly big, ranging from 60 to 80 meters long. The air is thankfully breathable and non-dangerous for us, so there is no need for masks or oxygen tanks. The terrain tends to get slightly steep, so it's not easy to walk.",
+We arrived at the third planet of the Australis Ridge system, a lush planet with some rather large forests. Some of the trees were particularly big, ranging from 60 to 80 meters long. The air was thankfully breathable for us, so there was no need for masks or oxygen tanks. The terrain tended to get slightly steep however, so it was not easy to walk on.",
 
-"After a couple of days exploring we found a Deadbeat community in the middle of the forest. They were very cautious, and a bit unexpected, but we were able to communicate our intentions, and they let us stay. From what we could gather, they arrived in a now wrecked ship, they crashed into the forest and the few that survived decided to live here. There have been at least two new generations, so it was quite a while.",
+"After a couple of days exploring we found a Deadbeat community in the middle of the forest. They were very cautious, and a bit unexpected, but we were able to communicate our intentions to them, and they let us stay. From what we could gather, they arrived in a wrecked ship, which crashed into the forest, the few who survivors deciding to live here in the end. There have been at least two new generations since then, so it was some time ago.",
 
-"They seem to be very chill, and they talk with a sort of reverence to the forest, particularly the elderly. Given how many Deadbeats live out there, I get it. I never thought about how lucky I was to live on a green and thriving planet. We offered support from the Protectorate, and while they seemed unsure at first, they thought about it and accepted. We are going to return in a couple of hours and propose them for us to stay longer and study their situation, I hope they accept."
+"They seem to be very chill, and they talk with a sort of reverence of the forest, particularly the elderly. Given how many Deadbeats live out there, I think I get it. I never thought about how lucky I was to live on a green and thriving planet myself. We offered support from the Protectorate, and while they seemed unsure at first, they ultimatly accepted. We are going to return in a couple of hours and propose for us to stay longer and study their situation, I hope they accept."
 
   ],
     "itemConfig" : {
