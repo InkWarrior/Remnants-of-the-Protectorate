@@ -48,5 +48,4 @@ __CLOTHES__
 
 
 __LORE__
-- Make 3 new codexes for Astraeus Captains (Hylotl, Novakid, Apex)(in-progress).
-- Make 4 codexes for Protectorate Space Stations.
+- Make 3 codexes for Protectorate Space Stations.
