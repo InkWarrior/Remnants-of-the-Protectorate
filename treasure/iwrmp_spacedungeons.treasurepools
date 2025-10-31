@@ -36,7 +36,8 @@
         {"weight" : 0.003, "item" : "protectoratepants"},
         {"weight" : 0.003, "item" : "iwrmp_volunteerhead"},
         {"weight" : 0.003, "item" : "iwrmp_volunteerchest"},
-        {"weight" : 0.003, "item" : "iwrmp_volunteerpants"}
+        {"weight" : 0.003, "item" : "iwrmp_volunteerpants"},
+        {"weight" : 0.10, "item" : "iwrmp_survivalpod"},
       ],
       "allowDuplication" : false
     }]
@@ -119,8 +120,8 @@
         {"weight" : 0.32, "pool" : "chestMoney"},
         {"weight" : 0.65, "pool" : "commonSpaceItem"},
         {"weight" : 0.03, "pool" : "rareSpaceItem"},
-        {"weight" : 0.003, "item" : "iwrmp_envoycaptainhead"},
-        {"weight" : 0.003, "item" : "iwrmp_envoycaptainchest"}
+        {"weight" : 0.01, "item" : "iwrmp_envoycaptainhead"},
+        {"weight" : 0.01, "item" : "iwrmp_envoycaptainchest"}
       ],
       "allowDuplication" : false
     }]
@@ -193,7 +194,9 @@
         {"weight" : 0.05, "item" : "iwrmp_prtcterminal"},
         {"weight" : 0.05, "item" : "iwrmp_prtctopmonitor"},
         {"weight" : 0.01, "item" : "iwrmp_ierfood"},
-        {"weight" : 0.10, "item" : "iwrmp_pocketstoreunit"}
+        {"weight" : 0.10, "item" : "iwrmp_pocketstoreunit"},
+        {"weight" : 0.10, "item" : "iwrmp_furniturestoreunit"},
+        {"weight" : 0.15, "item" : "iwrmp_survivalpod"}
       ],
       "allowDuplication" : true
     }]
@@ -206,31 +209,14 @@
       ],
       "pool" : [
         {"weight" : 1.0, "item" : "iwrmp_easprotectorate3-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_easprotectorate2-codex"},
         {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore1-codex"},
         {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore2-codex"},
-        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore3-codex"}
-      ]
-    }]
-  ],
-  
-  "iwrmp_envoyGaiaLore" : [
-    [0, {
-      "poolRounds" : [
-        [1.0, 1]
-      ],
-      "pool" : [
-        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore1-codex"}
-      ]
-    }]
-  ],
-  
-  "iwrmp_envoyHermesLore" : [
-    [0, {
-      "poolRounds" : [
-        [1.0, 1]
-      ],
-      "pool" : [
-        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore1-codex"}
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore3-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore4-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore5-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore6-codex"},
+        {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore7-codex"}
       ]
     }]
   ],

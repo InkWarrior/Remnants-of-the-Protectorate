@@ -30,7 +30,8 @@
         {"weight" : 0.25, "item" : "iwrmp_protectoratelore2-codex"},
         {"weight" : 0.25, "item" : "iwrmp_protectoratelore3-codex"},
         {"weight" : 0.25, "item" : "iwrmp_protectoratelore4-codex"},
-		{"weight" : 0.25, "item" : "iwrmp_easprotectorate2-codex"}
+		{"weight" : 0.25, "item" : "iwrmp_prtcstationlore1-codex"},
+		{"weight" : 0.25, "item" : "iwrmp_protectoratetrivia-codex"}
       ],
       "poolRounds" : [
         [0.80, 1],

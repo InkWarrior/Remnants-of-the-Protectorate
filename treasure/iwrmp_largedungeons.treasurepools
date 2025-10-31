@@ -31,7 +31,9 @@
         {"weight" : 0.25, "item" : "iwrmp_protectoratelore2-codex"},
         {"weight" : 0.25, "item" : "iwrmp_protectoratelore3-codex"},
         {"weight" : 0.25, "item" : "iwrmp_protectoratelore4-codex"},
-		{"weight" : 0.25, "item" : "iwrmp_easprotectorate2-codex"}
+        {"weight" : 0.25, "item" : "iwrmp_rosenfieldlore1-codex"},
+        {"weight" : 0.25, "item" : "iwrmp_rosenfieldlore2-codex"},
+        {"weight" : 0.25, "item" : "iwrmp_rosenfieldlore3-codex"},
       ]
     }]
   ],
