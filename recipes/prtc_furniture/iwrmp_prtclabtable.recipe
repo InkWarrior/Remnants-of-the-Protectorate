@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "money", "count" : 15 }
+    { "item" : "money", "count" : 145 }
   ],
   "duration" : 0,
   "output" : { "item" : "iwrmp_prtclabtable", "count" : 1 },
