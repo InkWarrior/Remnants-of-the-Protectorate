@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "mysteriousReward",
-  "description" : "A Lupton Storage Unit dedicated for storing Protectorate furniture.",
+  "description" : "A Lupton Storage Unit dedicated to Protectorate furniture.",
   "shortdescription" : "Furniture Storage Unit",
   "twoHanded" : true,
   "tooltipKind" : "eppaugment",
