@@ -44,5 +44,7 @@
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }
-  ]
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcresearchtool4" ]
 }

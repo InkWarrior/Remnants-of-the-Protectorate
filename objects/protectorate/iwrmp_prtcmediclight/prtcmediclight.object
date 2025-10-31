@@ -43,6 +43,7 @@
   
   "interactive" : false,
 
-  "inputNodes" : [ [0, 0] ]
-  
+  "inputNodes" : [ [0, 0] ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcmediclight" ]
 }

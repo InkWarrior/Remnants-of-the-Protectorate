@@ -59,5 +59,7 @@
 
   "interactive" : false,
 
-  "inputNodes" : [ [1, 0] ]
+  "inputNodes" : [ [1, 0] ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcholoship1" ]
 }

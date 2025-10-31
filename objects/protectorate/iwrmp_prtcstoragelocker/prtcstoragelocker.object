@@ -53,5 +53,7 @@
   "uiConfig" : "/interface/chests/chest<slots>.config",
   "frameCooldown" : 5,
   "openFrameIndex" : 4,
-  "autoCloseCooldown" : 3600
+  "autoCloseCooldown" : 3600,
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcstoragelocker" ]
 }

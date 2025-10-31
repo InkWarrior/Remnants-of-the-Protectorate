@@ -72,5 +72,7 @@
   "scripts" : [ "/objects/wired/light/light.lua" ],
   "scriptDelta" : 60,
 
-  "inputNodes" : [ [0, -2] ]
+  "inputNodes" : [ [0, -2] ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcmedicceilingmonitor" ]
 }

@@ -55,5 +55,7 @@
     "preciseStandPositionLeft" : [-0.5, 0.0],
     "preciseStandPositionRight" : [2.0, 0.0],
     "maxNpcs" : 1
-  }
+  },
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcterminal" ]
 }

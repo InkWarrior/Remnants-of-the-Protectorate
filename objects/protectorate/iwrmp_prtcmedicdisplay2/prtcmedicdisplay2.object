@@ -55,6 +55,7 @@
   "interactive" : false,
 
   "soundEffect" : "/sfx/objects/screen2.ogg",
-  "soundEffectRangeMultiplier" : 0.25
+  "soundEffectRangeMultiplier" : 0.25,
 
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcmedicdisplay2" ]
 }
