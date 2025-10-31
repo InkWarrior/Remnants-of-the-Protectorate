@@ -1,0 +1,25 @@
+{
+  "id" : "iwrmp_envoycaptainlore4",
+  "title" : "Farewell to Celarus",
+  "description" : "An Avian captain's log about a planet and their departed grandfather.",
+  "icon" : "captainlogavian.png",
+  "contentPages" : [ 
+  
+  "^red;Log Entry #207, Year 5 – Mission Astraeus XXI^reset;
+  
+Litus Cradle II. We were informed that the planet suffered a couple of cold summers when a particularly big volcano launched a massive cloud of ashes all around the planet. Biomes started to perish, and a Protectorate mission was launched to help the planet. Despite arriving at a point where the emergency has passed, we didn't restrain ourselves from supporting the Protectors on the planet.",
+
+"I got the idea of naming the planet Celarus. It was the name of my grandfather; he sadly passed away before this mission. I felt a bit of remorse by not staying longer, this is the least I can do. I didn't tell that to the crew, just that it was a typical Avian name, they didn't though much about it agreed. Truth be said, I felt compelled to do it just by seeing the beautiful sights of the planet, they seem to shine with a newfound vitality. The naming report has been sent.",
+
+"Log Entry #207, Year 7 – Mission Astraeus XXI
+
+Well, now it has been two years since we arrived. Global temperatures are stabilizing, and I know our presence is not required anymore. What a wonderful two years. This planet is filled with monumental forests, ever-blue oceans and breathtaking sunsets; there's a lot of curious critters here and there. The name got approved! Now it's officially called Celarus. The Protectorate has saved Celarus. He would have loved this place, that's for sure.",
+
+"We are now leaving to continue with the mission. It will probably be the last time I see Celarus again. It's odd, I feel like a part of me wants to stay in the planet. But we always have to part ways, no matter how much we don't want to. We always have to say farewell to each other, don't we? Then, farewell Celarus! I hope your name can live forever, as long as the immortal stars. I'll be gone in a mere century, but you'll be here, for eons to come."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "rare",
+    "price" : 25
+  }
+}
