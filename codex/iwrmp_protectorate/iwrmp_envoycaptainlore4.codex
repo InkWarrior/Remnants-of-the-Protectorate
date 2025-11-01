@@ -1,5 +1,6 @@
 {
   "id" : "iwrmp_envoycaptainlore4",
+  "species" : "avian",
   "title" : "Farewell to Celarus",
   "description" : "An Avian captain's log about a planet and their departed grandfather.",
   "icon" : "captainlogavian.png",

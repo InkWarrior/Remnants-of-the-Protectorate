@@ -1,5 +1,6 @@
 {
   "id" : "iwrmp_envoycaptainlore3",
+  "species" : "human",
   "title" : "Change of Plans",
   "description" : "A collection of log entries from a Human captain.",
   "icon" : "captainloghuman.png",
@@ -19,7 +20,7 @@ We were in disbelief for a while. We thought it was a prank, but then the days p
 
 "^yellow;Log Entry #209^reset;
 
-I guess our plans for a good rest will wait. We received orders to help a Protectorate outpost in the Hind system. The crew seems to have regained some of their optimism, seems our new work keeps them distracted. We are still sad, but the fact that many of us are still here seems to be good motivation to keep going on. Hmm, I haven't though about it, but Adam and I could live on another planet. I'm looking forward to that idea. Captain out."
+I guess our plans for a good rest will wait. We received orders to help a Protectorate outpost in the Hind Formation system. The crew seems to have regained some of their optimism, seems our new work keeps them distracted. We are still sad, but the fact that many of us are still here seems to be good motivation to keep going on. Hmm, I haven't though about it, but Adam and I could live on another planet. I'm looking forward to that idea. Captain out."
 
   ],
     "itemConfig" : {

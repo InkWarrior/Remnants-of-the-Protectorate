@@ -1,5 +1,6 @@
 {
   "id" : "iwrmp_envoycaptainlore1",
+  "species" : "floran",
   "title" : "Odd Stories about Odd Ships",
   "description" : "A Floran captain's log about strange ship stories.",
   "icon" : "captainlogfloran.png",
