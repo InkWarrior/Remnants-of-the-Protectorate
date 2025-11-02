@@ -25,7 +25,7 @@
     },
 
     "dialog" : {
-      "converse" : "/dialog/iwrmp_prtcguardconverse.config:converse",
+      "converse" : "/dialog/iwrmp_watchertenanttalk.config:converse",
       "attack" : "/dialog/iwrmp_protectoratecombat.config:attack",
       "reattack" : "/dialog/iwrmp_protectoratecombat.config:reattack",
       "killedTarget" : "/dialog/iwrmp_protectoratecombat.config:killedTarget"

@@ -25,10 +25,10 @@
     },
 
     "dialog" : {
-      "converse" : "/dialog/iwrmp_prtcguardconverse.config:converse",
-      "attack" : "/dialog/iwrmp_protectoratecombat.config:attack",
-      "reattack" : "/dialog/iwrmp_protectoratecombat.config:reattack",
-      "killedTarget" : "/dialog/iwrmp_protectoratecombat.config:killedTarget"
+      "converse" : "/dialog/iwrmp_outlawtenanttalk.config:converse",
+      "attack" : "/dialog/iwrmp_outlawcrewcombat.config:attack",
+      "reattack" : "/dialog/iwrmp_outlawcrewcombat.config:reattack",
+      "killedTarget" : "/dialog/iwrmp_outlawcrewcombat.config:killedTarget"
     }
   },
 
