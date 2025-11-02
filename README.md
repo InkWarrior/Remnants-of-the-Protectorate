@@ -29,8 +29,8 @@ __GENERAL:__
 - Complete the Envoy ship (add more parts; add npcs).
 
 __NPCS__
-- Revamp dialogue for all custom npcs.
-- Make new dialogue files for Watchers and Outlaw npcs.
+- Revamp dialogue for all custom npcs (in-progress).
+- Make new dialogue files for Watchers and Outlaw npcs (in-progress).
 
 __MISC__
 
