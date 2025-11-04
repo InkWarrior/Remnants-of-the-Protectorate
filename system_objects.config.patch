@@ -28,7 +28,7 @@
             "parameters": {
                 "icon": "/celestial/system/ships/iwrmp_protectorateship.png",
                 "displayName": "Protectorate Ship",
-                "description": "One of the few Protectorate ships remaining. We would be more than welcome among its crew."
+                "description": "One of the few Protectorate ships remaining. We should be more than welcome among its crew."
             }
         }
     },
@@ -61,7 +61,7 @@
             "parameters": {
                 "icon": "/celestial/system/ships/iwrmp_protectorateship.png",
                 "displayName": "Envoy Ship",
-                "description": "One of the many ships within the 21st Astraeus Fleet. We would be more than welcome among its crew."
+                "description": "One of the many ships within the 21st Astraeus Fleet. We should be more than welcome among its crew."
             }
         }
     },
@@ -101,3 +101,4 @@
         }
     }
 ]
+
