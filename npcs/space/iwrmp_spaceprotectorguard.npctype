@@ -12,7 +12,7 @@
     },
 
 	"dialog": {
-        "converse" : "/dialog/iwrmp_protectorateconverse.config:converse",
+        "converse" : "/dialog/iwrmp_spaceprotectortalk.config:converse",
 		"attack": "/dialog/iwrmp_protectoratecombat.config:attack",
 		"reattack": "/dialog/iwrmp_protectoratecombat.config:reattack",
 		"killedTarget": "/dialog/iwrmp_protectoratecombat.config:killedTarget",

@@ -9,8 +9,8 @@
     },
 
     "dialog" : {
-      "greeting" : "/dialog/iwrmp_protectorateconverse.config:converse",
-      "converse" : "/dialog/iwrmp_protectorateconverse.config:converse"
+      "greeting" : "/dialog/iwrmp_spaceenvoytalk.config:converse",
+      "converse" : "/dialog/iwrmp_spaceenvoytalk.config:converse"
     }
   },
 
