@@ -36,7 +36,7 @@ __FURNITURE__
 
 __DUNGEONS__
 - Large Dungeons:
-   - Artificial Biosphere (needs revamp).
+   - Artificial Biosphere (needs revamp)(in-progress).
    - Envoy Shelter.
 - Space Dungeons:
    - Envoy Ship (in-progress).
