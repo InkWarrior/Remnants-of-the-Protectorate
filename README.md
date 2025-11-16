@@ -22,7 +22,6 @@ __MOD SUPPORT__
 - Better Crew (it will probably be a separate addon)
 - Scripted SAIL
 - Maybe a full SAIL replacement addon?
-- Make an extra addon for crewmembers so they can wear their unique outfits (in-progress).
 - Many Tabs (particularly adding a dedicated Protectorate category for the codex)(in-progress).
 
 __GENERAL:__
@@ -30,7 +29,6 @@ __GENERAL:__
 
 __NPCS__
 - Revamp dialogue for all custom npcs (in-progress).
-- Make new dialogue files for Watchers and Outlaw npcs (in-progress).
 
 __MISC__
 
