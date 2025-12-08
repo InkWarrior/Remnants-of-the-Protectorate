@@ -148,9 +148,9 @@
                                         150
                                     ],
                                     "light": [
-                                        40,
-                                        89,
-                                        148
+                                        3,
+                                        112,
+                                        175
                                     ],
                                     "fade": 0.5,
                                     "destructionAction": "shrink",
