@@ -25,7 +25,6 @@ __MOD SUPPORT__
 - Many Tabs (particularly adding a dedicated Protectorate category for the codex)(in-progress).
 
 __GENERAL:__
-- Complete the Envoy ship (add more parts; add npcs).
 
 __NPCS__
 - Revamp dialogue for all custom npcs (in-progress).
