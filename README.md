@@ -30,9 +30,9 @@ __NPCS__
 - Revamp dialogue for all custom npcs (in-progress).
 
 __MISC__
-
+- adjust Matter Seperator to have blue effect on its sprite rather than orange
 __FURNITURE__
-
+- adjust scan description for emergency pod (basically that they were the precursor to modern pod chests and whatnot, now only used for Protectors rather than general use)
 __DUNGEONS__
 - Large Dungeons:
    - Artificial Biosphere (needs revamp)(in-progress).
