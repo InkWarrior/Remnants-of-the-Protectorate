@@ -38,9 +38,27 @@
     {
       "name" : "iwrmp_utilityrooms1",
       "rules" : [
-        [ "doNotCombineWith", [ "iwrmp_utilityrooms1" ] ]
+        [ "doNotCombineWith", [ "iwrmp_utilityrooms1", "iwrmp_utilityrooms2", "iwrmp_utilityrooms3" ] ]
       ],
       "def" : [ "tmx", "iwrmp_utilityrooms1.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "iwrmp_utilityrooms2",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_utilityrooms1", "iwrmp_utilityrooms2", "iwrmp_utilityrooms3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_utilityrooms2.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "iwrmp_utilityrooms3",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_utilityrooms1", "iwrmp_utilityrooms2", "iwrmp_utilityrooms3" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_utilityrooms3.json" ],
       "chance" : 0.5
     },
 
@@ -48,9 +66,18 @@
     {
       "name" : "iwrmp_crewarea1",
       "rules" : [
-        [ "doNotCombineWith", [ "iwrmp_crewarea1" ] ]
+        [ "doNotCombineWith", [ "iwrmp_crewarea1", "iwrmp_crewarea2" ] ]
       ],
       "def" : [ "tmx", "iwrmp_crewarea1.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "iwrmp_crewarea2",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_crewarea1", "iwrmp_crewarea2" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_crewarea2.json" ],
       "chance" : 0.5
     },
 
@@ -68,9 +95,18 @@
     {
       "name" : "iwrmp_storagearea1",
       "rules" : [
-        [ "doNotCombineWith", [ "iwrmp_storagearea1" ] ]
+        [ "doNotCombineWith", [ "iwrmp_storagearea1", "iwrmp_storagearea2" ] ]
       ],
       "def" : [ "tmx", "iwrmp_storagearea1.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "iwrmp_storagearea2",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_storagearea1", "iwrmp_storagearea2" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_storagearea2.json" ],
       "chance" : 0.5
     }
   ]

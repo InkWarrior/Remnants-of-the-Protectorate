@@ -1,0 +1,15 @@
+
+COLD TYPE BIOSPHERE
+-alpine
+-bioluminiscent
+-prism
+
+HOT TYPE BIOSPHERE
+-geode
+-colorful
+-tar
+
+REGULAR TYPE BIOSPHERE
+-mushroom
+-swamp
+-giantflowers
