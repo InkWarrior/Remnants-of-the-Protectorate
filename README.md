@@ -32,8 +32,7 @@ __NPCS__
 __MISC__
 
 __FURNITURE__
-- adjust scan description for emergency pod (basically that they were the precursor to modern pod chests and whatnot, now only used for Protectors rather than general use)
-- 
+ 
 __DUNGEONS__
 - Large Dungeons:
    - Artificial Biosphere (needs revamp)(in-progress).
@@ -44,4 +43,4 @@ __CLOTHES__
 
 
 __LORE__
-- Make 3 codexes for Protectorate Space Stations.
+- Make 3 codexes for Protectorate Space Stations (in-progress).
