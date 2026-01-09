@@ -16,9 +16,6 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the definiti
 
 # To do list
 __MOD SUPPORT__
-- Spawnable Item Pack (in-progress)
-- Planet Search
-- More Planet Info (in-progress)
 - Better Crew (it will probably be a separate addon)
 - Scripted SAIL
 - Maybe a full SAIL replacement addon?
