@@ -1,23 +1,25 @@
 {
   "id" : "iwrmp_prtcstationlore3",
   "title" : "Space Dangers!",
-  "description" : "An informative brochure produced by the Terrene Protectorate and the Pathfinder League.",
+  "description" : "An informative brochure produced in collaboration between the Terrene Protectorate and the Pathfinder League.",
   "icon" : "protectoratefolder1.png",
   "contentPages" : [ 
   
-  "So, did you get your new ship license, and you are just excited to go out in space? Well, hold on for a minute! Flying in space is not quite easy you see! There are so many dangers in space you must be aware of before flying on it! That's why the Terrene Protectorate, alongside the Pathfinder League, has produced this brief educative brochure for you!"
+  "So, you got your shiny new ship license, and are excited to head out into space. Well, hold on for a minute! Flying in space is not as simple as you'd think! There are many dangers out ther you must be aware of before flying through it! That's why the Terrene Protectorate, alongside the Pathfinder League, has produced this brief educative brochure for you!"
 
   "^yellow;ANOMALIES^reset;
   
-A lot of places out there love to use signal scramblers to hide what they are about; sometimes it is very handy for some places like dinner restaurants or hotels, you may never know what they are and that can deter people like bandits, but sometimes bandits are the ones using them! You'll never know what they are and it's better for you to be cautious about them."
+A lot of places out there love to use signal scramblers to hide what they are; sometimes it's very handy for some places like restaurants or hotels to deter people like bandits through them, but sometimes bandits are the ones using them instead! You'll never know who's in an anomaly until you actually visit one, so be cautious."
 
   "^yellow;PIRATES^reset;
   
-Well, that explains it on its own, isn't it? Not every place is a hideout for pirates, but it will be inevitable not to find at least one between your trips. Worry not! Pirates tend to be very opportunistic, preferring to always jump on incautious travelers. If they try to get you, then we recommend you fly your ship away as fast as you can!"
+Well, this is self-explanatory, isn't it? Not every place is a hideout for pirates of course, but it is inevitable you will encounter at least one between your trips. Worry not! Pirates tend to be very opportunistic, preferring to always jump on unsuspecting travelers. If they try to get you, we recommend you fly your ship away as fast as you can!"
 
   "^yellow;MONSTERS^reset;
   
-Monsters! In space! Truly, your main concern will be Masteroids, they will ruin your hull so, unless you have a good reason to be close to an asteroid belt it's better to avoid them! Other dangers inhabit asteroid fields too; Spinemines, Cosmostaches, there are even some old Omnicannons still working! Now you know what to be careful about in space. Safe travels!
+Monsters! In space! Truly, your main concern will be Masteroids, as they will ruin your hull if you aren't careful. So, unless you have a good reason to be close to an asteroid belt, it's better to avoid them! Other dangers inhabit asteroid fields too; Spinemines, Cosmostaches, even some old still-functioning Omnicannons, so be wary! 
+
+Now you know what to be careful about in space. Safe travels!"
   ],
     "itemConfig" : {
     "rarity" : "common",
