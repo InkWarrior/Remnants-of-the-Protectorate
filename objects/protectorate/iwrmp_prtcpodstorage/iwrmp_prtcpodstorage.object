@@ -8,13 +8,13 @@
   "shortdescription" : "Supply Pod Storage Unit",
   "race" : "protectorate",
 
-  "apexDescription" : "The Protectorate launch these pods only in case of an emergency, which is quite rare.",
-  "avianDescription" : "I know the Protectorate uses these from time to time, usually means \"bad news\".",
-  "floranDescription" : "Why is pod sstored? Floran wantss to know whats inside.",
-  "glitchDescription" : "Cautious. The fact I've seen them recently means bad news.",
-  "humanDescription" : "I wished for the day I never saw an emergency pod, too late now.",
-  "hylotlDescription" : "Used to provide people with supplies during hard times, I guess those times have arrived.",
-  "novakidDescription" : "What if I get into one and get myself launched into space?",
+  "apexDescription" : "This kind of supply pod model was retired and replaced with the new Status pods.",
+  "avianDescription" : "Status pods came to replace these old ones, they are technologically superior after all.",
+  "floranDescription" : "Floran remembers, old supply podsss not used anymore.",
+  "glitchDescription" : "Explicative. They were once part of the Supply Allocation Program, remaining unused until now.",
+  "humanDescription" : "Given the state of emergency, makes sense they are reusing these ones again.",
+  "hylotlDescription" : "Old supply pods from the Supply Allocation Program; makes sense to use them yet again.",
+  "novakidDescription" : "Supply pods used in the ol' days, and now they came back for one last rodeo.",
 
 
   "inventoryIcon" : "icon.png",
