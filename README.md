@@ -35,12 +35,11 @@ __FURNITURE__
  
 __DUNGEONS__
 - Large Dungeons:
-   - Artificial Biosphere (needs revamp)(in-progress).
+   - Artificial Biosphere (in-progress).
 - Space Dungeons:
    - Envoy Ship (in-progress).
 
 __CLOTHES__
 
-
 __LORE__
-- Make 3 codexes for Protectorate Space Stations (in-progress).
+
