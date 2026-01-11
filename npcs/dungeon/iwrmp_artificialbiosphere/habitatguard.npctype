@@ -5,8 +5,8 @@
 
   "scriptConfig" : {
 	"dialog": {
-		"greeting": "/dialog/iwrmp_protectorateconverse.config:greeting",
-		"converse": "/dialog/iwrmp_protectorateconverse.config:converse",
+		"greeting": "/dialog/iwrmp_habitatconverse.config:converse",
+		"converse": "/dialog/iwrmp_habitatconverse.config:converse",
 
 		"attack": "/dialog/iwrmp_protectoratecombat.config:attack",
 		"reattack": "/dialog/iwrmp_protectoratecombat.config:reattack",
