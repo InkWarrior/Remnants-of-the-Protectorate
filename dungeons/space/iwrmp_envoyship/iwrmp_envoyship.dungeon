@@ -91,6 +91,15 @@
       "chance" : 0.5
     },
 
+    {
+      "name" : "iwrmp_labgreenhouse2",
+      "rules" : [
+        [ "doNotCombineWith", [ "iwrmp_labgreenhouse2" ] ]
+      ],
+      "def" : [ "tmx", "iwrmp_labgreenhouse2.json" ],
+      "chance" : 0.5
+    },
+
     // ROOMS - STORAGE AREA
     {
       "name" : "iwrmp_storagearea1",

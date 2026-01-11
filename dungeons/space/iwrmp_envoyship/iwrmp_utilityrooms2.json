@@ -324,6 +324,14 @@
                  "height":40,
                  "id":1455,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -352,7 +360,7 @@
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":48,
+                 "x":80,
                  "y":264
                 }, 
                 {
@@ -364,7 +372,7 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":48,
+                 "x":80,
                  "y":240
                 }, 
                 {
@@ -376,7 +384,7 @@
                  "type":"",
                  "visible":true,
                  "width":24,
-                 "x":48,
+                 "x":80,
                  "y":224
                 }, 
                 {
@@ -436,7 +444,27 @@
                  "type":"",
                  "visible":true,
                  "width":16,
-                 "x":88,
+                 "x":112,
+                 "y":264
+                }, 
+                {
+                 "gid":9048,
+                 "height":40,
+                 "id":1466,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":48,
                  "y":264
                 }],
          "opacity":1,
@@ -527,7 +555,7 @@
          "y":0
         }],
  "nextlayerid":19,
- "nextobjectid":1466,
+ "nextobjectid":1467,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
