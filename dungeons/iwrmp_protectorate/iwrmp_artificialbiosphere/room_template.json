@@ -1038,7 +1038,7 @@
                  "name":"",
                  "properties":
                     {
-                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "npc":"human",
                      "typeName":"iwrmp_habitatprotector"
                     },
                  "propertytypes":
@@ -1059,7 +1059,7 @@
                  "name":"",
                  "properties":
                     {
-                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "npc":"human",
                      "typeName":"iwrmp_envoyvillager"
                     },
                  "propertytypes":
@@ -1080,7 +1080,7 @@
                  "name":"",
                  "properties":
                     {
-                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "npc":"human",
                      "typeName":"iwrmp_habitatguard"
                     },
                  "propertytypes":

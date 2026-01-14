@@ -7,7 +7,7 @@
     "anchor" : [ "iwrmp_baselayout1" ],
     "gravity" : 80,
     "maxRadius" : 1000000,
-    "maxParts" : 8,
+    "maxParts" : 100,
     "extendSurfaceFreeSpace" : 100,
     "protected" : true
   },
@@ -18,17 +18,17 @@
     {
       "name" : "iwrmp_baselayout1",
       "rules" : [
-        [ "ignorePartMaximumRule" ],
         [ "doNotCombineWith", [ "iwrmp_baselayout1" ] ]
       ],
       "def" : [ "tmx", "iwrmp_baselayout1.json" ],
-      "chance" : 0
+      "chance" : 1
     },
 
     //LEFT SIDE ROOMS
     {
       "name" : "iwrmp_crewroomleft1",
       "rules" : [
+        [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "iwrmp_crewroomleft1.json" ],
@@ -37,6 +37,7 @@
     {
       "name" : "iwrmp_storageroom1",
       "rules" : [
+        [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "iwrmp_storageroom1.json" ],
@@ -45,6 +46,7 @@
     {
       "name" : "iwrmp_medicbay1",
       "rules" : [
+        [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "iwrmp_medicbay1.json" ],
@@ -55,6 +57,7 @@
     {
       "name" : "iwrmp_mainroomtest",
       "rules" : [
+        [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ],
         [ "doNotCombineWith", [ "iwrmp_mainroomtest" ] ]
       ],
@@ -66,6 +69,7 @@
     {
       "name" : "iwrmp_crewroomright1",
       "rules" : [
+        [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "iwrmp_crewroomright1.json" ],
@@ -74,6 +78,7 @@
     {
       "name" : "iwrmp_platformbay1",
       "rules" : [
+        [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "iwrmp_platformbay1.json" ],
@@ -82,6 +87,7 @@
     {
       "name" : "iwrmp_shieldroom",
       "rules" : [
+        [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "iwrmp_shieldroom.json" ],
