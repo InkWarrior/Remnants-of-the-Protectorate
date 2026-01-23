@@ -1,4 +1,5 @@
 [
+
 //More Planet Info/Planet Searcher Patch
     {
         "op": "test",
@@ -8,26 +9,27 @@
         "op": "add",
         "path": "/displayDungeons/iwrmp_artificialbiosphere",
         "value": {
-            "description": "Ship records indicates the presence of an Artificial Biosphere on the planet surface.",
+            "name": "Class 1 Artificial Biosphere",
+            "description": "Protectorate infrastructure detected, seems to be an Artifical habitat for endemic temperate enviroments.",
             "icon": "/interface/cockpit/dungeons/iwrmp_biosphere.png"
         }
     },
     {
         "op": "add",
-        "path": "/displayDungeons/iwrmp_artificialbiosphere/ps_name",
-        "value": "Artificial Biosphere"
-    },
-    {
-        "op": "add",
-        "path": "/displayDungeons/iwrmp_ruinedbiosphere",
+        "path": "/displayDungeons/iwrmp_artificialbiosphereheat",
         "value": {
-            "description": "Ship records indicates the presence of an Artificial Biosphere on the planet surface. No bio-signatures detected.",
-            "icon": "/interface/cockpit/dungeons/iwrmp_ruinedsphere.png"
+            "name": "Class 2 Artificial Biosphere",
+            "description": "Protectorate infrastructure detected, seems to be an Artifical habitat for endemic hot enviroments.",
+            "icon": "/interface/cockpit/dungeons/iwrmp_biosphereheat.png"
         }
     },
     {
         "op": "add",
-        "path": "/displayDungeons/iwrmp_ruinedbiosphere/ps_name",
-        "value": "Abandoned Biosphere"
+        "path": "/displayDungeons/iwrmp_artificialbiospherecold",
+        "value": {
+            "name": "Class 3 Artificial Biosphere",
+            "description": "Protectorate infrastructure detected, seems to be an Artifical habitat for endemic cold enviroments.",
+            "icon": "/interface/cockpit/dungeons/iwrmp_biospherecold.png"
+        }
     }
 ]
