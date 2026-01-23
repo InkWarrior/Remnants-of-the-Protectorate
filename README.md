@@ -33,8 +33,6 @@ __FURNITURE__
 __DUNGEONS__
 - Large Dungeons:
    - Artificial Biosphere (in-progress).
-- Space Dungeons:
-   - Envoy Ship (in-progress).
 
 __CLOTHES__
 
