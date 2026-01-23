@@ -2,7 +2,7 @@
   "id" : "iwrmp_prtcstationlore3",
   "title" : "Space Dangers!",
   "description" : "An informative brochure produced in collaboration between the Terrene Protectorate and the Pathfinder League.",
-  "icon" : "protectoratefolder1.png",
+  "icon" : "brochure1.png",
   "contentPages" : [ 
   
   "So, you got your shiny new ship license, and are excited to head out into space. Well, hold on for a minute! Flying in space is not as simple as you'd think! There are many dangers out ther you must be aware of before flying through it! That's why the Terrene Protectorate, alongside the Pathfinder League, has produced this brief educative brochure for you!",
@@ -21,7 +21,7 @@ Monsters! In space! Truly, your main concern will be Masteroids, as they will ru
 
   "^yellow;SCARED? DON'T BE!^reset;
   
-Space can be scary to newcomers, but the truth of the matter is that you never fly alone. Associations like the Pathfinder League exist to support travelers across space, and of course, so is the Protectorate! Be sure that if you ever need help, there will always be a humble traveler out there to help you. Now go! Safe travels!"
+Space can be scary to newcomers, but the truth of the matter is that you never fly alone. Associations like the Pathfinder League exist to support travelers across space, and of course, so is the Protectorate! Be sure that if you ever need help, there will always be a humble traveler out there to help you. Thank you for your attention, and Safe travels!"
   ],
     "itemConfig" : {
     "rarity" : "common",

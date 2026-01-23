@@ -5,7 +5,7 @@
   "icon" : "protectoratepad2.png",
   "contentPages" : [ 
   
-  "^blue;Supply Launch 090725-Maia Crest V^reset;
+  "^blue;Supply Launch 090725-Maia Crest^reset;
 ^cyan;\"Someone activated an SOS beacon on Maia Crest V, can I have one of those Status Pods deployed there? I'll pass you the planetary coordinates\".^reset;
 
 ^blue;Evaluation:^reset; ^cyan;No changes needed.^reset;
@@ -14,7 +14,7 @@
 
 ^cyan;Replenishing order has been sent to crew.^reset;",
 
-"^blue;Supply Launch 030425-Zentallion Grasp Ia^reset;
+"^blue;Supply Launch 030425-Zentallion Grasp^reset;
 ^cyan;\"I have a group of stranded hikers in Zentallion Grasp Ia. I already notified the rescue teams in the area, but I think one of those supply pods would be handy this time\".^reset;
 
 ^blue;Evaluation:^reset; ^red;Supply pods are only for Protectors. Deploying Status Pods instead.^reset;
