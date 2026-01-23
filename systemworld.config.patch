@@ -8,7 +8,7 @@
             "op": "add",
             "path": "/objectSpawnPool/-",
             "value": [
-                0.06,
+                0.05,
                 "iwrmp_protectorateship"
             ]
         },
@@ -16,7 +16,7 @@
             "op": "add",
             "path": "/objectSpawnPool/-",
             "value": [
-                2.0,
+                0.08,
                 "iwrmp_envoyship"
             ]
         }
