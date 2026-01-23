@@ -1,0 +1,44 @@
+[
+    [
+        {
+            "op": "add",
+            "path": "/planetTypes/jungle/layers/surface/dungeons/-",
+            "value": [
+                1,
+                "iwrmp_artificialbiosphere"
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/planetTypes/alien/layers/surface/dungeons/-",
+            "value": [
+                1,
+                "iwrmp_artificialbiosphere"
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/planetTypes/tundra/layers/surface/dungeons/-",
+            "value": [
+                1,
+                "iwrmp_artificialbiosphereheat"
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/planetTypes/midnight/layers/surface/dungeons/-",
+            "value": [
+                1,
+                "iwrmp_artificialbiosphereheat"
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/planetTypes/volcanic/layers/surface/dungeons/-",
+            "value": [
+                1,
+                "iwrmp_artificialbiospherecold"
+            ]
+        }
+    ]
+]
