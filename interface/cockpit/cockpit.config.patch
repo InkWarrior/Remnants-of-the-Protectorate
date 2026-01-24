@@ -10,7 +10,7 @@
         "path": "/displayDungeons/iwrmp_artificialbiosphere",
         "value": {
             "name": "Class 1 Artificial Biosphere",
-            "description": "Protectorate infrastructure detected, seems to be an Artifical habitat for endemic temperate enviroments.",
+            "description": "Protectorate infrastructure detected, signature indicates an Artifical habitat for endemic temperate enviroments.",
             "icon": "/interface/cockpit/dungeons/iwrmp_biosphere.png"
         }
     },
@@ -19,7 +19,7 @@
         "path": "/displayDungeons/iwrmp_artificialbiosphereheat",
         "value": {
             "name": "Class 2 Artificial Biosphere",
-            "description": "Protectorate infrastructure detected, seems to be an Artifical habitat for endemic hot enviroments.",
+            "description": "Protectorate infrastructure detected, signature indicates an Artifical habitat for endemic hot enviroments.",
             "icon": "/interface/cockpit/dungeons/iwrmp_biosphereheat.png"
         }
     },
@@ -28,8 +28,9 @@
         "path": "/displayDungeons/iwrmp_artificialbiospherecold",
         "value": {
             "name": "Class 3 Artificial Biosphere",
-            "description": "Protectorate infrastructure detected, seems to be an Artifical habitat for endemic cold enviroments.",
+            "description": "Protectorate infrastructure detected, signature indicates an Artifical habitat for endemic cold enviroments.",
             "icon": "/interface/cockpit/dungeons/iwrmp_biospherecold.png"
         }
     }
+
 ]
