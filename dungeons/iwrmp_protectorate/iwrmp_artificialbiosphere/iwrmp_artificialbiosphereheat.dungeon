@@ -1,6 +1,6 @@
 {
   "metadata" : {
-    "name" : "iwrmp_artificialbiosphere",
+    "name" : "iwrmp_artificialbiosphereheat",
     "species" : "generic",
     "rules" : [
     ],
@@ -55,33 +55,33 @@
 
     //MAIN HABITAT
     {
-      "name" : "iwrmp_mainroom7",
+      "name" : "iwrmp_mainroom4",
       "rules" : [
         [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ],
-        [ "doNotCombineWith", [ "iwrmp_mainroom7", "iwrmp_mainroom8", "iwrmp_mainroom9" ] ]
+        [ "doNotCombineWith", [ "iwrmp_mainroom4", "iwrmp_mainroom5", "iwrmp_mainroom6" ] ]
       ],
-      "def" : [ "tmx", "iwrmp_mainroom7.json" ],
+      "def" : [ "tmx", "iwrmp_mainroom4.json" ],
       "chance" : 1
     },
     {
-      "name" : "iwrmp_mainroom8",
+      "name" : "iwrmp_mainroom5",
       "rules" : [
         [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ],
-        [ "doNotCombineWith", [ "iwrmp_mainroom7", "iwrmp_mainroom8", "iwrmp_mainroom9" ] ]
+        [ "doNotCombineWith", [ "iwrmp_mainroom4", "iwrmp_mainroom5", "iwrmp_mainroom6" ] ]
       ],
-      "def" : [ "tmx", "iwrmp_mainroom8.json" ],
+      "def" : [ "tmx", "iwrmp_mainroom5.json" ],
       "chance" : 1
     },
     {
-      "name" : "iwrmp_mainroom9",
+      "name" : "iwrmp_mainroom6",
       "rules" : [
         [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ],
-        [ "doNotCombineWith", [ "iwrmp_mainroom7", "iwrmp_mainroom8", "iwrmp_mainroom9" ] ]
+        [ "doNotCombineWith", [ "iwrmp_mainroom4", "iwrmp_mainroom5", "iwrmp_mainroom6" ] ]
       ],
-      "def" : [ "tmx", "iwrmp_mainroom9.json" ],
+      "def" : [ "tmx", "iwrmp_mainroom6.json" ],
       "chance" : 1
     },
 	

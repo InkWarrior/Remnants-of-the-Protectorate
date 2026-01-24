@@ -1,0 +1,133 @@
+{
+//THIS IS AN OUTDATED AND UNUSED FILE... for now...
+  "metadata" : {
+    "name" : "iwrmp_ruinedbiosphere",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "ruinedbiosphere_left1", "ruinedbiosphere_right1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 10,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "ruinedbiosphere_lab1",
+      "rules" : [
+        [ "maxSpawnCount", [2] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_lab1" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_lab1.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_habitatfiery",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_habitatfiery" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_habitatfiery.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_medicbay1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_medicbay1", "ruinedbiosphere_medicbay2" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_medicbay1.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_medicbay2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_medicbay1", "ruinedbiosphere_medicbay2" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_medicbay2.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_platform1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_platform1" ] ],
+        [ "doNotCombineWith", [ "ruinedbiosphere_platform2" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_platform1.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_platform2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_platform2" ] ],
+        [ "doNotCombineWith", [ "ruinedbiosphere_platform1" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_platform2.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_livingroom1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_livingroom1" ] ],
+        [ "doNotCombineWith", [ "ruinedbiosphere_livingroom2" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_livingroom1.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_livingroom2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_livingroom2" ] ],
+        [ "doNotCombineWith", [ "ruinedbiosphere_livingroom1" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_livingroom2.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_generator1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_generator1" ] ],
+        [ "doNotCombineWith", [ "ruinedbiosphere_generator2" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_generator1.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_generator2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_generator2" ] ],
+        [ "doNotCombineWith", [ "ruinedbiosphere_generator1" ] ]
+
+      ],
+      "def" : [ "tmx", "ruinedbiosphere_generator2.json" ]
+    },
+    {
+      "name" : "ruinedbiosphere_left1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_left1", "artificialbiosphere_habitat1" ] ]
+      ],
+      "def" : [ "tmx", [ "ruinedbiosphere_left1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "ruinedbiosphere_right1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "ruinedbiosphere_right1", "artificialbiosphere_habitat1" ] ]
+      ],
+      "def" : [ "tmx", [ "ruinedbiosphere_right1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}
