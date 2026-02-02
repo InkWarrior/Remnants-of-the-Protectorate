@@ -16,8 +16,8 @@
         "helpme" : "/dialog/flee.config:helpme",
         "safe" : "/dialog/flee.config:safe"
       },
-      "greeting" : "/dialog/iwrmp_protectorateconverse.config:greeting",
-      "converse" : "/dialog/iwrmp_protectorateconverse.config:converse",
+      "greeting" : "/dialog/iwrmp_envoyconverse.config:greeting",
+      "converse" : "/dialog/iwrmp_envoyconverse.config:converse",
       "accuse" : "/dialog/iwrmp_protectoratethief.config:accuse",
       "alert" : "/dialog/iwrmp_protectoratethief.config:alert"
     }
