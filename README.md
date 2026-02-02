@@ -31,8 +31,6 @@ __MISC__
 __FURNITURE__
  
 __DUNGEONS__
-- Large Dungeons:
-   - Artificial Biosphere (in-progress).
 
 __CLOTHES__
 
