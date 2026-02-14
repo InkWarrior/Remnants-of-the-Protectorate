@@ -24,7 +24,6 @@ __MOD SUPPORT__
 __GENERAL:__
 
 __NPCS__
-- Revamp dialogue for all custom npcs (in-progress).
 
 __MISC__
 
