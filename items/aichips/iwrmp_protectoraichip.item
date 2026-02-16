@@ -1,0 +1,21 @@
+{
+  "itemName" : "iwrmp_protectoraichip",
+
+  "shortdescription" : "Protectorate A.I. Chip",
+  "description" : "A standard-issue Protectorate A.I. chip. Can be installed on S.A.I.L.'s terminal.",
+
+  "rarity" : "Legendary",
+  "category" : "A.I. Chip",
+  "price" : 20,
+
+  "tooltipKind" : "mm",
+  "largeImage" : "/ai/portraits/iwrmp_protectorquestportrait.png",
+  "inventoryIcon" : "/ai/ai.png",
+
+  "aiData" : {
+    "aiFrames" : "iwrmp_protectorAi.png",
+    "staticFrames" : "iwrmp_staticprotector.png",
+    "portraitFrames" : "portraits/iwrmp_protectorportrait.png",
+    "questPortrait" : "iwrmp_protector"
+  }
+}
