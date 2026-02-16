@@ -16,9 +16,8 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the definiti
 
 # To do list
 __MOD SUPPORT__
-- Better Crew (it will probably be a separate addon)
 - Scripted SAIL
-- Maybe a full SAIL replacement addon?
+- SAIL Replacement addons
 - Many Tabs (particularly adding a dedicated Protectorate category for the codex)(in-progress).
 
 __GENERAL:__
