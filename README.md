@@ -2,7 +2,8 @@
 
 <img width="566" height="566" alt="Remnants of the Protectorate Official Cover" src="https://github.com/user-attachments/assets/9a9371f7-2fee-49f2-852d-ddd346424a6d" />
 
-Welcome! This is the official Github page for Starbound mod "Remnants of the Protectorate", a small content expansion that aims to expand on the few bits of lore around the Terrene Protectorate from a "worldbuilding" angle. You'll be able to find new dungeons, furniture items, clothing outfits, friendly npcs, brand-new codexes and more! Currently a work-in-progress (getting closer to the 0.1 release version!!!).
+Welcome! This is the official Github page for Starbound mod "Remnants of the Protectorate", a small content expansion that aims to expand on the few bits of lore around the Terrene Protectorate from a "worldbuilding" angle. You'll be able to find new dungeons, furniture items, clothing outfits, friendly npcs, brand-new codices and more! Now released on Steam!! Go and get it!
+https://steamcommunity.com/sharedfiles/filedetails/?id=3670091917
 
 # Mod Support
 This mod has in-built support for other mods, like [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104), [Wardrobe Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=734855062), [Planet Search](https://steamcommunity.com/sharedfiles/filedetails/?id=3269792617), [Book of Spirits](https://steamcommunity.com/sharedfiles/filedetails/?id=3060280131), [Erisss' More Planet Info](https://steamcommunity.com/sharedfiles/filedetails/?id=1117007107), [The Bookstore](https://steamcommunity.com/sharedfiles/filedetails/?id=1108897518)/[Codex - A bookstore addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1109790315), and [Better Crew](https://community.playstarbound.com/resources/better-crew-and-npc-behavior.6190/); we are aiming for even more compatibily!
