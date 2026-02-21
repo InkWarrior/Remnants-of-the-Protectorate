@@ -18,8 +18,9 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the definiti
 # To do list
 __MOD SUPPORT__
 - Scripted SAIL
+- Enhanced Storage Addon
+- Improved Containers Addon
 - SAIL Replacement addons
-- Many Tabs (particularly adding a dedicated Protectorate category for the codex)(in-progress).
 
 __GENERAL:__
 
