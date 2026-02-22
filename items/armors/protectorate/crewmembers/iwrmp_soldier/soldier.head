@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "headarmour",
   "description" : "A combat training helmet; not the best but not the worst either.",
-  "shortdescription" : "^red;Rearguard's Helmet^reset;",
+  "shortdescription" : "^red;Rearguard's^reset; Helmet",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -39,6 +39,14 @@
                 1,
                 "iwrmp_artificialbiospherecold"
             ]
+        },
+        {
+            "op": "add",
+            "path": "/planetTypes/scorchedcity/layers/surface/dungeons/-",
+            "value": [
+                1,
+                "iwrmp_artificialbiospherecold"
+            ]
         }
     ]
 ]

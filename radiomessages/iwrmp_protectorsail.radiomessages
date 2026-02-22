@@ -4,7 +4,7 @@
     "type" : "mission",
     "persistTime" : 5.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
-    "textSpeed" : 70,
+    "textSpeed" : 50,
     "text" : "^#00b0ff;FRIENDLY MECH ID DETECTED^reset;. Welcome. I am the S.A.I.L unit assigned to this ship. You have been granted permission to board."
   },
 
@@ -12,7 +12,7 @@
     "type" : "tutorial",
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
-    "textSpeed" : 70,
+    "textSpeed" : 50,
     "text" : "This ship is currently transporting goods for some of our remaining Protectorate space stations. Perhaps you are in need of supplies?"
   },
 
@@ -20,7 +20,7 @@
     "type" : "tutorial",
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
-    "textSpeed" : 70,
+    "textSpeed" : 50,
     "text" : "This ship is currently transferring refugees to an assigned Protectorate shelter. Do you require some form of assistance?"
   },
 
@@ -28,7 +28,7 @@
     "type" : "mission",
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_protectorsailtalk.png:<frame>",
-    "textSpeed" : 70,
+    "textSpeed" : 50,
     "text" : "We are currently selling our supply of Protectorate furniture and equipment to acquire funds. Please take a look into our catalogue."
   }
 }

@@ -8,7 +8,7 @@
   "shortdescription" : "Service Screen",
   "race" : "protectorate",
 
-  "lightColor" : [0, 75, 227],
+  "lightColor" : [16, 37, 77],
 
   "apexDescription" : "It's a screen panel.",
   "avianDescription" : "A screen panel, it's indicating something.",

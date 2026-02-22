@@ -4,7 +4,7 @@
     "type" : "mission",
     "persistTime" : 5.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_envoysailtalk.png:<frame>",
-    "textSpeed" : 70,
+    "textSpeed" : 50,
     "text" : "^#fce08c;FRIENDLY MECH ID DETECTED^reset;. Welcome! I am S.A.I.L and I'm in charge of this ship. You have been granted permission to board."
   },
 
@@ -12,7 +12,7 @@
     "type" : "tutorial",
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_envoysailtalk.png:<frame>",
-    "textSpeed" : 70,
+    "textSpeed" : 50,
     "text" : "Please, the crew is upstairs, they can assist you if it's necessary. We are currently moving between outposts and the workload is rather heavy!"
   },
 
@@ -20,7 +20,7 @@
     "type" : "tutorial",
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_envoysailtalk.png:<frame>",
-    "textSpeed" : 70,
+    "textSpeed" : 50,
     "text" : "This is where we keep our supplies! You shouldn't be here... hmmm. Oh well, we trust you won't take anything from here!"
   },
 
@@ -28,7 +28,7 @@
     "type" : "mission",
     "persistTime" : 7.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_envoysailtalk.png:<frame>",
-    "textSpeed" : 70,
+    "textSpeed" : 50,
     "text" : "We are currently selling our supply of Protectorate furniture and equipment to acquire funds. Consult with me if you want to buy something!"
   },
 
@@ -36,7 +36,7 @@
     "type" : "tutorial",
     "persistTime" : 10.0,
     "portraitImage" : "/interface/chatbubbles/iwrmp_envoysailtalk.png:<frame>",
-    "textSpeed" : 70,
+    "textSpeed" : 50,
     "text" : "Excellent choice! With this terminal you will be able to purchase our stuff remotely, and you can expand the catalogue even more. Thank you very much!"
   }
 }

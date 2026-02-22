@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "legarmour",
   "description" : "Combat training boots, they aren't very comfortable.",
-  "shortdescription" : "^red;Rearguard's Boots^reset;",
+  "shortdescription" : "^red;Rearguard's^reset; Boots",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",
