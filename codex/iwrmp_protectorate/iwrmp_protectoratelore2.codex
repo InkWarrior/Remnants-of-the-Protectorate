@@ -1,7 +1,7 @@
 {
   "id" : "iwrmp_protectoratelore2",
   "title" : "Pioneers of the Stars",
-  "description" : "An introductory section explaining who the Envoys are and what they represent.",
+  "description" : "An introductory text explaining who the Envoys are and what they represent.",
   "icon" : "astraeusbook1.png",
   "contentPages" : [ 
   
