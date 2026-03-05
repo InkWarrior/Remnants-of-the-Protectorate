@@ -19,6 +19,8 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the definiti
 __UPDATE__
 - Add changes to the protectoratetrivia and easprotectorate codices.
 - Add a way for Envoys on planets to defend themselves.
+- Add more white painted bits to Envoy ship.
+- Make recipes for armor sets + shield specifically for replicator.
 
 __MOD SUPPORT__
 - Scripted SAIL
