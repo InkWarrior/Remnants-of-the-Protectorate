@@ -5,7 +5,7 @@
   "category" : "crafting",
   "price" : 2500,
   "description" : "A trading terminal to buy and sell stuff from the Protectorate remotely.",
-  "shortdescription" : "^cyan;Protectorate Remote Terminal^reset;",
+  "shortdescription" : "^cyan;Protectorate Trade Station^reset;",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/prtccraftingtable.config"
