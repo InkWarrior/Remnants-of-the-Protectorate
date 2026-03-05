@@ -1,18 +1,18 @@
 {
   "id" : "iwrmp_envoylore1",
-  "title" : "Till We See Each Other Again",
+  "title" : "'Till We See Each Other Again",
   "description" : "An old letter, made 10 years ago.",
   "icon" : "envelope1.png",
   "contentPages" : [ 
   
-  "Hi there! By the time you are reading this, I hope you are already in your ship looking at the stars! It sounds very wonderful, just being able to visit a lot of planets and stars, I know that the family doesn't get to travel that much! I guess that's why you prepared for a long time.
+  "Hi there! By the time you are reading this, I hope you are already in your ship looking out at space! It sounds very wonderful, just being able to visit a lot of planets and stars, I know that the family doesn't get to travel that much! I guess that's why you prepared for a long time.
 
 You know that I'm very proud of you, now that you are an Envoy! Just like how you dreamed of being one when you were smaller.",
 
-"Did you like the festival? I know it was a lot for such little time, but I must say that Avian-Hylotl play was the highlight of the whole festival, they should definitely do more like those. In other news, I hope you didn't suffer with the luggage! I know, I know, there's a lot of stuff in there! But we wanted to be sure that you would not get bored in these 10 years. The family photo album is there too despite my protests, so I want it as pristine as possible when you return, alright!?",
+"Did you like the festival? I know it was a lot for such little time, but I must say that the Avian-Hylotl play was the highlight of the whole festival, they should definitely do more like those. In other news, I hope you didn't struggle with the luggage! I know, I know, there's a lot of stuff in there! But we wanted to be sure that you would not get bored in these 10 years. The family photo album is there too despite my protests, so I want it as pristine as possible when you return, alright!?",
 
 "Oh well... 10 years... it's more than I could imagine, without you I mean, but I know that those 10 years will pass regardless, and hey! We are going to be a bit older, I may have some extra wrinkles, maybe one of your siblings will have become an Envoy too! I don't know what will happen, but you can be sure that we are going to be here, waiting for you.
-So, till we see you again, 10 years from now, right? I love you!"
+So, 'till we see you again, 10 years from now, right? I love you!"
 
   ],
     "itemConfig" : {
