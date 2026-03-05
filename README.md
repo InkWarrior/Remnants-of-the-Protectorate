@@ -21,6 +21,8 @@ __UPDATE__
 - Add a way for Envoys on planets to defend themselves.
 - Add more white painted bits to Envoy ship.
 - Make recipes for armor sets + shield specifically for replicator.
+- Make sprite improvements where its necessary.
+  - Medic Desk
 
 __MOD SUPPORT__
 - Scripted SAIL
