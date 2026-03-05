@@ -5,18 +5,18 @@
   "icon" : "notebook.png",
   "contentPages" : [ 
   
-  "^yellow;Hey there! We should put up a list of movies to watch together! I'll start; Star Adventures II: The Wrath of Ironbeak -Thomas^reset;
-^orange;What about the first Star Adventures? That's where my boy Tinscrew appears! I'm adding it too, but we must watch it first before the second one -Longbolt^reset;
- ^blue;>Numi The TV Series^reset;
- ^blue;>Numi goes to the Future!^reset;
- ^blue;>Where did Numi go?^reset;
- ^blue;>Numi in Wonderland^reset;
- ^blue;>Numi: Adventures on Earth^reset;
+  "Hey there! We should put up a list of movies to watch together! I'll start; Star Adventures II: The Wrath of Ironbeak ^yellow;-Thomas^reset;
+What about the first Star Adventures? That's where my boy Tinscrew appears! I'm adding it too, but we must watch it first before the second one ^orange;-Longbolt^reset;
+ >Numi The TV Series
+ >Numi goes to the Future!
+ >Where did Numi go?
+ >Numi in Wonderland
+ >Numi: Adventures on Earth
 ^blue;-Minoru^reset;",
 
-"^cyan;Reminder to take away all of the Numi stuff from Minoru before it's too late -Mak^reset;
-^blue;-Be thankful that I didn't put any of the Smogzilla movies, hehe... -Minoru^reset;
-^red;Attention Crew, movie nights will be suspended if you don't put Night of the Living Glitch in there. -With love, your Captain :)^reset;"
+"Reminder to take away all of the Numi stuff from Minoru before it's too late ^cyan;-Mak^reset;
+-Be thankful that I didn't put any of the Smogzilla movies on the list, hehe... ^blue;-Minoru^reset;
+Attention Crew, movie nights will be suspended if you don't put Night of the Living Glitch in there. ^red;-With love, your Captain :)^reset;"
 
   ],
     "itemConfig" : {
