@@ -5,7 +5,7 @@
   "icon" : "protectoratepad1.png",
   "contentPages" : [ 
   
-  "Welcome! You have been assigned to one of our Advanced Ecological Preservation Habitats, or put more simply, an Artificial Biosphere. This habitat comes with state-of-the-art technology to help shelter, and preserve small and endangered ecosystems; almost all of it is automated, so don't worry! You won't have to manage too many things on your own beyond keeping the habitat in check.",
+  "Welcome! You have been assigned to one of our Advanced Ecological Preservation Habitats, or put more simply, an Artificial Biosphere. This habitat comes with state-of-the-art technology to help shelter, and preserve small and endangered ecosystems; almost all of it is automated, so don't worry! You won't have to manage too many things on your own beyond keeping the habitat in order.",
 
 "First and foremost, get comfy and get to know your partners as they will be your only company for the next 2 years; there are areas designated for you and your partners to socialize and pass time; we made sure to supply you with a lot of entertainment in different forms, be it books, music, movies, games, and more. With exception to the times the research teams will work in the habitat, there will be no more than 8 people at any time.",
 
@@ -14,7 +14,7 @@
 
 ^cornflowerblue;-A supervisor, counsellor, cook, or medic for your crew.^reset;
 
-^cornflowerblue;-A veterinarian or botanist to keep the ecosystem in check.^reset;
+^cornflowerblue;-A veterinarian or botanist to keep the ecosystem in order.^reset;
 
 ^cornflowerblue;-A security guard to maintain the habitat's safety.^reset;",
 
