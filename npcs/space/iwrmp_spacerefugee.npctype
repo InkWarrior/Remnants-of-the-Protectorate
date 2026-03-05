@@ -17,14 +17,14 @@
         "default" : {
           "default" : [
             "Things in the galaxy are going to get worse, aren't they?",
-            "I wonder how many of us are in this same situation...",
-            "Pirates are such a nuissance, I can't be at my home anymore because of them!",
+            "I wonder how many of us are in this very same situation...",
+            "Pirates are such a nuisance, I can't be at my home anymore because of them!",
             "We had to flee our town because of pirates, a shame the Protectorate wasn't there anymore.",
-            "Can you believe that the Peacekeepers don't exist anymore? I lost my house because of it!",
-            "Some sectors had become more dangerous since the Protectorate is gone, what a shame.",
-            "Supplies weren't arriving at us anymore, that's why we had to move from our planet.",
+            "Can you believe that the Peacekeepers don't exist anymore? I lost my house because of that!",
+            "Some sectors have become more dangerous since the Protectorate is gone, what a shame.",
+            "Supplies weren't arriving to us anymore, that's why we had to move from our planet.",
             "I'm hoping to return to my town when things get back to normal.",
-            "I hope the shelter is more warm, I didn't know that ships could be very cold!",
+            "I hope the shelter will be more warm, I didn't know ships could be so cold!",
             "I haven't seen my friends in a good while, I hope they are okay.",
             "I haven't seen anyone from Earth, you think anybody made it?"
           ]
@@ -32,46 +32,46 @@
         "apex" : {
           "default" : [
             "Things in the galaxy are going to get worse, aren't they?",
-            "I wonder how many of us are in this same situation...",
-            "Pirates are such a nuissance, I can't be at my home anymore because of them!",
+            "I wonder how many of us are in this very same situation...",
+            "Pirates are such a nuisance, I can't be at my home anymore because of them!",
             "We had to flee our town because of pirates, a shame the Protectorate wasn't there anymore.",
-            "Can you believe that the Peacekeepers don't exist anymore? I lost my house because of it!",
-            "Some sectors had become more dangerous since the Protectorate is gone, what a shame.",
-            "Supplies weren't arriving at us anymore, that's why we had to move from our planet.",
+            "Can you believe that the Peacekeepers don't exist anymore? I lost my house because of that!",
+            "Some sectors have become more dangerous since the Protectorate is gone, what a shame.",
+            "Supplies weren't arriving to us anymore, that's why we had to move from our planet.",
             "I'm hoping to return to my town when things get back to normal.",
-            "I hope the shelter is more warm, I didn't know that ships could be very cold!",
+            "I hope the shelter will be more warm, I didn't know ships could be so cold!",
             "I haven't seen my friends in a good while, I hope they are okay.",
             "I haven't seen anyone from Earth, you think anybody made it?",
-            "What if the Miniknog uses this opportunity to hunt us?",
-            "After what happened to the Protectorate, the Miniknog attacked our town!",
+            "What if the Miniknog uses this opportunity to hunt us down?",
+            "After what happened to the Protectorate, the Miniknog invaded our town!",
             "We had to flee our camp because the Miniknog were close to getting us.",
-            "The Protectorate was the thing stopping the Miniknog, and now that they are gone..."
+            "The Protectorate was one of the few the things helping to stop the Miniknog, and now that they are gone..."
           ]
         },
         "floran" : {
           "default" : [
-            "Things in the galaxy will get worse, right?",
+            "Thingsss in the galaxy will get worse, right?",
             "Floran wonders if there are otherss in same situation...",
-            "Pirates are annoying, Floran fled of his forest because of them!",
-            "Floran tribe had to flee from our forest because of pirates, Protectorate is sssadly gone.",
-            "Peacekeeperss don't exist anymore! Floran mad! Floran lost forest because of it!",
-            "Some planets are more dangerous since Protectorate is gone, that's very sad.",
-            "Food weren't arriving at Floran tribe anymore, we had to move from our planet.",
-            "Floran hopes to return to forest when things get more quiet.",
-            "Floran hopes shelter iss warmer, Ship's cold is not good for Floran!",
-            "Floran hasn't seen tribe in a while, Floran hopes they are okay.",
-            "Floran hasn't seen anyone from Earth, you think humans made it?"
+            "Piratesss are annoying, Floran fled forest because of them!",
+            "Floran's tribe had to flee from our forest because of pirates, Protectorate is sssadly gone.",
+            "Peacekeeperss don't exist anymore! Floran mad! Floran lost forest because of that!",
+            "Some planets are more dangerous since Protectorate is gone, that's very ssad.",
+            "Food wasn't arriving at Floran'sss tribe anymore, we had to move from our planet.",
+            "Floran hopess to return to forest when things get more quiet.",
+            "Floran hopes shelter iss warmer, Ship's coldness is not good for Floran!",
+            "Floran hasn't seen tribe in a while, Floran hopesss they are okay.",
+            "Floran hasn't sseen anyone from Earth, you think meatmen made it?"
           ]
         },
         "glitch" : {
           "default" : [
             "Worried. Things in space are going to get worse, aren't they?",
-            "Concerned. I wonder how many of us are in this same situation...",
+            "Concerned. I wonder how many of us are in this very same situation...",
             "Frustrated. Pirates are annoying, I can't be at my home anymore because of them!",
             "Saddened. We had to escape our village because of pirates, a shame the Protectorate wasn't there anymore.",
-            "Bewildered. Can you believe that the Peacekeepers don't exist anymore? I lost my home because of it!",
+            "Bewildered. Can you believe that the Peacekeepers don't exist anymore? I lost my home because of that!",
             "Saddened. Some sectors had become more dangerous since the Protectorate is gone, what a shame.",
-            "Explicative. Supplies weren't arriving at us anymore, that's why we had to move from our planet.",
+            "Explicative. Supplies weren't arriving to us anymore, that's why we had to move from our planet.",
             "Hopeful. I'm hoping to return to my village when things get back to normal.",
             "Expectant. I hope the shelter is more warm, I didn't know ships could be very cold!",
             "Emotional. I haven't seen my friends in a good while, I hope they are okay.",
