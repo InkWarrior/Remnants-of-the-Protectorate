@@ -23,6 +23,7 @@ __UPDATE__
 - Make recipes for armor sets + shield specifically for replicator.
 - Make sprite improvements where its necessary.
   - Medic Desk
+  - Matter Seperator (shift pixel lighting effect from orange to blue)
 
 __MOD SUPPORT__
 - Scripted SAIL
