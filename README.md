@@ -17,10 +17,8 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the definiti
 
 # To do list
 __UPDATE__
-- Add changes to the protectoratetrivia and easprotectorate codices.
 - Add a way for Envoys on planets to defend themselves.
 - Add more white painted bits to Envoy ship.
-- Make recipes for armor sets + shield specifically for replicator.
 - Make sprite improvements where its necessary.
   - Medic Desk
   - Matter Seperator (shift pixel lighting effect from orange to blue)
