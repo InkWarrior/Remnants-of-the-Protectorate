@@ -1,10 +1,9 @@
 {
   "input" : [
-    { "item" : "money", "count" : 600 },
     { "item" : "durasteelbar", "count" : 8 },
     { "item" : "copperbar", "count" : 4 }
   ],
   "duration" : 0.5,
   "output" : { "item" : "iwrmp_protectorateshield", "parameters" : {"level" : 4}, "count" : 1 },
-  "groups" : [ "iwrmp_prtccraftingtable", "prtccraftingtable_misc", "all" ]
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
 }
