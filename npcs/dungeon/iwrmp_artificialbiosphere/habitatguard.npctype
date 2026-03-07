@@ -31,15 +31,15 @@
             "chest" : [ { "name" : "iwrmp_watchmanchest" } ],
             "legs" : [ { "name" : "iwrmp_watchmanpants" } ],
 			"primary": [
-					"npcspear",
-					"npcaxe",
-					"npchammer",
-					"npcbroadsword",
-					"npcshortsword"
+					"titaniumspear",
+					"tungstenaxe",
+					"tungstenhammer",
+					"durasteelbroadsword",
+					"durasteelshortsword"
 				],
 			"sheathedprimary": [
-					"npcpistol",
-					"npcmachinepistol"
+					"durasteelrevolver",
+					"titaniummachinepistol"
 				],
 			"alt": [{ "name": "iwrmp_protectorateshield" }]
           },
@@ -48,15 +48,15 @@
             "chest" : [ { "name" : "iwrmp_soldierchest" } ],
             "legs" : [ { "name" : "iwrmp_soldierlegs" } ],
 			"primary": [
-					"npcspear",
-					"npcaxe",
-					"npchammer",
-					"npcbroadsword",
-					"npcshortsword"
+					"titaniumspear",
+					"tungstenaxe",
+					"tungstenhammer",
+					"durasteelbroadsword",
+					"durasteelshortsword"
 				],
 			"sheathedprimary": [
-					"npcpistol",
-					"npcmachinepistol"
+					"durasteelrevolver",
+					"titaniummachinepistol"
 				],
 			"alt": [{ "name": "iwrmp_protectorateshield" }]
           }
