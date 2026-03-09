@@ -9,40 +9,40 @@
       "converse" : {
         "default" : {
           "default" : [
-            "I was assigned to help mantain this location.",
-            "No, I'm not a mechanic, but I get the confusion.",
-            "I'm good at dealing with electronics and everything that doesn't involves a mechanism.",
-			"Does your place have a communication system? I can manage that for you.",
-			"I don't like to deal with people, they are complicated, even if I'm good to mediate their problems.",
+            "I was assigned to help maintain this location.",
+            "No, I'm not a mechanic, but I understand the confusion.",
+            "I'm good at dealing with electronics and everything that involves software.",
+			"Does this place have a communication system? I can manage that for you.",
+			"I don't like to deal with people, they are complicated, even if I'm good at mediation.",
 			"The TV wasn't working last time, maybe it's time to get a new one.",
-			"If you want to know about computer models I'm the indicated.",
-			"Does my place have an electric system? I kinda need it.",
+			"If you want to know about computer models, I can teach you about them.",
+			"Does my place have an electric system? I may need it.",
 			"A mechanic? No, I'm not one of those."
           ]
         },
         "floran" : {
           "default" : [
-            "<selfname> was asssigned to help mantain this location.",
-            "No, <selfname> is not a mechanic, but I get the confusion.",
-            "<selfname> is good at dealing with electronics and everything that doesn't involves mechanismss.",
-			"Does your place have a communication system? <selfname> can manage that for you.",
-			"<selfname> doesn't like people, they are complicated, even if <selfname> is good to solve their problems.",
+            "<selfname> was asssigned to help maintain this location.",
+            "No, <selfname> is not a mechanic, but I understand the confusion.",
+            "<selfname> is good at dealing with electronics and everything that involves ssoftware.",
+			"Does this place have a communication system? <selfname> can manage that for you.",
+			"<selfname> doesn't like people, they are complicated, even if <selfname> is good at solving their problems.",
 			"The TV wasn't working last time, maybe it's time to get a new one.",
-			"If you want to know about computer models <selfname> is the indicated.",
+			"If you want to know about computer models, <selfname> can teach.",
 			"Does <selfname>'s place has an electric system? It would be helpful.",
-			"A mechanic? No, <selfname> doesn't belong to them."
+			"A mechanic? No, <selfname> not one."
           ]
         },
         "glitch" : {
           "default" : [
-            "Explicative. I was assigned to help mantain this location.",
-            "Annoyed. No, I'm not a mechanic, but I get the confusion.",
-            "Descriptive. No, I'm not a \"machine physician\", my thing is electronics, not mechanisms.",
-			"Curious. Does your place have a communication system? I can manage that for you.",
+            "Explicative. I was assigned to help maintain this location.",
+            "Annoyed. No, I'm not a mechanic, but I understand the confusion.",
+            "Descriptive. No, I'm not some \"machine physician\", my thing is electronics, not mechanisms.",
+			"Curious. Does this place have a communication system? I can manage that for you.",
 			"Explicative. Despite being good at solving people's problems, I don't like people, they're complicated.",
 			"Annoyed. The TV wasn't working last time, maybe it's time to get a new one.",
-			"Confident. If you want to know about computer models I'm the indicated.",
-			"Curious. Does my place have an electric system? I kinda need it.",
+			"Confident. If you want to know about computer models, I can teach you about them.",
+			"Curious. Does my place have an electric system? I may need it.",
 			"Confused. A mechanic? No, I'm not one of those."
           ]
         }
@@ -58,7 +58,7 @@
             "chest" : [ { "name" : "iwrmp_engineerchest" } ],
             "legs" : [ { "name" : "iwrmp_engineerlegs" } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "durasteelrevolver" ]
           }
         ] ]
     ]
