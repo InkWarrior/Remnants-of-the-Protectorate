@@ -1,6 +1,10 @@
 {
   "input" : [
-    { "item" : "money", "count" : 2500 }
+    { "item" : "money", "count" : 2500 },
+    { "item" : "durasteelbar", "count" : 20 },
+    { "item" : "battery", "count" : 1 },
+    { "item" : "wire", "count" : 6 },
+    { "item" : "siliconboard", "count" : 3 }
   ],
   "duration" : 0,
   "output" : { "item" : "iwrmp_prtccraftingtable", "count" : 1 },
