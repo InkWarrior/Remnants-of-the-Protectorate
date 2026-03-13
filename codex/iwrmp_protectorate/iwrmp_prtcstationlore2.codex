@@ -6,26 +6,26 @@
   "contentPages" : [ 
   
   "^blue;Supply Launch 090725-Maia Crest^reset;
-^cyan;\"Someone activated an SOS beacon on Maia Crest V, can I have one of those Status Pods deployed there? I'll pass you the planetary coordinates\".^reset;
+\"Someone activated an SOS beacon on Maia Crest V, can I have one of those Status Pods deployed there? I'll pass you the planetary coordinates.\"
 
-^blue;Evaluation:^reset; ^cyan;No changes needed.^reset;
+^blue;Evaluation:^reset; No changes needed.
 
-^blue;Status:^reset; ^cyan;Deployed.^reset;
+^blue;Status:^reset; Deployed.
 
-^cyan;Replenishing order has been sent to crew.^reset;",
+Replenishing order has been sent to crew.",
 
 "^blue;Supply Launch 030425-Zentallion Grasp^reset;
-^cyan;\"I have a group of stranded hikers in Zentallion Grasp Ia. I already notified the rescue teams in the area, but I think one of those supply pods would be handy this time\".^reset;
+\"I have a group of stranded hikers on Zentallion Grasp Ia. I already notified the rescue teams in the area, but I think one of those supply pods would be handy this time.\"
 
 ^blue;Evaluation:^reset; ^red;Supply pods are only for Protectors. Deploying Status Pods instead.^reset;
 
-^blue;Status:^reset; ^cyan;Deployed.^reset;
+^blue;Status:^reset; Deployed.
 
-^cyan;Replenishing order has been sent to crew.^reset;",
+Replenishing order has been sent to crew.",
 
 "^blue;Supply Launch Evaluation Request 2307^reset;
 
-^red;\"I have three reports of Status Pods launching primed bombs out of them, what the heck!? Either this is a malfunction, or some twisted idiots are hijacking our pods. Make a full content evaluation before launching them!\"^reset;"
+\"I have three reports of Status Pods launching primed bombs out of them, what the heck!? Either this is a malfunction, or some twisted idiots are hijacking our pods. Make a full content evaluation before launching them!\""
 
   ],
     "itemConfig" : {
