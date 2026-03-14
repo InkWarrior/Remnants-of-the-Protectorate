@@ -9,38 +9,38 @@
       "converse" : {
         "default" : {
           "default" : [
-            "I was assigned to help cleaning this location.",
-            "People don't value the importance of a clean place.",
-            "My broom is a hidden sword! haha... I'm joking.",
+            "I was assigned to help clean this location.",
+            "People don't value the importance of a clean place enough.",
+            "My broom has a hidden sword! Haha... I'm joking.",
 			"I'm the best janitor in this quadrant of the galaxy, and nobody can prove me wrong!",
 			"Hmmm... my place doesn't look as clean as you think.",
 			"Die germs!",
-			"You may think that my job is boring, but i'm always having a blast!",
-			"My job is to leave this place as clean as possible, and I'm good at that."
+			"You may think that my job is boring, but I'm always having a blast!",
+			"My job is to leave this place as clean as possible, and that's something I'm good at."
           ]
         },
         "floran" : {
           "default" : [
-            "<selfname> was assigned to help cleaning this location.",
-            "People don't value the importance of a clean place.",
-            "My broom is a hidden lance! haha... I'm joking.",
-			"<selfname> is the best janitor in this corner of the galaxy, and nobody can contradict <selfname>!",
+            "<selfname> was assigned to help clean this location.",
+            "People don't value the importance of a clean place enough.",
+            "My broom has a hidden lance! Haha... I'm joking.",
+			"<selfname> is the besst janitor in this corner of the galaxy, and nobody can contradict <selfname>!",
 			"Hmmm... <selfname>'s place doesn't look as clean as you think.",
 			"Die germsss!",
-			"You may think that <selfname>'s job is boring, but i'm always having a blast!",
-			"<selfname>'s job is to leave this place as clean as posssible, and I'm good at that."
+			"You may think that <selfname>'sss job is boring, but I'm always having a blast!",
+			"<selfname>'s job is to leave this place as clean as posssible, and that's something I'm good at."
           ]
         },
         "glitch" : {
           "default" : [
-            "Explicative. I was assigned to help cleaning this location.",
-            "Irritated. People don't value the importance of a clean place.",
-            "Amused. My broom is a hidden sword! haha... I'm joking.",
+            "Explicative. I was assigned to help clean this location.",
+            "Irritated. People don't value the importance of a clean place enough.",
+            "Amused. My broom has a hidden sword! Haha... I'm joking.",
 			"Boastful. I'm the best janitor in this quadrant of the galaxy, and nobody can prove me wrong!",
 			"Observant. My place doesn't look as clean as you think.",
 			"Amused. Die germs!",
-			"Proud. You may think that my job is boring, but i'm always having a blast!",
-			"Descriptive. My job is to leave this place as clean as possible, and I'm good at that."
+			"Proud. You may think that my job is boring, but I'm always having a blast!",
+			"Descriptive. My job is to leave this place as clean as possible, and that's something I'm good at."
           ]
         }
       }
@@ -55,7 +55,7 @@
             "chest" : [ { "name" : "iwrmp_janitorchest" } ],
             "legs" : [ { "name" : "iwrmp_janitorlegs" } ],
             "primary" : [ "broom" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "durasteelrevolver" ]
           }
         ] ]
     ]
