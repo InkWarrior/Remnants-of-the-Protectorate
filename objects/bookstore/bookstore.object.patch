@@ -6,7 +6,7 @@
             "path": "/interactData/modTab/-",
             "value": {
                 "file": "/interface/bookstore/tabicon_prtchistory.png",
-                "label": "Protectorate History",
+                "label": "Protect",
                 "filter": [
                     "iwrmp_prtchistory"
                 ]
@@ -50,6 +50,31 @@
             "op": "add",
             "path": "/storeInventory/races/-",
             "value": "iwrmp_envoycaptainlore2-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/races/-",
+            "value": "iwrmp_envoycaptainlore3-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/races/-",
+            "value": "iwrmp_envoycaptainlore4-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/races/-",
+            "value": "iwrmp_envoycaptainlore5-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/races/-",
+            "value": "iwrmp_envoycaptainlore6-codex"
+        },
+        {
+            "op": "add",
+            "path": "/storeInventory/races/-",
+            "value": "iwrmp_envoycaptainlore7-codex"
         }
     ],
 
