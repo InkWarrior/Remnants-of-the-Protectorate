@@ -9,12 +9,12 @@
       "converse" : {
         "default" : {
           "default" : [
-            "I was allowed to make experiments in this location.",
+            "I've been allowed to perform experiments in this location.",
             "I do science experiments by day, and I mediate problems by night.",
-            "Hey, uhm, do you know what bromine is? no? You should.",
-			"I think we are gonna need an alarm system in case, you know, my experiments go bad.",
-			"You don't mind that I do my experiments here, do you?",
-			"What equipment do you have in this room? Maybe I'll need to bring some of my own toys",
+            "Hey, uhm, do you know what bromine is? No? You should.",
+			"I think we are going to need an alarm system in case, you know, my experiments go wrong.",
+			"You don't mind me doing my experiments here, do you?",
+			"What equipment do you have in this room? I may need to bring some of my own toys.",
 			"Don't worry about my experiments, they're usually not dangerous."
           ]
         },
@@ -22,21 +22,21 @@
           "default" : [
             "<selfname> was allowed to make experimentss in this location.",
             "<selfname> does science stuff by day, and mediatess problems by night.",
-            "Hey, do you know what bromine is? no? You sshould.",
+            "Hey, do you know what bromine is? No? You sshould.",
 			"<selfname> thinks we'll need an alarm system in case, you know, an experiment goess bad.",
 			"You don't mind that <selfname> does experimentss here, do you?",
-			"What equipment do you have in this room? Maybe <selfname> will need to bring some of my own.",
-			"Don't worry about <selfname> experiments, they're usually not dangerouss."
+			"What equipment do you have in this room? <selfname> may need to bring some of my own.",
+			"Don't worry about <selfname>'s experiments, they're usually not dangerouss."
           ]
         },
         "glitch" : {
           "default" : [
-            "Explicative. I was allowed to make experiments in this location.",
+            "Explicative. I've been allowed to perform experiments in this location.",
             "Mysterious. I do science experiments by day, and I mediate problems by night.",
-            "Concerned. Do you know what bromine is? no? You should.",
-			"Thoughtful. I think we are gonna need an alarm system in case, you know, my experiments go bad.",
-			"Doubtful. You don't mind that I do my experiments here, do you?",
-			"Curious. What equipment do you have in this room? Maybe I'll need to bring some of my own toys",
+            "Concerned. Do you know what bromine is? No? You should.",
+			"Thoughtful. "I think we are going to need an alarm system in case, you know, my experiments go wrong.",
+			"Doubtful. You don't mind me doing my experiments here, do you?",
+			"Curious. What equipment do you have in this room? I may need to bring some of my own toys.",
 			"Nonchalant. Don't worry about my experiments, they're usually not dangerous."
           ]
         }
@@ -52,7 +52,7 @@
             "chest" : [ { "name" : "iwrmp_chemistchest" } ],
             "legs" : [ { "name" : "iwrmp_chemistlegs" } ],
             "primary" : [ "bluestim", "greenstim", "orangestim", "yellowstim" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "durasteelrevolver" ]
           }
         ] ]
     ]
