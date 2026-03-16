@@ -20,9 +20,8 @@ __UPDATE__
 - Add a way for Envoys on planets to defend themselves.
 - Add more white painted bits to Envoy ship.
 - Make sprite improvements where its necessary.
-  - Medic Desk
   - Matter Seperator (shift pixel lighting effect from orange to blue)
-  - Implement way to get Envoy space helmet
+- Implement way to get Envoy space helmet
 
 __MOD SUPPORT__
 - Enhanced Storage Addon
