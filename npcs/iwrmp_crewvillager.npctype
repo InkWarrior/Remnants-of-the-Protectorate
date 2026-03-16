@@ -1,6 +1,6 @@
 {
   "type" : "iwrmp_crewvillager",
-  "baseType" : "villager",
+  "baseType" : "villageguard",
   "displayTitle" : "Specialized Protector",
 
   "scriptConfig" : {
@@ -19,7 +19,17 @@
       "greeting" : "/dialog/iwrmp_protectorateconverse.config:greeting",
       "converse" : "/dialog/iwrmp_protectorateconverse.config:converse",
       "accuse" : "/dialog/iwrmp_protectoratethief.config:accuse",
-      "alert" : "/dialog/iwrmp_protectoratethief.config:alert"
+      "alert" : "/dialog/iwrmp_protectoratethief.config:alert",
+
+	  "attack": "/dialog/iwrmp_protectoratecombat.config:attack",
+	  "reattack": "/dialog/iwrmp_protectoratecombat.config:reattack",
+	  "killedTarget": "/dialog/iwrmp_protectoratecombat.config:killedTarget",
+	  "lostTarget": "/dialog/iwrmp_protectoratecombat.config:lostTarget",
+	  "outOfSight": "/dialog/iwrmp_protectoratecombat.config:outOfSight",
+	  "cheerOn": "/dialog/iwrmp_protectoratecombat.config:cheerOn",
+	  "cantReach": "/dialog/iwrmp_protectoratecombat.config:cantReach",
+
+	  "hail": "/dialog/iwrmp_protectorateguard.config:hail"
     }
   },
 
@@ -32,7 +42,7 @@
             "chest" : [ { "name" : "iwrmp_chemistchest" } ],
             "legs" : [ { "name" : "iwrmp_chemistlegs" } ],
             "primary" : [ "bluestim", "greenstim", "orangestim", "yellowstim" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           },
 
           {
@@ -40,7 +50,7 @@
             "chest" : [ { "name" : "iwrmp_janitorchest" } ],
             "legs" : [ { "name" : "iwrmp_janitorlegs" } ],
             "primary" : [ "broom" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           },
 
           {
@@ -48,7 +58,7 @@
             "chest" : [ { "name" : "iwrmp_mechanicchest" } ],
             "legs" : [ { "name" : "iwrmp_mechaniclegs" } ],
             "primary" : [ "npcwrench" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           },
 
           {
@@ -56,7 +66,7 @@
             "chest" : [ { "name" : "iwrmp_engineerchest" } ],
             "legs" : [ { "name" : "iwrmp_engineerlegs" } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           },
 
           {
@@ -64,7 +74,7 @@
             "chest" : [ { "name" : "iwrmp_shipmedicchest" } ],
             "legs" : [ { "name" : "iwrmp_shipmediclegs" } ],
             "primary" : [ "medkit" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           },
 
           {
@@ -72,7 +82,7 @@
             "chest" : [ { "name" : "iwrmp_tailorchest" } ],
             "legs" : [ { "name" : "iwrmp_tailorlegs" } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           }
         ] ]
     ]
