@@ -25,10 +25,9 @@ __UPDATE__
   - Implement way to get Envoy space helmet
 
 __MOD SUPPORT__
-- Scripted SAIL
 - Enhanced Storage Addon
 - Improved Containers Addon
-- SAIL Replacement addons
+- Project Redemption Addon (at least the stuff on my side).
 
 __GENERAL:__
 
