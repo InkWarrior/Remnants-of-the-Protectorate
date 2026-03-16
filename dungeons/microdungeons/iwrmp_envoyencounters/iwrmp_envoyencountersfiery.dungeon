@@ -25,7 +25,9 @@
         "iwrmp_dropshippost2",
         "iwrmp_dropshippost3",
         "iwrmp_beaconflag1",
-        "iwrmp_beaconflag2"
+        "iwrmp_beaconflag2",
+        "iwrmp_laboratory1",
+        "iwrmp_laboratory2"
     ],
 
     "gravity" : 80,
@@ -174,6 +176,20 @@
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "iwrmp_beaconflag2.json" ]
+    },
+    {
+      "name" : "iwrmp_laboratory1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_laboratory1.json" ]
+    },
+    {
+      "name" : "iwrmp_laboratory2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "iwrmp_laboratory2.json" ]
     }
   ]
 }
