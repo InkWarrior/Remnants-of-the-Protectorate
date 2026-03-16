@@ -21,6 +21,7 @@ __UPDATE__
 - Add more white painted bits to Envoy ship.
 - Make sprite improvements where its necessary.
   - Matter Seperator (shift pixel lighting effect from orange to blue)
+- Ensure that all instances of bookshelves in structures give appropriate codex loot
 
 __MOD SUPPORT__
 - Enhanced Storage Addon
