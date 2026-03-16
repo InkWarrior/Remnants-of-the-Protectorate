@@ -49,7 +49,7 @@
                         ]
                     ],
                     "damage": 16,
-                    "damageSourceKind": "fireplasma",
+                    "damageSourceKind": "plasma",
                     "damageRepeatTimeout": 0.1,
                     "damageRepeatGroup": "<armName>Beam",
                     "knockback": 0,
