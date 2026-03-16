@@ -1,0 +1,19 @@
+{
+  "id" : "iwrmp_ruinedspherelore1",
+  "title" : "Reanimating Dead Worlds",
+  "description" : "A somewhat recent article published by \"The Gilten Sunrise\" on terraforming planets.",
+  "icon" : "protectoratenews.png",
+  "contentPages" : [ 
+  
+  "After years of debate and deliberation, the Terrene Protectorate, with the support of the Earth government, has decided to undertake a new initiative: to terraform and revitalize what can be considered \"dead planets\". This morning, Grand Protector Leda Portia has issued an ordinance for the Astraeus Fleet to issue a special Gaia Mission, where a couple of ships will scout, study and identify suitable candidates for this new project.",
+
+"Given that the 21st Astraeus Mission is not too far from being launched, this Gaia Mission will be launched under the protocol of the Joint Expeditionary Fleet, one of the few ever launched in history; both Envoys and Protectors will join this mission to alleviate the charge of the Astraeus Program, with its duration being no longer than 3 years. We can only speculate about how terraforming planets may greatly benefit peoples like the Deadbeats and others without a proper home.",
+
+"Not only that, but the Grand Protector has also approved the establishment of Biospheres on the surface of Mars; our neighboring planet will become the first candidate of this initiative in fact, as our scientists believe that despite never harboring life other than our own presence, it has the conditions to be potentially terraformed into a planet rich in life. If this project succeeds, it will be the most important breakthrough ever made in the striving for a more peaceful galaxy."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}
