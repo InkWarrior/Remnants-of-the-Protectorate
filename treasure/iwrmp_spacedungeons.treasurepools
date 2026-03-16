@@ -58,9 +58,9 @@
         {"weight" : 0.32, "pool" : "chestMoney"},
         {"weight" : 0.65, "pool" : "commonSpaceItem"},
         {"weight" : 0.03, "pool" : "rareSpaceItem"},
-        {"weight" : 0.003, "item" : "iwrmp_protectorcaptainhead"},
-        {"weight" : 0.003, "item" : "iwrmp_protectorcaptainchest"},
-        {"weight" : 0.003, "item" : "iwrmp_protectorcaptainpants"}
+        {"weight" : 0.03, "item" : "iwrmp_protectorcaptainhead"},
+        {"weight" : 0.03, "item" : "iwrmp_protectorcaptainchest"},
+        {"weight" : 0.03, "item" : "iwrmp_protectorcaptainpants"}
       ],
       "allowDuplication" : false
     }]
@@ -142,8 +142,8 @@
         {"weight" : 0.32, "pool" : "chestMoney"},
         {"weight" : 0.65, "pool" : "commonSpaceItem"},
         {"weight" : 0.03, "pool" : "rareSpaceItem"},
-        {"weight" : 0.003, "item" : "iwrmp_envoycaptainhead"},
-        {"weight" : 0.003, "item" : "iwrmp_envoycaptainchest"}
+        {"weight" : 0.01, "item" : "iwrmp_envoycaptainhead"},
+        {"weight" : 0.01, "item" : "iwrmp_envoycaptainchest"}
       ],
       "allowDuplication" : false
     }]
@@ -164,8 +164,8 @@
         {"weight" : 0.32, "pool" : "chestMoney"},
         {"weight" : 0.65, "pool" : "commonSpaceItem"},
         {"weight" : 0.03, "pool" : "rareSpaceItem"},
-        {"weight" : 0.003, "item" : "iwrmp_envoycaptainhead"},
-        {"weight" : 0.003, "item" : "iwrmp_envoycaptainchest"}
+        {"weight" : 0.01, "item" : "iwrmp_envoycaptainhead"},
+        {"weight" : 0.01, "item" : "iwrmp_envoycaptainchest"}
       ],
       "allowDuplication" : false
     }]
@@ -205,7 +205,8 @@
   "iwrmp_envoyAstreusLore" : [
     [0, {
       "poolRounds" : [
-        [1.0, 1]
+        [0.5, 1],
+        [0.2, 2]
       ],
       "pool" : [
         {"weight" : 1.0, "item" : "iwrmp_easprotectorate3-codex"},
@@ -217,7 +218,8 @@
         {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore5-codex"},
         {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore6-codex"},
         {"weight" : 1.0, "item" : "iwrmp_envoycaptainlore7-codex"}
-      ]
+      ],
+      "allowDuplication" : false
     }]
   ],
   
