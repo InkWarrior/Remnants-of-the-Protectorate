@@ -17,11 +17,10 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the definiti
 
 # To do list
 __UPDATE__
-- Add a way for Envoys on planets to defend themselves.
+- Add a way for Envoys on planets to defend themselves. (in-progress)
 - Add more white painted bits to Envoy ship.
 - Make sprite improvements where its necessary.
   - Matter Seperator (shift pixel lighting effect from orange to blue)
-- Implement way to get Envoy space helmet
 
 __MOD SUPPORT__
 - Enhanced Storage Addon
