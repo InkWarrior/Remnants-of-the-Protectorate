@@ -3,7 +3,7 @@
   "price" : 680,
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "An staff-issued handgun for non-combatant Protectors and Envoys.",
+  "description" : "A standard-issue handgun for non-combatant members of the Protectorate.",
   "shortdescription" : "SIH-3 Defender",
   "tooltipKind" : "gun",
   "category" : "machinePistol",
