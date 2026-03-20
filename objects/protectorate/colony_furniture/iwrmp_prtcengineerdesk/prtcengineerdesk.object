@@ -15,9 +15,9 @@
   "avianDescription" : "A table fitted with computers, I can use it for something.",
   "floranDescription" : "Floran can use thinking machiness here!",
   "glitchDescription" : "Curious. This desk is equiped with computers.",
-  "humanDescription" : "Oh? Maybe I can conect my pc to this and play videogames!",
+  "humanDescription" : "Oh? Maybe I can conect my pc to this and play video games through it!",
   "hylotlDescription" : "I wonder what this upgraded desk would allow me to do.",
-  "novakidDescription" : "I can play some videogames with this here desk.",
+  "novakidDescription" : "I could play some video games with this here desk.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

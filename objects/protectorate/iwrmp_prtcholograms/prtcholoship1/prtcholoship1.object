@@ -4,8 +4,8 @@
   "rarity" : "Uncommon",
   "category" : "light",
   "price" : 75,
-  "description" : "A hologram projector, currently displaying the image of a Protectorate Ship.",
-  "shortdescription" : "Protectorate Ship Hologram",
+  "description" : "A hologram, currently displaying the image of a Protectorate Ship.",
+  "shortdescription" : "Protectorate Ship Holo",
   "race" : "protectorate",
   "printable" : false,
 
@@ -14,7 +14,7 @@
   "pointBeam" : 2,
   "beamAmbience" : 0.1,
 
-  "apexDescription" : "A projector module displaying the image of a Protectorate ship.",
+  "apexDescription" : "A projected hologram displaying the image of a Protectorate ship.",
   "avianDescription" : "The text displayed here is bit small.",
   "floranDescription" : "Floran is interesssted in ship.",
   "glitchDescription" : "Observant. Looks to be a display of a Protectorate ship.",

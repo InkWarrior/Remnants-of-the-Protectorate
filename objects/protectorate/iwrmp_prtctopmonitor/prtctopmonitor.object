@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 185,
-  "description" : "Depending where you're sitting it can actually be comfortable to look at.",
+  "description" : "Depending where you're sitting it can actually be quite comfortable to look at.",
   "shortdescription" : "Remodeled Ceiling Monitor",
   "race" : "protectorate",
   "printable" : false,
@@ -20,7 +20,7 @@
   "flickerIntensityVariance" : 0,
 
   "apexDescription" : "I wish I could just simply move this monitor whenever I want.",
-  "avianDescription" : "Sometimes I imagine this monitor will fall onto me.",
+  "avianDescription" : "Sometimes I imagine this monitor will fall on me.",
   "floranDescription" : "Floran findss box uncomfortable to watch!",
   "glitchDescription" : "Displeased. This monitor design is not really good for the neck.",
   "humanDescription" : "I don't see the problem with this, you just need to lean back a bit and that's it!",

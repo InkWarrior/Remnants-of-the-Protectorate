@@ -5,7 +5,7 @@
   "category" : "decorative",
   "price" : 300,
   "description" : "A large projector console, currently displaying a ship route.",
-  "shortdescription" : "Remodeled Starmap Console",
+  "shortdescription" : "Remodeled Starmap",
   "race" : "protectorate",
 
   "lightColor" : [76, 148, 156],

@@ -11,12 +11,12 @@
   "race" : "protectorate",
   "health" : 1.5,
 
-  "apexDescription" : "My tools won't get lost everywhere anymore.",
+  "apexDescription" : "Now my tools won't get lost everywhere anymore.",
   "avianDescription" : "A sturdy box where I can put my working tools.",
   "floranDescription" : "Floran can store rockss and stickss!",
   "glitchDescription" : "Neutral. A dedicated box for working tools.",
-  "humanDescription" : "A good reliable toolbox.",
-  "hylotlDescription" : "A toolbox is essential to keep a work space in order.",
+  "humanDescription" : "A good, reliable toolbox.",
+  "hylotlDescription" : "A toolbox is essential for keeping a work space in order.",
   "novakidDescription" : "A good ol' toolbox.",
 
   "inventoryIcon" : "icon.png",

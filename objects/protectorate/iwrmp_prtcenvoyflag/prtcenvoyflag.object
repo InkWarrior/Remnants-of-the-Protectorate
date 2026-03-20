@@ -5,7 +5,7 @@
   "objectType" : "teleporter",
   "category" : "teleportMarker",
   "price" : 70,
-  "description" : "An Astraeus Envoy flag, displaying the Arch of Peace. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "description" : "An Astraeus Envoy flag, displaying their logo. Use ^green;[E]^white; to bookmark a teleportation location.",
   "shortdescription" : "Astraeus Envoy Flag",
   "race" : "protectorate",
   "printable" : false,

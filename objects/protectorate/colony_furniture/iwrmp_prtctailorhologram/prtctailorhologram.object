@@ -5,7 +5,7 @@
   "category" : "light",
   "price" : 75,
   "description" : "A modular projector used by tailors to visualize their clothing designs.",
-  "shortdescription" : "Fashion Hologram Projector",
+  "shortdescription" : "Fashion Projector",
   "race" : "protectorate",
   "printable" : false,
 
@@ -14,7 +14,7 @@
   "pointBeam" : 4,
   "beamAmbience" : 0.1,
 
-  "apexDescription" : "A projector module by which I can display clothing designs.",
+  "apexDescription" : "A projector module through which I can display clothing designs.",
   "avianDescription" : "A device that projects images of outfits and other clothes.",
   "floranDescription" : "Floran isss intrigued, can Floran be displayed here?",
   "glitchDescription" : "Excited. I can display armor with this device!",

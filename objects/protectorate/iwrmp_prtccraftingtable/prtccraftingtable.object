@@ -4,7 +4,7 @@
   "rarity" : "Legendary",
   "category" : "crafting",
   "price" : 2500,
-  "description" : "A trading terminal to buy and sell stuff from the Protectorate remotely.",
+  "description" : "A trading terminal to buy and sell stuff from the Protectorate remotely with.",
   "shortdescription" : "^cyan;Protectorate Trade Station^reset;",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
@@ -19,9 +19,9 @@
   "avianDescription" : "I wish I could help the Protectorate with more than just pixels.",
   "floranDescription" : "There'ss no food to sssell!",
   "glitchDescription" : "Empathetic. Perhaps I still have spare pixels to give.",
-  "humanDescription" : "A shame the Protectorate has to sell its own stuff to survive.",
-  "hylotlDescription" : "The proof we live in very hard times.",
-  "novakidDescription" : "Yeah maybe I can spend some good pixels to help.",
+  "humanDescription" : "A shame the Protectorate has to sell its own stuff just to survive.",
+  "hylotlDescription" : "The proof that we live in very hard times.",
+  "novakidDescription" : "Yeah, maybe I can spend some good pixels to help.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
