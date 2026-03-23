@@ -1,5 +1,5 @@
 {
-  "type" : "iwrmp_taroni",
+  "type" : "taroni",
   "shortdescription" : "Taroni",
   "description" : "It eats and lives in tar. Signs suggest it excretes tar as well.",
 
@@ -15,18 +15,18 @@
       "/monsters/monster.lua"
     ],
 
-    "behavior" : "taroni",
+    "behavior" : "monster",
 
     "behaviorConfig" : {
     },
 
     "touchDamage" : {
-      "poly" : [  ],
-      "damage" : 0,
+      "poly" : [ [0.625, 1.125], [1.125, 0.625], [1.125, -0.625], [0.625, -1.125], [-0.625, -1.125], [-1.125, -0.625], [-1.125, 0.625], [-0.625, 1.125] ],
+      "damage" : 13,
 
       "teamType" : "enemy",
       "damageSourceKind" : "slash",
-      "knockback" : 0,
+      "knockback" : 20,
       "statusEffects" : [ ]
     },
 
