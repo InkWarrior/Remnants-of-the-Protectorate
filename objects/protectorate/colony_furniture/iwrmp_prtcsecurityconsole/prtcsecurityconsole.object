@@ -15,9 +15,9 @@
   "avianDescription" : "Looks like a more sophisticated security console.",
   "floranDescription" : "Floran is supposed to see othersss from here?",
   "glitchDescription" : "Curious. This console allows me to watch over people in other rooms.",
-  "humanDescription" : "A security console, why is it all blue?",
+  "humanDescription" : "A security console, why are the feeds all blue?",
   "hylotlDescription" : "A security console reserved only for security, I like this.",
-  "novakidDescription" : "So, this is the place where the other guy sees me when I wave to the camera?",
+  "novakidDescription" : "So, this is the place where the other guy sees me from when I wave to the camera, right?",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

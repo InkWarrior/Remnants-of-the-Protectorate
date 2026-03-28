@@ -15,13 +15,13 @@
   "lightColor" : [22, 31, 36],
   "lightPosition" : [-1, 0],
 
-  "apexDescription" : "I can talk to SAIL through this console.",
-  "avianDescription" : "I can use this station to talk to SAIL.",
-  "floranDescription" : "Floran use thisss magic panel to talk to SAIL!",
-  "glitchDescription" : "Happy. This station allows me to talk to SAIL.",
-  "humanDescription" : "This station allows me to communicate with SAIL.",
-  "hylotlDescription" : "This console allows me to communicate with SAIL.",
-  "novakidDescription" : "This here station lets me talk with SAIL.",
+  "apexDescription" : "I can talk to another SAIL unit through this console.",
+  "avianDescription" : "I can use this station to talk to another SAIL unit.",
+  "floranDescription" : "Floran use thisss magic panel to talk to other SAIL!",
+  "glitchDescription" : "Happy. This station allows me to talk to another SAIL unit.",
+  "humanDescription" : "This station allows me to communicate with another SAIL unit.",
+  "hylotlDescription" : "This console allows me to communicate with another SAIL unit.",
+  "novakidDescription" : "This here station lets me talk with another SAIL unit.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "category" : "light",
   "price" : 75,
-  "description" : "A hologram projector, currently displaying the image of a planet.",
+  "description" : "A hologram, currently displaying the image of a planet.",
   "shortdescription" : "Planet Hologram",
   "race" : "protectorate",
   "printable" : false,
@@ -14,13 +14,13 @@
   "pointBeam" : 2,
   "beamAmbience" : 0.1,
 
-  "apexDescription" : "A projector module displaying the image of a planet.",
+  "apexDescription" : "A projected hologram displaying the image of a planet.",
   "avianDescription" : "I wonder what planet is being displayed here.",
   "floranDescription" : "Big blue planet, Floran is interessted.",
   "glitchDescription" : "Amazed. The fidelity of the hologram is quite advanced compared to others.",
   "humanDescription" : "It looks amazing! I wonder what else it can project.",
   "hylotlDescription" : "Theoretically, I could project a movie with this, right?",
-  "novakidDescription" : "What an odd image! I can watch movies with this here machine!",
+  "novakidDescription" : "What an odd image! I bet I could watch movies with this here projection!",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

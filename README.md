@@ -17,11 +17,11 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the definiti
 
 # To do list
 __UPDATE__
-- Add a way for Envoys on planets to defend themselves.
 - Add more white painted bits to Envoy ship.
 - Make sprite improvements where its necessary.
   - Matter Seperator (shift pixel lighting effect from orange to blue)
-- Implement way to get Envoy space helmet
+  - Update to misc tab's icon in Trade Terminal to reflect the Watchman's set being shifted purely to the Anvil
+- Ensure that all instances of bookshelves in structures give appropriate codex loot
 
 __MOD SUPPORT__
 - Enhanced Storage Addon

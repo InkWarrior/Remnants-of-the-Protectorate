@@ -17,7 +17,7 @@
   "glitchDescription" : "Curious. Is this a medicine chest?",
   "humanDescription" : "Ah, I wondered where I could save all of my circuits.",
   "hylotlDescription" : "A good security measure, electronics are very delicate.",
-  "novakidDescription" : "I can fit my electronic stuff inside.",
+  "novakidDescription" : "I can fit my electronic stuff inside this here chest.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

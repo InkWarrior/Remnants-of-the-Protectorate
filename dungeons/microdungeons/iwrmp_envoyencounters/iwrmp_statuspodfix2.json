@@ -71,6 +71,27 @@
                  "width":16,
                  "x":216,
                  "y":360
+                }, 
+                {
+                 "height":8,
+                 "id":746,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"apex, avian, human, hylotl, glitch, floran, novakid",
+                     "typeName":"iwrmp_envoyvillager"
+                    },
+                 "propertytypes":
+                    {
+                     "npc":"string",
+                     "typeName":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":240,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -445,7 +466,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":746,
+ "nextobjectid":747,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",

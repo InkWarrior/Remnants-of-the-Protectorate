@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/basicChestTreasure/0/1/pool/-",
+    "value": {"weight": 0.05,"pool": "iwrmp_survivalpod"}
+  },
+  {
+    "op": "add",
+    "path": "/smallChestTreasure/0/1/pool/-",
+    "value": {"weight": 0.03,"pool": "iwrmp_survivalpod"}
+  },
+  {
+    "op": "add",
+    "path": "/basicTreasure/0/1/pool/-",
+    "value": {"weight": 0.05,"pool": "iwrmp_survivalpod"}
+  }
+]

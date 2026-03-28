@@ -1,0 +1,85 @@
+{
+  "itemName" : "iwrmp_prtchandgun",
+  "price" : 680,
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "A standard-issue handgun for non-combatant members of the Protectorate.",
+  "shortdescription" : "SIH-3 Defender",
+  "tooltipKind" : "gun",
+  "category" : "machinePistol",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","ranged","machinepistol"],
+  "fixedLevel" : false,
+
+  "inventoryIcon" : "iwrmp_prtchandgun.png",
+
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "iwrmp_prtchandgun.png",
+    "barrel" : "",
+    "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/gun/revolver1.ogg"]
+    }
+  },
+
+  "baseOffset" : [0.3, 0.25],
+  "muzzleOffset" : [1.25, 0.25],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.24,
+    "baseDps" : 7.0,
+    "energyUsage" : 21,
+    "inaccuracy" : 0.04,
+    "projectileCount" : 1,
+
+    "burstTime" : 0.1,
+    "burstCount" : 2,
+    "fireType" : "burst",
+
+    "projectileType" : "standardbullet",
+    "projectileParameters" : {
+      "knockback" : 3
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.11,
+        "armRotation" : 3,
+        "weaponRotation" : 3,
+        "twoHanded" : false,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

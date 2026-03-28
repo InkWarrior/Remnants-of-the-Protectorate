@@ -1,6 +1,6 @@
 {
   "type" : "iwrmp_envoyvillager",
-  "baseType" : "villager",
+  "baseType" : "villageguard",
   "displayTitle" : "Envoy",
 
   "scriptConfig" : {
@@ -19,7 +19,17 @@
       "greeting" : "/dialog/iwrmp_envoyconverse.config:greeting",
       "converse" : "/dialog/iwrmp_envoyconverse.config:converse",
       "accuse" : "/dialog/iwrmp_protectoratethief.config:accuse",
-      "alert" : "/dialog/iwrmp_protectoratethief.config:alert"
+      "alert" : "/dialog/iwrmp_protectoratethief.config:alert",
+
+	  "attack": "/dialog/iwrmp_protectoratecombat.config:attack",
+	  "reattack": "/dialog/iwrmp_protectoratecombat.config:reattack",
+	  "killedTarget": "/dialog/iwrmp_protectoratecombat.config:killedTarget",
+	  "lostTarget": "/dialog/iwrmp_protectoratecombat.config:lostTarget",
+	  "outOfSight": "/dialog/iwrmp_protectoratecombat.config:outOfSight",
+	  "cheerOn": "/dialog/iwrmp_protectoratecombat.config:cheerOn",
+	  "cantReach": "/dialog/iwrmp_protectoratecombat.config:cantReach",
+
+	  "hail": "/dialog/iwrmp_protectorateguard.config:hail"
     }
   },
 
@@ -31,7 +41,7 @@
             "chest" : [ { "name" : "iwrmp_envoyuniformchest" } ],
             "legs" : [ { "name" : "iwrmp_envoyuniformpants" } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           }
         ] ]
     ]

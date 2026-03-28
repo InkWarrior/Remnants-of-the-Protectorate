@@ -15,13 +15,13 @@
   "lightColor" : [100, 37, 0],
   "lightPosition" : [-1, 0],
 
-  "apexDescription" : "I can talk to SAIL through this console.",
-  "avianDescription" : "I can use this station to talk to SAIL.",
-  "floranDescription" : "Floran use thisss magic panel to talk to SAIL!",
-  "glitchDescription" : "Happy. This station allows me to talk to SAIL.",
-  "humanDescription" : "This station allows me to communicate with SAIL.",
-  "hylotlDescription" : "This console allows me to communicate with SAIL.",
-  "novakidDescription" : "This here station lets me talk with SAIL.",
+  "apexDescription" : "I can talk to an Envoy SAIL unit through this console.",
+  "avianDescription" : "I can use this station to talk to an Envoy SAIL unit.",
+  "floranDescription" : "Floran use thisss magic panel to talk to Envoy SAIL!",
+  "glitchDescription" : "Happy. This station allows me to talk to an Envoy SAIL unit.",
+  "humanDescription" : "This station allows me to communicate with an Envoy SAIL unit.",
+  "hylotlDescription" : "This console allows me to communicate with an Envoy SAIL unit.",
+  "novakidDescription" : "This here station lets me talk with an Envoy SAIL unit.",
 
   "inventoryIcon" : "iconenvoy.png",
   "orientations" : [

@@ -636,7 +636,7 @@
                  "name":"",
                  "properties":
                     {
-                     "monster":"taroni",
+                     "monster":"iwrmp_taroni",
                      "parameters":"{ \"damageTeamType\" : \"friendly\" }"
                     },
                  "propertytypes":
@@ -676,7 +676,7 @@
                  "name":"",
                  "properties":
                     {
-                     "monster":"taroni",
+                     "monster":"iwrmp_taroni",
                      "parameters":"{ \"damageTeamType\" : \"friendly\" }"
                     },
                  "propertytypes":
