@@ -27,7 +27,40 @@
     "override" : [
       [0, [
           {
-		    "head" : [ { "name" : "iwrmp_watchmanhead" }, { "name" : "iwrmp_watchmanhead" }, "" ],
+		    "head" : [ { "name" : "iwrmp_soldierhead" } ],
+            "chest" : [ { "name" : "iwrmp_soldierchest" } ],
+            "legs" : [ { "name" : "iwrmp_soldierlegs" } ],
+			"primary": [
+					"titaniumspear",
+					"tungstenaxe",
+					"tungstenhammer",
+					"durasteelbroadsword",
+					"durasteelshortsword"
+				],
+			"sheathedprimary": [
+					"durasteelrevolver",
+					"titaniummachinepistol"
+				],
+			"alt": [{ "name": "iwrmp_protectorateshield" }]
+          },
+          {
+		    "head" : [ { "name" : "iwrmp_soldierhead" } ],
+            "chest" : [ { "name" : "iwrmp_soldierchest" } ],
+            "legs" : [ { "name" : "iwrmp_soldierlegs" } ],
+			"primary": [
+					"durasteelassaultrifle",
+					"tungstenshotgun",
+					"titaniumsniperrifle"
+				],
+			"sheathedprimary": [
+					"durasteelshortsword"
+				],
+			"alt": [{ "name": "iwrmp_protectorateshield" }]
+          }
+        ] ],
+      [2, [
+          {
+		    "head" : [ { "name" : "iwrmp_watchmanhead" } ],
             "chest" : [ { "name" : "iwrmp_watchmanchest" } ],
             "legs" : [ { "name" : "iwrmp_watchmanpants" } ],
 			"primary": [
@@ -44,23 +77,28 @@
 			"alt": [{ "name": "iwrmp_protectorateshield" }]
           },
           {
-		    "head" : [ { "name" : "iwrmp_soldierhead" }, { "name" : "iwrmp_soldierhead" }, "" ],
-            "chest" : [ { "name" : "iwrmp_soldierchest" } ],
-            "legs" : [ { "name" : "iwrmp_soldierlegs" } ],
+		    "head" : [ { "name" : "iwrmp_watchmanhead" } ],
+            "chest" : [ { "name" : "iwrmp_watchmanchest" } ],
+            "legs" : [ { "name" : "iwrmp_watchmanpants" } ],
 			"primary": [
-					"titaniumspear",
-					"tungstenaxe",
-					"tungstenhammer",
-					"durasteelbroadsword",
-					"durasteelshortsword"
+					"durasteelassaultrifle",
+					"tungstenshotgun",
+					"titaniumsniperrifle"
 				],
 			"sheathedprimary": [
-					"durasteelrevolver",
-					"titaniummachinepistol"
+					"durasteelshortsword"
 				],
 			"alt": [{ "name": "iwrmp_protectorateshield" }]
           }
         ] ]
     ]
+  },
+
+  "statusControllerSettings" : {
+    "stats" : {
+      "maxEnergy" : {
+        "baseValue" : 150
+      }
+    }
   }
 }
