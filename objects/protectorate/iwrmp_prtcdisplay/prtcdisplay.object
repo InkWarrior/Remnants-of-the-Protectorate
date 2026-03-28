@@ -12,7 +12,7 @@
   "lightColor" : [27, 50, 64],
 
   "apexDescription" : "There is a planet being displayed on this screen.",
-  "avianDescription" : "The display is producing data from a recently explored planet.",
+  "avianDescription" : "This display is producing data from a recently explored planet.",
   "floranDescription" : "Floran doesssn't care about planet sign.",
   "glitchDescription" : "Curious. What discoveries were made on the planet being displayed?",
   "humanDescription" : "The rotating planet is a bit hypnotising. ",

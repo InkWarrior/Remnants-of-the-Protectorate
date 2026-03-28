@@ -6,7 +6,7 @@
   "tooltipKind" : "container",
   "category" : "furniture",
   "price" : 115,
-  "description" : "A clean desk that despite looking flimsy is solidly built.",
+  "description" : "A clean desk that, despite looking flimsy, is solidly built.",
   "shortdescription" : "Laboratory Desk",
   "race" : "protectorate",
   "health" : 1.5,
@@ -15,7 +15,7 @@
   "avianDescription" : "I like the clean look this desk has.",
   "floranDescription" : "Dessk looks weak but is strong, Floran respects the dessk.",
   "glitchDescription" : "Indifferent. A simple desk, usually for scientific purposes.",
-  "humanDescription" : "The ideal desk to make all sort of experiments with.",
+  "humanDescription" : "The ideal desk to perform all sorts of experiments upon.",
   "hylotlDescription" : "Despite its fragile look, this desk seems to be highly resistant.",
   "novakidDescription" : "I love to ride these desks in the hallway! Yeehaw!",
 

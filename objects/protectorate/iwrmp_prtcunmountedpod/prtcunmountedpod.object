@@ -4,16 +4,16 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 185,
-  "description" : "So... why are there bombs inside these status pods again?",
+  "description" : "So... why are there bombs inside these Status Pods again?",
   "shortdescription" : "Unmounted Status Pod",
   "race" : "protectorate",
 
-  "apexDescription" : "Thank goodness I won't have to deal with bombs from this status pod.",
+  "apexDescription" : "Thank goodness I won't have to deal with bombs from this Status Pod.",
   "avianDescription" : "Finally, no more bombs!",
   "floranDescription" : "Floran relieved that pod does not have bombsss.",
   "glitchDescription" : "Relieved. I will not have to deal with bombs from this pod.",
   "humanDescription" : "My fear of bombs is no more!",
-  "hylotlDescription" : "Thankfully this status pod is being fixed.",
+  "hylotlDescription" : "Thankfully this Status Pod is being fixed.",
   "novakidDescription" : "No bombs?",
 
 

@@ -10,13 +10,13 @@
   "race" : "protectorate",
   "printable" : false,
 
-  "apexDescription" : "Unlike some tables out there, this? This is comfortable.",
+  "apexDescription" : "Now this? This is comfortable. Unlike some other tables.",
   "avianDescription" : "Looks incredibly clean and... tasteless.",
   "floranDescription" : "Floran wantss to sleep for hoursss on this!",
   "glitchDescription" : "Cozy. I should try to rest on this sometime.",
   "humanDescription" : "I guess these stop being comfortable after a couple days.",
   "hylotlDescription" : "Looks comfortable enought to be used.",
-  "novakidDescription" : "Is it adjustable? Awesome!",
+  "novakidDescription" : "It's adjustable? Awesome!",
 
   "sitFlipDirection" : true,
   "sitOrientation" : "lay",

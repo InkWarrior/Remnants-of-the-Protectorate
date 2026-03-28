@@ -5,7 +5,7 @@
   "category" : "wire",
   "price" : 195,
   "description" : "A navigation console, displaying data about this ship's current course.",
-  "shortdescription" : "Remodeled Navigation Console",
+  "shortdescription" : "Remodeled Nav Console",
   "race" : "protectorate",
 
   "lightColor" : [22, 31, 36],
