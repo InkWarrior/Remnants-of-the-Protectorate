@@ -14,7 +14,7 @@
         {"pool" : "iwrmp_supplypodSeeds" },
         {"pool" : "iwrmp_supplypodLore" },
         {"pool" : "chestMoney" },
-{"item" : "iwrmp_prtchandgun"}
+        {"item" : "iwrmp_prtchandgun"}
       ],
 	  
 	 "allowDuplication" : false
