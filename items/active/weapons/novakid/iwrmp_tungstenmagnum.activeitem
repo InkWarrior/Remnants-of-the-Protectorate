@@ -1,22 +1,22 @@
 {
-  "itemName" : "iwrmp_prtchandgun",
-  "price" : 680,
+  "itemName" : "iwrmp_tungstenmagnum",
+  "price" : 640,
   "maxStack" : 1,
-  "rarity" : "Uncommon",
-  "description" : "A standard-issue handgun for non-security members of the Protectorate.",
-  "shortdescription" : "SIH-3 Defender",
+  "rarity" : "Common",
+  "description" : "A large handgun that packs a punch.",
+  "shortdescription" : "Tungsten Magnum",
   "tooltipKind" : "gun",
-  "category" : "machinePistol",
+  "category" : "pistol",
   "twoHanded" : false,
-  "itemTags" : ["weapon","ranged","machinepistol"],
+  "itemTags" : ["weapon","ranged","pistol"],
   "fixedLevel" : false,
 
-  "inventoryIcon" : "iwrmp_prtchandgun.png",
+  "inventoryIcon" : "tungstenmagnum.png",
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "iwrmp_prtchandgun.png",
+    "middle" : "tungstenmagnum.png",
     "barrel" : "",
     "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
   },
@@ -26,8 +26,8 @@
     }
   },
 
-  "baseOffset" : [0.3, 0.25],
-  "muzzleOffset" : [1.25, 0.25],
+  "baseOffset" : [0.6, 0.25],
+  "muzzleOffset" : [1.5, 0.125],
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
@@ -37,19 +37,17 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
 
-    "fireTime" : 0.24,
-    "baseDps" : 7.0,
-    "energyUsage" : 21,
-    "inaccuracy" : 0.04,
-    "projectileCount" : 1,
+    "fireTime" : 0.8,
+    "baseDps" : 6.25,
+    "energyUsage" : 18.75,
+    "inaccuracy" : 0.025,
 
-    "burstTime" : 0.1,
-    "burstCount" : 2,
-    "fireType" : "burst",
+    "projectileCount" : 1,
+    "fireType" : "auto",
 
     "projectileType" : "standardbullet",
     "projectileParameters" : {
-      "knockback" : 3
+      "knockback" : 8
     },
     "stances" : {
       "idle" : {
@@ -70,7 +68,7 @@
         "allowFlip" : false
       },
       "cooldown" : {
-        "duration" : 0.11,
+        "duration" : 0.15,
         "armRotation" : 3,
         "weaponRotation" : 3,
         "twoHanded" : false,

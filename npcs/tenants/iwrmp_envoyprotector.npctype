@@ -50,12 +50,12 @@
               { "name" : "iwrmp_frontiersmanpants", "parameters" : { "colorIndex" : 0 } }
             ],
             "primary" : [
-              "durasteelrevolver",
-              "titaniummachinepistol",
-              "durasteelassaultrifle"
+              "iwrmp_durasteelrevolver",
+              "iwrmp_titaniummachinepistol",
+              "iwrmp_durasteelassaultrifle"
             ],
             "sheathedprimary" : [
-              "durasteelbroadsword"
+              "iwrmp_durasteelbroadsword"
             ]
           }
         ] ]

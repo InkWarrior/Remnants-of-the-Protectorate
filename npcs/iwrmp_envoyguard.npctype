@@ -31,15 +31,16 @@
             "chest" : [ { "name" : "iwrmp_frontiersmanchest" } ],
             "legs" : [ { "name" : "iwrmp_frontiersmanpants" } ],
 			"primary": [
-			  "titaniumspear",
-			  "tungstenaxe",
-			  "tungstenhammer",
-			  "durasteelbroadsword",
-			  "durasteelshortsword"
+			  "iwrmp_titaniumspear",
+			  "iwrmp_tungstenaxe",
+			  "iwrmp_tungstenhammer",
+			  "iwrmp_durasteelbroadsword",
+			  "iwrmp_durasteelshortsword"
 				],
 			"sheathedprimary": [
-			  "durasteelrevolver",
-			  "titaniummachinepistol"
+			  "iwrmp_durasteelrevolver",
+			  "iwrmp_titaniummachinepistol",
+			  "iwrmp_tungstenmagnum"
 				],
 			"alt": [{ "name": "iwrmp_protectorateshield" }]
           },
@@ -48,12 +49,13 @@
             "chest" : [ { "name" : "iwrmp_frontiersmanchest" } ],
             "legs" : [ { "name" : "iwrmp_frontiersmanpants" } ],
             "primary" : [
-              "durasteelassaultrifle",
-              "tungstenshotgun",
-              "titaniumsniperrifle"
+              "iwrmp_durasteelassaultrifle",
+              "iwrmp_tungstenshotgun",
+              "iwrmp_titaniumsniperrifle"
             ],
             "sheathedprimary" : [
-              "durasteelshortsword"
+              "iwrmp_durasteelshortsword",
+	      "iwrmp_titaniumdagger"
             ],
             "alt" : [{ "name" : "iwrmp_protectorateshield" }]
           }

@@ -1,33 +1,33 @@
 {
-  "itemName" : "iwrmp_prtchandgun",
-  "price" : 680,
+  "itemName" : "iwrmp_durasteelassaultrifle",
+  "price" : 960,
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "A standard-issue handgun for non-security members of the Protectorate.",
-  "shortdescription" : "SIH-3 Defender",
+  "description" : "A fully automatic military grade rifle.",
+  "shortdescription" : "Durasteel Assault Rifle",
   "tooltipKind" : "gun",
-  "category" : "machinePistol",
-  "twoHanded" : false,
-  "itemTags" : ["weapon","ranged","machinepistol"],
+  "category" : "assaultRifle",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","assaultrifle"],
   "fixedLevel" : false,
 
-  "inventoryIcon" : "iwrmp_prtchandgun.png",
+  "inventoryIcon" : "durasteelassaultrifle.png",
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "iwrmp_prtchandgun.png",
+    "middle" : "durasteelassaultrifle.png",
     "barrel" : "",
     "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
   },
   "animationCustom" : {
     "sounds" : {
-      "fire" : ["/sfx/gun/revolver1.ogg"]
+      "fire" : ["/sfx/gun/ar4.ogg"]
     }
   },
 
-  "baseOffset" : [0.3, 0.25],
-  "muzzleOffset" : [1.25, 0.25],
+  "baseOffset" : [0.4, 0.15],
+  "muzzleOffset" : [2.3, 0.15],
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
@@ -37,25 +37,23 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
 
-    "fireTime" : 0.24,
-    "baseDps" : 7.0,
-    "energyUsage" : 21,
-    "inaccuracy" : 0.04,
-    "projectileCount" : 1,
+    "fireTime" : 0.11,
+    "baseDps" : 10.5,
+    "energyUsage" : 31.5,
+    "inaccuracy" : 0.02,
 
-    "burstTime" : 0.1,
-    "burstCount" : 2,
-    "fireType" : "burst",
+    "projectileCount" : 1,
+    "fireType" : "auto",
 
     "projectileType" : "standardbullet",
     "projectileParameters" : {
-      "knockback" : 3
+      "knockback" : 5
     },
     "stances" : {
       "idle" : {
         "armRotation" : 0,
         "weaponRotation" : 0,
-        "twoHanded" : false,
+        "twoHanded" : true,
 
         "allowRotate" : true,
         "allowFlip" : true
@@ -64,7 +62,7 @@
         "duration" : 0,
         "armRotation" : 3,
         "weaponRotation" : 3,
-        "twoHanded" : false,
+        "twoHanded" : true,
 
         "allowRotate" : false,
         "allowFlip" : false
@@ -73,13 +71,15 @@
         "duration" : 0.11,
         "armRotation" : 3,
         "weaponRotation" : 3,
-        "twoHanded" : false,
+        "twoHanded" : true,
 
         "allowRotate" : false,
         "allowFlip" : false
       }
     }
   },
+
+  "altAbilityType" : "grenadelauncher",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }
