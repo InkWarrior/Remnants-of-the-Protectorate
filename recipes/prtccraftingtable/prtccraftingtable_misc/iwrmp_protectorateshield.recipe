@@ -1,6 +1,5 @@
 {
   "input" : [
-    { "item" : "money", "count" : 600 },
     { "item" : "durasteelbar", "count" : 8 },
     { "item" : "copperbar", "count" : 4 }
   ],
