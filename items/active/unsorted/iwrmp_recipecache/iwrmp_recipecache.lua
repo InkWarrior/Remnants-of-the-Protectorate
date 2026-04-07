@@ -25,18 +25,17 @@ end
 
 function learnBlueprint()
   local recipesToLearn = self.recipes
-  
+
   if type(recipesToLearn) ~= "table" then
     recipesToLearn = {recipesToLearn}
   end
-  
+
   for _, itemName in ipairs(recipesToLearn) do
     if type(itemName) == "table" then
       itemName = chooseRecipe(itemName)
     end
-    
-      player.giveBlueprint(itemName)
-    end
+
+    player.giveBlueprint(itemName)
   end
 
   animator.playSound("learnBlueprint")
