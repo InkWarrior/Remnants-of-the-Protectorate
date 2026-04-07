@@ -5,5 +5,5 @@
   ],
   "duration" : 2.5,
   "output" : { "item" : "iwrmp_watchmanpants", "count" : 1 },
-  "groups" : [ "iwrmp_prtccraftingtable", "iwrmp_prtcsailunit", "prtccraftingtable_misc", "all" ]
+  "groups" : [ "craftinganvil3", "armours", "all" ]
 }
