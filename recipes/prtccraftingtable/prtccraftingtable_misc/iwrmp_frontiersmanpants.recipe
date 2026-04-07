@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "durasteelbar", "count" : 4 },
-    { "item" : "leather", "count" : 1 }
-  ],
-  "duration" : 2.5,
-  "output" : { "item" : "iwrmp_frontiersmanpants", "count" : 1 },
-  "groups" : [ "craftinganvil3", "armours", "all" ]
-}
