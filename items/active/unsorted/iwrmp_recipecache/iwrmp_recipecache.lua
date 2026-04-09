@@ -1,5 +1,4 @@
 function init()
-  self.duplicateChance = config.getParameter("allowDuplicateChance")
   self.recipes = config.getParameter("recipes")
   self.swingTime = config.getParameter("swingTime")
   activeItem.setArmAngle(-math.pi / 2)
@@ -19,37 +18,45 @@ function update(dt, fireMode, shiftHeld)
 
     if self.swingTimer == 0 then
       learnBlueprint()
+      activeItem.setArmAngle(-math.pi / 2)
+      self.swingTimer = nil
     end
   end
 end
 
 function learnBlueprint()
-  local recipesToLearn = self.recipes
+  local recipeList = collectRecipes(self.recipes)
+  local learnedAny = false
 
-  if type(recipesToLearn) ~= "table" then
-    recipesToLearn = {recipesToLearn}
-  end
-
-  for _, itemName in ipairs(recipesToLearn) do
-    if type(itemName) == "table" then
-      itemName = chooseRecipe(itemName)
+  for _, itemName in ipairs(recipeList) do
+    if not player.blueprintKnown(itemName) then
+      player.giveBlueprint(itemName)
+      learnedAny = true
     end
-
-    player.giveBlueprint(itemName)
   end
 
-  animator.playSound("learnBlueprint")
-
-  item.consume(1)
+  if learnedAny then
+    animator.playSound("learnBlueprint")
+    item.consume(1)
+  end
 end
 
-function chooseRecipe(recipeOrRecipes)
+function collectRecipes(recipeOrRecipes, result, seen)
+  result = result or {}
+  seen = seen or {}
+
   if type(recipeOrRecipes) == "table" then
-    local choice = recipeOrRecipes[math.random(1, #recipeOrRecipes)]
-    return chooseRecipe(choice)
+    for _, recipe in ipairs(recipeOrRecipes) do
+      collectRecipes(recipe, result, seen)
+    end
   else
-    return recipeOrRecipes
+    if not seen[recipeOrRecipes] then
+      seen[recipeOrRecipes] = true
+      table.insert(result, recipeOrRecipes)
+    end
   end
+
+  return result
 end
 
 function updateAim()
