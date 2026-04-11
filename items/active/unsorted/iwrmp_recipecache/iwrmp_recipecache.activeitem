@@ -18,7 +18,6 @@
 
   "swingTime" : 0.15,
 
-  "recipes" : [
-    ["ironbroadsword", "ironshortsword", "ironassaultrifle", "ironrevolver", "tungstenhammer", "tungstenaxe", "tungstenshotgun", "tungstenmagnum", "titaniumspear", "titaniumdagger", "titaniumsniperrifle", "titaniummachinepistol", "durasteelbroadsword", "durasteelshortsword", "durasteelassaultrifle", "durasteelrevolver", "iwrmp_protectorateshield", "iwrmp_frontiersmanhead", "iwrmp_frontiersmanchest", "iwrmp_frontiersmanpants", "iwrmp_watchmanhead", "iwrmp_watchmanchest", "iwrmp_watchmanpants"]
-  ]
+  "recipes" : 
+    ["iwrmp_protectorateshield", "iwrmp_frontiersmanhead", "iwrmp_frontiersmanchest", "iwrmp_frontiersmanpants", "iwrmp_watchmanhead", "iwrmp_watchmanchest", "iwrmp_watchmanpants", "ironbroadsword", "ironshortsword", "ironassaultrifle", "ironrevolver", "tungstenhammer", "tungstenaxe", "tungstenshotgun", "tungstenmagnum", "titaniumspear", "titaniumdagger", "titaniumsniperrifle", "titaniummachinepistol", "durasteelbroadsword", "durasteelshortsword", "durasteelassaultrifle", "durasteelrevolver"]
 }
