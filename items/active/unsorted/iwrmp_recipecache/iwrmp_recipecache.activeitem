@@ -4,7 +4,7 @@
   "price" : 0,
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "A data cache. Contains recipes for weaponry, ideal for self-defence.",
+  "description" : "A backup data cache. Contains additional recipes for combat equipment, ideal for self-defence.",
   "shortdescription" : "Protectorate Cache",
   "tooltipKind" : "base",
   "category" : "Blueprint",
