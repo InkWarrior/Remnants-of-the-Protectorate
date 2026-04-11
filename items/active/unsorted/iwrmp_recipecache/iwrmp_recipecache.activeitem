@@ -3,14 +3,14 @@
   "level" : 1,
   "price" : 0,
   "maxStack" : 1,
-  "rarity" : "Common",
-  "description" : "Placeholder.",
-  "shortdescription" : "Placeholder",
+  "rarity" : "Rare",
+  "description" : "A data cache. Contains recipes for weaponry, ideal for self-defence.",
+  "shortdescription" : "Protectorate Cache",
   "tooltipKind" : "base",
   "category" : "Blueprint",
   "twoHanded" : true,
 
-  "inventoryIcon" : "iwrmp_recipecache.png",
+  "inventoryIcon" : "iwrmp_recipecacheicon.png",
 
   "animation" : "iwrmp_recipecache.animation",
 
