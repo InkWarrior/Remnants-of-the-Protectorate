@@ -22,6 +22,7 @@ __UPDATE__
   - Matter Seperator (shift pixel lighting effect from orange to blue)
   - Update to misc tab's icon in Trade Terminal to reflect the Watchman's set being shifted purely to the Anvil
 - Ensure that all instances of bookshelves in structures give appropriate codex loot
+- Tweak spawn rates for clothing items
 
 __MOD SUPPORT__
 - Enhanced Storage Addon
