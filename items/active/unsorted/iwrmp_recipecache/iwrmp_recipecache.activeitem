@@ -6,7 +6,8 @@
   "rarity" : "Rare",
   "description" : "A backup data cache. Contains additional combat equipment blueprints from the Protectorate recipe database, ideal for self-defense.",
   "shortdescription" : "Protectorate Cache",
-  "tooltipKind" : "base",
+  "tooltipKind" : "eppaugment",
+  "tooltipFields" : {"instructionLabel":""},
   "category" : "Blueprint",
   "twoHanded" : true,
 
