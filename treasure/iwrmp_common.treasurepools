@@ -231,7 +231,8 @@
         {"weight" : 0.35, "item" : ["bandage", 3]},
         {"weight" : 0.25, "item" : ["salve", 2]},
         {"weight" : 0.20, "item" : ["bottledwater", 3]},
-        {"weight" : 0.20, "item" : ["cannedfood", 3]}
+        {"weight" : 0.20, "item" : ["cannedfood", 3]},
+        {"weight" : 0.15, "item" : [ "capturepod", 1]}
       ],
       "poolRounds" : [
         [0.95, 1],
@@ -252,7 +253,8 @@
         {"weight" : 0.05, "item" : ["platinumdrill", 1]},
         {"weight" : 0.25, "item" : ["medkit", 2]},
         {"weight" : 0.20, "item" : ["nanowrap", 2]},
-        {"weight" : 0.20, "item" : ["cannedfood", 3]}
+        {"weight" : 0.20, "item" : ["cannedfood", 3]},
+        {"weight" : 0.15, "item" : [ "capturepod", 2]}
       ],
       "poolRounds" : [
         [0.95, 1],
