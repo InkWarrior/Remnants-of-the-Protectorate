@@ -19,7 +19,6 @@ Pixelflame - Also a huge shoutout to her for spriting what would be the definiti
 __UPDATE__
 - Add more white painted bits to Envoy ship.
 - Ensure that all instances of bookshelves in structures give appropriate codex loot
-- Tweak spawn rates for clothing items
 
 __MOD SUPPORT__
 - Enhanced Storage Addon
