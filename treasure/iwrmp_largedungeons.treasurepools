@@ -12,12 +12,34 @@
       "fill" : [
         {"pool" : "iwrmp_biosphereLore"}
       ],
+      "poolRounds" : [
+        [0.40, 1],
+        [0.30, 2]
+      ],
       "pool" : [
         {"weight" : 0.40, "pool" : "basicTreasure"}
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwrmp_biosphereGenericTreasure" : [
+    [1, {
+      "fill" : [
+        {"pool" : "basicTreasure"}
       ],
       "poolRounds" : [
         [0.40, 1],
         [0.30, 2]
+      ],
+      "pool" : [
+        {"weight" : 0.3, "pool" : "iwrmp_biosphereClothes"},
+        {"weight" : 0.40, "pool" : "basicTreasure"},
+        {"weight" : 0.40, "pool" : "basicTreasure"},
+        {"weight" : 0.40, "pool" : "basicTreasure"},
+        {"weight" : 0.40, "pool" : "basicTreasure"},
+        {"weight" : 0.40, "pool" : "basicTreasure"},
+        {"weight" : 0.40, "pool" : "basicTreasure"}
       ],
       "allowDuplication" : false
     }]
@@ -34,6 +56,34 @@
         {"weight" : 0.25, "item" : "iwrmp_rosenfieldlore1-codex"},
         {"weight" : 0.25, "item" : "iwrmp_rosenfieldlore2-codex"},
         {"weight" : 0.25, "item" : "iwrmp_rosenfieldlore3-codex"}
+      ]
+    }]
+  ],
+
+  "iwrmp_biosphereClothes" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.25, "item" : "protectoratechest"},
+        {"weight" : 0.25, "item" : "protectoratepants"},
+        {"weight" : 0.25, "item" : "iwrmp_volunteerhead"},
+        {"weight" : 0.25, "item" : "iwrmp_volunteerchest"},
+        {"weight" : 0.25, "item" : "iwrmp_volunteerpants"},
+        {"weight" : 0.25, "item" : "iwrmp_envoyuniformchest"},
+        {"weight" : 0.25, "item" : "iwrmp_envoyuniformpants"}
+      ]
+    }]
+  ],
+
+  "iwrmp_biosphereFurniture" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.25, "item" : "iwrmp_prtcbeaconflag"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcsmallscanner"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcradiorepeater"},
+        {"weight" : 0.25, "item" : "iwrmp_volunteerchest"},
+        {"weight" : 0.25, "item" : "iwrmp_volunteerpants"},
+        {"weight" : 0.25, "item" : "iwrmp_envoyuniformchest"},
+        {"weight" : 0.25, "item" : "iwrmp_envoyuniformpants"}
       ]
     }]
   ],
