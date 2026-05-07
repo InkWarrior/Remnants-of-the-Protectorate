@@ -177,6 +177,14 @@
                  "height":40,
                  "id":689,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"iwrmp_biosphereTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,

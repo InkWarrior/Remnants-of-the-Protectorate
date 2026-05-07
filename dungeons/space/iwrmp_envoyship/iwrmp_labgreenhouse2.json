@@ -1022,6 +1022,27 @@
                  "width":80,
                  "x":208,
                  "y":304
+                }, 
+                {
+                 "height":48,
+                 "id":1447,
+                 "name":"",
+                 "properties":
+                    {
+                     "colorVariant":"8",
+                     "front":"slopedinsetpanel"
+                    },
+                 "propertytypes":
+                    {
+                     "colorVariant":"string",
+                     "front":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":40,
+                 "x":16,
+                 "y":296
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2329,7 +2350,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":1447,
+ "nextobjectid":1448,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
