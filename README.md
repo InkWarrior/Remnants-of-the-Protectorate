@@ -15,7 +15,7 @@ Armok - A huge shoutout to him for being a good friend in general, for doing a l
 
 Pixelflame - Also a huge shoutout to her for spriting what would be the definitive version of the Protectorate Astraeus logo.
 
-# To do list
+# To do list (0.1.2)
 __UPDATE__
 
 
@@ -23,16 +23,29 @@ __MOD SUPPORT__
 - Enhanced Storage Addon
 - Improved Containers Addon
 - Project Redemption Addon (at least the stuff on my side).
+- Project Ancient Cosmos (don't forget to contact Pixelflame).
 
 __GENERAL:__
 
 __NPCS__
+- Add refugees for the Biosphere modules.
+- Update dialogues for habitat protector.
 
 __MISC__
 
 __FURNITURE__
+- Protectorate Radar Dish.
+- Protectorate Antenna.
+- Add posters (x3).
+- Add objects for the main rooms of the Biospheres.
+- Add Protectorate personal lockers.
  
 __DUNGEONS__
+- Make the Ruined Biosphere (should be somewhat easy).
+- Make more variants for the Artificial Biosphere parts.
+  - Add refugee modules.
+  - Add headquarter modules.
+-Add more variants for both ships.
 
 __CLOTHES__
 
