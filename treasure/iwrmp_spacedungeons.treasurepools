@@ -232,6 +232,7 @@
       ],
       "pool" : [
 	    {"weight" : 1.0, "item" : "iwrmp_protectoratelore2-codex"},
+	    {"weight" : 1.0, "item" : "iwrmp_aureatebrotherhood1-codex"},
         {"weight" : 1.0, "item" : "iwrmp_envoylore1-codex"},
         {"weight" : 1.0, "item" : "iwrmp_envoylore2-codex"},
         {"weight" : 1.0, "item" : "iwrmp_envoylore3-codex"},
