@@ -45,7 +45,7 @@ __DUNGEONS__
 - Make more variants for the Artificial Biosphere parts.
   - Add refugee modules.
   - Add headquarter modules.
--Add more variants for both ships.
+- Add more variants for both ships.
 
 __CLOTHES__
 
