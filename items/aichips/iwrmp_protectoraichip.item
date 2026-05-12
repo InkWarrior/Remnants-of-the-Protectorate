@@ -14,7 +14,8 @@
 
   "aiData" : {
     "aiFrames" : "iwrmp_protectorAi.png",
-    "staticFrames" : "iwrmp_staticprotector.png",
+    //"staticFrames" : "iwrmp_staticprotector.png",
+    "staticFrames" : "staticApex.png",
     "portraitFrames" : "portraits/iwrmp_protectorportrait.png",
     "questPortrait" : "iwrmp_protector"
   }

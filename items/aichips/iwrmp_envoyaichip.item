@@ -14,7 +14,8 @@
 
   "aiData" : {
     "aiFrames" : "iwrmp_envoyAi.png",
-    "staticFrames" : "iwrmp_staticenvoy.png",
+    //"staticFrames" : "iwrmp_staticenvoy.png",
+    "staticFrames" : "staticGlitch.png",
     "portraitFrames" : "portraits/iwrmp_envoyportrait.png",
     "questPortrait" : "iwrmp_envoy"
   }
