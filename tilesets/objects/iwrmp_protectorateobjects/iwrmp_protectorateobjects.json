@@ -426,11 +426,11 @@
      "46":
         {
          "\/\/description":"A helmet somebody left here.",
-         "\/\/name":"iwrmp_prtcenvoyhelmet",
+         "\/\/name":"iwrmp_prtcenvoyhelmet1",
          "\/\/shortdescription":"Envoy E.V.A. Helmet",
          "imagePositionX":"0",
          "imagePositionY":"0",
-         "object":"iwrmp_prtcenvoyhelmet",
+         "object":"iwrmp_prtcenvoyhelmet1",
          "tilesetDirection":"right"
         },
      "47":
