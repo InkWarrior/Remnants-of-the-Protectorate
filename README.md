@@ -24,6 +24,8 @@ __MOD SUPPORT__
 - Improved Containers Addon
 - Project Redemption Addon (at least the stuff on my side).
 - Project Ancient Cosmos (don't forget to contact Pixelflame).
+- SAIL replacer addons (take a look at AEONA or AVIAN).
+- K'Rakoth patch (in progress).
 
 __GENERAL:__
 
