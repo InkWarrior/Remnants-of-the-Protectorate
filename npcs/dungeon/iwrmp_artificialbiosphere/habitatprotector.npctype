@@ -30,7 +30,7 @@
             "chest" : [ { "name" : "protectoratechest", "parameters" : { "colorIndex" : [ 8 ] } }, { "name" : "protectoratechest", "parameters" : { "colorIndex" : [ 8 ] } }, { "name" : "protectorateshirtchest", "parameters" : { "colorIndex" : [ 3 ] } }, { "name" : "protectoratevestchest", "parameters" : { "colorIndex" : [ 3 ] } }, { "name" : "workoutchest", "parameters" : { "colorIndex" : [ 3 ] } } ],
             "legs" : [ { "name" : "protectoratepants", "parameters" : { "colorIndex" : [ 8 ] } } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           }
         ] ]
     ]

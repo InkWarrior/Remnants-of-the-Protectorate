@@ -23,7 +23,7 @@
             "chest" : [ { "name" : "iwrmp_volunteerchest" } ],
             "legs" : [ { "name" : "iwrmp_volunteerpants" } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           }
         ] ]
     ]

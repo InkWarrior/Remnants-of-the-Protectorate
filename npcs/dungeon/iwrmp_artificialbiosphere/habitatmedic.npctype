@@ -32,7 +32,7 @@
             "chest" : [ { "name" : "iwrmp_shipmedicchest" } ],
             "legs" : [ { "name" : "iwrmp_shipmediclegs" } ],
             "primary" : [ "medkit" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           }
         ] ]
     ]
