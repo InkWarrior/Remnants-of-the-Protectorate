@@ -39,7 +39,7 @@
 
     "fireTime" : 1.2,
     "baseDps" : 10.5,
-    "energyUsage" : 31.5,
+    "energyUsage" : 19,
     "inaccuracy" : 0.13,
 
     "projectileCount" : 8,
@@ -79,8 +79,6 @@
       }
     }
   },
-
-  "altAbilityType" : "burstshot",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }
