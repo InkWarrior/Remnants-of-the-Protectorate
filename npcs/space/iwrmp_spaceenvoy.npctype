@@ -22,7 +22,7 @@
             "chest" : [ { "name" : "iwrmp_envoyuniformchest" } ],
             "legs" : [ { "name" : "iwrmp_envoyuniformpants" } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           }
         ] ]
     ]

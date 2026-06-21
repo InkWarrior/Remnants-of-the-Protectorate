@@ -32,14 +32,14 @@
             "chest" : [ { "name" : "iwrmp_mechanicchest" } ],
             "legs" : [ { "name" : "iwrmp_mechaniclegs" } ],
             "primary" : [ "npcwrench" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           },
           {
 		    "head" : [ { "name" : "iwrmp_engineerhead" }, { "name" : "iwrmp_engineerhead" }, "" ],
             "chest" : [ { "name" : "iwrmp_engineerchest" } ],
             "legs" : [ { "name" : "iwrmp_engineerlegs" } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           }
         ] ]
     ]

@@ -95,7 +95,7 @@
             "legs" : [ { "name" : "iwrmp_protectorcaptainpants" } ],
             "back" : [ { "name" : "shortcapeback", "parameters" : { "colorIndex" : [1] } } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           }
         ] ]
     ]

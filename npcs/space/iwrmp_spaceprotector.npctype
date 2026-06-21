@@ -22,7 +22,7 @@
             "chest" : [ { "name" : "protectoratechest", "parameters" : { "colorIndex" : [ 0 ] } } ],
             "legs" : [ { "name" : "protectoratepants", "parameters" : { "colorIndex" : [ 0 ] } } ],
             "primary" : [ "" ],
-            "sheathedprimary" : [ "npcpistol" ]
+            "sheathedprimary" : [ "iwrmp_npcprtchandgun" ]
           }
         ] ]
     ]
