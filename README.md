@@ -48,6 +48,7 @@ __DUNGEONS__
   - Add refugee modules.
   - Add headquarter modules.
 - Add more variants for both ships.
+- Add scorched biome microdungeons (aid camps/outposts for Deadbeats, localized terraforming efforts, hostile Deadbeat occupied Protectorate ruins)
 
 __CLOTHES__
 
