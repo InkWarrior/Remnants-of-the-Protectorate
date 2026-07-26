@@ -1,7 +1,7 @@
 {
   "id" : "iwrmp_biospherelore1",
   "title" : "Welcome to the Biosphere!",
-  "description" : "A welcoming message for Protectors assigned to Artifical Biospheres.",
+  "description" : "A welcoming message for Protectors assigned to Artificial Biospheres.",
   "icon" : "protectoratepad1.png",
   "contentPages" : [ 
   
