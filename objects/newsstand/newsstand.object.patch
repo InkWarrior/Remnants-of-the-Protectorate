@@ -1,0 +1,12 @@
+[
+//BOOKSTORE PATCH
+  {
+    "op": "test",
+    "path": "/storeRandomPool/news"
+  },
+  {
+    "op": "add",
+    "path": "/storeRandomPool/news/-",
+    "value": "iwrmp_protectoratelore4"
+  }
+]

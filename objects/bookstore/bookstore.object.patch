@@ -142,11 +142,6 @@
         {
             "op": "add",
             "path": "/storeInventory/other/-",
-            "value": "iwrmp_protectoratelore4-codex"
-        },
-        {
-            "op": "add",
-            "path": "/storeInventory/other/-",
             "value": "iwrmp_protectoratetrivia-codex"
         },
         {
