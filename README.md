@@ -36,11 +36,16 @@ __NPCS__
 __MISC__
 
 __FURNITURE__
-- Protectorate Radar Dish.
-- Protectorate Antenna.
+- Protectorate Radar Dish (WIP).
+- Protectorate Antenna (WIP).
+- Envoy Flora samples (x15) (WIP).
+- Critter Posters (x12) (WIP).
+- Biosphere Hologram (WIP).
+- Biosphere Display (WIP).
+- Monster Displays (x13) (WIP).
 - Add posters (x3).
 - Add objects for the main rooms of the Biospheres.
-- Add Protectorate personal lockers.
+- Add Protectorate personal lockers (x3) (WIP).
  
 __DUNGEONS__
 - Make the Ruined Biosphere (should be somewhat easy).
