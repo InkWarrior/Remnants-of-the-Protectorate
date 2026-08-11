@@ -28,10 +28,13 @@ __MOD SUPPORT__
 - K'Rakoth patch (in progress).
 
 __GENERAL:__
+- Allow for furniture store units and blueprints to spawn on Emergency Pods.
+- Add new reward bag: Research Crate (gives some of the new items added in this update; spawns only in ships and biospheres).
 
 __NPCS__
 - Add refugees for the Biosphere modules.
 - Update dialogues for habitat protector.
+- Add Protectorate Merchants (mostly to sell furniture).
 
 __MISC__
 
