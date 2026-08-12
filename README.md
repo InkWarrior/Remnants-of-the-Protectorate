@@ -38,6 +38,11 @@ __NPCS__
 
 __MISC__
 
+__MONSTERS__
+- Complete alternative version of the Gardener Bot
+- Complete Caretaker Drone
+- Complete Protectorate Turret
+
 __FURNITURE__
 - Protectorate Radar Dish (WIP).
 - Protectorate Antenna (WIP).
@@ -56,6 +61,7 @@ __DUNGEONS__
   - Add refugee modules.
   - Add headquarter modules.
 - Add more variants for both ships.
+- Start with the Protectorate Space Station
 - Add scorched biome microdungeons (aid camps/outposts for Deadbeats, localized terraforming efforts, hostile Deadbeat occupied Protectorate ruins)
 - Oceanic microdungeons? (above and/or under the waves?)
 
