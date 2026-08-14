@@ -1,0 +1,40 @@
+{
+  "objectName" : "iwrmp_prtccaretakerunit2",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "An inactive Caretaker drone above its recharging station.",
+  "shortdescription" : "Caretaker Unit",
+  "race" : "protectorate",
+
+  "apexDescription" : "This is a Caretaker drone.",
+  "avianDescription" : "A flying Protectorate bot",
+  "floranDescription" : "Flying robotss.",
+  "glitchDescription" : "Observant. These machines don't have the same sentience as us.",
+  "humanDescription" : "A Caretaker drone! I should get one",
+  "hylotlDescription" : "A drone used for tending enclosed enviroments",
+  "novakidDescription" : "A little bot.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtccaretakerunit2.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtccaretakerunit2.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "objectName" : "iwrmp_prtcoshroomsample",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of an aquatic Oshroom.",
+  "shortdescription" : "Oshroom Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [180, 184, 133],
+
+  "apexDescription" : "I'm glad these saplings are okay.",
+  "avianDescription" : "Is it necessary to have all of that plastic to carry a sapling around?",
+  "floranDescription" : "Floran glad ssaplings are good.",
+  "glitchDescription" : "Happy. It's good to see these plants are in pristine condition.",
+  "humanDescription" : "Ah look at that! I didn't know plants had crates of their own.",
+  "hylotlDescription" : "I undestand the safety measures, but this feels unnecessary .",
+  "novakidDescription" : "A lovely collection o' saplings.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcoshroomsample.png:<color>" }, { "image" : "prtcoshroomsamplelit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcoshroomsample.png:<color>" }, { "image" : "prtcoshroomsamplelit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

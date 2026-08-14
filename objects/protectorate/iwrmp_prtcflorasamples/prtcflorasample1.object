@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcflorasample1",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of a Icecrown tree sapling.",
+  "shortdescription" : "Icecrown Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "This is one of those crystal trees from Tundras",
+  "avianDescription" : "Seems to be made out of crystal.",
+  "floranDescription" : "Floran lovesss ice sapling.",
+  "glitchDescription" : "Observant. A sapling from an Icecrown tree.",
+  "humanDescription" : "I have seen these before! in Tundra planets!",
+  "hylotlDescription" : "I'm surprised by how far nature can go.",
+  "novakidDescription" : "A lovely icy sapling.",
+
+
+  "inventoryIcon" : "icon1.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample1.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample1.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcflorasample1" ]
+}

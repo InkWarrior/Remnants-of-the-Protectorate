@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcflorasample8",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of a Wolfcorn plant.",
+  "shortdescription" : "Wolfcorn Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "I wonder what relation it has with earth wolves.",
+  "avianDescription" : "Reminds me of corn. Huh, now I understand the name.",
+  "floranDescription" : "Floran lovesss small corn.",
+  "glitchDescription" : "Observant. Despite being called \"corn\" it's not edible.",
+  "humanDescription" : "I wonder where these came from.",
+  "hylotlDescription" : "Nature always gives the strangest shapes to plants.",
+  "novakidDescription" : "A lovely corn-lookin' plant.",
+
+
+  "inventoryIcon" : "icon8.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample8.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample8.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcflorasample8" ]
+}

@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter2",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on Butterflies. This one is blue.",
+  "shortdescription" : "Butterfly Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "Butterflies are pretty!",
+  "avianDescription" : "Butterflies are beautiful, but not really tasty.",
+  "floranDescription" : "Butterfliesss!!!",
+  "glitchDescription" : "Attentive. Butterflies are such pretty creatures.",
+  "humanDescription" : "I always love to see butterflies.",
+  "hylotlDescription" : "A very delicate and elegant bug.",
+  "novakidDescription" : "What a pretty lookin' fellow.",
+
+  "inventoryIcon" : "icon2.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter2.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter2" ]
+}

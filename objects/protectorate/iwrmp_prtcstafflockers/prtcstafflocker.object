@@ -1,0 +1,59 @@
+{
+  "objectName" : "iwrmp_prtcstafflocker",
+  "colonyTags" : ["protectorate","storage"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 175,
+  "description" : "A personal locker used by staff of the Terrene Protectorate.",
+  "shortdescription" : "Protectorate Staff Locker",
+  "race" : "protectorate",
+  "health" : 1.5,
+  "printable" : false,
+
+  "apexDescription" : "I hope this doesn't close suddenly while using it.",
+  "avianDescription" : "This looks good enought for storing one's personal things.",
+  "floranDescription" : "Can Floran hide in thiss?",
+  "glitchDescription" : "Observant. A designated locker for personal use.",
+  "humanDescription" : "I thought I saw a funny name in one of these lockers.",
+  "hylotlDescription" : "I'm not sure if the design of this locker is ideal.",
+  "novakidDescription" : "Y'could stash a whole lotta somethin' into a locker like this.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcstafflocker.png:<color>.<key>" }, { "image" : "prtcstafflockerlit.png:<color>.<key>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, -8],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcstafflocker.png:<color>.<key>" }, { "image" : "prtcstafflockerlit.png:<color>.<key>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, -8],
+      "frames" : 3,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/gunchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/gunchest_close.ogg" ],
+  "slotCount" : 48,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600,
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcstafflocker" ]
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "body",
+  "category" : "iwrmp_interiorbot",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png",
+    "bodyfullbright" : "bodyfullbright.png"
+  }
+}

@@ -14,7 +14,8 @@
         {"pool" : "iwrmp_supplypodSeeds" },
         {"pool" : "iwrmp_supplypodLore" },
         {"pool" : "chestMoney" },
-        {"item" : "iwrmp_prtchandgun"}
+        {"item" : "iwrmp_prtchandgun"},
+        {"pool" : "iwrmp_supplypodFurniture" }
       ],
 	  
 	 "allowDuplication" : false
@@ -208,6 +209,60 @@
     [5.9, {
 	  "pool" : [
 		{"weight" : 1, "item" : "iwrmp_easprotectorate1-codex" }
+      ]
+    } ]
+  ],
+
+  "iwrmp_supplypodFurniture" : [
+    [0, {
+      "poolRounds" : [
+        [0.4, 2],
+        [0.2, 3]
+      ],
+      "allowDuplication" : false,
+	  "pool" : [
+		{"weight" : 0.35, "item" : ["iwrmp_furniturestoreunit", 1]},
+        {"weight" : 0.35, "item" : ["iwrmp_pocketstoreunit", 1]},
+        {"weight" : 0.35, "item" : ["iwrmp_survivalpod", 1]},
+        {"weight" : 0.35, "item" : ["iwrmp_researchcrate", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtctable-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcchair-recipe", 2]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcbookcase-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccabinet-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccaptainbed-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccratelarge-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccratesmall-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcpottedplant-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcshiplight-recipe", 1]}
+      ]
+    } ],
+    [3.9, {
+      "poolRounds" : [
+        [0.4, 2],
+        [0.2, 3]
+      ],
+      "allowDuplication" : false,
+	  "pool" : [
+		{"weight" : 0.35, "item" : ["iwrmp_furniturestoreunit", 2]},
+        {"weight" : 0.35, "item" : ["iwrmp_pocketstoreunit", 2]},
+        {"weight" : 0.35, "item" : ["iwrmp_survivalpod", 2]},
+        {"weight" : 0.35, "item" : ["iwrmp_researchcrate", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtctable-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcchair-recipe", 2]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcbookcase-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccabinet-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccaptainbed-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccratelarge-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccratesmall-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcpottedplant-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicdoor-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcservicedoor-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcshipdoor-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcwhitedoor-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcstafflocker-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmediclocker-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcservicelocker-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcshiplight-recipe", 1]}
       ]
     } ]
   ]

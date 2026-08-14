@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter1",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on Blood Toads.",
+  "shortdescription" : "Blood Toad Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "Blood Toads are not related to blood at all?",
+  "avianDescription" : "Oh, I see, they are called Blood Toads because of their red skin.",
+  "floranDescription" : "Toadsss!!!",
+  "glitchDescription" : "Attentive. Blood Toads are only called like that because of their color.",
+  "humanDescription" : "I didn't know Blood Toads are venomous!",
+  "hylotlDescription" : "They look cute, but surely can kill an adult Hylotl.",
+  "novakidDescription" : "What a funny lookin' fellow.",
+
+  "inventoryIcon" : "icon1.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter1.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter1" ]
+}

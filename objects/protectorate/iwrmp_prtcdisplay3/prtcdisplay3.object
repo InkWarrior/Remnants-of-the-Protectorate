@@ -1,0 +1,61 @@
+{
+  "objectName" : "iwrmp_prtcdisplay3",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 115,
+  "description" : "A wall-mounted screen, displaying indicators on a Protectorate habitat.",
+  "shortdescription" : "Remodeled Habitat Display",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [27, 50, 64],
+
+  "apexDescription" : "This display is showing measurements of some kind.",
+  "avianDescription" : "This display is giving me a lot of information on this building.",
+  "floranDescription" : "Floran doesssn't care about moving barss.",
+  "glitchDescription" : "Curious. What kind of indicators are being shown?",
+  "humanDescription" : "The moving indicators are a bit hypnotising. ",
+  "hylotlDescription" : "It would be more helpful if the indicators would move slower.",
+  "novakidDescription" : "I like the movin' bars.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcdisplay3.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "prtcdisplay3.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "prtcdisplay3.animation",
+  "animationParts" : {
+    "bg" : "prtcdisplay3.png",
+    "fg" : "prtcdisplay3lit.png"
+  },
+  "animationPosition" : [-16, -8],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/bunkerdisplay.ogg",
+  "soundEffectRangeMultiplier" : 0.25,
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcdisplay3" ]
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "plant1",
+  "category" : "iwrmp_interiorbot",
+  "type" : "plant",
+
+  "frames" : {
+    "plant" : "plant1.png"
+  },
+
+  "parameters" : { }
+}

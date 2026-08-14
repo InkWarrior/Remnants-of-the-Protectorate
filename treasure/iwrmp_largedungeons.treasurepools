@@ -13,11 +13,18 @@
         {"pool" : "iwrmp_biosphereLore"}
       ],
       "poolRounds" : [
-        [0.40, 1],
-        [0.30, 2]
+        [0.40, 2],
+        [0.30, 3]
       ],
       "pool" : [
-        {"weight" : 0.40, "pool" : "basicTreasure"}
+        {"weight" : 0.3, "pool" : "iwrmp_biosphereClothes"},
+        {"weight" : 0.40, "pool" : "iwrmp_biosphereFurniture"},
+        {"weight" : 0.40, "pool" : "iwrmp_biosphereFurniture"},
+        {"weight" : 0.01, "item" : "iwrmp_ierfood"},
+        {"weight" : 0.10, "item" : "iwrmp_pocketstoreunit"},
+        {"weight" : 0.10, "item" : "iwrmp_furniturestoreunit"},
+        {"weight" : 0.15, "item" : "iwrmp_survivalpod"},
+        {"weight" : 0.25, "item" : "iwrmp_researchcrate"}
       ],
       "allowDuplication" : false
     }]
@@ -29,17 +36,18 @@
         {"pool" : "basicTreasure"}
       ],
       "poolRounds" : [
-        [0.40, 1],
-        [0.30, 2]
+        [0.40, 2],
+        [0.30, 3]
       ],
       "pool" : [
         {"weight" : 0.3, "pool" : "iwrmp_biosphereClothes"},
+        {"weight" : 0.40, "pool" : "iwrmp_biosphereFurniture"},
         {"weight" : 0.40, "pool" : "basicTreasure"},
-        {"weight" : 0.40, "pool" : "basicTreasure"},
-        {"weight" : 0.40, "pool" : "basicTreasure"},
-        {"weight" : 0.40, "pool" : "basicTreasure"},
-        {"weight" : 0.40, "pool" : "basicTreasure"},
-        {"weight" : 0.40, "pool" : "basicTreasure"}
+        {"weight" : 0.01, "item" : "iwrmp_ierfood"},
+        {"weight" : 0.10, "item" : "iwrmp_pocketstoreunit"},
+        {"weight" : 0.10, "item" : "iwrmp_furniturestoreunit"},
+        {"weight" : 0.15, "item" : "iwrmp_survivalpod"},
+        {"weight" : 0.25, "item" : "iwrmp_researchcrate"}
       ],
       "allowDuplication" : false
     }]
@@ -81,10 +89,39 @@
         {"weight" : 0.25, "item" : "iwrmp_prtcbeaconflag"},
         {"weight" : 0.25, "item" : "iwrmp_prtcsmallscanner"},
         {"weight" : 0.25, "item" : "iwrmp_prtcradiorepeater"},
-        {"weight" : 0.25, "item" : "iwrmp_volunteerchest"},
-        {"weight" : 0.25, "item" : "iwrmp_volunteerpants"},
-        {"weight" : 0.25, "item" : "iwrmp_envoyuniformchest"},
-        {"weight" : 0.25, "item" : "iwrmp_envoyuniformpants"}
+        {"weight" : 0.25, "item" : "iwrmp_prtcconsole"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcholoconsole", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcdisplay", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcdisplay2", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcdisplay3", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtclabcupboard", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtclabtable", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmedicarms", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmedicbed", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmedicbed2", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmediccabinet", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmedicceilingmonitor", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmediccupboard", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmedicdisplay1", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmedicdisplay2", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmediclight", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmedicpanel", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmedicrobotlight", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcmedictrolley", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcsmallmonitor", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcstandconsole", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcstoragelocker", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcterminal", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtctinycrate1", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtctinycrate2", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtctopmonitor", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcholoplanet", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcholoship1", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcholoship2", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcholobiosphere", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcantenna", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtcradardish", 1},
+        {"weight" : 0.25, "item" : "iwrmp_prtctestchamber", 1}
       ]
     }]
   ],
@@ -95,7 +132,12 @@
         {"item" : "iwrmp_biospherelore1-codex"}
       ],
       "pool" : [
-        {"weight" : 0.40, "pool" : "basicTreasure"}
+        {"weight" : 0.40, "pool" : "basicTreasure"},
+        {"weight" : 0.25, "item" : "iwrmp_ierfood"},
+        {"weight" : 0.10, "item" : "iwrmp_pocketstoreunit"},
+        {"weight" : 0.10, "item" : "iwrmp_furniturestoreunit"},
+        {"weight" : 0.10, "item" : "iwrmp_survivalpod"},
+        {"weight" : 0.05, "item" : "iwrmp_researchcrate"}
       ],
       "poolRounds" : [
         [0.40, 1],
@@ -111,7 +153,12 @@
         {"pool" : "iwrmp_biosphereCrewLore"}
       ],
       "pool" : [
-        {"weight" : 0.40, "pool" : "basicTreasure"}
+        {"weight" : 0.40, "pool" : "basicTreasure"},
+        {"weight" : 0.25, "item" : "iwrmp_ierfood"},
+        {"weight" : 0.10, "item" : "iwrmp_pocketstoreunit"},
+        {"weight" : 0.10, "item" : "iwrmp_furniturestoreunit"},
+        {"weight" : 0.10, "item" : "iwrmp_survivalpod"},
+        {"weight" : 0.05, "item" : "iwrmp_researchcrate"}
       ],
       "poolRounds" : [
         [0.40, 1],

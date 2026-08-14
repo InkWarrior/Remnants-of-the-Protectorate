@@ -1,0 +1,26 @@
+{
+  "itemName" : "iwrmp_researchcrate",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "A research crate. Contains samples and scientific resources.",
+  "shortdescription" : "Envoy Research Crate",
+  "twoHanded" : true,
+  "tooltipKind" : "eppaugment",
+  "tooltipFields" : {"instructionLabel":""},
+
+  "inventoryIcon" : "icon4.png",
+  "animation" : "researchcrate.animation",
+  "animationCustom" : {},
+  "scripts" : ["pocketstoreunit.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwrmp_researchCrateReward",
+    "level" : 1
+  }
+}

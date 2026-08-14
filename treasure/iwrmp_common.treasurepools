@@ -147,15 +147,28 @@
       "pool" : [
         {"weight" : 0.25, "item" : ["iwrmp_prtctable", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcchair", 2]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcshelf", 2]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcbookcase", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccabinet", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccaptainbed", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccratelarge", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccratesmall", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcpottedplant", 2]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmedicdoor", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcservicedoor", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcshipdoor", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcwhitedoor", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcstafflocker", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcmediclocker", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcservicelocker", 1]},
         {"weight" : 0.25, "item" : ["redlight", 3]},
-        {"weight" : 0.25, "item" : ["apexshiplight", 3]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcshiplight", 3]},
         {"weight" : 0.25, "item" : ["mysteriouslight", 5]}
+      ],
+      "poolRounds" : [
+        [0.95, 3],
+        [0.30, 4],
+        [0.05, 5]
       ]
     }]
   ],
@@ -171,6 +184,7 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtcholoconsole", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcdisplay", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcdisplay2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcdisplay3", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtclabcupboard", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtclabtable", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcmedicarms", 1]},
@@ -194,12 +208,16 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtctopmonitor", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcholoplanet", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcholoship1", 1]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtcholoship2", 1]}
+        {"weight" : 0.25, "item" : ["iwrmp_prtcholoship2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcholobiosphere", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcantenna", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcradardish", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtctestchamber", 1]}
       ],
       "poolRounds" : [
-        [0.95, 1],
-        [0.30, 2],
-        [0.05, 3]
+        [0.95, 4],
+        [0.30, 5],
+        [0.05, 6]
       ]
     }]
   ],
@@ -231,8 +249,7 @@
         {"weight" : 0.35, "item" : ["bandage", 3]},
         {"weight" : 0.25, "item" : ["salve", 2]},
         {"weight" : 0.20, "item" : ["bottledwater", 3]},
-        {"weight" : 0.20, "item" : ["cannedfood", 3]},
-        {"weight" : 0.15, "item" : [ "capturepod", 1]}
+        {"weight" : 0.20, "item" : ["cannedfood", 3]}
       ],
       "poolRounds" : [
         [0.95, 1],
@@ -253,8 +270,7 @@
         {"weight" : 0.05, "item" : ["platinumdrill", 1]},
         {"weight" : 0.25, "item" : ["medkit", 2]},
         {"weight" : 0.20, "item" : ["nanowrap", 2]},
-        {"weight" : 0.20, "item" : ["cannedfood", 3]},
-        {"weight" : 0.15, "item" : [ "capturepod", 2]}
+        {"weight" : 0.20, "item" : ["cannedfood", 3]}
       ],
       "poolRounds" : [
         [0.95, 1],
@@ -275,7 +291,6 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool3", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool4", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool5", 1]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool1", 1]},
         {"weight" : 0.25, "item" : ["sleepingbag", 1]},
         {"weight" : 0.25, "item" : ["tent1", 1]},
         {"weight" : 0.25, "item" : ["tent2", 1]}
@@ -284,6 +299,52 @@
         [0.95, 1],
         [0.30, 2],
         [0.05, 3]
+      ]
+    }]
+  ],
+
+  // ================================
+  //       Envoy Research Crate
+  // ================================
+
+  "iwrmp_researchCrateReward" : [
+    [0, {
+      "poolRounds" : [
+        [0.95, 2],
+        [0.30, 3],
+        [0.05, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter3", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter4", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter5", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter6", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter7", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter8", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter9", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter10", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter11", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccritterposter12", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample3", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample4", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample5", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample6", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample7", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample8", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample9", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample10", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample11", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample12", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample13", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcflorasample14", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcgardenerunit1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcgardenerunit2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccaretakerunit1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtccaretakerunit2", 1]}
       ]
     }]
   ]

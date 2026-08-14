@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcflorasample6",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of a Chlorogramma plant.",
+  "shortdescription" : "Chlorogramma Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "This is one of those plants from Alien planets.",
+  "avianDescription" : "Seems to be very alien.",
+  "floranDescription" : "Floran lovesss alien plant.",
+  "glitchDescription" : "Observant. The core of this plants makes it look like a symbol.",
+  "humanDescription" : "I have seen these before! in Alien planets!",
+  "hylotlDescription" : "Nature flourishes even in the harshest places.",
+  "novakidDescription" : "A lovely symbolic plant.",
+
+
+  "inventoryIcon" : "icon6.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample6.png:<color>" }, { "image" : "prtcflorasamplelit3.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample6.png:<color>" }, { "image" : "prtcflorasamplelit3.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcflorasample6" ]
+}

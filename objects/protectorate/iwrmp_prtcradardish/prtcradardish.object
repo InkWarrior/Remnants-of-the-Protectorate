@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtcradardish",
+  "colonyTags" : ["protectorate","electronic","mechanical"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 210,
+  "description" : "A radar dish. Not exactly a dish, even less a salad dish.",
+  "shortdescription" : "Protectorate Radar Dish",
+  "race" : "generic",
+
+  "apexDescription" : "A Protectorate radar dish.",
+  "avianDescription" : "Well, not a dish, but nice still.",
+  "floranDescription" : "Floran not meant to touch any radar after last time.",
+  "glitchDescription" : "Interested. A Protectorate radar dish.",
+  "humanDescription" : "A radar dish for... Radar things.",
+  "hylotlDescription" : "A dish for receiving radio waves.",
+  "novakidDescription" : "Some kinda Protectorate dish.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcradardish.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcradardish.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcradardish" ]
+}

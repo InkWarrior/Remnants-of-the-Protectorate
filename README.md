@@ -15,7 +15,7 @@ Armok - A huge shoutout to him for being a good friend in general, for doing a l
 
 Pixelflame - Also a huge shoutout to her for spriting what would be the definitive version of the Protectorate Astraeus logo.
 
-# To do list (0.1.2)
+# To do list (maybe 0.2?)
 __UPDATE__
 
 
@@ -28,8 +28,8 @@ __MOD SUPPORT__
 - K'Rakoth patch (in progress).
 
 __GENERAL:__
-- Allow for furniture store units and blueprints to spawn on Emergency Pods.
-- Add new reward bag: Research Crate (gives some of the new items added in this update; spawns only in ships and biospheres).
+- Update tilesets and dungeons with new items.
+
 
 __NPCS__
 - Add refugees for the Biosphere modules.
@@ -39,21 +39,17 @@ __NPCS__
 __MISC__
 
 __MONSTERS__
-- Complete alternative version of the Gardener Bot
-- Complete Caretaker Drone
-- Complete Protectorate Turret
+- Complete Protectorate Turret.
+- Add new bots in dungeons.
 
 __FURNITURE__
-- Protectorate Radar Dish (WIP).
-- Protectorate Antenna (WIP).
-- Envoy Flora samples (x15) (WIP).
-- Critter Posters (x12) (WIP).
-- Biosphere Hologram (WIP).
-- Biosphere Display (WIP).
-- Monster Displays (x13) (WIP).
 - Add posters (x3).
+- Make Protector action figure (WIP)
+- Make Terrariums (x3?)
+- Make more Envoy personal belongings (x2?)
+- Make Protectorate Generator (x2)
 - Add objects for the main rooms of the Biospheres.
-- Add Protectorate personal lockers (x3) (WIP).
+
  
 __DUNGEONS__
 - Make the Ruined Biosphere (should be somewhat easy).
@@ -62,6 +58,7 @@ __DUNGEONS__
   - Add headquarter modules.
 - Add more variants for both ships.
 - Start with the Protectorate Space Station
+- Start with the Envoy Shelter
 - Add scorched biome microdungeons (aid camps/outposts for Deadbeats, localized terraforming efforts, hostile Deadbeat occupied Protectorate ruins)
 - Oceanic microdungeons? (above and/or under the waves?)
 

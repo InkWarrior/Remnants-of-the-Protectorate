@@ -1,0 +1,46 @@
+{
+  "objectName" : "iwrmp_prtcdummylocker3",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 175,
+  "description" : "A personal locker used by service staff of the Terrene Protectorate.",
+  "shortdescription" : "Protectorate Service Locker",
+  "race" : "protectorate",
+
+  "apexDescription" : "I hope this doesn't close suddenly while using it.",
+  "avianDescription" : "This looks good enought for storing tools and other supplies.",
+  "floranDescription" : "Can Floran hide in thiss?",
+  "glitchDescription" : "Observant. A designated locker for service use.",
+  "humanDescription" : "I thought I saw a funny name in one of these lockers.",
+  "hylotlDescription" : "I'm not sure if the design of this locker is ideal.",
+  "novakidDescription" : "Y'could stash a whole lotta somethin' into a locker like this.",
+
+
+  "inventoryIcon" : "icon3.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcdummylocker3.png:<color>" }, { "image" : "prtcdummylocker1lit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcdummylocker3.png:<color>" }, { "image" : "prtcdummylocker1lit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

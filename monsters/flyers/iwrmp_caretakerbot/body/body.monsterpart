@@ -1,0 +1,10 @@
+{
+  "name" : "iwrmp_caretakerbot",
+  "category" : "iwrmp_caretakerbot",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png",
+    "bodyfullbright" : "bodyfullbright.png"
+  }
+}

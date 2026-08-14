@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter10",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on icy Hollows.",
+  "shortdescription" : "Hollow Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "A walking ice cube!?",
+  "avianDescription" : "I didn't know there were pure creatures made out of ice.",
+  "floranDescription" : "Ice!!!",
+  "glitchDescription" : "Attentive. This critter is made out of ice.",
+  "humanDescription" : "What a cute looking cube!",
+  "hylotlDescription" : "A living ice cube, fascinating.",
+  "novakidDescription" : "What a chill lookin' fellow.",
+
+  "inventoryIcon" : "icon10.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter10.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter10" ]
+}

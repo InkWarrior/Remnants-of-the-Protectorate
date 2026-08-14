@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter4",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on Chevs.",
+  "shortdescription" : "Chev Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "Well, what a cute looking guy.",
+  "avianDescription" : "Reminds me of bunnies!",
+  "floranDescription" : "Chevsss!!!",
+  "glitchDescription" : "Attentive. This small mammalian is indeed very cute.",
+  "humanDescription" : "One of the smallest mammals ever to exist!",
+  "hylotlDescription" : "Incredibly cute creatures.",
+  "novakidDescription" : "What a cute lookin' fellow.",
+
+  "inventoryIcon" : "icon4.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter4.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter4" ]
+}

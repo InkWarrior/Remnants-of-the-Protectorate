@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcflorasample10",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of an Hydnor.",
+  "shortdescription" : "Hydnor Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Reminds me of an alien movie I saw long ago.",
+  "avianDescription" : "It's unusual and a bit uncanny, yet still just a plant.",
+  "floranDescription" : "Floran lovesss weird plant.",
+  "glitchDescription" : "Observant. Looks incredibly alien.",
+  "humanDescription" : "I wonder where these came from.",
+  "hylotlDescription" : "Nature always gives the strangest shapes to plants.",
+  "novakidDescription" : "A lovely alien plant.",
+
+
+  "inventoryIcon" : "icon10.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample10.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample10.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcflorasample10" ]
+}

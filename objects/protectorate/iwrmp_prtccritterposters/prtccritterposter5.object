@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter5",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on Crystal Birds.",
+  "shortdescription" : "Crystal Bird Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "Are they really made of crystal?",
+  "avianDescription" : "These friends look so delicate!",
+  "floranDescription" : "Birdsss!!!",
+  "glitchDescription" : "Attentive. This bird seems to be made out of crystal.",
+  "humanDescription" : "Is it really made out of crystal?",
+  "hylotlDescription" : "A bird made out of crystal. Nature is wonderful.",
+  "novakidDescription" : "What a crystal lookin' fellow.",
+
+  "inventoryIcon" : "icon5.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter5.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter5" ]
+}

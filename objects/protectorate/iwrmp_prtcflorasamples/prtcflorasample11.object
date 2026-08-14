@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcflorasample11",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of a Langsdor flower.",
+  "shortdescription" : "Langsdor's Flower Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "I wonder who Langsdor was.",
+  "avianDescription" : "A really beautiful flower, so alien and so red.",
+  "floranDescription" : "Floran lovesss red flower.",
+  "glitchDescription" : "Observant. A vibrant red alien flower.",
+  "humanDescription" : "I wonder where these came from.",
+  "hylotlDescription" : "Nature always gives the strangest shapes to plants.",
+  "novakidDescription" : "A lovely red plant.",
+
+
+  "inventoryIcon" : "icon11.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample11.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample11.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcflorasample11" ]
+}

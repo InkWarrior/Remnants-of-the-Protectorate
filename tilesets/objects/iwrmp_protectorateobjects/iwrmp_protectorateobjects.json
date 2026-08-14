@@ -8,9 +8,9 @@
  "margin":0,
  "name":"iwrmp_protectorateobjects",
  "spacing":0,
- "tilecount":79,
+ "tilecount":96,
  "tiledversion":"1.2.2",
- "tileheight":56,
+ "tileheight":64,
  "tileproperties":
     {
      "0":
@@ -783,6 +783,16 @@
          "object":"iwrmp_prtcturrethatch",
          "tilesetDirection":"right"
         },
+     "79":
+        {
+         "\/\/description":"An antenna, ideal for receiving data from far away.",
+         "\/\/name":"iwrmp_prtcantenna",
+         "\/\/shortdescription":"Protectorate Antenna",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcantenna",
+         "tilesetDirection":"right"
+        },
      "8":
         {
          "\/\/description":"A wall-mounted screen, there seems to be an image of a planet there.",
@@ -793,6 +803,106 @@
          "object":"iwrmp_prtcdisplay",
          "tilesetDirection":"right"
         },
+     "80":
+        {
+         "\/\/description":"A Caretaker drone. Currently inactive.",
+         "\/\/name":"iwrmp_prtccaretakerunit1",
+         "\/\/shortdescription":"Caretaker Unit",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtccaretakerunit1",
+         "tilesetDirection":"right"
+        },
+     "81":
+        {
+         "\/\/description":"An inactive Caretaker drone above its recharging station.",
+         "\/\/name":"iwrmp_prtccaretakerunit2",
+         "\/\/shortdescription":"Caretaker Unit",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtccaretakerunit2",
+         "tilesetDirection":"right"
+        },
+     "82":
+        {
+         "\/\/description":"A wall-mounted screen, displaying indicators on a Protectorate habitat.",
+         "\/\/name":"iwrmp_prtcdisplay3",
+         "\/\/shortdescription":"Remodeled Habitat Display",
+         "imagePositionX":"-16",
+         "imagePositionY":"-8",
+         "object":"iwrmp_prtcdisplay3",
+         "tilesetDirection":"right"
+        },
+     "83":
+        {
+         "\/\/description":"A personal locker used by staff of the Terrene Protectorate.",
+         "\/\/name":"iwrmp_prtcdummylocker1",
+         "\/\/shortdescription":"Dummy Staff Locker",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcdummylocker1",
+         "tilesetDirection":"right"
+        },
+     "84":
+        {
+         "\/\/description":"A personal locker used by medical staff of the Terrene Protectorate.",
+         "\/\/name":"iwrmp_prtcdummylocker2",
+         "\/\/shortdescription":"Dummy Medic Locker",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcdummylocker2",
+         "tilesetDirection":"right"
+        },
+     "85":
+        {
+         "\/\/description":"A personal locker used by service staff of the Terrene Protectorate.",
+         "\/\/name":"iwrmp_prtcdummylocker3",
+         "\/\/shortdescription":"Dummy Service Locker",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcdummylocker3",
+         "tilesetDirection":"right"
+        },
+     "86":
+        {
+         "\/\/description":"A Gardener unit. Currently inactive.",
+         "\/\/name":"iwrmp_prtcgardenerunit1",
+         "\/\/shortdescription":"Gardener Unit",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcgardenerunit1",
+         "tilesetDirection":"right"
+        },
+     "87":
+        {
+         "\/\/description":"A recharging station for Gardener bot units.",
+         "\/\/name":"iwrmp_prtcgardenerunit2",
+         "\/\/shortdescription":"Gardener Unit Station",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcgardenerunit2",
+         "tilesetDirection":"right"
+        },
+     "88":
+        {
+         "\/\/description":"A hologram, currently displaying the image of an artificial habitat.",
+         "\/\/name":"iwrmp_prtcholobiosphere",
+         "\/\/shortdescription":"Biosphere Hologram",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcholobiosphere",
+         "tilesetDirection":"right"
+        },
+     "89":
+        {
+         "\/\/description":"A Gardener unit for interiors. Currently inactive.",
+         "\/\/name":"iwrmp_prtcinteriorunit",
+         "\/\/shortdescription":"Interior Gardener Unit",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcinteriorunit",
+         "tilesetDirection":"right"
+        },
      "9":
         {
          "\/\/description":"A bunch of stuff collected by the people over time.",
@@ -801,6 +911,66 @@
          "imagePositionX":"0",
          "imagePositionY":"0",
          "object":"iwrmp_prtcenvoystuff1",
+         "tilesetDirection":"right"
+        },
+     "90":
+        {
+         "\/\/description":"A personal locker used by medical staff of the Terrene Protectorate.",
+         "\/\/name":"iwrmp_prtcmediclocker",
+         "\/\/shortdescription":"Protectorate Medic Locker",
+         "imagePositionX":"0",
+         "imagePositionY":"-8",
+         "object":"iwrmp_prtcmediclocker",
+         "tilesetDirection":"right"
+        },
+     "91":
+        {
+         "\/\/description":"A personal locker used by service staff of the Terrene Protectorate.",
+         "\/\/name":"iwrmp_prtcservicelocker",
+         "\/\/shortdescription":"Protectorate Service Locker",
+         "imagePositionX":"0",
+         "imagePositionY":"-8",
+         "object":"iwrmp_prtcservicelocker",
+         "tilesetDirection":"right"
+        },
+     "92":
+        {
+         "\/\/description":"A personal locker used by staff of the Terrene Protectorate.",
+         "\/\/name":"iwrmp_prtcstafflocker",
+         "\/\/shortdescription":"Protectorate Staff Locker",
+         "imagePositionX":"0",
+         "imagePositionY":"-8",
+         "object":"iwrmp_prtcstafflocker",
+         "tilesetDirection":"right"
+        },
+     "93":
+        {
+         "\/\/description":"A radar dish. Not exactly a dish, even less a salad dish.",
+         "\/\/name":"iwrmp_prtcradardish",
+         "\/\/shortdescription":"Protectorate Radar Dish",
+         "imagePositionX":"-16",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcradardish",
+         "tilesetDirection":"right"
+        },
+     "94":
+        {
+         "\/\/description":"A light commonly used on interiors by the Protectorate.",
+         "\/\/name":"iwrmp_prtcshiplight",
+         "\/\/shortdescription":"Protectorate Light",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcshiplight",
+         "tilesetDirection":"right"
+        },
+     "95":
+        {
+         "\/\/description":"A controlled enviroment where to make tests with subjects.",
+         "\/\/name":"iwrmp_prtctestchamber",
+         "\/\/shortdescription":"Lab Test Chamber",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtctestchamber",
          "tilesetDirection":"right"
         }
     },
@@ -1576,6 +1746,16 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "79":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "8":
         {
          "\/\/description":"string",
@@ -1586,7 +1766,167 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "80":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "81":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "82":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "83":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "84":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "85":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "86":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "87":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "88":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "89":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "9":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "90":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "91":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "92":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "93":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "94":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "95":
         {
          "\/\/description":"string",
          "\/\/name":"string",
@@ -2061,16 +2401,118 @@
          "imageheight":40,
          "imagewidth":40
         },
+     "79":
+        {
+         "image":"prtcantenna.png",
+         "imageheight":64,
+         "imagewidth":24
+        },
      "8":
         {
          "image":"prtcdisplay.png",
          "imageheight":16,
          "imagewidth":40
         },
+     "80":
+        {
+         "image":"prtccaretakerunit1.png",
+         "imageheight":16,
+         "imagewidth":16
+        },
+     "81":
+        {
+         "image":"prtccaretakerunit2.png",
+         "imageheight":24,
+         "imagewidth":16
+        },
+     "82":
+        {
+         "image":"prtcdisplay3.png",
+         "imageheight":16,
+         "imagewidth":40
+        },
+     "83":
+        {
+         "image":"prtcdummylocker1.png",
+         "imageheight":40,
+         "imagewidth":16
+        },
+     "84":
+        {
+         "image":"prtcdummylocker2.png",
+         "imageheight":40,
+         "imagewidth":16
+        },
+     "85":
+        {
+         "image":"prtcdummylocker3.png",
+         "imageheight":40,
+         "imagewidth":16
+        },
+     "86":
+        {
+         "image":"prtcgardenerunit1.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "87":
+        {
+         "image":"prtcgardenerunit2.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "88":
+        {
+         "image":"prtcholobiosphere.png",
+         "imageheight":32,
+         "imagewidth":32
+        },
+     "89":
+        {
+         "image":"prtcinteriorunit.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
      "9":
         {
          "image":"prtcenvoystuff1.png",
          "imageheight":17,
+         "imagewidth":32
+        },
+     "90":
+        {
+         "image":"prtcmediclocker.png",
+         "imageheight":40,
+         "imagewidth":16
+        },
+     "91":
+        {
+         "image":"prtcservicelocker.png",
+         "imageheight":40,
+         "imagewidth":16
+        },
+     "92":
+        {
+         "image":"prtcstafflocker.png",
+         "imageheight":40,
+         "imagewidth":16
+        },
+     "93":
+        {
+         "image":"prtcradardish.png",
+         "imageheight":56,
+         "imagewidth":48
+        },
+     "94":
+        {
+         "image":"prtcshiplight.png",
+         "imageheight":8,
+         "imagewidth":16
+        },
+     "95":
+        {
+         "image":"prtctestchamber.png",
+         "imageheight":40,
          "imagewidth":32
         }
     },

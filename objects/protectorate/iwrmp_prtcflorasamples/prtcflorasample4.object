@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcflorasample4",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of a Toxiberry.",
+  "shortdescription" : "Toxiberry Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "This is one of those plants from Toxic planets.",
+  "avianDescription" : "Seems to be very poisonous.",
+  "floranDescription" : "Floran lovesss poison plant.",
+  "glitchDescription" : "Observant. Despite called \"berry\" it's not edible at all.",
+  "humanDescription" : "I have seen these before! in Toxic planets!",
+  "hylotlDescription" : "Nature flourishes even in the harshest places.",
+  "novakidDescription" : "A lovely poison plant.",
+
+
+  "inventoryIcon" : "icon4.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample4.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample4.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcflorasample4" ]
+}

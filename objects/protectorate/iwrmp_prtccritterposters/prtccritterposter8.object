@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter8",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on Berry fishes.",
+  "shortdescription" : "Berry Fish Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "Doesn't look like a berry.",
+  "avianDescription" : "Is it named like a berry because of its color?",
+  "floranDescription" : "Fisssh!!!",
+  "glitchDescription" : "Attentive. One of many species of fish.",
+  "humanDescription" : "A friend of mine used to have one.",
+  "hylotlDescription" : "Such beautiful fishes.",
+  "novakidDescription" : "it's going to drown!",
+
+  "inventoryIcon" : "icon8.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter8.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter8" ]
+}

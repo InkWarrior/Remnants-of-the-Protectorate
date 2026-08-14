@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcflorasample2",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of a Magma Pitcher.",
+  "shortdescription" : "Magma Pitcher Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "This is one of those pitchers from Magma planets.",
+  "avianDescription" : "Seems to be made out of rock and magma.",
+  "floranDescription" : "Floran careful about fire plant.",
+  "glitchDescription" : "Impressed. How is this sample tray not melting?",
+  "humanDescription" : "I have seen these before! in Magma planets!",
+  "hylotlDescription" : "I'm surprised by how far nature can go.",
+  "novakidDescription" : "A lovely fiery plant.",
+
+
+  "inventoryIcon" : "icon2.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample2.png:<color>" }, { "image" : "prtcflorasamplelit2.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample2.png:<color>" }, { "image" : "prtcflorasamplelit2.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcflorasample2" ]
+}

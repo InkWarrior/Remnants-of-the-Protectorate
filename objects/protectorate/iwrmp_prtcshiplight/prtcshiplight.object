@@ -1,0 +1,48 @@
+{
+  "objectName" : "iwrmp_prtcshiplight",
+  "colonyTags" : ["protectorate","light"],
+  "rarity" : "Common",
+  "category" : "light",
+  "lightColor" : [218, 198, 125],
+  "price" : 45,
+  "description" : "A light commonly used on interiors by the Protectorate.",
+  "shortdescription" : "Protectorate Light",
+  "race" : "apex",
+
+  "apexDescription" : "These lights are commonly used by the Protectorate.",
+  "avianDescription" : "A cozy light.",
+  "floranDescription" : "This light is gentle on Floran eyess.",
+  "glitchDescription" : "Calmed. This light has the perfect tone and intensity.",
+  "humanDescription" : "A light used by the Protectorate.",
+  "hylotlDescription" : "A bright light. It creates a calm atmosphere.",
+  "novakidDescription" : "That's one calming lightbulb.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcshiplight.png:<color>.<frame>", "fullbright" : true }, { "image" : "prtcshiplightlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "prtcshiplight.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcshiplight" ]
+  
+}

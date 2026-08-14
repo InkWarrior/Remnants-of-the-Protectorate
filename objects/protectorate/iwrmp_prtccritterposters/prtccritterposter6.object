@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter6",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on Dancer Birds.",
+  "shortdescription" : "Dancer Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "Not sure what they are, only know they have moves.",
+  "avianDescription" : "What kind of creature is this?",
+  "floranDescription" : "Food???",
+  "glitchDescription" : "Intrigued. This is a truly enigmatic creature.",
+  "humanDescription" : "The only thing I know about them is that they know how to dance.",
+  "hylotlDescription" : "Really cheerful creatures I must say.",
+  "novakidDescription" : "What a dancin' fellow it is.",
+
+  "inventoryIcon" : "icon6.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter6.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter6" ]
+}

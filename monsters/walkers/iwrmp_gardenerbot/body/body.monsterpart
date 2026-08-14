@@ -1,0 +1,10 @@
+{
+  "name" : "body",
+  "category" : "iwrmp_gardenerbot",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png",
+    "bodyfullbright" : "bodyfullbright.png"
+  }
+}

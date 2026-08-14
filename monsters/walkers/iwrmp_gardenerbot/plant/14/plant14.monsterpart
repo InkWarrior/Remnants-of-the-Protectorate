@@ -1,0 +1,11 @@
+{
+  "name" : "plant14",
+  "category" : "iwrmp_gardenerbot",
+  "type" : "plant",
+
+  "frames" : {
+    "plant" : "plant14.png"
+  },
+
+  "parameters" : { }
+}

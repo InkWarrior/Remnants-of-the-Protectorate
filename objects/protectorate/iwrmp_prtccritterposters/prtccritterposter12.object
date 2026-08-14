@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter12",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on Squeeks.",
+  "shortdescription" : "Squeek Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "Lovely rodents.",
+  "avianDescription" : "They can hear everything.",
+  "floranDescription" : "Squeeksss!!!",
+  "glitchDescription" : "Attentive. A small rodent with large ears.",
+  "humanDescription" : "I want one as a pet.",
+  "hylotlDescription" : "Can they hear a lot of sounds?",
+  "novakidDescription" : "This fellow is all ears.",
+
+  "inventoryIcon" : "icon12.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter12.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter12" ]
+}

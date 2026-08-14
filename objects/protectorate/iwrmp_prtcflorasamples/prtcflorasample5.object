@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcflorasample5",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of a Cactus.",
+  "shortdescription" : "Cactus Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "This is one of those crystal trees from deserts.",
+  "avianDescription" : "Seems to be one of those earthly cacti.",
+  "floranDescription" : "Floran lovesss cactus.",
+  "glitchDescription" : "Observant. A cacti species from Earth.",
+  "humanDescription" : "I know these ones quite well!",
+  "hylotlDescription" : "Perhaps one of the last pieces of nature from Earth.",
+  "novakidDescription" : "A lovely cactus.",
+
+
+  "inventoryIcon" : "icon5.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample5.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample5.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcflorasample5" ]
+}

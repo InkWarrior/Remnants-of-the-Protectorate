@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter7",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on Eye Friends.",
+  "shortdescription" : "Eye Friend Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "Uncanny, but cute in a way.",
+  "avianDescription" : "They live up to their name, they really are friendly!",
+  "floranDescription" : "Eyesss!!!",
+  "glitchDescription" : "Attentive. A small one-eyed critter.",
+  "humanDescription" : "Can I have one?",
+  "hylotlDescription" : "People don't know they are carnivores.",
+  "novakidDescription" : "Where you lookin' at?",
+
+  "inventoryIcon" : "icon7.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter7.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter7" ]
+}

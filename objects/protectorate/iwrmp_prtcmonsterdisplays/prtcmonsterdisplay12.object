@@ -1,0 +1,48 @@
+{
+  "objectName" : "iwrmp_prtcmonsterdisplay12",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 135,
+  "description" : "A display with data on Pteropods.",
+  "shortdescription" : "Pteropod Data Display",
+  "race" : "protectorate",
+
+  "apexDescription" : "This terminal has a lot of data on Pteropods.",
+  "avianDescription" : "There's useful information on Pteropods here.",
+  "floranDescription" : "Floran stares at Pteropod on ssscreen.",
+  "glitchDescription" : "Observant. There's a lot of data on Pteropods in this terminal.",
+  "humanDescription" : "A terminal with a lot of data on Pteropods.",
+  "hylotlDescription" : "This terminal is very informative on Pteropods.",
+  "novakidDescription" : "An Pteropod picture on screen.",
+
+
+  "inventoryIcon" : "icon1.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcmonsterdisplaybase.png:<color>" }, { "image" : "prtcmonsterdisplaylit12.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcmonsterdisplaybase.png:<color>" }, { "image" : "prtcmonsterdisplaylit12.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

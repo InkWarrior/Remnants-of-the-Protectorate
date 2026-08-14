@@ -1,0 +1,48 @@
+{
+  "objectName" : "iwrmp_prtcmonsterdisplay1",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 135,
+  "description" : "A display with data on Anglures.",
+  "shortdescription" : "Anglure Data Display",
+  "race" : "protectorate",
+
+  "apexDescription" : "This terminal has a lot of data on Anglures.",
+  "avianDescription" : "There's useful information on Anglures here.",
+  "floranDescription" : "Floran stares at Anglure on ssscreen.",
+  "glitchDescription" : "Observant. There's a lot of data on Anglures in this terminal.",
+  "humanDescription" : "A terminal with a lot of data on Anglures.",
+  "hylotlDescription" : "This terminal is very informative on Anglures.",
+  "novakidDescription" : "An Anglure picture on screen.",
+
+
+  "inventoryIcon" : "icon1.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtcmonsterdisplaybase.png:<color>" }, { "image" : "prtcmonsterdisplaylit1.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtcmonsterdisplaybase.png:<color>" }, { "image" : "prtcmonsterdisplaylit1.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

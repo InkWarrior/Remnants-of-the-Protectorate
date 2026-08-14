@@ -1,0 +1,32 @@
+{
+  "objectName" : "iwrmp_prtccritterposter3",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "description" : "An informative poster on Giant Cells.",
+  "shortdescription" : "Cell Poster",
+  "race" : "protectorate",
+
+  "apexDescription" : "How can a single cell be this giant?",
+  "avianDescription" : "The basic unit of all life.",
+  "floranDescription" : "Cellsss!!!",
+  "glitchDescription" : "Attentive. Cells are what meat creatures are made of.",
+  "humanDescription" : "How can these cells be so big!?",
+  "hylotlDescription" : "I'm always impressed at the size of these cells.",
+  "novakidDescription" : "The heck is a cell?",
+
+  "inventoryIcon" : "icon3.png",
+  "orientations" : [
+    {
+      "image" : "prtccritterposter3.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtccritterposter3" ]
+}

@@ -1,0 +1,55 @@
+{
+  "objectName" : "iwrmp_prtctestchamber",
+  "colonyTags" : ["protectorate","science"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 165,
+  "description" : "A controlled enviroment where to make tests with subjects.",
+  "shortdescription" : "Lab Test Chamber",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "lightColor" : [16, 37, 77],
+
+  "apexDescription" : "Looks like a fancy terrarium.",
+  "avianDescription" : "Reminds me of one of those fish tanks.",
+  "floranDescription" : "Floran can put food on this.",
+  "glitchDescription" : "Observant. This tank emulates the conditions of larger enviroments.",
+  "humanDescription" : "I need one of these for my small pet.",
+  "hylotlDescription" : "Seems to be a chamber that imitates enviromental conditions.",
+  "novakidDescription" : "Ain't sure this is a fish tank.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "prtctestchamber.png:<color>" }, { "image" : "prtctestchamberlit.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+
+      "imageLayers" : [ { "image" : "prtctestchamber.png:<color>" }, { "image" : "prtctestchamberlit.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtctestchamber" ]
+}

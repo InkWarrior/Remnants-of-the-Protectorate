@@ -1,0 +1,40 @@
+{
+  "objectName" : "iwrmp_prtcinteriorunit",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A Gardener bot for interiors. Currently inactive.",
+  "shortdescription" : "Interior Gardener Unit",
+  "race" : "protectorate",
+
+  "apexDescription" : "Seems to be a planter box.",
+  "avianDescription" : "I can plant anything I want with these.",
+  "floranDescription" : "Floran appreciatess planter bot.",
+  "glitchDescription" : "Happy. This small fellow takes care of plants.",
+  "humanDescription" : "I need one of these for my garden.",
+  "hylotlDescription" : "A unit for my garden would be a lovely addition.",
+  "novakidDescription" : "What a hardworking buddy.",
+
+
+  "inventoryIcon" : "icon2.png",
+  "orientations" : [
+    {
+      "image" : "prtcinteriorunit.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcinteriorunit.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

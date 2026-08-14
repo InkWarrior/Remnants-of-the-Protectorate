@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcflorasample3",
+  "colonyTags" : ["protectorate","science","prtc_envoy"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 85,
+  "description" : "A small sample of a Xenospur.",
+  "shortdescription" : "Xenospur Sample",
+  "race" : "protectorate",
+  "printable" : false,
+
+  "apexDescription" : "Looks like something that came out of a jungle.",
+  "avianDescription" : "Seems to be very spiky.",
+  "floranDescription" : "Floran lovesss spiky plant.",
+  "glitchDescription" : "Observant. A small Xenospur, they attach horribly to your clothes.",
+  "humanDescription" : "I don't like these ones, they get into your socks!",
+  "hylotlDescription" : "An annoying plant for sure.",
+  "novakidDescription" : "A lovely spiky plant.",
+
+
+  "inventoryIcon" : "icon3.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample3.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcflorasample3.png:<color>" }, { "image" : "prtcflorasamplelit1.png:<color>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcflorasample3" ]
+}
