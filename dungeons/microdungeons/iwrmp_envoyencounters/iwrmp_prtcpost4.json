@@ -109,98 +109,6 @@
                  "y":240
                 }, 
                 {
-                 "gid":6407,
-                 "height":8,
-                 "id":752,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":176,
-                 "y":288
-                }, 
-                {
-                 "gid":6407,
-                 "height":8,
-                 "id":753,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":288,
-                 "y":288
-                }, 
-                {
-                 "gid":6407,
-                 "height":8,
-                 "id":767,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":176,
-                 "y":192
-                }, 
-                {
-                 "gid":6407,
-                 "height":8,
-                 "id":768,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":288,
-                 "y":192
-                }, 
-                {
-                 "gid":432,
-                 "height":56,
-                 "id":770,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":52,
-                 "x":152,
-                 "y":128
-                }, 
-                {
                  "gid":6242,
                  "height":8,
                  "id":778,
@@ -495,6 +403,58 @@
                  "width":48,
                  "x":328,
                  "y":336
+                }, 
+                {
+                 "gid":9031,
+                 "height":56,
+                 "id":810,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":152,
+                 "y":128
+                }, 
+                {
+                 "gid":9032,
+                 "height":8,
+                 "id":811,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{ \"defaultLightState\" : false }"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":232,
+                 "y":192
+                }, 
+                {
+                 "gid":9032,
+                 "height":8,
+                 "id":812,
+                 "name":"",
+                 "properties":
+                    {
+                     "parameters":"{ \"defaultLightState\" : false }"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":232,
+                 "y":288
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -892,7 +852,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":810,
+ "nextobjectid":813,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",

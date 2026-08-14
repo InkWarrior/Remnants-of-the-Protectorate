@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztmd1twyAQgN1N8pqF+tQBMkDm6CROVqi6T4aoIgUJXeHAJuYO+3v4FMXB+O4LYH4e0zQ9AA7M2UEMXpg+dLzU6RX82fnL9WP8teWKPz3XGX\/4c+Av5\/Eo\/u6VLPG3ts4jofkDHdoSbMnlhbe6PKG9A3v629O7GMCKXB9LXZd9MldmyXNGB3\/4AwDYkouCdWyjgDf84c8XXwmuGW7KbzGyvtlBnu8m5Dpn8v0RzAl\/uXKp+uJ7rHPv5S+UKfmT5fbuT+aT83d+UfInyx3N30nQ2v5S9Y3m73m2cxaEazKf1BjW4i9VX3xPHEsqPg\/nUs8YPgX3KAdLf1clvvC5B39rx7+9+Ev1D0\/tz3P\/1ea3tf7Wzv9q\/JWw9idzKI3nNdwWlI0p\/V8x1t7W+Ovd\/rz7K8VY62+r8a82ttH9bfX+HcHfScG6\/dXGZukvtS+VW4\/29lcbG\/7G9FfjV+tPrf5S9cX3WOf\/DrT2ELywf1XXFnvsn8bPs865l7+18+ej+UutuWrWqBJtDWedZ2\/CGWWcf+78Un7\/TmCdz5bUrj85\/20DfwAAAADj8iuwjmdEpLcl82Pm0v8d4m+9wwD+2h0GnntScs8vfGf8LDvEX5vDWn\/WMXtjiT\/rWL1S4886Ru9o\/qxjAwAAAAAA8MwfZ7YBDQ==",
+         "data":"eJztm8GNwjAQRUMnXNMQpy2AAqhjKwm0sKIfikBIWLJmx+OxnXjGyT88rQDH+fPWNnEiXtM0vQA4MLODDF6YTjJe+vQK\/Nn5S81j+GurFf7kWhf4gz8H\/lIe9+RPyv1QUuKvtk+vfrfIlRt\/XnJ6zKUZSx5yevV3tJylua5f1jh3SV8j+ZMy9vRHM43izyNecz4jrLOMlvPJwLVLzTHufTonU21KzqPNCX9j+bsyePSnzQkAAFZw6xTWqzaH1nlGA\/7gb21+GG4J7sJnMbS\/xUGdaxNqXRL1\/hEWxl+qHddffIx17b38hTY5f7Td3v3RelL+5i85f7Td0fydCa3jj+tvNH+fZzszIbxH6+HWsBZ\/XH\/xMXEWLt9az6Va\/V0Ij6gGS383IV\/4uwd\/tevfXvxx88PT+PM8f6XrW62\/2us\/jb8c1v5oDbn1XMO9oG1M7v8VY+2txl\/v8efdXy6j1t9W65822+j+tvr+HcHfWcB6\/GmzWfrj7kul9qO9\/Wmzwd+Y\/jR+pfnU6o\/rLz7Guv41kMZD8IL7V7qx2OP+aXw+65p7+au9fj6aP27PpdmjUqQ9nHWdvQnPKOP6U88v6etfBut6tkS7\/8Tz3zbgDwAAAABgXDz+ZmU0qLeS62NcS\/93CH\/1DgPw1+4w8LknRe\/5hddYP\/MO4a\/NodafdWZvlPizzuoVjT\/rjN6R\/FlnAwAAAAAAAADPvAHBddDq",
          "encoding":"base64",
          "height":80,
          "id":11,
@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztm+FtAyEMRm+dbJYBskK3yWWFqr8zQhfoGBVSrFquDRjIGXN+0qdTU8ThV0LuuGbbgiAI2vmxHoBzwl8f4a+PH3IMdFxex\/DXxv11DH9tgL9LttU5eBTCcSfHEX165KsylJy\/1j49UlsrrVeaS639eSXVsb\/yKYTWLLnAP0t9wblW84drBjh\/j433R1\/P9bWKP6iV+ru+MsIf19eO2nkF10r95d6\/Wn9cXztp6xHOX01q\/eWygr9EquOCwl2nXYRcUaQ2pf7295f4VnYSrl7aBoL9SW1q+lsJzX0C9jeivxnRXMvOHCtqxiZ9TnKfvZqM7NcKTZ03Jr3+pD7P5k\/6fJAS\/v77u6LXryT49bP5K61Vkj8g52\/UmmpF69pF0zL\/RsYKbm2S5gB9n0n3FNx+fa4t7Tc3\/6X11ApurDBnqLuj4BxyY5ph\/nHrN8wLC3d4XNiPNFchVpTWFcuxSe\/l2effDH9XoDQ+a3\/e7tcxeD\/RcgxeCX99hL8+wl8fHv19k6RrsieJdP\/BtaP9acfuyZ+2vhY050hjn+U6q8QR7izOdQQW9azi0LIO7w5nGP8MY2hhpnHPNBbKRyFwrXE0cN7S+CBW1OxfpX3LIx0+t789\/9n3r2rGdqTDFncenn8c4TDnzvvzD+oQ7r9GPD+C\/nLzzvPzD84hjfb5JddH7j3r9flHbVqen4+MFe\/0d4bn5yP9af9\/aAV\/pf\/B8xIrrOsOf3PECuu6w98cscK67hX95cjdh2mzAhp30CZ3fcyFa2s9b0ahdYf9Afj7ben3sIeDvweH2962uvPOdJ0soZkHNfMP++uZf+ALn3NWfxqktQzPJ\/o9f+36R93N7G8UOX8acu5W9pfova44s7tewl074a6dM7kbvecZ7sJdDVK9IxPuwh0Faip9B6g3K7pLvGvN87AvEARBcFZ+Ad5F0\/k=",
+         "data":"eJztm1FuwyAMQHOd3qwH6BV2m6ZXmPbdI+wCO8aEVGuWZxsMNAbiJ1nROkTsN0IJWbYtCIKgnh\/vBCYn\/LUR\/tr4IcfAxuV1DH913F\/H8FcH+Luorc7BIxMcd3Ls0eeMfBUGRfNX2+eMlNZK65XGUm1\/s5Lq2F\/xKQStWXKBf5b6gnOt5g\/XDHD+Hhvvj36u9bWKP6iV+ru+ooc\/rq8dtZsVXCv1p12\/Vn9cXztpOyOcv5Io9afFCv4SqY4LCm6ddhHiikJqk+tvf3+JzWjrhp0EVy9tA4H9SW1K+ivJ05vSdb\/lPgH769GfJc+jsKxlRw4vSnKTvie5715L9OzXC0udNyZa\/Ul9ns2f9P0gRfj77++KPr+SwJ+fzV9urpL8AZq\/XnOqF7VzF42a8dczvODmJmkM0OtMuqfg9uu1trRfbfxL86kXXK4wZqi7o+AccjmNMP64+RvGhYc7nBf2I41VCC9y84pnbtK1PPr4G+HvCuTy8\/Y3yn14DXg\/0TOHWQl\/bYS\/NsJfGzP6+yaR1mRPEtL9B9eO9mfNfSZ\/1vpqsJwj5T7KOivHEe48znUEHvWs4tCzjtkdjpD\/CDnUMFLeI+VC+cgErDWOBs6byw\/Ci5L9q7RveaTD5\/a35z\/6\/lVJbkc6rHE3w\/OPIxxq7mZ\/\/kEdwv1Xj+dH0J827mZ+\/sE5pGF9fsn1oV2zsz7\/KI2a5+c9w4t3+jvD8\/Oe\/qz\/P7SCv9z\/4M0SXnjXHf7GCC+86w5\/Y4QX3nWv6E9Duw+zxgpY3EEbbX3MBdfWe9z0wuoO+wPw+23p97CHg9+Dw21vW9l5R1onS1jGQcn4w\/5axh\/4wucc1Z8FaS7D44m+52+d\/6i7kf31QvNnQXO3sr9E67rizO5aCXf1hLt6zuSu955nuAt3JUj19oxwF+4oUFPuHaDWWNFd4l1z3gz7AkEQBGflF5wa35c=",
          "encoding":"base64",
          "height":80,
          "id":12,
@@ -933,7 +933,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":8003,
+                 "gid":8020,
                  "height":24,
                  "id":981,
                  "name":"",
@@ -945,7 +945,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":8003,
+                 "gid":8020,
                  "height":24,
                  "id":982,
                  "name":"",
@@ -957,7 +957,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":8008,
+                 "gid":8025,
                  "height":16,
                  "id":983,
                  "name":"",
@@ -969,7 +969,7 @@
                  "y":336
                 }, 
                 {
-                 "gid":8008,
+                 "gid":8025,
                  "height":16,
                  "id":984,
                  "name":"",
@@ -1255,30 +1255,6 @@
                  "width":8,
                  "x":408,
                  "y":128
-                }, 
-                {
-                 "gid":2147491388,
-                 "height":56,
-                 "id":893,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":60,
-                 "x":160,
-                 "y":80
-                }, 
-                {
-                 "gid":7741,
-                 "height":56,
-                 "id":894,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":52,
-                 "x":336,
-                 "y":80
                 }, 
                 {
                  "gid":7685,
@@ -1749,7 +1725,7 @@
                  "y":360
                 }, 
                 {
-                 "gid":8001,
+                 "gid":8018,
                  "height":16,
                  "id":985,
                  "name":"",
@@ -1761,7 +1737,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":8001,
+                 "gid":8018,
                  "height":16,
                  "id":986,
                  "name":"",
@@ -1773,7 +1749,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":8010,
+                 "gid":8027,
                  "height":24,
                  "id":987,
                  "name":"",
@@ -1785,7 +1761,7 @@
                  "y":296
                 }, 
                 {
-                 "gid":8005,
+                 "gid":8022,
                  "height":24,
                  "id":988,
                  "name":"",
@@ -1795,6 +1771,54 @@
                  "width":16,
                  "x":376,
                  "y":296
+                }, 
+                {
+                 "gid":8009,
+                 "height":56,
+                 "id":989,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":336,
+                 "y":80
+                }, 
+                {
+                 "gid":2147491657,
+                 "height":56,
+                 "id":990,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":48,
+                 "x":168,
+                 "y":80
+                }, 
+                {
+                 "gid":7995,
+                 "height":64,
+                 "id":991,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":432,
+                 "y":152
+                }, 
+                {
+                 "gid":7995,
+                 "height":64,
+                 "id":992,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":96,
+                 "y":152
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2218,7 +2242,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":989,
+ "nextobjectid":993,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -2345,7 +2369,7 @@
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
         }, 
         {
-         "firstgid":7995,
+         "firstgid":8012,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
         }],
  "tilewidth":8,
