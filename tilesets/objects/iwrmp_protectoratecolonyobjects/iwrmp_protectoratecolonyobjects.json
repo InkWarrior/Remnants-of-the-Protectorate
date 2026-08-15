@@ -8,7 +8,7 @@
  "margin":0,
  "name":"iwrmp_protectoratecolonyobjects",
  "spacing":0,
- "tilecount":28,
+ "tilecount":29,
  "tiledversion":"1.2.2",
  "tileheight":48,
  "tileproperties":
@@ -221,6 +221,16 @@
          "imagePositionX":"-8",
          "imagePositionY":"0",
          "object":"iwrmp_prtcwatcherlocker",
+         "tilesetDirection":"right"
+        },
+     "28":
+        {
+         "\/\/description":"This screen is currently showing a lot of technical data.",
+         "\/\/name":"iwrmp_prtcengiscreen",
+         "\/\/shortdescription":"Engineering Screen",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcengiscreen",
          "tilesetDirection":"right"
         },
      "3":
@@ -506,6 +516,16 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "28":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "3":
         {
          "\/\/description":"string",
@@ -704,6 +724,12 @@
          "image":"prtcwatcherlocker.png",
          "imageheight":32,
          "imagewidth":16
+        },
+     "28":
+        {
+         "image":"prtcengiscreen.png",
+         "imageheight":16,
+         "imagewidth":24
         },
      "3":
         {
