@@ -55,33 +55,33 @@
 
     //MAIN HABITAT
     {
-      "name" : "iwrmp_mainroom4",
+      "name" : "iwrmp_habitat4",
       "rules" : [
         [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ],
-        [ "doNotCombineWith", [ "iwrmp_mainroom4", "iwrmp_mainroom5", "iwrmp_mainroom6" ] ]
+        [ "doNotCombineWith", [ "iwrmp_habitat4", "iwrmp_habitat5", "iwrmp_habitat6" ] ]
       ],
-      "def" : [ "tmx", "iwrmp_mainroom4.json" ],
+      "def" : [ "tmx", "iwrmp_habitat4.json" ],
       "chance" : 1
     },
     {
-      "name" : "iwrmp_mainroom5",
+      "name" : "iwrmp_habitat5",
       "rules" : [
         [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ],
-        [ "doNotCombineWith", [ "iwrmp_mainroom4", "iwrmp_mainroom5", "iwrmp_mainroom6" ] ]
+        [ "doNotCombineWith", [ "iwrmp_habitat4", "iwrmp_habitat5", "iwrmp_habitat6" ] ]
       ],
-      "def" : [ "tmx", "iwrmp_mainroom5.json" ],
+      "def" : [ "tmx", "iwrmp_habitat5.json" ],
       "chance" : 1
     },
     {
-      "name" : "iwrmp_mainroom6",
+      "name" : "iwrmp_habitat6",
       "rules" : [
         [ "ignorePartMaximumRule" ],
         [ "maxSpawnCount", [1] ],
-        [ "doNotCombineWith", [ "iwrmp_mainroom4", "iwrmp_mainroom5", "iwrmp_mainroom6" ] ]
+        [ "doNotCombineWith", [ "iwrmp_habitat4", "iwrmp_habitat5", "iwrmp_habitat6" ] ]
       ],
-      "def" : [ "tmx", "iwrmp_mainroom6.json" ],
+      "def" : [ "tmx", "iwrmp_habitat6.json" ],
       "chance" : 1
     },
 	
