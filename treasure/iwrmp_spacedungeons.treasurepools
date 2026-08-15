@@ -217,7 +217,7 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtcholobiosphere", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcantenna", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcradardish", 1]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtctestchamber", 1]}
+        {"weight" : 0.25, "item" : ["iwrmp_prtctestchamber", 1]},
         {"weight" : 0.01, "item" : "iwrmp_ierfood"},
         {"weight" : 0.10, "item" : "iwrmp_pocketstoreunit"},
         {"weight" : 0.10, "item" : "iwrmp_furniturestoreunit"},
