@@ -17,7 +17,7 @@
   "novakidDescription" : "A recharging station.",
 
 
-  "inventoryIcon" : "icon.png",
+  "inventoryIcon" : "icon3.png",
   "orientations" : [
     {
       "image" : "prtcgardenerunit2.png:<color>",

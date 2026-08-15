@@ -11,13 +11,13 @@
 
   "lightColor" : [180, 184, 133],
 
-  "apexDescription" : "I'm glad these saplings are okay.",
-  "avianDescription" : "Is it necessary to have all of that plastic to carry a sapling around?",
-  "floranDescription" : "Floran glad ssaplings are good.",
-  "glitchDescription" : "Happy. It's good to see these plants are in pristine condition.",
-  "humanDescription" : "Ah look at that! I didn't know plants had crates of their own.",
-  "hylotlDescription" : "I undestand the safety measures, but this feels unnecessary .",
-  "novakidDescription" : "A lovely collection o' saplings.",
+  "apexDescription" : "Looks well secured in this sample canister.",
+  "avianDescription" : "Is it really a mushroom like it's name says?",
+  "floranDescription" : "Floran likes glowy oshroom.",
+  "glitchDescription" : "Observant. A secured sample of an Oshroom.",
+  "humanDescription" : "A glowy Oshroom in it's own canister.",
+  "hylotlDescription" : "I'm glad this Oshroom is well secured.",
+  "novakidDescription" : "A lovely Oshroom.",
 
 
   "inventoryIcon" : "icon.png",
