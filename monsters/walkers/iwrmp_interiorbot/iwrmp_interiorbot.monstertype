@@ -1,7 +1,7 @@
 {
   "type" : "iwrmp_interiorbot",
   "shortdescription" : "Interior Gardener Bot",
-  "description" : "A Gardener bot designated for crew and public areas.",
+  "description" : "A Gardener bot designed for public or crewed areas.",
 
   "categories" : [ "iwrmp_interiorbot" ],
   "parts" : [ "body", "plant" ],

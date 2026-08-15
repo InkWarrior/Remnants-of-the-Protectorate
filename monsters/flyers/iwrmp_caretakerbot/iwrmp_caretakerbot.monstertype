@@ -1,7 +1,7 @@
 {
   "type" : "iwrmp_caretakerbot",
   "shortdescription" : "Caretaker Drone",
-  "description" : "A Drone designed to take care and tend unique enviroments.",
+  "description" : "A Drone designed to care for and tend to unique enviroments.",
 
   "categories" : [ "iwrmp_caretakerbot" ],
   "parts" : [ "body" ],

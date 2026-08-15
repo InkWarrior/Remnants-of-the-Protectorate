@@ -8,13 +8,13 @@
   "shortdescription" : "Mandraflora Data Display",
   "race" : "protectorate",
 
-  "apexDescription" : "This terminal has a lot of data on Mandrafloras.",
-  "avianDescription" : "There's useful information on Mandrafloras here.",
+  "apexDescription" : "This terminal has a lot of data on Mandraflora.",
+  "avianDescription" : "There's useful information on Mandraflora here.",
   "floranDescription" : "Floran stares at Mandraflora on ssscreen.",
-  "glitchDescription" : "Observant. There's a lot of data on Mandrafloras in this terminal.",
-  "humanDescription" : "A terminal with a lot of data on Mandrafloras.",
-  "hylotlDescription" : "This terminal is very informative on Mandrafloras.",
-  "novakidDescription" : "A Mandraflora picture on screen.",
+  "glitchDescription" : "Observant. There's a lot of data on Mandraflora in this terminal.",
+  "humanDescription" : "A terminal with a lot of data on Mandraflora.",
+  "hylotlDescription" : "This terminal is very informative regarding Mandraflora.",
+  "novakidDescription" : "This here screen is mighty informative about Mandaflora.",
 
 
   "inventoryIcon" : "icon1.png",

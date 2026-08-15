@@ -5,7 +5,7 @@
   "category" : "light",
   "lightColor" : [218, 198, 125],
   "price" : 45,
-  "description" : "A light commonly used on interiors by the Protectorate.",
+  "description" : "A light commonly used in structure interiors by the Protectorate.",
   "shortdescription" : "Protectorate Light",
   "race" : "apex",
 
@@ -15,7 +15,7 @@
   "glitchDescription" : "Calmed. This light has the perfect tone and intensity.",
   "humanDescription" : "A light used by the Protectorate.",
   "hylotlDescription" : "A bright light. It creates a calm atmosphere.",
-  "novakidDescription" : "That's one calming lightbulb.",
+  "novakidDescription" : "That's one calmin' lightbulb.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [

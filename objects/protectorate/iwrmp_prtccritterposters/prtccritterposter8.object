@@ -9,12 +9,12 @@
   "race" : "protectorate",
 
   "apexDescription" : "Doesn't look like a berry.",
-  "avianDescription" : "Is it named like a berry because of its color?",
+  "avianDescription" : "Is it named for berries because of its color?",
   "floranDescription" : "Fisssh!!!",
   "glitchDescription" : "Attentive. One of many species of fish.",
   "humanDescription" : "A friend of mine used to have one.",
   "hylotlDescription" : "Such beautiful fishes.",
-  "novakidDescription" : "it's going to drown!",
+  "novakidDescription" : "It's gonna drown!",
 
   "inventoryIcon" : "icon8.png",
   "orientations" : [
