@@ -4,6 +4,6 @@
     { "item" : "money", "count" : 2500 }
   ],
   "duration" : 0,
-  "output" : { "item" : "iwrmp_protectoratedronecapturepod", "count" : 1 },
+  "output" : { "item" : "iwrmp_caretakercapturepod", "count" : 1 },
    "groups" : [ "iwrmp_prtccraftingtable", "iwrmp_envoysailunit", "prtccraftingtable_misc", "all" ]
 }

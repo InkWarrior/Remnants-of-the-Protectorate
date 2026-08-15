@@ -12,7 +12,7 @@
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
-            "item": "iwrmp_protectoratedronecapturepod"
+            "item": "iwrmp_caretakercapturepod"
         }
     },
     {
