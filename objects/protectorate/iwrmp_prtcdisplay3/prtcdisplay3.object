@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "category" : "decorative",
   "price" : 115,
-  "description" : "A wall-mounted screen, displaying indicators on a Protectorate habitat.",
+  "description" : "A wall-mounted screen, displaying information on a Protectorate habitat.",
   "shortdescription" : "Remodeled Habitat Display",
   "race" : "protectorate",
   "printable" : false,

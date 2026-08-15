@@ -8,13 +8,13 @@
   "shortdescription" : "Gardener Unit",
   "race" : "protectorate",
 
-  "apexDescription" : "Seems to be a planter box.",
+  "apexDescription" : "Seems to be a robotic planter box.",
   "avianDescription" : "I can plant anything I want with these.",
   "floranDescription" : "Floran appreciatess planter bot.",
   "glitchDescription" : "Happy. This small fellow takes care of plants.",
   "humanDescription" : "I need one of these for my garden.",
-  "hylotlDescription" : "A unit for my garden would be a lovely addition.",
-  "novakidDescription" : "What a hardworking buddy.",
+  "hylotlDescription" : "A bot would make a lovely addition for my garden.",
+  "novakidDescription" : "What a hardworkin' buddy.",
 
 
   "inventoryIcon" : "icon.png",

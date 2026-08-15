@@ -12,6 +12,13 @@
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
+            "item": "iwrmp_protectoratedronecapturepod"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
             "item": "iwrmp_prtchoverbikecontroller"
         }
     },
