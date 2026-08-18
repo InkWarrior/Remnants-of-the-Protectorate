@@ -28,19 +28,17 @@ __MOD SUPPORT__
 - K'Rakoth patch (in progress).
 
 __GENERAL:__
-- Update tilesets and dungeons with new items.
+- Write new codices for the ruined Biosphere (at least two)
 
 
 __NPCS__
-- Add refugees for the Biosphere modules.
-- Update dialogues for habitat protector.
+- Add Researcher npcs for Biospheres
 - Add Protectorate Merchants (mostly to sell furniture).
 
 __MISC__
 
 __MONSTERS__
 - Complete Protectorate Turret.
-- Add new bots in dungeons.
 
 __FURNITURE__
 - Add posters (x3).
@@ -48,13 +46,19 @@ __FURNITURE__
 - Make Terrariums (x3?)
 - Make more Envoy personal belongings (x2?)
 - Make Protectorate Generator (x2)
+- Ruined Biosphere objects
+  - Inactive Antenna
+  - Wrecked pannel collection
+  - Gardener bot pot
+  - Deactivated Gardener bot
+  - Deactivated Caretaker drone
 - Add objects for the main rooms of the Biospheres.
 
  
 __DUNGEONS__
 - Make the Ruined Biosphere (should be somewhat easy).
 - Make more variants for the Artificial Biosphere parts.
-  - Add refugee modules.
+  - Add veteran npcs.
   - Add headquarter modules.
 - Add more variants for both ships.
 - Start with the Protectorate Space Station
