@@ -34,6 +34,7 @@ __GENERAL:__
 __NPCS__
 - Add Researcher npcs for Biospheres
 - Add Protectorate Merchants (mostly to sell furniture).
+- Patch in a Interior Gardener Bot or few to the intro mission?
 
 __MISC__
 
@@ -63,8 +64,8 @@ __DUNGEONS__
 - Add more variants for both ships.
 - Start with the Protectorate Space Station
 - Start with the Envoy Shelter
-- Add scorched biome microdungeons (aid camps/outposts for Deadbeats, localized terraforming efforts, hostile Deadbeat occupied Protectorate ruins)
-- Oceanic microdungeons? (above and/or under the waves?)
+- Add scorched biome microdungeons (outposts/aid camps for Deadbeats, localized terraforming efforts, hostile Deadbeat occupied Protectorate ruins)
+- Oceanic microdungeons? (probably under the waves)
 
 __CLOTHES__
 
