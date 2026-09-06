@@ -39,6 +39,8 @@ __MISC__
 
 __MONSTERS__
 - Complete Protectorate Turret.
+- Add Autumn Bulbop
+- Add Autumn Mandraflora
 
 __FURNITURE__
 - Add posters (x3).
@@ -46,6 +48,7 @@ __FURNITURE__
 - Make Terrariums (x3?)
 - Make more Envoy personal belongings (x2?)
 - Make Protectorate Generator (x2)
+- Make Envoy Sample Crate
 - Ruined Biosphere objects
   - Inactive Antenna
   - Wrecked pannel collection
@@ -53,6 +56,11 @@ __FURNITURE__
   - Deactivated Gardener bot
   - Deactivated Caretaker drone
 - Add objects for the main rooms of the Biospheres.
+- Autumnal Flowers habitat:
+  - Autumnal Trees (x2)
+  - Giant Flowers (Chrisanthemum x2, Aster x2, Celosia x2)
+  - Heather Flowers (x??)
+  - Bunch of Leaves
 
  
 __DUNGEONS__
@@ -60,6 +68,7 @@ __DUNGEONS__
 - Make more variants for the Artificial Biosphere parts.
   - Add veteran npcs.
   - Add headquarter modules.
+  - Change the Giant Flowers habitat into the Autumnal Flowers habitat
 - Add more variants for both ships.
 - Start with the Protectorate Space Station
 - Start with the Envoy Shelter
