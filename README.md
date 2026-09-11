@@ -44,14 +44,15 @@ __MONSTERS__
 - Add Autumn Mandraflora
 
 __FURNITURE__
-- Add posters (x3).
+- Add posters (x3)(WIP)
 - Make Protector action figure (WIP)
 - Make Terrariums (x3?)
-- Make more Envoy personal belongings (x2?)
-- Make Protectorate Generator (x2)
-- Make Envoy Sample Crate
+- Make more Envoy personal belongings (x2)(WIP)
+- Make Protectorate Generator (WIP)
+- Make Envoy Sample Crate (WIP)
 - Ruined Biosphere objects
   - Inactive Antenna
+  - Inactive Generator
   - Wrecked pannel collection
   - Gardener bot pot
   - Deactivated Gardener bot
