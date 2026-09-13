@@ -933,7 +933,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":8020,
+                 "gid":8040,
                  "height":24,
                  "id":981,
                  "name":"",
@@ -945,7 +945,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":8020,
+                 "gid":8040,
                  "height":24,
                  "id":982,
                  "name":"",
@@ -957,7 +957,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":8025,
+                 "gid":8045,
                  "height":16,
                  "id":983,
                  "name":"",
@@ -969,7 +969,7 @@
                  "y":336
                 }, 
                 {
-                 "gid":8025,
+                 "gid":8045,
                  "height":16,
                  "id":984,
                  "name":"",
@@ -1135,30 +1135,6 @@
                  "width":16,
                  "x":192,
                  "y":120
-                }, 
-                {
-                 "gid":6472,
-                 "height":8,
-                 "id":883,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":264,
-                 "y":24
-                }, 
-                {
-                 "gid":6472,
-                 "height":8,
-                 "id":884,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":280,
-                 "y":48
                 }, 
                 {
                  "gid":6627,
@@ -1725,7 +1701,7 @@
                  "y":360
                 }, 
                 {
-                 "gid":8018,
+                 "gid":8038,
                  "height":16,
                  "id":985,
                  "name":"",
@@ -1737,7 +1713,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":8018,
+                 "gid":8038,
                  "height":16,
                  "id":986,
                  "name":"",
@@ -1749,7 +1725,7 @@
                  "y":304
                 }, 
                 {
-                 "gid":8027,
+                 "gid":8047,
                  "height":24,
                  "id":987,
                  "name":"",
@@ -1761,7 +1737,7 @@
                  "y":296
                 }, 
                 {
-                 "gid":8022,
+                 "gid":8042,
                  "height":24,
                  "id":988,
                  "name":"",
@@ -1819,6 +1795,30 @@
                  "width":24,
                  "x":96,
                  "y":152
+                }, 
+                {
+                 "gid":8020,
+                 "height":8,
+                 "id":993,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":264,
+                 "y":24
+                }, 
+                {
+                 "gid":8020,
+                 "height":8,
+                 "id":994,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":280,
+                 "y":48
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2242,7 +2242,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":993,
+ "nextobjectid":995,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -2369,7 +2369,7 @@
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
         }, 
         {
-         "firstgid":8012,
+         "firstgid":8032,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
         }],
  "tilewidth":8,

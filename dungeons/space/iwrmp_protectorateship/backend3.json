@@ -1753,7 +1753,7 @@
                  "y":440
                 }, 
                 {
-                 "gid":7903,
+                 "gid":7940,
                  "height":24,
                  "id":896,
                  "name":"",
@@ -1765,7 +1765,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":7903,
+                 "gid":7940,
                  "height":24,
                  "id":897,
                  "name":"",
@@ -1777,7 +1777,7 @@
                  "y":352
                 }, 
                 {
-                 "gid":7907,
+                 "gid":7944,
                  "height":16,
                  "id":898,
                  "name":"",
@@ -1789,7 +1789,7 @@
                  "y":336
                 }, 
                 {
-                 "gid":7907,
+                 "gid":7944,
                  "height":16,
                  "id":899,
                  "name":"",
@@ -1799,6 +1799,30 @@
                  "width":32,
                  "x":496,
                  "y":336
+                }, 
+                {
+                 "gid":7943,
+                 "height":16,
+                 "id":900,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":496,
+                 "y":312
+                }, 
+                {
+                 "gid":7943,
+                 "height":16,
+                 "id":901,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":440,
+                 "y":312
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1928,7 +1952,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":900,
+ "nextobjectid":902,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -2051,7 +2075,7 @@
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
         }, 
         {
-         "firstgid":7894,
+         "firstgid":7931,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
         }],
  "tilewidth":8,

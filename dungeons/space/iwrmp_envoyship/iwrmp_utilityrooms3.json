@@ -282,7 +282,7 @@
                  "y":120
                 }, 
                 {
-                 "gid":9038,
+                 "gid":9075,
                  "height":16,
                  "id":1448,
                  "name":"",
@@ -294,7 +294,7 @@
                  "y":88
                 }, 
                 {
-                 "gid":9032,
+                 "gid":9069,
                  "height":24,
                  "id":1449,
                  "name":"",
@@ -306,7 +306,7 @@
                  "y":80
                 }, 
                 {
-                 "gid":9057,
+                 "gid":9094,
                  "height":32,
                  "id":1450,
                  "name":"",
@@ -318,7 +318,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":9059,
+                 "gid":9096,
                  "height":32,
                  "id":1451,
                  "name":"",
@@ -330,7 +330,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":2147492713,
+                 "gid":2147492750,
                  "height":16,
                  "id":1452,
                  "name":"",
@@ -342,7 +342,7 @@
                  "y":224
                 }, 
                 {
-                 "gid":9065,
+                 "gid":9102,
                  "height":16,
                  "id":1453,
                  "name":"",
@@ -354,7 +354,7 @@
                  "y":224
                 }, 
                 {
-                 "gid":2147492714,
+                 "gid":2147492751,
                  "height":32,
                  "id":1454,
                  "name":"",
@@ -366,7 +366,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":2147492714,
+                 "gid":2147492751,
                  "height":32,
                  "id":1455,
                  "name":"",
@@ -386,7 +386,7 @@
                  "y":264
                 }, 
                 {
-                 "gid":2147492704,
+                 "gid":2147492741,
                  "height":16,
                  "id":1456,
                  "name":"",
@@ -398,7 +398,7 @@
                  "y":232
                 }, 
                 {
-                 "gid":9028,
+                 "gid":9065,
                  "height":16,
                  "id":1459,
                  "name":"",
@@ -406,23 +406,11 @@
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":48,
+                 "x":56,
                  "y":208
                 }, 
                 {
-                 "gid":9027,
-                 "height":16,
-                 "id":1460,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":32,
-                 "x":128,
-                 "y":208
-                }, 
-                {
-                 "gid":9029,
+                 "gid":9066,
                  "height":16,
                  "id":1461,
                  "name":"",
@@ -504,6 +492,18 @@
                  "width":8,
                  "x":160,
                  "y":192
+                }, 
+                {
+                 "gid":9065,
+                 "height":16,
+                 "id":1469,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":120,
+                 "y":208
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -593,7 +593,7 @@
          "y":0
         }],
  "nextlayerid":19,
- "nextobjectid":1469,
+ "nextobjectid":1470,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -748,15 +748,15 @@
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
         }, 
         {
-         "firstgid":8986,
+         "firstgid":9023,
          "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/_unpacked\/tilesets\/packed\/objects-by-colonytag\/station.json"
         }, 
         {
-         "firstgid":9016,
+         "firstgid":9053,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratepanels\/iwrmp_protectoratepanels.json"
         }, 
         {
-         "firstgid":9039,
+         "firstgid":9076,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratecolonyobjects\/iwrmp_protectoratecolonyobjects.json"
         }],
  "tilewidth":8,

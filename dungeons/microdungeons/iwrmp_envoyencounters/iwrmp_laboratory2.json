@@ -448,26 +448,6 @@
          "name":"objects",
          "objects":[
                 {
-                 "gid":6242,
-                 "height":8,
-                 "id":742,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":312,
-                 "y":216
-                }, 
-                {
                  "gid":2147492462,
                  "height":16,
                  "id":766,
@@ -626,6 +606,30 @@
                  "width":16,
                  "x":232,
                  "y":248
+                }, 
+                {
+                 "gid":8906,
+                 "height":8,
+                 "id":821,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":312,
+                 "y":216
+                }, 
+                {
+                 "gid":8907,
+                 "height":8,
+                 "id":822,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":216,
+                 "y":320
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -943,7 +947,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":821,
+ "nextobjectid":823,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",

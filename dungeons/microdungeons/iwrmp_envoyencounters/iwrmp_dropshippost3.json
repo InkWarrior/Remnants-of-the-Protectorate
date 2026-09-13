@@ -514,106 +514,6 @@
                  "y":48
                 }, 
                 {
-                 "gid":6242,
-                 "height":8,
-                 "id":778,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":96,
-                 "y":112
-                }, 
-                {
-                 "gid":6242,
-                 "height":8,
-                 "id":779,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":96,
-                 "y":240
-                }, 
-                {
-                 "gid":6242,
-                 "height":8,
-                 "id":781,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":376,
-                 "y":240
-                }, 
-                {
-                 "gid":6242,
-                 "height":8,
-                 "id":782,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":72,
-                 "y":296
-                }, 
-                {
-                 "gid":6242,
-                 "height":8,
-                 "id":783,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":400,
-                 "y":296
-                }, 
-                {
                  "gid":8933,
                  "height":24,
                  "id":784,
@@ -632,18 +532,6 @@
                  "width":32,
                  "x":192,
                  "y":312
-                }, 
-                {
-                 "gid":8912,
-                 "height":16,
-                 "id":785,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":40,
-                 "x":120,
-                 "y":120
                 }, 
                 {
                  "gid":8936,
@@ -680,26 +568,6 @@
                  "width":16,
                  "x":304,
                  "y":336
-                }, 
-                {
-                 "gid":6242,
-                 "height":8,
-                 "id":796,
-                 "name":"",
-                 "properties":
-                    {
-                     "parameters":"{ \"defaultLightState\" : false }"
-                    },
-                 "propertytypes":
-                    {
-                     "parameters":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":440,
-                 "y":128
                 }, 
                 {
                  "gid":8862,
@@ -1064,6 +932,114 @@
                  "width":16,
                  "x":264,
                  "y":288
+                }, 
+                {
+                 "gid":9003,
+                 "height":8,
+                 "id":853,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":400,
+                 "y":296
+                }, 
+                {
+                 "gid":9003,
+                 "height":8,
+                 "id":854,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":72,
+                 "y":296
+                }, 
+                {
+                 "gid":9003,
+                 "height":8,
+                 "id":855,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":96,
+                 "y":240
+                }, 
+                {
+                 "gid":9003,
+                 "height":8,
+                 "id":856,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":96,
+                 "y":112
+                }, 
+                {
+                 "gid":9003,
+                 "height":8,
+                 "id":857,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":440,
+                 "y":128
+                }, 
+                {
+                 "gid":9003,
+                 "height":8,
+                 "id":858,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":376,
+                 "y":240
+                }, 
+                {
+                 "gid":9026,
+                 "height":16,
+                 "id":859,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":128,
+                 "y":120
+                }, 
+                {
+                 "gid":8943,
+                 "height":24,
+                 "id":860,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":34,
+                 "x":248,
+                 "y":320
+                }, 
+                {
+                 "gid":9005,
+                 "height":8,
+                 "id":861,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":296,
+                 "y":336
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1501,7 +1477,7 @@
          "y":0
         }],
  "nextlayerid":11,
- "nextobjectid":853,
+ "nextobjectid":862,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.2.2",
@@ -1650,6 +1626,10 @@
         {
          "firstgid":8899,
          "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectorateobjects\/iwrmp_protectorateobjects.json"
+        }, 
+        {
+         "firstgid":9015,
+         "source":"..\/..\/..\/tilesets\/objects\/iwrmp_protectoratecolonyobjects\/iwrmp_protectoratecolonyobjects.json"
         }],
  "tilewidth":8,
  "type":"map",
