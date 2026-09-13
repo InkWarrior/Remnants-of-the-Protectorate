@@ -1,0 +1,42 @@
+{
+  "objectName" : "iwrmp_prtcterrarium3",
+  "colonyTags" : ["protectorate","pretty"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 100,
+  "description" : "A terrarium. Contains a small colorful ecosystem.",
+  "shortdescription" : "Colorful Terrarium",
+  "race" : "protectorate",
+
+  "apexDescription" : "A terrarium. Looks like a lot of work.",
+  "avianDescription" : "A small ecosystem inside this box.",
+  "floranDescription" : "A place for small Floransss, if they exist.",
+  "glitchDescription" : "Fascinated. Mantaining a small ecosystem seems like a lot of work.",
+  "humanDescription" : "I always wanted a terrarium, but they are a lot of work.",
+  "hylotlDescription" : "Making a terrarium is an art close to bonsai trees.",
+  "novakidDescription" : "Some plants and dirt inside a jar.",
+
+
+  "inventoryIcon" : "icon3.png",
+  "orientations" : [
+    {
+      "image" : "prtcterrarium3.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcterrarium3.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcterrarium1" ]
+}

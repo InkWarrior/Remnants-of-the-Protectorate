@@ -121,7 +121,15 @@
         {"weight" : 0.25, "item" : "iwrmp_prtcholobiosphere"},
         {"weight" : 0.25, "item" : "iwrmp_prtcantenna"},
         {"weight" : 0.25, "item" : "iwrmp_prtcradardish"},
-        {"weight" : 0.25, "item" : "iwrmp_prtctestchamber"}
+        {"weight" : 0.25, "item" : "iwrmp_prtctestchamber"},
+        {"weight" : 0.01, "item" : "iwrmp_protectorfigure"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcgenerator"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcposter1"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcposter2"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcposter3"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcterrarium1"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcterrarium2"},
+        {"weight" : 0.25, "item" : "iwrmp_prtcterrarium3"}
       ]
     }]
   ],

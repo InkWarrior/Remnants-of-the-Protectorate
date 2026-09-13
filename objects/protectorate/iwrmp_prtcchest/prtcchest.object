@@ -1,0 +1,41 @@
+{
+  "objectName" : "iwrmp_prtcchest",
+  "colonyTags" : ["protectorate","mechanical"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 65,
+  "description" : "A simple mechanical chest.",
+  "shortdescription" : "Voyager Chest",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "What's inside?",
+  "avianDescription" : "This chest looks strong.",
+  "floranDescription" : "Let'ss get chesst open! Maybe food insside.",
+  "glitchDescription" : "Eager. No time to waste, open it up!",
+  "humanDescription" : "A chest is always a welcome sight.",
+  "hylotlDescription" : "Presents are most exciting when they're still wrapped.",
+  "novakidDescription" : "A chest. Wonder what's inside...",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "prtcchest.png:<color>.<key>",
+      "imagePosition" : [-8, 0],
+
+      "spaces" : [ [-1, 0], [0, 0], [1, 0], [-1, 1], [0, 1], [1, 1], [-1, 2], [0, 2], [1, 2] ],
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/miningchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/miningchest_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 32,
+  "autoCloseCooldown" : 3600,
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcchest" ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "iwrmp_autumnbulbop",
+  "category" : "iwrmp_autumnbulbop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "autumnbulbop.png"
+  }
+}

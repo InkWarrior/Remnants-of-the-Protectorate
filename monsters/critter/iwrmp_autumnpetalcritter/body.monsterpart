@@ -1,0 +1,9 @@
+{
+  "name" : "iwrmp_autumnpetalcritter",
+  "category" : "iwrmp_autumnpetalcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

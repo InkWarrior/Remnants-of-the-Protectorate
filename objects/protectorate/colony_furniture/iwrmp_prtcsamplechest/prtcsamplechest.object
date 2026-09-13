@@ -1,0 +1,57 @@
+{
+  "objectName" : "iwrmp_prtcsamplechest",
+  "colonyTags" : ["prtc_chemist","protectorate","science","storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "category" : "storage",
+  "price" : 70,
+  "description" : "Ideal for storing samples while working at a lab.",
+  "shortdescription" : "Lab Sample Chest",
+  "race" : "protectorate",
+  "health" : 1.5,
+
+  "apexDescription" : "A sample chest. What kind of samples are inside?",
+  "avianDescription" : "Looks strong, wouldn't expect any less of a sample chest.",
+  "floranDescription" : "Let'ss get chesst open! Maybe food insside.",
+  "glitchDescription" : "Curious. There should be many kind of samples inside!",
+  "humanDescription" : "A sample chest! Very handy for a lab.",
+  "hylotlDescription" : "An ideal addition for a laboratory.",
+  "novakidDescription" : "Wonder what's inside...",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcsamplechest.png:<color>.<key>" }, { "image" : "prtcsamplechestlit.png:<color>.<key>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.3,
+
+      "spaces" : [ [-1, 0], [0, 0], [1, 0], [-1, 1], [0, 1], [1, 1], [-1, 2], [0, 2], [1, 2] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcsamplechest.png:<color>.<key>" }, { "image" : "prtcsamplechestlit.png:<color>.<key>", "fullbright" : true } ],
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.3,
+
+      "spaces" : [ [-1, 0], [0, 0], [1, 0], [-1, 1], [0, 1], [1, 1], [-1, 2], [0, 2], [1, 2] ],
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/locker_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/locker_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 32,
+  "autoCloseCooldown" : 3600,
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcsamplechest" ]
+}

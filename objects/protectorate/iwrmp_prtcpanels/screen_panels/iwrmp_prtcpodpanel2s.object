@@ -8,7 +8,7 @@
   "shortdescription" : "Blue Pod Config Screen",
   "race" : "protectorate",
 
-  "lightColor" : [0, 75, 227],
+  "lightColor" : [16, 37, 77],
 
   "apexDescription" : "It's a screen panel.",
   "avianDescription" : "A screen panel, it appears to control something.",
@@ -22,29 +22,40 @@
   "inventoryIcon" : "icon4.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "prtcpodpanel2s.png:<color>.<frame>" }, { "image" : "fullbright3.png:<color>.<frame>", "fullbright" : true } ],
+      "image" : "prtcpodpanel2s.png:<color>.on",
+      "imagePosition" : [0, 0],
+
       "flipImages" : true,
       "direction" : "left",
       "lightPosition" : [0, 0],
-
-      "imagePosition" : [0, 0],
-      "frames" : 3,
-      "animationCycle" : 1.0,
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
     },
     {
-      "imageLayers" : [ { "image" : "prtcpodpanel2s.png:<color>.<key>" }, { "image" : "fullbright3.png:<color>.<frame>", "fullbright" : true } ],
+      "image" : "prtcpodpanel2s.png:<color>.on",
+      "imagePosition" : [0, 0],
+
       "direction" : "right",
       "lightPosition" : [0, 0],
-
-      "imagePosition" : [0, 0],
-      "frames" : 3,
-      "animationCycle" : 1.0,
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
     }
-  ]
+  ],
+
+  "animation" : "iwrmp_screenpanel.animation",
+  "animationParts" : {
+    "bg" : "prtcpodpanel2s.png",
+    "fg" : "fullbright3.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+
 }

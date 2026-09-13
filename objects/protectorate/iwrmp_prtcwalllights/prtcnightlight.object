@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcnightlight",
+  "colonyTags" : ["protectorate","light"],
+  "rarity" : "Common",
+  "category" : "light",
+  "price" : 25,
+  "description" : "A wall light suited for the outside of buildings.",
+  "shortdescription" : "Night Wall Light",
+  "race" : "protectorate",
+
+  "lightColor" : [223, 92, 53],
+
+  "apexDescription" : "A functional wall light.",
+  "avianDescription" : "It's a wall light.",
+  "floranDescription" : "Shiny light!",
+  "glitchDescription" : "Impressed. This wall mounted light is effective and inobtrusive.",
+  "humanDescription" : "A night wall light.",
+  "hylotlDescription" : "A wall light. It is functional and pleasant.",
+  "novakidDescription" : "This light's okay, but it ain't as bright as me!",
+
+  "inventoryIcon" : "icon2.png",
+  "orientations" : [
+    {
+      "image" : "prtcnightlight.png:<color>.<frame>",
+      "imagePosition" : [-0, 0],
+      "animationPosition" : [0, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "animation" : "/objects/wired/light/lighttogglefgfullbright.animation",
+  "animationParts" : {
+    "bg" : "prtcnightlight.png",
+    "fg" : "prtcnightlightlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcnightlight" ]
+}

@@ -1,0 +1,52 @@
+{
+  "objectName" : "iwrmp_prtcnightlightbroken",
+  "colonyTags" : ["protectorate","light"],
+  "rarity" : "Common",
+  "category" : "light",
+  "price" : 45,
+  "description" : "A wall light suited for the outside of buildings.",
+  "shortdescription" : "Broken Night Wall Light",
+  "race" : "protectorate",
+
+  "lightColor" : [223, 92, 53],
+  "flickerPeriod" : 0.01,
+  "flickerMinIntensity" : 0.25,
+  "flickerMaxIntensity" : 0.75,
+  "flickerPeriodVariance" : 0.8,
+  "flickerIntensityVariance" : 0.25,
+
+  "apexDescription" : "This light isn't getting enough power.",
+  "avianDescription" : "A flickering light.",
+  "floranDescription" : "Broken light makesss Floran dizzy.",
+  "glitchDescription" : "Concerned. This light is malfunctioning.",
+  "humanDescription" : "This light's on the blink.",
+  "hylotlDescription" : "An underpowered light.",
+  "novakidDescription" : "This light ain't gettin' enough power.",
+
+  "inventoryIcon" : "icon2broken.png",
+  "orientations" : [
+    {
+      "image" : "prtcnightlight.png:<color>.<frame>",
+      "imagePosition" : [-0, 0],
+      "animationCycle" : 0.5,
+      
+      "lightPosition" : [-1, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "prtcnightlight.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

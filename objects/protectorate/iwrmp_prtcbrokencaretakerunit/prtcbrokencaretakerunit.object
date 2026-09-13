@@ -1,0 +1,46 @@
+{
+  "objectName" : "iwrmp_prtcbrokencaretakerunit",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Rare",
+  "category" : "breakable",
+  "price" : 85,
+  "description" : "A Caretaker drone. Looks worn out.",
+  "shortdescription" : "Broken Caretaker Unit",
+  "race" : "protectorate",
+
+  "apexDescription" : "This Caretaker bot has seen better days.",
+  "avianDescription" : "It no longer flies.",
+  "floranDescription" : "Flying robot not flying.",
+  "glitchDescription" : "Moved. I feel some compassion for this machine.",
+  "humanDescription" : "I should get a battery for it.",
+  "hylotlDescription" : "This machine probably fell doing what it knew to do.",
+  "novakidDescription" : "A lil' bot, no longer alive.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcbrokencaretakerunit.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcbrokencaretakerunit.png:<color>",
+      "imagePosition" : [0, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ],
+
+  "smashable" : true,
+  "smashSounds" : [ "/sfx/melee/bouquet_hit_robotic.ogg" ],
+  "smashParticles" : [ { "count" : 6, "particle" : "iwrmp_orangeshard" }, { "count" : 4, "particle" : "iwrmp_blueshard" } ],
+  "smashDropPool" : "iwrmp_brokencaretakerunit",
+  "breakDropPool" : "iwrmp_brokencaretakerunit"
+}

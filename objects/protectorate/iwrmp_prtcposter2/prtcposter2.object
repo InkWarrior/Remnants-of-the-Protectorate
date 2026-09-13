@@ -1,0 +1,34 @@
+{
+  "objectName" : "iwrmp_prtcposter2",
+  "colonyTags" : ["protectorate","pretty"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "description" : "A publicity poster for the Astraeus Program, inviting people to join them.",
+  "shortdescription" : "Astraeus Program Poster",
+  "race" : "human",
+
+  "apexDescription" : "Well, I don't need to be an envoy to explore the stars right now.",
+  "avianDescription" : "I can only wonder about how it is to be out for years exploring planets and stars.",
+  "floranDescription" : "Floran likesss to explore planets, no need to be Envoy.",
+  "glitchDescription" : "Attentive. This poster is inviting me to join the Astraeus Program.",
+  "humanDescription" : "I suppose is a bit too late to join them now, isn't it?",
+  "hylotlDescription" : "It's not too late to join them, they are still out there.",
+  "novakidDescription" : "No need to be an Envoy to be free, partner.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcposter2.png:<color>",
+      "imagePosition" : [-8, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcposter2" ]
+}

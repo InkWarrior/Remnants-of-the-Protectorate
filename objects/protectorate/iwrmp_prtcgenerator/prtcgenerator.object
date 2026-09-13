@@ -1,0 +1,53 @@
+{
+  "objectName" : "iwrmp_prtcgenerator",
+  "colonyTags" : ["protectorate","mechanical"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 200,
+  "description" : "A power generator used in Protectorate buildings.",
+  "shortdescription" : "Remodeled Power Generator",
+  "race" : "protectorate",
+
+  "lightColor" : [16, 23, 26],
+
+  "apexDescription" : "A power generator, remodeled for the Protectorate.",
+  "avianDescription" : "It's a Protectorate power generator.",
+  "floranDescription" : "This makess power.",
+  "glitchDescription" : "Cheery. This generates enough power for everybody.",
+  "humanDescription" : "A Protectorate generator. Hope there's a back-up one too.",
+  "hylotlDescription" : "A Protectorate-branded power generator.",
+  "novakidDescription" : "This thing generates power.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "prtcgenerator.png:<color>.<frame>" }, { "image" : "prtcgeneratorlit.png:<color>.<frame>", "fullbright" : true } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [2, 2],
+      "imagePosition" : [-24, 0],
+      "frames" : 3,
+      "animationCycle" : 0.2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "imageLayers" : [ { "image" : "prtcgenerator.png:<color>.<frame>" }, { "image" : "prtcgeneratorlit.png:<color>.<frame>", "fullbright" : true } ],
+      "direction" : "right",
+      "lightPosition" : [-2, 2],
+      "imagePosition" : [-24, 0],
+      "frames" : 3,
+      "animationCycle" : 0.2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcgenerator" ],
+
+  "soundEffect" : "/sfx/objects/bunkervent.ogg"
+}

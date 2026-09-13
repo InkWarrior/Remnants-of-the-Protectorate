@@ -1,0 +1,34 @@
+{
+  "objectName" : "iwrmp_prtcposter3",
+  "colonyTags" : ["protectorate","pretty"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 35,
+  "description" : "A colorful poster of a Geode.",
+  "shortdescription" : "\"Geode Art\" Poster",
+  "race" : "human",
+
+  "apexDescription" : "Simple and pretty, feels like I have seen this style before.",
+  "avianDescription" : "Geodes are enigmatic critters, how do they float?",
+  "floranDescription" : "Possster reminds Floran can't eat geodess.",
+  "glitchDescription" : "Observant. A simple pop art poster.",
+  "humanDescription" : "A fun poster of a Geode.",
+  "hylotlDescription" : "This style is not really that amazing.",
+  "novakidDescription" : "Might as well hang this on my wall.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcposter3.png:<color>",
+      "imagePosition" : [-8, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcposter3" ]
+}

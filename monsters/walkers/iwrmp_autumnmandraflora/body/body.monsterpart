@@ -1,0 +1,9 @@
+{
+  "name" : "iwrmp_autumnmandraflora",
+  "category" : "iwrmp_autumnmandraflora",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "autumnmandraflora.png"
+  }
+}

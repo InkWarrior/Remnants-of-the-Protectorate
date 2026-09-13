@@ -25,7 +25,7 @@
       "direction" : "left",
       "flipImages" : true,
 
-      "spaces" : [ [0, 0], [0, 1] ],
+      "spaceScan" : 0.1,
       "anchors" : ["bottom"]
     },
     {

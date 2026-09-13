@@ -1,0 +1,34 @@
+{
+  "objectName" : "iwrmp_prtcposter1",
+  "colonyTags" : ["protectorate","pretty"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "description" : "A retrowave-like poster of a ship sailing to space at sunset.",
+  "shortdescription" : "\"Sunset Launch\" Poster",
+  "race" : "human",
+
+  "apexDescription" : "The particular aesthetic of this poster is pleasant.",
+  "avianDescription" : "This represents a ship launch in a very exciting way.",
+  "floranDescription" : "Floran likess poster. Colorful!",
+  "glitchDescription" : "Delighted. My light receptors feel gratified by seeing this poster.",
+  "humanDescription" : "The good neon aesthetic, never gets old.",
+  "hylotlDescription" : "I've seen far more artistic aesthetics in posters, but this one is not bad.",
+  "novakidDescription" : "Ridin' a ship at sunset is what I live for.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcposter1.png:<color>",
+      "imagePosition" : [-8, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcposter1" ]
+}

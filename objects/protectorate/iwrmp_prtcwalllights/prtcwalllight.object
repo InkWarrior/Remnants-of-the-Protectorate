@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcwalllight",
+  "colonyTags" : ["protectorate","light"],
+  "rarity" : "Common",
+  "category" : "light",
+  "price" : 25,
+  "description" : "A wall light used by the Protectorate.",
+  "shortdescription" : "Remodeled Wall Light",
+  "race" : "protectorate",
+
+  "lightColor" : [218, 198, 125],
+
+  "apexDescription" : "A functional wall light.",
+  "avianDescription" : "It's a wall light.",
+  "floranDescription" : "Shiny light!",
+  "glitchDescription" : "Impressed. This wall mounted light is effective.",
+  "humanDescription" : "A pretty standard wall light.",
+  "hylotlDescription" : "A wall light. It is functional and pleasant.",
+  "novakidDescription" : "This light's okay, but it ain't as bright as me!",
+
+  "inventoryIcon" : "icon1.png",
+  "orientations" : [
+    {
+      "image" : "prtcwalllight.png:<color>.<frame>",
+      "imagePosition" : [-0, 0],
+      "animationPosition" : [0, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "animation" : "/objects/wired/light/lighttogglefgfullbright.animation",
+  "animationParts" : {
+    "bg" : "prtcwalllight.png",
+    "fg" : "prtcwalllightlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcwalllight" ]
+}

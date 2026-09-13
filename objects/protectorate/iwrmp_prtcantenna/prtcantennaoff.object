@@ -1,0 +1,48 @@
+{
+  "objectName" : "iwrmp_prtcantennaoff",
+  "colonyTags" : ["protectorate","electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 105,
+  "description" : "An antenna, ideal for receiving data from far away. Currently off.",
+  "shortdescription" : "Protectorate Antenna",
+  "race" : "protectorate",
+
+  "apexDescription" : "A large stationary antenna.",
+  "avianDescription" : "Seems to be an antenna.",
+  "floranDescription" : "Floran likess antenna.",
+  "glitchDescription" : "Distressed. This antenna is tampering with my sensors.",
+  "humanDescription" : "I can see a dozen TV channels with this.",
+  "hylotlDescription" : "Better than a portable antenna.",
+  "novakidDescription" : "An stationary antenna.",
+
+
+  "inventoryIcon" : "iconoff.png",
+  "orientations" : [
+    {
+      "image" : "prtcantennaoff.png:<color>",
+      "flipImages" : true,
+      "direction" : "left",
+	  
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "prtcantennaoff.png:<color>",
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcantennaoff" ]
+}

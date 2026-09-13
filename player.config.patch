@@ -1,14 +1,14 @@
 [
 
 //MISC
-{
+    {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
             "item": "iwrmp_recipecache"
         }
     },
-        {
+    {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
@@ -70,7 +70,7 @@
     },
 
 //CLOTHES
-
+//Chemist Set
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -93,7 +93,7 @@
         }
     },
 
-
+//Engineer Set
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -116,7 +116,7 @@
         }
     },
 
-
+//Janitor Set
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -139,7 +139,7 @@
         }
     },
 
-
+//Mechanic Set
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -162,7 +162,7 @@
         }
     },
 
-
+//Medic Set
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -185,7 +185,7 @@
         }
     },
 
-
+//Tailor Set
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -208,7 +208,7 @@
         }
     },
 
-
+//Rearguard Set
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -232,7 +232,7 @@
     },
 
 //OBJECTS
-
+//Vanguard furniture
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -296,6 +296,36 @@
             "item": "iwrmp_prtcpottedplant"
         }
     },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcchest"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcstafflocker"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcmediclocker"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcservicelocker"
+        }
+    },
+
+//Colony objects
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -364,6 +394,13 @@
         "path": "/defaultBlueprints/tier1/-",
         "value": {
             "item": "iwrmp_prtclabequipment"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwrmp_prtcsamplechest"
         }
     },
     {

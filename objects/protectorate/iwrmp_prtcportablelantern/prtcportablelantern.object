@@ -1,0 +1,49 @@
+{
+  "objectName" : "iwrmp_prtcportablelantern",
+  "colonyTags" : ["protectorate","prtc_envoy","light"],
+  "rarity" : "Common",
+  "category" : "light",
+  "price" : 45,
+  "description" : "A portable lantern used by the Astraeus Mission.",
+  "shortdescription" : "Envoy Lantern Pod",
+  "race" : "protectorate",
+
+  "lightColor" : [223, 92, 53],
+
+  "apexDescription" : "Seems to be designed to be as unobtrusive as posible at night.",
+  "avianDescription" : "I appreciate the red light from this lantern.",
+  "floranDescription" : "Floran feelsss fine with red light.",
+  "glitchDescription" : "Observant. This light is gentle enough for my light receptors.",
+  "humanDescription" : "Light enought to be stored in your pocket! Only if it's a big pocket.",
+  "hylotlDescription" : "Designed to be friendly on the wilderness at night.",
+  "novakidDescription" : "An red light.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcportablelantern.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglefgfullbright.animation",
+  "animationParts" : {
+    "bg" : "prtcportablelantern.png",
+    "fg" : "prtcportablelanternlit.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcportablelantern" ]
+}

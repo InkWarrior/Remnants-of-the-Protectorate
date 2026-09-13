@@ -7,7 +7,7 @@
   "price" : 45,
   "description" : "A light commonly used in structure interiors by the Protectorate.",
   "shortdescription" : "Protectorate Light",
-  "race" : "apex",
+  "race" : "protectorate",
 
   "apexDescription" : "These lights are commonly used by the Protectorate.",
   "avianDescription" : "A cozy light.",

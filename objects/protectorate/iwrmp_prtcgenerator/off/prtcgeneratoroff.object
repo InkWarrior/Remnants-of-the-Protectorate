@@ -1,0 +1,42 @@
+{
+  "objectName" : "iwrmp_prtcgeneratoroff",
+  "colonyTags" : ["protectorate","mechanical"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 200,
+  "description" : "A power generator used in Protectorate buildings. Currently off.",
+  "shortdescription" : "Remodeled Power Generator",
+  "race" : "protectorate",
+
+  "apexDescription" : "A power generator, remodeled for the Protectorate.",
+  "avianDescription" : "It's a Protectorate power generator.",
+  "floranDescription" : "This makess power.",
+  "glitchDescription" : "Cheery. This generates enough power for everybody.",
+  "humanDescription" : "A Protectorate generator. Hope there's a back-up one too.",
+  "hylotlDescription" : "A Protectorate-branded power generator.",
+  "novakidDescription" : "This thing generates power.",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "prtcgeneratoroff.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "prtcgeneratoroff.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ],
+
+  "learnBlueprintsOnPickup" : [ "iwrmp_prtcgeneratoroff" ]
+}

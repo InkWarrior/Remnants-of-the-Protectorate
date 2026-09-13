@@ -233,6 +233,8 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtccratelarge-recipe", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccratesmall-recipe", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcpottedplant-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcnightlight-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcwalllight-recipe", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcshiplight-recipe", 1]}
       ]
     } ],
@@ -262,6 +264,8 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtcstafflocker-recipe", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcmediclocker-recipe", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcservicelocker-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcnightlight-recipe", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcwalllight-recipe", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcshiplight-recipe", 1]}
       ]
     } ]

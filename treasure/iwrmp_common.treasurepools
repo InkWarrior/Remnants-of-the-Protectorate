@@ -150,6 +150,7 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtcshelf", 2]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcbookcase", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccabinet", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcchest", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccaptainbed", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccratelarge", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtccratesmall", 1]},
@@ -163,6 +164,8 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtcservicelocker", 1]},
         {"weight" : 0.25, "item" : ["redlight", 3]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcshiplight", 3]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcnightlight", 6]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcwalllight", 6]},
         {"weight" : 0.25, "item" : ["mysteriouslight", 5]}
       ],
       "poolRounds" : [
@@ -212,7 +215,14 @@
         {"weight" : 0.25, "item" : ["iwrmp_prtcholobiosphere", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcantenna", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcradardish", 1]},
-        {"weight" : 0.25, "item" : ["iwrmp_prtctestchamber", 1]}
+        {"weight" : 0.25, "item" : ["iwrmp_prtctestchamber", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcgenerator", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcposter1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcposter2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcposter3", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcterrarium1", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcterrarium2", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcterrarium3", 1]}
       ],
       "poolRounds" : [
         [0.95, 4],
@@ -285,6 +295,7 @@
       "pool" : [
         {"weight" : 0.25, "item" : ["iwrmp_prtcportableantenna", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcportablebattery", 1]},
+        {"weight" : 0.25, "item" : ["iwrmp_prtcportablelantern", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtctent", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool1", 1]},
         {"weight" : 0.25, "item" : ["iwrmp_prtcresearchtool2", 1]},
