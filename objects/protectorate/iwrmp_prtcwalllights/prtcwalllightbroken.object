@@ -4,7 +4,7 @@
   "rarity" : "Common",
   "category" : "light",
   "price" : 45,
-  "description" : "A wall light used by the Protectorate.",
+  "description" : "A wall light used by the Protectorate. Seems damaged.",
   "shortdescription" : "Broken Remodeled Wall Light",
   "race" : "protectorate",
 
@@ -19,7 +19,7 @@
   "avianDescription" : "A flickering light.",
   "floranDescription" : "Broken light makesss Floran dizzy.",
   "glitchDescription" : "Concerned. This light is malfunctioning.",
-  "humanDescription" : "This light's on the blink.",
+  "humanDescription" : "This light's all blinking.",
   "hylotlDescription" : "An underpowered light.",
   "novakidDescription" : "This light ain't gettin' enough power.",
 
