@@ -8,7 +8,7 @@
  "margin":0,
  "name":"iwrmp_protectoratebiosphereobjects",
  "spacing":0,
- "tilecount":40,
+ "tilecount":42,
  "tiledversion":"1.2.2",
  "tileheight":24,
  "tileproperties":
@@ -361,6 +361,26 @@
          "imagePositionX":"-16",
          "imagePositionY":"-8",
          "object":"iwrmp_prtccritterposter5",
+         "tilesetDirection":"right"
+        },
+     "40":
+        {
+         "\/\/description":"A Caretaker drone. Looks worn out.",
+         "\/\/name":"iwrmp_prtcbrokencaretakerunit",
+         "\/\/shortdescription":"Broken Caretaker Unit",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcbrokencaretakerunit",
+         "tilesetDirection":"right"
+        },
+     "41":
+        {
+         "\/\/description":"A Gardener bot. Looks worn out.",
+         "\/\/name":"iwrmp_prtcbrokengardenerunit",
+         "\/\/shortdescription":"Broken Gardener Unit",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcbrokengardenerunit",
          "tilesetDirection":"right"
         },
      "5":
@@ -766,6 +786,26 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "40":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "41":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "5":
         {
          "\/\/description":"string",
@@ -1027,6 +1067,18 @@
         {
          "image":"prtccritterposter5.png",
          "imageheight":16,
+         "imagewidth":24
+        },
+     "40":
+        {
+         "image":"prtcbrokencaretakerunit.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "41":
+        {
+         "image":"prtcbrokengardenerunit.png",
+         "imageheight":24,
          "imagewidth":24
         },
      "5":

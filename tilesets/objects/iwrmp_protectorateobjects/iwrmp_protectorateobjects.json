@@ -8,7 +8,7 @@
  "margin":0,
  "name":"iwrmp_protectorateobjects",
  "spacing":0,
- "tilecount":96,
+ "tilecount":116,
  "tiledversion":"1.2.2",
  "tileheight":64,
  "tileproperties":
@@ -43,6 +43,106 @@
          "object":"iwrmp_prtcenvoystuff2",
          "tilesetDirection":"right"
         },
+     "100":
+        {
+         "\/\/description":"A bunch of stuff collected by the people over time.",
+         "\/\/name":"iwrmp_prtcenvoystuff4",
+         "\/\/shortdescription":"Bunch of Belongings",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcenvoystuff4",
+         "tilesetDirection":"right"
+        },
+     "101":
+        {
+         "\/\/description":"A power generator used in Protectorate buildings.",
+         "\/\/name":"iwrmp_prtcgenerator",
+         "\/\/shortdescription":"Remodeled Power Generator",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcgenerator",
+         "tilesetDirection":"right"
+        },
+     "102":
+        {
+         "\/\/description":"A power generator used in Protectorate buildings. Currently off.",
+         "\/\/name":"iwrmp_prtcgeneratoroff",
+         "\/\/shortdescription":"Remodeled Power Generator",
+         "imagePositionX":"-24",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcgeneratoroff",
+         "tilesetDirection":"right"
+        },
+     "103":
+        {
+         "\/\/description":"A wall-mounted medic light.",
+         "\/\/name":"iwrmp_prtcmediclightbroken",
+         "\/\/shortdescription":"Broken Medic Light",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcmediclightbroken",
+         "tilesetDirection":"right"
+        },
+     "104":
+        {
+         "\/\/description":"A wall light suited for the outside of buildings.",
+         "\/\/name":"iwrmp_prtcnightlight",
+         "\/\/shortdescription":"Night Wall Light",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcnightlight",
+         "tilesetDirection":"right"
+        },
+     "105":
+        {
+         "\/\/description":"A wall light suited for the outside of buildings.",
+         "\/\/name":"iwrmp_prtcnightlightbroken",
+         "\/\/shortdescription":"Broken Night Wall Light",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcnightlightbroken",
+         "tilesetDirection":"right"
+        },
+     "106":
+        {
+         "\/\/description":"A portable lantern used by the Astraeus Mission.",
+         "\/\/name":"iwrmp_prtcportablelantern",
+         "\/\/shortdescription":"Envoy Lantern Pod",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcportablelantern",
+         "tilesetDirection":"right"
+        },
+     "107":
+        {
+         "\/\/description":"A retrowave-like poster of a ship sailing to space at sunset.",
+         "\/\/name":"iwrmp_prtcposter1",
+         "\/\/shortdescription":"\"Sunset Launch\" Poster",
+         "imagePositionX":"-8",
+         "imagePositionY":"-16",
+         "object":"iwrmp_prtcposter1",
+         "tilesetDirection":"right"
+        },
+     "108":
+        {
+         "\/\/description":"A publicity poster for the Astraeus Program, inviting people to join them.",
+         "\/\/name":"iwrmp_prtcposter2",
+         "\/\/shortdescription":"Astraeus Program Poster",
+         "imagePositionX":"-8",
+         "imagePositionY":"-16",
+         "object":"iwrmp_prtcposter2",
+         "tilesetDirection":"right"
+        },
+     "109":
+        {
+         "\/\/description":"A colorful poster of a Geode.",
+         "\/\/name":"iwrmp_prtcposter3",
+         "\/\/shortdescription":"\"Geode Art\" Poster",
+         "imagePositionX":"-8",
+         "imagePositionY":"-8",
+         "object":"iwrmp_prtcposter3",
+         "tilesetDirection":"right"
+        },
      "11":
         {
          "\/\/description":"A console with a hologram projector, to add to that sci-fi feel on your ship.",
@@ -51,6 +151,66 @@
          "imagePositionX":"-16",
          "imagePositionY":"0",
          "object":"iwrmp_prtcholoconsole",
+         "tilesetDirection":"right"
+        },
+     "110":
+        {
+         "\/\/description":"A light commonly used on interiors by the Protectorate.",
+         "\/\/name":"iwrmp_prtcshiplightbroken",
+         "\/\/shortdescription":"Broken Protectorate Light",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcshiplightbroken",
+         "tilesetDirection":"right"
+        },
+     "111":
+        {
+         "\/\/description":"A terrarium. Contains a small mossy ecosystem.",
+         "\/\/name":"iwrmp_prtcterrarium1",
+         "\/\/shortdescription":"Mossy Terrarium",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcterrarium1",
+         "tilesetDirection":"right"
+        },
+     "112":
+        {
+         "\/\/description":"A terrarium. Contains a small alien ecosystem.",
+         "\/\/name":"iwrmp_prtcterrarium2",
+         "\/\/shortdescription":"Alien Terrarium",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcterrarium2",
+         "tilesetDirection":"right"
+        },
+     "113":
+        {
+         "\/\/description":"A terrarium. Contains a small colorful ecosystem.",
+         "\/\/name":"iwrmp_prtcterrarium3",
+         "\/\/shortdescription":"Colorful Terrarium",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcterrarium3",
+         "tilesetDirection":"right"
+        },
+     "114":
+        {
+         "\/\/description":"A wall light used by the Protectorate.",
+         "\/\/name":"iwrmp_prtcwalllight",
+         "\/\/shortdescription":"Remodeled Wall Light",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcwalllight",
+         "tilesetDirection":"right"
+        },
+     "115":
+        {
+         "\/\/description":"A wall light used by the Protectorate.",
+         "\/\/name":"iwrmp_prtcwalllightbroken",
+         "\/\/shortdescription":"Broken Remodeled Wall Light",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcwalllightbroken",
          "tilesetDirection":"right"
         },
      "12":
@@ -972,6 +1132,46 @@
          "imagePositionY":"0",
          "object":"iwrmp_prtctestchamber",
          "tilesetDirection":"right"
+        },
+     "96":
+        {
+         "\/\/description":"A large action figure of a Terrene Protector.",
+         "\/\/name":"iwrmp_protectorfigure",
+         "\/\/shortdescription":"Protector Action Figure",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_protectorfigure",
+         "tilesetDirection":"right"
+        },
+     "97":
+        {
+         "\/\/description":"An antenna, ideal for receiving data from far away. Currently off.",
+         "\/\/name":"iwrmp_prtcantennaoff",
+         "\/\/shortdescription":"Protectorate Antenna",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcantennaoff",
+         "tilesetDirection":"right"
+        },
+     "98":
+        {
+         "\/\/description":"A simple mechanical chest.",
+         "\/\/name":"iwrmp_prtcchest",
+         "\/\/shortdescription":"Voyager Chest",
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcchest",
+         "tilesetDirection":"right"
+        },
+     "99":
+        {
+         "\/\/description":"A bunch of stuff collected by the people over time.",
+         "\/\/name":"iwrmp_prtcenvoystuff3",
+         "\/\/shortdescription":"Bunch of Belongings",
+         "imagePositionX":"0",
+         "imagePositionY":"0",
+         "object":"iwrmp_prtcenvoystuff3",
+         "tilesetDirection":"right"
         }
     },
  "tilepropertytypes":
@@ -1006,7 +1206,167 @@
          "object":"string",
          "tilesetDirection":"string"
         },
+     "100":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "101":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "102":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "103":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "104":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "105":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "106":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "107":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "108":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "109":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
      "11":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "110":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "111":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "112":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "113":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "114":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "115":
         {
          "\/\/description":"string",
          "\/\/name":"string",
@@ -1935,6 +2295,46 @@
          "imagePositionY":"string",
          "object":"string",
          "tilesetDirection":"string"
+        },
+     "96":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "97":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "98":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
+        },
+     "99":
+        {
+         "\/\/description":"string",
+         "\/\/name":"string",
+         "\/\/shortdescription":"string",
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string",
+         "tilesetDirection":"string"
         }
     },
  "tiles":
@@ -1957,11 +2357,107 @@
          "imageheight":17,
          "imagewidth":32
         },
+     "100":
+        {
+         "image":"prtcenvoystuff4.png",
+         "imageheight":17,
+         "imagewidth":32
+        },
+     "101":
+        {
+         "image":"prtcgenerator.png",
+         "imageheight":40,
+         "imagewidth":56
+        },
+     "102":
+        {
+         "image":"prtcgeneratoroff.png",
+         "imageheight":40,
+         "imagewidth":56
+        },
+     "103":
+        {
+         "image":"prtcmediclightbroken.png",
+         "imageheight":8,
+         "imagewidth":16
+        },
+     "104":
+        {
+         "image":"prtcnightlight.png",
+         "imageheight":8,
+         "imagewidth":8
+        },
+     "105":
+        {
+         "image":"prtcnightlightbroken.png",
+         "imageheight":8,
+         "imagewidth":8
+        },
+     "106":
+        {
+         "image":"prtcportablelantern.png",
+         "imageheight":8,
+         "imagewidth":8
+        },
+     "107":
+        {
+         "image":"prtcposter1.png",
+         "imageheight":24,
+         "imagewidth":24
+        },
+     "108":
+        {
+         "image":"prtcposter2.png",
+         "imageheight":24,
+         "imagewidth":40
+        },
+     "109":
+        {
+         "image":"prtcposter3.png",
+         "imageheight":16,
+         "imagewidth":16
+        },
      "11":
         {
          "image":"prtcholoconsole.png",
          "imageheight":16,
          "imagewidth":48
+        },
+     "110":
+        {
+         "image":"prtcshiplightbroken.png",
+         "imageheight":8,
+         "imagewidth":16
+        },
+     "111":
+        {
+         "image":"prtcterrarium1.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "112":
+        {
+         "image":"prtcterrarium2.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "113":
+        {
+         "image":"prtcterrarium3.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "114":
+        {
+         "image":"prtcwalllight.png",
+         "imageheight":8,
+         "imagewidth":8
+        },
+     "115":
+        {
+         "image":"prtcwalllightbroken.png",
+         "imageheight":8,
+         "imagewidth":8
         },
      "12":
         {
@@ -2513,6 +3009,30 @@
         {
          "image":"prtctestchamber.png",
          "imageheight":40,
+         "imagewidth":32
+        },
+     "96":
+        {
+         "image":"protectorfigure.png",
+         "imageheight":26,
+         "imagewidth":16
+        },
+     "97":
+        {
+         "image":"prtcantennaoff.png",
+         "imageheight":64,
+         "imagewidth":24
+        },
+     "98":
+        {
+         "image":"prtcchest.png",
+         "imageheight":16,
+         "imagewidth":24
+        },
+     "99":
+        {
+         "image":"prtcenvoystuff3.png",
+         "imageheight":17,
          "imagewidth":32
         }
     },
