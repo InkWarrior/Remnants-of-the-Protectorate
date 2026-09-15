@@ -4,7 +4,7 @@
   "rarity" : "Rare",
   "category" : "light",
   "price" : 65,
-  "description" : "A wall-mounted medic light.",
+  "description" : "A wall-mounted medic light. Seems to be damaged.",
   "shortdescription" : "Broken Medic Light",
   "race" : "protectorate",
 
@@ -19,7 +19,7 @@
   "avianDescription" : "A flickering light.",
   "floranDescription" : "Broken light makesss Floran dizzy.",
   "glitchDescription" : "Concerned. This light is malfunctioning.",
-  "humanDescription" : "This light's on the blink.",
+  "humanDescription" : "This light's all blinking.",
   "hylotlDescription" : "An underpowered light.",
   "novakidDescription" : "This light ain't gettin' enough power.",
 

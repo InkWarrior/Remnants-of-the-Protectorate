@@ -4,7 +4,7 @@
   "rarity" : "Common",
   "category" : "light",
   "price" : 45,
-  "description" : "A light commonly used in structure interiors by the Protectorate.",
+  "description" : "A light commonly used in structure interiors by the Protectorate. This one seems damaged.",
   "shortdescription" : "Broken Protectorate Light",
   "race" : "protectorate",
 
@@ -19,7 +19,7 @@
   "avianDescription" : "A flickering light.",
   "floranDescription" : "Broken light makesss Floran dizzy.",
   "glitchDescription" : "Concerned. This light is malfunctioning.",
-  "humanDescription" : "This light's on the blink.",
+  "humanDescription" : "This light's all blinking.",
   "hylotlDescription" : "An underpowered light.",
   "novakidDescription" : "This light ain't gettin' enough power.",
 

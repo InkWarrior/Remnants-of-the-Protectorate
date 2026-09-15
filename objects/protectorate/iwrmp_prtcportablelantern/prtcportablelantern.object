@@ -4,7 +4,7 @@
   "rarity" : "Common",
   "category" : "light",
   "price" : 45,
-  "description" : "A portable lantern used by the Astraeus Mission.",
+  "description" : "A portable lantern used by the Astraeus Program.",
   "shortdescription" : "Envoy Lantern Pod",
   "race" : "protectorate",
 
@@ -14,9 +14,9 @@
   "avianDescription" : "I appreciate the red light from this lantern.",
   "floranDescription" : "Floran feelsss fine with red light.",
   "glitchDescription" : "Observant. This light is gentle enough for my light receptors.",
-  "humanDescription" : "Light enought to be stored in your pocket! Only if it's a big pocket.",
-  "hylotlDescription" : "Designed to be friendly on the wilderness at night.",
-  "novakidDescription" : "An red light.",
+  "humanDescription" : "Light enought to be stored in your pocket! Only if it's a big pocket though.",
+  "hylotlDescription" : "Designed to be friendly to the wilderness at night.",
+  "novakidDescription" : "A red light.",
 
   "inventoryIcon" : "icon.png",
   "orientations" : [
