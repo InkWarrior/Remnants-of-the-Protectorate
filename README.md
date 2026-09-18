@@ -40,23 +40,8 @@ __MISC__
 
 __MONSTERS__
 - Complete Protectorate Turret.
-- Add Autumn Bulbop
-- Add Autumn Mandraflora
 
 __FURNITURE__
-- Add posters (x3)(WIP)
-- Make Protector action figure (WIP)
-- Make Terrariums (x3)(WIP)
-- Make more Envoy personal belongings (x2)(WIP)
-- Make Protectorate Generator (WIP)
-- Make Envoy Sample Crate (WIP)
-- Ruined Biosphere objects
-  - Inactive Antenna (WIP)
-  - Inactive Generator (WIP)
-  - Broken versions for all lights (WIP)
-  - Deactivated Gardener bot (WIP)
-  - Deactivated Caretaker drone (WIP)
-- Add objects for the main rooms of the Biospheres.
 - Autumnal Flowers habitat:
   - Autumnal Trees (x2)
   - Giant Flowers (Chrisanthemum x2, Aster x2, Celosia x2)
