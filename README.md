@@ -40,6 +40,8 @@ __MISC__
 
 __MONSTERS__
 - Complete Protectorate Turret.
+- Add vacuum cleaner critter.
+- Maybe unique pets?
 
 __FURNITURE__
 - Autumnal Flowers habitat:
