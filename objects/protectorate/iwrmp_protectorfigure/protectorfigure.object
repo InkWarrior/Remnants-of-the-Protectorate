@@ -4,17 +4,17 @@
   "rarity" : "Legendary",
   "category" : "decorative",
   "price" : 1000,
-  "description" : "A large action figure of a Terrene Protector.",
+  "description" : "A large action figure of a Protector.",
   "shortdescription" : "Protector Action Figure",
   "race" : "protectorate",
 
-  "apexDescription" : "This figure is a limited edition!",
-  "avianDescription" : "Many collectionists want this figure.",
+  "apexDescription" : "This figure is limited edition!",
+  "avianDescription" : "Many collectors want this figure.",
   "floranDescription" : "Floran wants Floran protector figure.",
-  "glitchDescription" : "Observant. This is a limited collector's figure of a Protector.",
+  "glitchDescription" : "Observant. This is a limited edition figure of a Protector.",
   "humanDescription" : "I know people who would pay more than 20k pixels for this!",
-  "hylotlDescription" : "At the time, there was only a thousand of these figures.",
-  "novakidDescription" : "Where's the novakid one? Whole galaxy waitin' for it.",
+  "hylotlDescription" : "At the time, there was only a thousand of these figures. I imagine there are even less now...",
+  "novakidDescription" : "Where's the Novakid one? The whole galaxy's waitin' for it.",
 
 
   "inventoryIcon" : "icon.png",
