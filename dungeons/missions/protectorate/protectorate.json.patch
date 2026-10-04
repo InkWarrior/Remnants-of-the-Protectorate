@@ -1,0 +1,30 @@
+[
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 1873,
+      "name": "",
+      "properties": {
+        "monster": "iwrmp_interiorbot",
+        "parameters": "{ \"persistent\" : true }"
+      },
+      "propertytypes": {
+        "monster": "string",
+        "parameters": "string"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1488,
+      "y": 1480
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/nextobjectid",
+    "value": 1874
+  }
+]
