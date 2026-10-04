@@ -34,14 +34,14 @@ __GENERAL:__
 __NPCS__
 - Add Researcher npcs for Biospheres
 - Add Protectorate Merchants (mostly to sell furniture).
-- Patch in a Interior Gardener Bot or few to the intro mission?
+- Patch in a Interior Gardener Bot or few to the intro mission (WIP)
 
 __MISC__
 
 __MONSTERS__
 - Complete Protectorate Turret.
-- Add vacuum cleaner critter.
-- Maybe unique pets?
+- Add a vacuum cleaner bot critter.
+- Add a damaged Gardener bot (exclusive for the Protectorate mission)
 
 __FURNITURE__
 - Autumnal Flowers habitat:
