@@ -33,6 +33,7 @@ __GENERAL:__
 
 __NPCS__
 - Add Researcher npcs for Biospheres
+- Add retired Envoy npcs (mainly for Biospheres, also for future Envoy Shelters)
 - Add Protectorate Merchants (mostly to sell furniture).
 - Patch in a Interior Gardener Bot or few to the intro mission (WIP)
 
@@ -42,6 +43,7 @@ __MONSTERS__
 - Complete Protectorate Turret.
 - Add a vacuum cleaner bot critter.
 - Add a damaged Gardener bot (exclusive for the Protectorate mission)
+- Add a Marine Probe
 
 __FURNITURE__
 - Autumnal Flowers habitat:
@@ -49,6 +51,10 @@ __FURNITURE__
   - Giant Flowers (Chrisanthemum x2, Aster x2, Celosia x2)
   - Heather Flowers (x??)
   - Bunch of Leaves
+- Underwater Floodlight
+- Protectorate Marine Scanner
+- Marine Probe unit
+- Unique Coral objects (x3?)
 
  
 __DUNGEONS__
