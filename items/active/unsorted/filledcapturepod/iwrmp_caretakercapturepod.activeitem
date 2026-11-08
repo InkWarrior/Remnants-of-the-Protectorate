@@ -3,7 +3,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "throwableItem",
-  "description" : "A Drone designed to care for and tend to unique enviroments.",
+  "description" : "A Drone designed to care for and tend to unique enviroments. Will also take care of hostiles too.",
   "shortdescription" : "Caretaker Drone",
   "tooltipKind" : "filledcapturepod",
   "twoHanded" : false,
