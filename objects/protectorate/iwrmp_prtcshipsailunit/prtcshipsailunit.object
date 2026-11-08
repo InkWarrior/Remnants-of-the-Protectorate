@@ -45,7 +45,7 @@
   "chatOptions" : [
     "^cyan;Take a look into our furniture catalogue!",
     "^cyan;Are you interested in Protectorate furniture? We can sell you stuff.",
-    "^cyan;You want to support the Protectorate? You can buy our stuff!",
+    "^cyan;Want to support the Protectorate? You can buy our stuff!",
     "^cyan;Help the Protectorate with your spare pixels!",
     "^cyan;We have furniture in stock, are you interested?"
   ]
